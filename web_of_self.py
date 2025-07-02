@@ -1,7 +1,7 @@
 import graphviz
 
 # Step 1: Define multi-language labels
-lang = 'zh'  # Change to 'en' for English
+lang = 'en'  # Change to 'en' for English
 
 labels = {
     'zh': {
@@ -13,10 +13,10 @@ labels = {
         'cluster_gender': '“性别认同”',
         'g_behaviour': '认知内化（行为规范）',
         'g_name': '认知内化（名字）',
-        'g_chain': '认知内化（传导链）',
         'g_identity': '认知内化（身份）',
         'g_body_func': '身体羡慕（功能）',
         'g_body_aes': '身体羡慕（审美）',
+        'chain': '“认知传导链”',
         'girls_shoes': '女孩鞋子',
         'knowledge': '数学、科学、逻辑知识',
         'construct_aes': '审美社会建构',
@@ -51,10 +51,10 @@ labels = {
         'cluster_gender': '\"Gender Identity\"',
         'g_behaviour': 'Cognitive Internalization (Behavior)',
         'g_name': 'Cognitive Internalization (Name)',
-        'g_chain': 'Cognitive Internalization (Transmission)',
         'g_identity': 'Cognitive Internalization (Identity)',
         'g_body_func': 'Body Envy (Function)',
         'g_body_aes': 'Body Envy (Aesthetic)',
+        'chain': 'Cognitive Chain',
         'girls_shoes': "Girl's Shoes",
         'knowledge': 'Math, Science, Logic',
         'construct_aes': 'Social Construction of Aesthetics',
@@ -102,22 +102,36 @@ with dot.subgraph(name='cluster_base') as c:
     ]:
         c.node(name, L[name])
 
+    c.node('ph01', '******', style='invis')
+    c.node('ph02', '******', style='invis')
+    c.node('ph03', '******', style='invis')
+
+
 with dot.subgraph(name='cluster_gender') as c:
     c.attr(rank='same')
     c.attr(style='filled', color='lightgrey')
     c.attr(label=L['cluster_gender'], fontname='Noto Sans')
     c.node_attr.update(style='filled', color='white')
     for name in [
-        'g_behaviour', 'g_name', 'g_chain', 'g_identity', 'g_body_func', 'g_body_aes',
+        'g_behaviour', 'g_name', 'g_identity', 'g_body_func', 'g_body_aes',
     ]:
         c.node(name, L[name])
 
+    c.node('ph10', '********', style='invis')
+
 # sorting nodes
+dot.edge('n_neuro_aes', 'ph01', style='invis', minlen='0')
+dot.edge('ph01', 'n_sex', style='invis', minlen='0')
+dot.edge('n_sex', 'ph02', style='invis', minlen='0')
+dot.edge('ph02', 'n_personality', style='invis', minlen='0')
+dot.edge('n_personality', 'ph03', style='invis', minlen='0')
+dot.edge('ph03', 'n_learn', style='invis', minlen='0')
+
 dot.edge('g_body_aes', 'g_body_func', style='invis', minlen='0')
 dot.edge('g_body_func', 'g_name', style='invis', minlen='0')
 dot.edge('g_name', 'g_identity', style='invis', minlen='0')
-dot.edge('g_identity', 'g_behaviour', style='invis', minlen='0')
-dot.edge('g_behaviour', 'g_chain', style='invis', minlen='0')
+dot.edge('g_identity', 'ph10', style='invis', minlen='0')
+dot.edge('ph10', 'g_behaviour', style='invis', minlen='0')
 
 with dot.subgraph() as s:
     s.attr(rank='same')
@@ -137,7 +151,7 @@ with dot.subgraph() as s:
     s.attr(rank='same')
     for name in [
         'enlightenment', 'observation', 'universal', 'introversion',
-        'sex_orie', 'tv_series', 'toys',
+        'sex_orie', 'tv_series', 'toys', 'chain',
     ]:
         s.node(name, L[name])
 
@@ -175,7 +189,8 @@ dot.edges([
     ('name_misspell', 'g_name'),
     ('n_personality', 'bullying'),
     ('girls_shoes', 'bullying'),
-    ('bullying', 'g_chain'),
+    ('bullying', 'chain'),
+    ('chain', 'g_identity'),
     ('n_personality', 'rationality'),
     ('rationality', 'universal'),
     ('knowledge', 'rationality'),
@@ -188,7 +203,7 @@ dot.edges([
     ('introversion', 'play_with_girls'),
     ('introversion', 'called_girlish'),
     ('called_girlish', 'g_identity'),
-    ('play_with_girls', 'g_behaviour'),
+    # ('g_identity', 'play_with_girls'),
     ('behaviour_diff', 'play_with_girls'),
     ('tv_series', 'called_girlish'),
     ('tv_series', 'play_with_girls'),
@@ -215,14 +230,15 @@ dot.edges([
 ])
 
 dot.edge('bullying', 'introversion', dir='both')
-dot.edge('bullying', 'rationality', label='逃避' if lang == 'zh' else 'Escaping')
+dot.edge('bullying', 'rationality') #, label='逃避' if lang == 'zh' else 'Escaping')
 dot.edge('rationality', 'introversion', dir='both')
 dot.edge('play_with_girls', 'called_girlish', dir='both')
-dot.edge('g_chain', 'analysis', ltail='cluster_gender')
+dot.edge('play_with_girls', 'g_behaviour', dir='both')
+dot.edge('g_identity', 'analysis', ltail='cluster_gender')
 
 # Step 5: Generate output
 try:
-    output_path = dot.render(f'recreated_diagram_{lang}', format='png', view=False, cleanup=True)
+    output_path = dot.render(f'recreated_diagram_{lang}', format='svg', view=False, cleanup=True)
     print(f"Image generated: {output_path}")
 except Exception as e:
     print(f"Generation Error: {e}")
