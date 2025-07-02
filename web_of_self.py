@@ -1,34 +1,116 @@
 import graphviz
 
-# rankdir='BT' means Bottom to Top
+# Step 1: Define multi-language labels
+lang = 'zh'  # Change to 'en' for English
+
+labels = {
+    'zh': {
+        'cluster_base': '基础特质',
+        'n_learn': '学习能力',
+        'n_personality': '人格因素',
+        'n_sex': '性本能',
+        'n_neuro_aes': '神经美学因素',
+        'cluster_gender': '“性别认同”',
+        'g_behaviour': '认知内化（行为规范）',
+        'g_name': '认知内化（名字）',
+        'g_chain': '认知内化（传导链）',
+        'g_identity': '认知内化（身份）',
+        'g_body_func': '身体羡慕（功能）',
+        'g_body_aes': '身体羡慕（审美）',
+        'girls_shoes': '女孩鞋子',
+        'knowledge': '数学、科学、逻辑知识',
+        'construct_aes': '审美社会建构',
+        'bullying': '被嘲笑和霸凌',
+        'aes': '审美观',
+        'rationality': '理性主义',
+        'fetish': '恋物癖',
+        'hugo': '雨果',
+        'behaviour_diff': '社会建构导致\n的行为差异',
+        'enlightenment': '改造世界的愿望',
+        'observation': '对性别秩序\n的观察',
+        'universal': '个人责任\n普遍主义',
+        'introversion': '内向',
+        'sex_orie': '性取向',
+        'tv_series': '模仿电视节目中\n的“女孩行为”',
+        'toys': '玩毛绒玩具',
+        'play_with_girls': '喜欢和女孩玩',
+        'called_girlish': '被称为“像女孩”',
+        'blame': '被责怪',
+        'zweig': '茨威格',
+        'crush': '暗恋',
+        'name_misspell': '名字误写',
+        'abolition': '性别废除',
+        'analysis': '自我分析',
+    },
+    'en': {
+        'cluster_base': 'Basic Traits',
+        'n_learn': 'Learning Ability',
+        'n_personality': 'Personality Traits',
+        'n_sex': 'Sex Instinct',
+        'n_neuro_aes': 'Neuroaesthetic Factors',
+        'cluster_gender': '\"Gender Identity\"',
+        'g_behaviour': 'Cognitive Internalization (Behavior)',
+        'g_name': 'Cognitive Internalization (Name)',
+        'g_chain': 'Cognitive Internalization (Transmission)',
+        'g_identity': 'Cognitive Internalization (Identity)',
+        'g_body_func': 'Body Envy (Function)',
+        'g_body_aes': 'Body Envy (Aesthetic)',
+        'girls_shoes': "Girl's Shoes",
+        'knowledge': 'Math, Science, Logic',
+        'construct_aes': 'Social Construction of Aesthetics',
+        'bullying': 'Mockery and Bullying',
+        'aes': 'Aesthetic Views',
+        'rationality': 'Rationalism',
+        'fetish': 'Fetishism',
+        'hugo': 'Hugo',
+        'behaviour_diff': 'Behavior Differences\nfrom Social Construction',
+        'enlightenment': 'Desire to Transform the World',
+        'observation': 'Observation of\nGender Order',
+        'universal': 'Universalism of\nPersonal Responsibility',
+        'introversion': 'Introversion',
+        'sex_orie': 'Sexual Orientation',
+        'tv_series': 'Imitating "Girl Behavior"\non TV Shows',
+        'toys': 'Playing with Plush Toys',
+        'play_with_girls': 'Playing with Girls',
+        'called_girlish': 'Called "Girlish"',
+        'blame': 'Blamed',
+        'zweig': 'Zweig',
+        'crush': 'Crush',
+        'name_misspell': 'Name Misspelled',
+        'abolition': 'Gender Abolitionism',
+        'analysis': 'Self-Analysis',
+    }
+}
+
+L = labels[lang]
+
+# Step 2: Initialize Graph
 dot = graphviz.Digraph(comment='Recreation of Hand-drawn Diagram')
 dot.attr(rankdir='BT', splines='true', ranksep='0.7', nodesep='0.6')
 dot.attr('node', shape='box', style='rounded', fontname='Noto Sans', fontsize='12')
 dot.attr('edge', fontname='Noto Sans', fontsize='10')
 
+# Step 3: Add Nodes/Subgraphs using label dictionary
+
 with dot.subgraph(name='cluster_base') as c:
     c.attr(rank='same')
     c.attr(style='filled', color='lightgrey')
-    c.attr(label='基础特质', fontname='Noto Sans')
+    c.attr(label=L['cluster_base'], fontname='Noto Sans')
     c.node_attr.update(style='filled', color='white')
-    c.node('n_learn', '学习能力')
-    c.node('n_personality', '人格因素')
-    c.node('n_sex', '性本能')
-    # c.node('n_body_scheme', '身体图式')
-    c.node('n_neuro_aes', '神经美学因素')
-
+    for name in [
+        'n_learn', 'n_personality', 'n_sex', 'n_neuro_aes',
+    ]:
+        c.node(name, L[name])
 
 with dot.subgraph(name='cluster_gender') as c:
     c.attr(rank='same')
     c.attr(style='filled', color='lightgrey')
-    c.attr(label='“性别认同”', fontname='Noto Sans')
+    c.attr(label=L['cluster_gender'], fontname='Noto Sans')
     c.node_attr.update(style='filled', color='white')
-    c.node('g_behaviour', '认知内化（行为规范）')
-    c.node('g_name', '认知内化（名字）')
-    c.node('g_chain', '认知内化（传导链）')
-    c.node('g_identity', '认知内化（身份）')
-    c.node('g_body_func', '身体羡慕（功能）')
-    c.node('g_body_aes', '身体羡慕（审美）')
+    for name in [
+        'g_behaviour', 'g_name', 'g_chain', 'g_identity', 'g_body_func', 'g_body_aes',
+    ]:
+        c.node(name, L[name])
 
 # sorting nodes
 dot.edge('g_body_aes', 'g_body_func', style='invis', minlen='0')
@@ -39,45 +121,46 @@ dot.edge('g_behaviour', 'g_chain', style='invis', minlen='0')
 
 with dot.subgraph() as s:
     s.attr(rank='same')
-    s.node('girls_shoes', '女孩鞋子')
-    s.node('knowledge', '数学、科学、逻辑知识')
-    s.node('construct_aes', '审美社会建构')
-    s.node('bullying', '被嘲笑和霸凌')
+    for name in [
+        'girls_shoes', 'knowledge', 'construct_aes', 'bullying',
+    ]:
+        s.node(name, L[name])
 
 with dot.subgraph() as s:
     s.attr(rank='same')
-    s.node('aes', '审美观')
-    s.node('rationality', '理性主义')
-    s.node('fetish', '恋物癖')
-    s.node('hugo', '雨果')
-    s.node('behaviour_diff', '社会建构导致\n的行为差异')
+    for name in [
+        'aes', 'rationality', 'fetish', 'hugo', 'behaviour_diff',
+    ]:
+        s.node(name, L[name])
 
 with dot.subgraph() as s:
     s.attr(rank='same')
-    s.node('enlightenment', '改造世界的愿望')
-    s.node('observation', '对性别秩序\n的观察')
-    s.node('universal', '个人责任\n普遍主义')
-    s.node('introversion', '内向')
-    s.node('sex_orie', '性取向')
-    s.node('tv_series', '模仿电视节目中\n的“女孩行为”')
-    s.node('toys', '玩毛绒玩具')
+    for name in [
+        'enlightenment', 'observation', 'universal', 'introversion',
+        'sex_orie', 'tv_series', 'toys',
+    ]:
+        s.node(name, L[name])
 
 with dot.subgraph() as s:
     s.attr(rank='same')
-    s.node('play_with_girls', '喜欢和女孩玩')
-    s.node('called_girlish', '被称为“像女孩”')
+    for name in [
+        'play_with_girls', 'called_girlish',
+    ]:
+        s.node(name, L[name])
 
 with dot.subgraph() as s:
     s.attr(rank='same')
-    s.node('blame', '被责怪')
-    s.node('zweig', '茨威格')
-    s.node('crush', '暗恋')
-    s.node('name_misspell', '名字误写')
-    s.node('abolition', '性别废除')
+    for name in [
+        'blame', 'zweig', 'crush', 'name_misspell', 'abolition'
+    ]:
+        s.node(name, L[name])
 
 with dot.subgraph() as s:
     s.attr(rank='same')
-    s.node('analysis', '自我分析')
+    for name in [
+        'analysis'
+    ]:
+        s.node(name, L[name])
 
 # Defining edges (Edges/Connections)
 dot.edges([
@@ -132,17 +215,14 @@ dot.edges([
 ])
 
 dot.edge('bullying', 'introversion', dir='both')
-dot.edge('bullying', 'rationality', lebal='逃避现实')
+dot.edge('bullying', 'rationality', label='逃避' if lang == 'zh' else 'Escaping')
 dot.edge('rationality', 'introversion', dir='both')
 dot.edge('play_with_girls', 'called_girlish', dir='both')
 dot.edge('g_chain', 'analysis', ltail='cluster_gender')
 
-# image generating
-# use cleanup=True to delete temp DOT source files
+# Step 5: Generate output
 try:
-    output_path = dot.render('recreated_diagram', format='png', view=False, cleanup=True)
+    output_path = dot.render(f'recreated_diagram_{lang}', format='png', view=False, cleanup=True)
     print(f"Image generated: {output_path}")
 except Exception as e:
     print(f"Generation Error: {e}")
-    # Fallback or error message
-    output_path = None
