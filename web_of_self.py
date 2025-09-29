@@ -6,7 +6,8 @@ lang = 'en'  # Change to 'en' for English
 labels = {
     'zh': {
         'cluster_base': '基础特质',
-        'n_personality': '人格特征',
+        'n_learn': '学习能力',
+        'n_personality': '人格因素',
         'n_sex': '性本能',
         'n_neuro_aes': '神经美学因素',
         'cluster_gender': '“性别认同”',
@@ -40,17 +41,10 @@ labels = {
         'name_misspell': '名字误写',
         'abolition': '性别废除',
         'analysis': '自我分析',
-        'girls_story': '女性第一人称写作',
-        'folk_food': '民间“营养”食物',
-        'doubt_economics': '对经济制度\n的怀疑',
-        'ecology': '生态学',
-        'marxism': '马克思主义\n政治经济学',
-        'history_politics': '历史、政治知识',
-        'doubt_politics': '对政治制度\n的怀疑',
-        'world_government': '世界政府',
     },
     'en': {
         'cluster_base': 'Basic Traits',
+        'n_learn': 'Learning Ability',
         'n_personality': 'Personality Traits',
         'n_sex': 'Sex Instinct',
         'n_neuro_aes': 'Neuroaesthetic Traits',
@@ -85,21 +79,13 @@ labels = {
         'name_misspell': 'Name Misspelled',
         'abolition': 'Gender Abolitionism',
         'analysis': 'Self-Analysis',
-        'girls_story': 'Female First\nPerson Story',
-        'folk_food': 'Folk "nutritious" food',
-        'doubt_economics': 'Doubt about the\neconomic system',
-        'ecology': 'Ecology',
-        'marxism': 'Marxist\npolitical economics',
-        'history_politics': 'History and\npolitical knowledge',
-        'doubt_politics': 'Doubt about the\npolitical system',
-        'world_government': 'World Government',
     }
 }
 
 L = labels[lang]
 
 # Step 2: Initialize Graph
-dot = graphviz.Digraph(comment='Recreation of Hand-drawn Diagram', engine='dot')
+dot = graphviz.Digraph(comment='Recreation of Hand-drawn Diagram')
 dot.attr(rankdir='BT', splines='true', ranksep='0.7', nodesep='0.6')
 dot.attr('node', shape='box', style='rounded', fontname='Noto Sans', fontsize='12')
 dot.attr('edge', fontname='Noto Sans', fontsize='10')
@@ -112,14 +98,13 @@ with dot.subgraph(name='cluster_base') as c:
     c.attr(label=L['cluster_base'], fontname='Noto Sans')
     c.node_attr.update(style='filled', color='white')
     for name in [
-        'n_personality', 'n_sex', 'n_neuro_aes',
+        'n_learn', 'n_personality', 'n_sex', 'n_neuro_aes',
     ]:
         c.node(name, L[name])
 
-    c.node('ph01', '********', style='invis')
-    c.node('ph02', '********', style='invis')
-    c.node('ph03', '********', style='invis')
-    c.node('ph04', '********', style='invis')
+    c.node('ph01', '******', style='invis')
+    c.node('ph02', '******', style='invis')
+    c.node('ph03', '******', style='invis')
 
 
 with dot.subgraph(name='cluster_gender') as c:
@@ -136,11 +121,11 @@ with dot.subgraph(name='cluster_gender') as c:
 
 # sorting nodes
 dot.edge('n_neuro_aes', 'ph01', style='invis', minlen='0')
-dot.edge('ph01', 'ph02', style='invis', minlen='0')
-dot.edge('ph02', 'n_sex', style='invis', minlen='0')
-dot.edge('n_sex', 'ph03', style='invis', minlen='0')
-dot.edge('ph03', 'ph04', style='invis', minlen='0')
-dot.edge('ph04', 'n_personality', style='invis', minlen='0')
+dot.edge('ph01', 'n_sex', style='invis', minlen='0')
+dot.edge('n_sex', 'ph02', style='invis', minlen='0')
+dot.edge('ph02', 'n_personality', style='invis', minlen='0')
+dot.edge('n_personality', 'ph03', style='invis', minlen='0')
+dot.edge('ph03', 'n_learn', style='invis', minlen='0')
 
 dot.edge('g_body_aes', 'g_body_func', style='invis', minlen='0')
 dot.edge('g_body_func', 'g_name', style='invis', minlen='0')
@@ -191,19 +176,15 @@ with dot.subgraph() as s:
     ]:
         s.node(name, L[name])
 
-for name in [
-    'girls_story', 'folk_food', 'doubt_economics', 'marxism',
-    'history_politics', 'doubt_politics', 'world_government'
-]:
-    dot.node(name, L[name])
-
 # Defining edges (Edges/Connections)
 dot.edges([
     ('blame', 'g_behaviour'),
     ('tv_series', 'blame'),
     ('tv_series', 'g_behaviour'),
+    ('n_learn', 'tv_series'),
     ('n_personality', 'tv_series'),
     ('n_personality', 'toys'),
+    # ('n_learn', 'g_name'),
     ('n_personality', 'g_name'),
     ('name_misspell', 'g_name'),
     ('n_personality', 'bullying'),
@@ -222,6 +203,7 @@ dot.edges([
     ('introversion', 'play_with_girls'),
     ('introversion', 'called_girlish'),
     ('called_girlish', 'g_identity'),
+    # ('g_identity', 'play_with_girls'),
     ('behaviour_diff', 'play_with_girls'),
     ('tv_series', 'called_girlish'),
     ('tv_series', 'play_with_girls'),
@@ -232,7 +214,6 @@ dot.edges([
     ('aes', 'sex_orie'),
     ('n_sex', 'sex_orie'),
     ('sex_orie', 'play_with_girls'),
-    ('g_identity', 'play_with_girls'),
     ('aes', 'g_body_aes'),
     ('sex_orie', 'crush'),
     ('zweig', 'g_body_func'),
@@ -246,30 +227,18 @@ dot.edges([
     ('observation', 'abolition'),
     ('enlightenment', 'analysis'),
     ('abolition', 'analysis'),
-    ('universal', 'girls_story'),
-    ('folk_food', 'doubt_economics'),
-    ('rationality', 'doubt_economics'),
-    ('doubt_economics', 'doubt_politics'),
-    ('knowledge', 'doubt_politics'),
-    ('marxism', 'doubt_politics'),
-    ('history_politics', 'doubt_politics'),
-    ('rationality', 'doubt_politics'),
-    ('doubt_politics', 'world_government'),
-    ('abolition', 'world_government'),
-    ('enlightenment', 'world_government'),
 ])
 
-dot.edge('bullying', 'introversion', dir='both', weight='10')
+dot.edge('bullying', 'introversion', dir='both')
 dot.edge('bullying', 'rationality') #, label='逃避' if lang == 'zh' else 'Escaping')
 dot.edge('rationality', 'introversion', dir='both')
 dot.edge('play_with_girls', 'called_girlish', dir='both')
 dot.edge('play_with_girls', 'g_behaviour', dir='both')
-dot.edge('g_behaviour', 'girls_story', dir='both')
-dot.edge('g_behaviour', 'analysis', ltail='cluster_gender')
+dot.edge('g_identity', 'analysis', ltail='cluster_gender')
 
 # Step 5: Generate output
 try:
-    output_path = dot.render(f'recreated_diagram-v2_{lang}', format='svg', view=False, cleanup=True)
+    output_path = dot.render(f'recreated_diagram_{lang}', format='svg', view=False, cleanup=True)
     print(f"Image generated: {output_path}")
 except Exception as e:
     print(f"Generation Error: {e}")
