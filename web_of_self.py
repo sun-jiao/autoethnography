@@ -1,7 +1,7 @@
 import graphviz
 
 # Step 1: Define multi-language labels
-lang = 'zh'  # Change to 'en' for English
+lang = 'en'  # Change to 'en' for English
 
 labels = {
     'zh': {
@@ -16,17 +16,17 @@ labels = {
         'g_identity': '认知内化（身份）',
         'g_body_func': '身体羡慕（功能）',
         'g_body_aes': '身体羡慕（审美）',
-        'g_body_dys': '身体焦虑',
-        'dream': '梦',
+        'chain': '“认知传导链”',
         'girls_shoes': '女孩鞋子',
         'knowledge': '数学、科学、逻辑知识',
         'construct_aes': '审美社会建构',
         'bullying': '被嘲笑和霸凌',
         'aes': '审美观',
         'rationality': '理性主义',
-        'fetish': '恋物情节',
+        'fetish': '恋物癖',
         'hugo': '雨果',
         'behaviour_diff': '社会建构导致\n的行为差异',
+        'enlightenment': '改造世界的愿望',
         'observation': '对性别秩序\n的观察',
         'universal': '个人责任\n普遍主义',
         'introversion': '内向',
@@ -41,7 +41,6 @@ labels = {
         'name_misspell': '名字误写',
         'abolition': '性别废除',
         'analysis': '自我分析',
-        'neurodermatitis': '神经性皮炎',
     },
     'en': {
         'cluster_base': 'Basic Traits',
@@ -55,8 +54,7 @@ labels = {
         'g_identity': 'Internalization (Identity)',
         'g_body_func': 'Body Envy (Function)',
         'g_body_aes': 'Body Envy (Aesthetic)',
-        'g_body_dys': 'Body Dysphoria',
-        'dream': 'Dream',
+        'chain': 'Cognitive Chain',
         'girls_shoes': "Girls' Shoes",
         'knowledge': 'Math, Science,\nLogic Knowledge',
         'construct_aes': 'Social Construction\nof Aesthetics',
@@ -66,6 +64,7 @@ labels = {
         'fetish': 'Fetish',
         'hugo': 'Hugo',
         'behaviour_diff': 'Behaviour Differences\nfrom Social Construction',
+        'enlightenment': 'Desire to Change\nthe World',
         'observation': 'Observation of\nGender Order',
         'universal': 'Personal Responsibility\nUniversalism',
         'introversion': 'Introversion',
@@ -80,7 +79,6 @@ labels = {
         'name_misspell': 'Name Misspelled',
         'abolition': 'Gender Abolitionism',
         'analysis': 'Self-Analysis',
-        'neurodermatitis': 'Neurodermatitis',
     }
 }
 
@@ -115,7 +113,7 @@ with dot.subgraph(name='cluster_gender') as c:
     c.attr(label=L['cluster_gender'], fontname='Noto Sans')
     c.node_attr.update(style='filled', color='white')
     for name in [
-        'g_body_dys', 'g_behaviour', 'g_name', 'g_identity', 'g_body_func', 'g_body_aes',
+        'g_behaviour', 'g_name', 'g_identity', 'g_body_func', 'g_body_aes',
     ]:
         c.node(name, L[name])
 
@@ -129,7 +127,6 @@ dot.edge('ph02', 'n_personality', style='invis', minlen='0')
 dot.edge('n_personality', 'ph03', style='invis', minlen='0')
 dot.edge('ph03', 'n_learn', style='invis', minlen='0')
 
-dot.edge('g_body_dys', 'g_body_aes', style='invis', minlen='0')
 dot.edge('g_body_aes', 'g_body_func', style='invis', minlen='0')
 dot.edge('g_body_func', 'g_name', style='invis', minlen='0')
 dot.edge('g_name', 'g_identity', style='invis', minlen='0')
@@ -153,8 +150,8 @@ with dot.subgraph() as s:
 with dot.subgraph() as s:
     s.attr(rank='same')
     for name in [
-        'observation', 'universal', 'introversion',
-        'sex_orie', 'tv_series', 'toys', 'dream',
+        'enlightenment', 'observation', 'universal', 'introversion',
+        'sex_orie', 'tv_series', 'toys', 'chain',
     ]:
         s.node(name, L[name])
 
@@ -179,8 +176,6 @@ with dot.subgraph() as s:
     ]:
         s.node(name, L[name])
 
-dot.node('neurodermatitis', L['neurodermatitis'])
-
 # Defining edges (Edges/Connections)
 dot.edges([
     ('blame', 'g_behaviour'),
@@ -189,13 +184,13 @@ dot.edges([
     ('n_learn', 'tv_series'),
     ('n_personality', 'tv_series'),
     ('n_personality', 'toys'),
-    ('n_learn', 'g_name'),
+    # ('n_learn', 'g_name'),
     ('n_personality', 'g_name'),
     ('name_misspell', 'g_name'),
     ('n_personality', 'bullying'),
     ('girls_shoes', 'bullying'),
-    ('bullying', 'dream'),
-    ('dream', 'g_identity'),
+    ('bullying', 'chain'),
+    ('chain', 'g_identity'),
     ('n_personality', 'rationality'),
     ('rationality', 'universal'),
     ('knowledge', 'rationality'),
@@ -208,7 +203,7 @@ dot.edges([
     ('introversion', 'play_with_girls'),
     ('introversion', 'called_girlish'),
     ('called_girlish', 'g_identity'),
-    ('g_identity', 'play_with_girls'),
+    # ('g_identity', 'play_with_girls'),
     ('behaviour_diff', 'play_with_girls'),
     ('tv_series', 'called_girlish'),
     ('tv_series', 'play_with_girls'),
@@ -225,15 +220,13 @@ dot.edges([
     ('crush', 'g_body_func'),
     ('rationality', 'analysis'),
     ('universal', 'analysis'),
-    ('rationality', 'abolition'),
-    ('knowledge', 'abolition'),
-    ('knowledge', 'analysis'),
+    ('rationality', 'enlightenment'),
+    ('knowledge', 'enlightenment'),
+    ('enlightenment', 'abolition'),
     ('universal', 'abolition'),
     ('observation', 'abolition'),
+    ('enlightenment', 'analysis'),
     ('abolition', 'analysis'),
-    ('g_body_dys', 'neurodermatitis'),
-    ('neurodermatitis', 'g_body_dys'),
-    ('neurodermatitis', 'neurodermatitis')
 ])
 
 dot.edge('bullying', 'introversion', dir='both')
