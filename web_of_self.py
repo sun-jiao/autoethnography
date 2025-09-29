@@ -41,6 +41,13 @@ labels = {
         'abolition': '性别废除',
         'analysis': '自我分析',
         'girls_story': '女性第一人称写作',
+        'folk_food': '民间“营养”食物',
+        'doubt_economics': '对经济制度\n的怀疑',
+        'ecology': '生态学',
+        'marxism': '马克思主义\n政治经济学',
+        'history_politics': '历史、政治知识',
+        'doubt_politics': '对政治制度\n的怀疑',
+        'world_government': '世界政府',
     },
     'en': {
         'cluster_base': 'Basic Traits',
@@ -79,6 +86,13 @@ labels = {
         'abolition': 'Gender Abolitionism',
         'analysis': 'Self-Analysis',
         'girls_story': 'Female First\nPerson Story',
+        'folk_food': 'Folk "nutritious" food',
+        'doubt_economics': 'Doubt about the\neconomic system',
+        'ecology': 'Ecology',
+        'marxism': 'Marxist\npolitical economics',
+        'history_politics': 'History and\npolitical knowledge',
+        'doubt_politics': 'Doubt about the\npolitical system',
+        'world_government': 'World Government',
     }
 }
 
@@ -177,7 +191,11 @@ with dot.subgraph() as s:
     ]:
         s.node(name, L[name])
 
-dot.node('girls_story', L['girls_story'])
+for name in [
+    'girls_story', 'folk_food', 'doubt_economics', 'marxism',
+    'history_politics', 'doubt_politics', 'world_government'
+]:
+    dot.node(name, L[name])
 
 # Defining edges (Edges/Connections)
 dot.edges([
@@ -229,6 +247,16 @@ dot.edges([
     ('enlightenment', 'analysis'),
     ('abolition', 'analysis'),
     ('universal', 'girls_story'),
+    ('folk_food', 'doubt_economics'),
+    ('rationality', 'doubt_economics'),
+    ('doubt_economics', 'doubt_politics'),
+    ('knowledge', 'doubt_politics'),
+    ('marxism', 'doubt_politics'),
+    ('history_politics', 'doubt_politics'),
+    ('rationality', 'doubt_politics'),
+    ('doubt_politics', 'world_government'),
+    ('abolition', 'world_government'),
+    ('enlightenment', 'world_government'),
 ])
 
 dot.edge('bullying', 'introversion', dir='both', weight='10')
