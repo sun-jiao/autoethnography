@@ -1,7 +1,7 @@
 import graphviz
 
 # Step 1: Define multi-language labels
-lang = 'en'  # Change to 'en' for English
+lang = 'zh'  # Change to 'en' for English
 
 labels = {
     'zh': {
