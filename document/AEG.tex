@@ -1,16 +1,13 @@
-\documentclass{article}
-\usepackage{arxiv}
-\usepackage{orcidlink}
-\usepackage{authblk}
-\usepackage{cleveref}
+\documentclass[
+  journal=,
+  manuscript=article,  %% article (default), rescience, data, software, proceedings, poster
+  layout=preprint,  %% preprint (for submission) or publish (for publisher only)
+  year=2025,
+%  volume=x,
+]{extra/joas}
 \usepackage[fontset=none, punct=plain]{ctex}
-\usepackage{fontspec}
-\usepackage{graphicx}
-\usepackage{apptools}
 \usepackage[backend=biber, style=authoryear]{biblatex}
-\usepackage{amstext}
-\usepackage{booktabs}
-\usepackage{tabularx}
+\usepackage{cleveref}
 \usepackage{hyperref}
 \setCJKmainfont{Noto Serif CJK SC}
 \renewcommand{\abstractname}{Abstract}
@@ -26,16 +23,29 @@
 \DeclareNameAlias{sortname}{last-first}
 \DeclareNameAlias{default}{last-first}
 
+\nolinenumbers
+
 \title{An Autoethnography of a Gender Abolitionist Transgender Evolutionary Biologist}
-\author[1]{Jiao Sun\orcidlink{0000-0002-5028-8132}\thanks{Corresponding author: \href{mailto:j.sun@pgr.reading.ac.uk}{j.sun@pgr.reading.ac.uk}}}
-\affil[1]{Division of Ecology and Evolutionary Biology, School of Biological Science, University of Reading, Whiteknights, Reading, RG6 6EX, United Kingdom}
+
+\author{Jiao Sun\orcidlink{0000-0002-5028-8132}}
+\affiliation{Division of Ecology and Evolutionary Biology, School of Biological Science, University of Reading, Whiteknights, Reading, RG6 6EX, United Kingdom}
+\email{j.sun@pgr.reading.ac.uk}
 \date{10/02/2025}
+
+% maximum five keywords
+\keywords{autoethnography, gender abolitionism, gender studies, introspective empiricism, philosophy of biology, reflective empiricism, scientific realism, sex/gender distinction, transgender philosophy, transgender studies}
+
+% Important: don't overuse abbreviations. Only use abbreviations if the term is used more than ten times throughout the paper. Otherwise, write them in full.
+\abbreviations{
+The author uses ``phenotypic sex'' as an alternative to the conventional term ``biological sex,'' given the fact that actual biological sex (sex \textit{sensu stricto}) is about gametes.
+}
+
 \begin{document}
 
-\maketitle
+%\maketitle
 
 \begin{abstract}
-This autoethnography presents a comprehensive intellectual and personal journey of a transgender evolutionary biologist examining the origins of their gender identity, culminating in a robust argument for gender abolitionism. Employing a methodology of introspective and reflective empiricism, cross-validated with personal records and memories, the author applies the principles of evolutionary biology and neuroscience to analyse their own gendered experiences. The analysis traces the author's so-called ``gender identity'' not to an innate, ontological essence, but to a complex synthesis of internalised social norms, childhood trauma, aesthetic preferences, and reactions to a ``pervasively gendered'' society that repeatedly assigned gendered meaning to neutral behaviours, objects, and personality traits.
+This autoethnography presents a comprehensive personal journey of a transgender evolutionary biologist examining the origins of their gender identity, finally culminating in an argument for gender abolitionism. Employing a methodology of introspective and reflective empiricism, cross-validated with personal records and memories, the author applies the principles of evolutionary biology and neuroscience to analyse their own gendered experiences. The analysis traces the author's so-called ``gender identity'' not to an innate, ontological essence, but to a complex synthesis of internalised social norms, childhood trauma, aesthetic preferences, and reactions to a ``pervasively gendered'' society that repeatedly assigned gendered meaning to neutral behaviours, objects, and personality traits.
 
 The narrative critically engages with and deconstructs mainstream gender theories, revealing logical inconsistencies, circular reasoning, and category errors within concepts such as the sex/gender distinction, ``innate gender identity'', ``assigned sex at birth'' (ASAB), and the cisgender/transgender binary. These concepts are \textit{ad hoc} additions designed to preserve a flawed gender-centric model of the world, akin to the Ptolemaic system, rather than instigating a necessary Copernican Revolution. The author proposes this revolution in the form of gender abolitionism: a framework that strictly limits sex \textit{sensu stricto} to gametes, dismantles phenotypic ``sex'' into a spectrum of sexual dimorphic traits, and advocates for the complete removal of gender as a social, legal, cultural, and self-identity category.
 
@@ -43,20 +53,6 @@ Furthermore, the article extends its critique to post-structuralist and queer th
 \end{abstract}
 
 \addcontentsline{toc}{section}{Abstract}
-
-\noindent\textbf{Keywords:} autoethnography, gender abolitionism, gender studies, introspective empiricism, philosophy of biology, reflective empiricism, scientific realism, sex/gender distinction, transgender philosophy, transgender studies
-
-\section*{Glossary}
-
-\addcontentsline{toc}{section}{Glossary}
-
-The author uses ``phenotypic sex'' as an alternative to the conventional term ``biological sex,'' given the fact that actual biological sex (sex \textit{sensu stricto}) is about gametes.
-
-\section*{Source Code Availability}
-
-\addcontentsline{toc}{section}{Source Code Availability}
-
-Code for generating this document and visualising the author's experience (\cref{fig:5}): \url{https://github.com/sun-jiao/autoethnography}
 
 \section{Introduction}\label{sec:introduction}
 
@@ -194,7 +190,7 @@ Moreover, I find a kind of beauty in the female body that is hard to describe. I
 
 I suspect that both my so-called ``sexual orientation'' (towards women) and the aesthetic part of my ``gender identity'' are products of this aesthetic experience, combined with different ``other factors'' (to use the term loosely). Combined with intimate emotions and sexual instincts, it becomes sexual orientation; combined with body image and external stimuli, it becomes the aesthetic part of ``gender identity.''
 
-Another piece of evidence is that a DeepNude version of my feminised self has sexually aroused me.\footnote{I have to say, it's quite ironic that an AI application originally intended for sexual abuse was used by me to alleviate my gender dysphoria. } It is revealed that in my case, ``sexual orientation'' and ``gender identity'' share some more fundamental factors. This is phenotypically like \citeauthor{Blanchard1991Clinical}'s (\citeyear{Blanchard1991Clinical}) theory of autogynephilia. However, he explained that sexual orientation is the root cause, from which gender identity stems. This implies an innate, ontological sexual orientation, which I disagree with. I believe humans have genetically determined, neurological innate aesthetic and mate preferences, but they are not innately ``gendered.'' They are interpreted by society and culture. Individuals who have internalised social norms then integrated them into a ``gender.''
+Another piece of evidence is that a DeepNude version of my feminised self has sexually aroused me.\footnote{I have to say, it's quite ironic that an AI application originally intended for sexual abuse was used by me to alleviate my gender dysphoria. } It is revealed that in my case, ``sexual orientation'' and ``gender identity'' share some more fundamental factors. This is phenotypically like \textcite{Blanchard1991Clinical}'s theory of autogynephilia. However, he explained that sexual orientation is the root cause, from which gender identity stems. This implies an innate, ontological sexual orientation, which I disagree with. I believe humans have genetically determined, neurological innate aesthetic and mate preferences, but they are not innately ``gendered.'' They are interpreted by society and culture. Individuals who have internalised social norms then integrated them into a ``gender.''
 
 On the other hand, I have neurodermatitis (a.k.a. lichen simplex chronicus) in my genital area. There are multiple studies supporting that chronic itching and pain can affect one's body image. \parencite{Simsek2020Body, Vamos1993Body} This could be another reason why I dislike my reproductive organs. However, it should be noted that I developed neurodermatitis much later than the childhood events mentioned above, and neurodermatitis itself is a psychosomatic disease heavily influenced by psychological and mental states. \parencite{Lotti2008Prurigo, Tey2013Psychosomatic} Therefore, it could be a result of gender dysphoria rather than a cause.
 
@@ -297,7 +293,7 @@ If I emphasised the subject ``I,'' and push it to the extreme, the existence of 
 
 The thought ``what I haven't seen doesn't exist'' may have been a fork in the road for my personal philosophy. Perhaps the starting points of some completely opposed ideas are much closer than we thought.
 
-Then I realised that my method of analysing the ``non-existence of a complete, ontological gender identity'' is almost identical to \citeauthor{Hume2007Treatise}'s (\citeyear{Hume2007Treatise}) subjective empiricist argument for the ``non-existence of the self'': I looked inward, saw nothing called ``gender identity,'' only saw many childhood experiences and my reactions to them being artificially grouped together.(\cref{fig:5}) The only difference might be that I explained it in a physicalist way as ``reconstructing the training set from the output of a neural network'' and cited scientific research to prove the credibility of memory.\footnote{Hume is considered the precursor of cognitive science, so I was standing on his legacy and reinvented his method.}
+Then I realised that my method of analysing the ``non-existence of a complete, ontological gender identity'' is almost identical to \textcite{Hume2007Treatise}'s subjective empiricist argument for the ``non-existence of the self'': I looked inward, saw nothing called ``gender identity,'' only saw many childhood experiences and my reactions to them being artificially grouped together.(\cref{fig:5}) The only difference might be that I explained it in a physicalist way as ``reconstructing the training set from the output of a neural network'' and cited scientific research to prove the credibility of memory.\footnote{Hume is considered the precursor of cognitive science, so I was standing on his legacy and reinvented his method.}
 
 \begin{figure}[htbp]
     \centering
@@ -434,7 +430,7 @@ Concepts like ``sexual orientation,'' ``gender identity,'' and ``intersex'' were
 
 The true purpose of historical ``epicycles'' was not to ``help planets find their true orbits,'' but to avoid a radical paradigm shift. Thus, what reason do we have to believe that the ``gender epicycles'' are so-called ``liberatory''? Otherwise, as we discussed earlier, why does a change intended to increase ``inclusivity''—using ``assigned sex'' instead of ``phenotypic sex'' in the definition of transgender—logically reduce inclusivity and the scope of people who can be considered ``transgender''?
 
-If all ``gender identities'' are equal, then they are just arbitrary signifiers or metaphors and cannot be ``real.'' We cannot equate these names with their original meanings. Otherwise, it would lead to individuals with non-human xenogender identities losing their basic human rights, such as a person who identifies as catgender being treated as a cat.
+If all ``gender identities'' are equal, then they are just arbitrary signifiers or metaphors and cannot be ``real.'' We cannot equate these names with their original meanings. Otherwise, it would lead to individuals with non-human xenogender identities losing their basic human rights. For example, gender-segregated spaces were originally designed based on ``biological sex.'' If we believe that ``self-identified women'' can use ``women's spaces'' originally designed based on ``biological sex,'' then in theory, a person who identifies as catgender should be treated as a cat.
 
 Suppose we believe that gender identity terms do not have the same meaning as their original sense, but that their meaning as a gender identity is a new, independent meaning. In that case, the final result is that all words, like ``male'' and ``female,'' will have a new meaning added to the dictionary as a gender identity. If all words have this meaning, it is equivalent to no words having this meaning. Gender identity is trivialised into a linguistic or sociocultural phenomenon, rather than a self-identity that needs to be respected.
 
@@ -452,7 +448,7 @@ The only solution—gender abolition.
 
 What we should do is to strictly limit ``sex'' and ``gender,'' detaching them from individuals or organisms.
 
-The biological sex should be strictly confined to the gametes. It is related to, and only to, gametes. Nothing else is ``sex,'' and biological individuals do not have such a sex. The question ``What is your sex?'' is a category error, just as we cannot call the colour of hair ``the colour of a person.'' Therefore, \citeauthor{FaustoSterling2000Sexing}'s (\citeyear{FaustoSterling2000Sexing}) so-called ``5 sexes'' is also a meaningless classification. Sexual dimorphism is a dynamic spectrum that constantly changes throughout evolutionary history. The so-called ``phenotypic sex'' should be dismantled into a series of discrete, decentralised phenotypic traits such as chromosomes, hormones, as well as morphology and anatomical traits. They are distributed on the spectrum of sexual dimorphism, along with sexually dimorphic phenotypic traits not traditionally classified as ``phenotypic sex'', like height, weight, body hair, and body fat percentage. The imprecise concept of intersex should be replaced by more detailed terms like intergonadal, intergenital, and sexual intermorphism. Gender should be strictly treated as a sociocultural phenomenon. Individuals do not have an innate gender; they merely ``possess'' gametes and ``live in'' a society and culture.
+The biological sex should be strictly confined to the gametes. It is related to, and only to, gametes. Nothing else is ``sex,'' and biological individuals do not have such a sex. The question ``What is your sex?'' is a category error, just as we cannot call the colour of hair ``the colour of a person.'' Therefore, \textcite{FaustoSterling2000Sexing}'s so-called ``5 sexes'' is also a meaningless classification. Sexual dimorphism is a dynamic spectrum that constantly changes throughout evolutionary history. The so-called ``phenotypic sex'' should be dismantled into a series of discrete, decentralised phenotypic traits such as chromosomes, hormones, as well as morphology and anatomical traits. They are distributed on the spectrum of sexual dimorphism, along with sexually dimorphic phenotypic traits not traditionally classified as ``phenotypic sex'', like height, weight, body hair, and body fat percentage. The imprecise concept of intersex should be replaced by more detailed terms like intergonadal, intergenital, and sexual intermorphism. Gender should be strictly treated as a sociocultural phenomenon. Individuals do not have an innate gender; they merely ``possess'' gametes and ``live in'' a society and culture.
 
 By biologically confining sex strictly to gametes, it cannot be ``assigned'' or ``inferred.'' In one case, a person's phenotype was completely ``phenotypic male,'' who had fathered a daughter, but one of his two ``testicles'' was actually an ovary, and dissection showed it had previously ovulated. \parencite{Parvin1982Ovulation} Therefore, most people, even those who have had children, cannot know for sure if they are chimaeras capable of producing two types of gametes. This makes it lose any possibility of being used for social classification, discipline, and oppression. It becomes a technical term of reproductive biology, completely ``exiled'' from everyday language and the operation of power.
 
@@ -460,7 +456,7 @@ By biologically confining sex strictly to gametes, it cannot be ``assigned'' or 
 
 Of course, the binary of sex (gametes) is still a very useful model in evolutionary biology, ethology, and reproductive ecology. It is obviously technically and ethically impossible to capture and dissect all individual animals to examine their gonads or the gametes they produce. In these cases, researchers should state in their \textit{Materials and Methods} section what method they used to estimate the gamete production capacity and the reliability of this proxy, such as the situation in birds revealed by \textcite{Hall2025Prevalence}. Sex is a microscopic reproductive biological attribute, not an externally observable phenotypic trait.
 
-\textcite{Polderman2018Biological} that the heritability of gender identity is 30--60\% and consistent with other behavioural and personality traits, which is a category error. As we have said before, ``gender identity'' cannot be encoded in the genome (this would require extraordinary evidence). We can only have a series of genes related to personality traits, cognitive styles, and body schema. Studying the ``heritability of gender identity'' is a huge logical leap. The correct scientific questions should not be: ``What is the biological basis of gender identity?'' but rather: ``Which heritable biological traits are assigned gender meaning by society and culture?'' (sociology). ``How does the meaning interact with the individual to construct a specific gender identity?'' (psychology). ``What is the biological basis of these traits?'' (genetics and neuroscience).
+\textcite{Polderman2018Biological} claimed that the heritability of gender identity is 30--60\% and consistent with other behavioural and personality traits, which is a category error. As we have said before, ``gender identity'' cannot be encoded in the genome (this would require extraordinary evidence). We can only have a series of genes related to personality traits, cognitive styles, and body schema. Studying the ``heritability of gender identity'' is a huge logical leap. The correct scientific questions should not be: ``What is the biological basis of gender identity?'' but rather: ``Which heritable biological traits are assigned gender meaning by society and culture?'' (sociology). ``How does the meaning interact with the individual to construct a specific gender identity?'' (psychology). ``What is the biological basis of these traits?'' (genetics and neuroscience).
 
 At the social level, we should abolish all gender concepts and any social constructs based on gender. The biological characteristics previously considered ``phenotypic sex'' should have no more social significance than height or weight. We should abolish gendered pronouns and titles, treat sexual orientation as an aesthetic preference, treat gender incongruence as a form of body anxiety, and treat sex reassignment surgery as a form of cosmetic surgery. A person's desire to change their body, whether from innate body schema incongruence or any acquired factor, is a matter of pure personal freedom. Its legitimacy does not need an unprovable ``gender identity.'' Gender markers should be removed from all non-medical records, and sex markers in medical records should be changed to multi-level records (chromosomes, reproductive organs, fertility, hormone levels, etc.). We should eliminate gender-segregated facilities; the assumption that people are willing to expose their private parts in front of the ``same sex'' or share a room with the ``same sex'' is also a bias. Clothing stores should no longer be divided into ``men's/women's'' sections, but organised by clothing type (tops, pants, outerwear) and size/fit. Toys should no longer be divided into ``boys'/girls','' but by function and type (e.g., building blocks, dolls, science experiments, art creation) and appropriate age.
 
@@ -490,7 +486,7 @@ As \textcite{Marx1977Critique} said in his \textit{A Contribution to the Critiqu
 
 The concept of ``gender identity'' leads individuals to equate a social construct with their true self, to internalise an external social construct as a core part of their self. It freed the body from ``gender'' because it enchained the heart. It successfully achieved what classical gender theory could not do for thousands of years. We should award it a one-kilogram-heavy medal.
 
-\citeauthor{Cull2019Against}'s (\citeyear{Cull2019Against}) claim that ``abolishing gender would endanger the lives of transgender people'' is a pure logical fallacy. Their entire article argued that ``A genderless society is harmful to transgender people by refusing to recognise their identity.'' It presumes the existence of ``transgender people'' as a fixed category in a society where the concept of gender no longer operates. As we argued earlier, any innate trait, including the innate body schema inconsistency, is not naturally related with ``gender.'' In contradiction, it is the society that assigned gender meaning to them, we internalised the assigned gender meaning and classified ourselves under this framework. This is a transgender essentialist view. It's the same as saying, ``We need to use pathogens to make vaccines, so eliminating pathogens would harm the patient's life.''
+\textcite{Cull2019Against}'s claim that ``abolishing gender would endanger the lives of transgender people'' is a pure logical fallacy. Their entire article argued that ``A genderless society is harmful to transgender people by refusing to recognise their identity.'' It presumes the existence of ``transgender people'' as a fixed category in a society where the concept of gender no longer operates. As we argued earlier, any innate trait, including the innate body schema inconsistency, is not naturally related with ``gender.'' In contradiction, it is the society that assigned gender meaning to them, we internalised the assigned gender meaning and classified ourselves under this framework. This is a transgender essentialist view. It's the same as saying, ``We need to use pathogens to make vaccines, so eliminating pathogens would harm the patient's life.''
 
 The root cause of the suffering (such as gender dysphoria) and oppression is the social construct of gender and ``phenotypic sex.'' ``Transgender'' is not an individual condition stemming from an ``inner self'' that requires medical care,\footnote{I acknowledge that body schema inconsistency is an innate individual condition that needs medical care, while as we previously argued, considering it ``gender'' is a category error.} but a serious political issue concerning human reason and existence. Insisting on ``gender identity'' is to treat only the symptoms while allowing the pathogen (the gender construct) to persist.
 
@@ -500,7 +496,7 @@ True freedom is not infinite ``genders,'' but an infinite space filled with huma
 
 I believe that not only is xenogender a misclassification and not a part of gender identity, but even the term xenoidentity is inappropriate.
 
-The current classification of ``gender identity'' relies on an unprovable assumption of importance. Why are terms derived from ``sex'' the most core identities, while queer, agender, and gender fluid are secondary, and other words are grouped into a general category of xenogender, making xenogender the ``other of the other of the other'' (gender $\to$ non-binary gender $\to$ xenogender $\to$ a specific xenogender, like catgender)? The diversity and internal heterogeneity of the xenogender are far greater than the typical gender identity, and the sources of the words also cover a much wider range (catgender, doggender, parrotgender, and lizardgender already cover the entire Amniota, and men and women, as part of \textit{Homo sapiens}, are necessarily phylogenetically nested within). This classification is extremely unnatural, a non-monophyletic group, and anthropocentric.
+The current classification of ``gender identity'' relies on an unprovable assumption of importance. Why are terms derived from ``sex'' the most core identities, while queer, agender, and gender fluid are secondary, and other words are grouped into a general category of xenogender, making xenogender the ``other of the other of the other'' (gender $\supseteq$ non-binary gender $\supseteq$ xenogender $\supseteq$ a specific xenogender, like catgender)? The diversity and internal heterogeneity of the xenogender are far greater than the typical gender identity, and the sources of the words also cover a much wider range (catgender, doggender, parrotgender, and lizardgender already cover the entire Amniota, and men and women, as part of \textit{Homo sapiens}, are necessarily phylogenetically nested within). This classification is extremely unnatural, a non-monophyletic group, and anthropocentric.
 
 Under the premise that ``all self-identities are individual self-declarations without real-world meaning,'' xenogender is neither ``xeno-'' (strange) nor ``-gender'' (gender). On the contrary, this is the broadest, freest ``self-identity,'' even ``meta-identity.'' It is the basic human ability of self-cognition, the purest, freest, most unrestricted ``identity.'' It is the act of ``an individual choosing a word to locate and describe themselves.'' It is what made us human beings. It phylogenetically includes everything, linguistically (in theory) covers all words available to us. Outside of it, we have no way to describe and define ourselves. This is the prerequisite for the birth of ``gender identity'' and even social gender constructs. Gender identity is essentially just a part of this ``meta-identity''; it is just a narrow identity that specifically uses a few specific words. The greatest guilt of ``gender identity'' is its attempt to elevate itself to a supreme position, even above the very thing that makes its existence possible.
 
@@ -558,7 +554,7 @@ This is why Queer theory will not succeed. Most people do not care if a politica
 
 Furthermore, this is itself a meta-level ``intellectual inconsistency.'' In post-structuralist tradition, especially Derridian theory, all texts are inherently unstable. However, Queer strategy actually implies that ``stable text is a normal, while unstable text will collapse.'' This is a pre-Derridian metaphysics illusion about ``presence.''  How will queer theorists respond if others declare that ``the inflation of gender is an aporia, we should enjoy it''? Additionally, given the two promises: ``all texts are inherently unstable'' and ``unstableness will cause collapse,'' the logical conclusion is that all texts must collapse. Obviously, we all know that the real world, especially politics, does not work in this way.
 
-This reminds me of \citeauthor{Habermas1987Philosophical}'s (\citeyear{Habermas1987Philosophical}) critique of Michel Foucault. He argued that Foucault's reduction of everything to ``power'' made rational communication impossible and destroyed the foundation for building a truly free society based on communicative rationality. This is perfectly shown in the communities deeply influenced by Foucault. Foucault has taught some social activists that every communication is just a move in a power game. When you tell people that there is no truth, only ``regimes of truth''; no reason, only ``power/knowledge''; no living author, only the ``author function''; no common, universal human destiny, only various discourses fighting each other—what do you expect them to do? Under this influence, if someone presents a challenging argument, you have no obligation to listen to its reasoning; you only need to analyse its ``discursive effect''\footnote{In my case, it was not even a real discursive effect, but their own prediction of a possible discursive effect. } and see it as an ``operation of power.''
+This reminds me of \textcite{Habermas1987Philosophical}'s critique of Michel Foucault. He argued that Foucault's reduction of everything to ``power'' made rational communication impossible and destroyed the foundation for building a truly free society based on communicative rationality. This is perfectly shown in the communities deeply influenced by Foucault. Foucault has taught some social activists that every communication is just a move in a power game. When you tell people that there is no truth, only ``regimes of truth''; no reason, only ``power/knowledge''; no living author, only the ``author function''; no common, universal human destiny, only various discourses fighting each other—what do you expect them to do? Under this influence, if someone presents a challenging argument, you have no obligation to listen to its reasoning; you only need to analyse its ``discursive effect''\footnote{In my case, it was not even a real discursive effect, but their own prediction of a possible discursive effect. } and see it as an ``operation of power.''
 
 According to this logic, Foucault himself should be the first to be judged, because ``morally judging and punishing an author based on discursive effects'' is precisely the real discursive effect produced in the discourse network by Foucault as an author function. Regardless of whether this was his own intention,\footnote{I know that it was not his intention, but completely anti-Foucauldian. } it has caused exclusion and harm in the real world. Foucault is the only author who cannot, like others (such as myself), claim ``that's not what I meant,'' because he himself (as the author function) has forbidden himself (as a natural person) from doing so.
 
@@ -572,7 +568,7 @@ Present-day post-structuralist scholars also live in such a performative contrad
 
 According to Foucault's definition of power, a queer theorist who teaches at a top university, can influence the thinking of a generation of students, can decide the academic future and fate of students, defines what are ``valuable'' questions and ``legitimate'' research methods in a specific field, publishes articles in famous journals, and is honoured by the media as a representative of ``progressive thought,'' should also be considered an essential node of power. Their self-proclaimed role of ``speaking for the marginalised,'' claiming to be on the margins of ``power'' and the Other, is sociologically absurd. From a Foucauldian perspective, this self-claiming is not an objective description of power, but a power strategy that attempts to produce a kind of authority for itself through discursive effects. At the same time, the mainstream liberal transgender community produces the ``innate gender identity'' through discursive effect and, through a series of social movements, implements its own political claims into written law, setting the threshold for community recognition, medical resources, and legal identity. This is also a form of power. They are not powerless victims, but an actively operating ``regime of truth.''
 
-However, post-structuralists never include them in the list of ``powers'' when analysing the operation of power. They always use external power to define the ``centre'' and the ``Other.'' When essentialist transgender people (e.g., the mechanical materialist ``gender brain'' or the idealist ``gender soul'') declare ``do not deconstruct our gender identity,'' queer theorists tend to become very gentle, even if they theoretically disagree with these people's claims (as in \citeauthor{Butler1990Gender},~\citeyear{Butler1990Gender}).
+However, post-structuralists never include them in the list of ``powers'' when analysing the operation of power. They always use external power to define the ``centre'' and the ``Other.'' When essentialist transgender people (e.g., the mechanical materialist ``gender brain'' or the idealist ``gender soul'') declare ``do not deconstruct our gender identity,'' queer theorists tend to become very gentle, even if they theoretically disagree with these people's claims (as in~\cite{Butler1990Gender}).
 
 This is not an accident, but an inherent structural problem of their narratives. Because the size of a politically effective group has the lowest limit, although this is not a mathematically precise boundary. If post-structuralists want to maintain the political effectiveness of their actions, they must stop when they touch this lowest limit. Therefore, those who ultimately receive the most attention and protection are definitely not the most special, the most vulnerable, and the most excluded people, but a self-declared ``minority'' group that is large and major enough to make the loudest sound and form effective political actions.
 
@@ -763,13 +759,13 @@ Universalism and rationalism are not a claim to power, but a relentless pursuit 
 
 {\Large \textbf{Long live the Enlightenment!}}
 
+\section*{Source Code Availability}
+
+Code for generating this document and visualising the author's experience (\cref{fig:5}): \url{https://github.com/sun-jiao/autoethnography}
+
 \printbibliography
 
-\addcontentsline{toc}{section}{References}
-
 \section*{Postscript: Story behind the Story}
-
-\addcontentsline{toc}{section}{Postscript: Story behind the Story}
 
 Every sentence in the main text is completely sincere. I have indeed experienced those events and that nightmare about psychological manipulation. After that, I began to think about gender identity from the first principles of biology, asked questions in multiple communities and was refuted, attacked, or banned. I then explored my own history. Finally, to understand ``why they attacked me,'' I learned about post-structuralism and queer theory.
 
@@ -783,7 +779,7 @@ In my view, the word ``reason'' refers to the cognitive mode shared by all human
 
 I know full well that what Foucault criticised is not this reason, but that's where the problem lies: I do not recognise ``instrumental rationality'' as a form of reason at all. I believe that the thing that creates weapons, wages wars, and harms the bodies of transgender and intersex people is merely a tyrant claiming a name that does not belong to it. I don't care what ``raison'' means in French, nor do I want to know what happened in Western history, but it cannot be translated into the word ``理性'' (lǐ xìng, reason/rationality) in my language (Chinese).
 
-Similarly, both queer theory and I long for a space with infinite human creativity. This space may need a name, or perhaps it doesn't need a name. But it cannot be called ``gender,'' because that is the name of the prison we are trying to escape from. In my view, ``gender identity,'' as in \citeauthor{Marx1977Critique}'s~\citeyear{Marx1977Critique} critique of Luther's Reformation, frees the body and enchains the heart.
+Similarly, both queer theory and I long for a space with infinite human creativity. This space may need a name, or perhaps it doesn't need a name. But it cannot be called ``gender,'' because that is the name of the prison we are trying to escape from. In my view, ``gender identity,'' as in \textcite{Marx1977Critique}'s critique of Luther's Reformation, frees the body and enchains the heart.
 
 This is precisely what makes us unable to have meaningful dialogue. Because this is not a matter of philosophical theory, but of ethics, aesthetics, and even existentialism. We both see the ``liberation'' in the other's eyes as the most significant threat, and the oppression in the other's eyes as the most important survival need. As Saussure pointed out, a word has no intrinsic meaning, so there is no transcendent metaphysical standard to judge whose use of words like ``reason/rationality'' and ``gender'' is correct. There is no Platonic ``Form of Reason,'' no theory or empirical evidence that can bridge this gap.
 
