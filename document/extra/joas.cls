@@ -461,7 +461,7 @@
 \@onlypreamble\keywords
 \newcommand*\cup@abbreviations@print{%
   \ifx\@abbreviations\@empty\else
-    {\noindent\bfseries Abbreviations: }
+    {\noindent\bfseries Glossary: }
     \@abbreviations
     \par
   \fi
