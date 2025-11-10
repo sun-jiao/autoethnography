@@ -207,11 +207,7 @@
   {\csname #1@cntformat\endcsname}% individual control
 }
 \def\section@cntformat{\thesection.\hspace{1ex}}
-\renewcommand\appendix{\par
-  \setcounter{section}{0}
-  \setcounter{subsection}{0}
-  \gdef\thesection{Appendix \@arabic\c@section}
-}
+
 \newmdenv[
   backgroundcolor=structure@color!15,
   hidealllines=true,
