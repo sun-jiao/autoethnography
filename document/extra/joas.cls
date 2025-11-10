@@ -498,27 +498,27 @@
 \setlength\cup@space@inter@extra{0.5em}
 \newlength\cup@maketitle@width
 \setlength\cup@maketitle@width{\textwidth}
-\newcommand*\affilsize{\footnotesize}
+\newcommand*\affilsize{ \footnotesize}
 \newcommand*\authorsize{\normalsize}
-\newcommand*\emailsize{\footnotesize}
+\newcommand*\emailsize{ \footnotesize}
 \newcommand*\titlesize{\Large}
-\newcommand*\datesize{\footnotesize}
+\newcommand*\datesize{ \footnotesize}
 \newcommand*\firstheadsize{\scriptsize}
-\newcommand*\affilfont{\footnotesize}
+\newcommand*\affilfont{ \footnotesize}
 \newcommand*\authorfont{}
-\newcommand*\emailfont{\footnotesize}
+\newcommand*\emailfont{ \footnotesize}
 \newcommand*\emailsymbol{*}
 \newcommand*\titlefont{\sffamily\bfseries\raggedright\color{structure@color}}
-\newcommand*\datefont{\footnotesize}
-\newcommand*\extrasfont{\footnotesize}
+\newcommand*\datefont{ \footnotesize}
+\newcommand*\extrasfont{ \footnotesize}
 \newcommand*\abstractfont{\small}
 \newcommand*\journalnamefont{\itshape}
 \newcommand*\volumefont{\bfseries}
 \newcommand*\cup@etal{\emph{et al.}}
 \def\ps@plain{
-  \renewcommand{\@oddhead}{\hfill{\journalnamefont\footnotesize\cup@journal@name}\qquad\normalsize\thepage}%
+  \renewcommand{\@oddhead}{\hfill{\journalnamefont \footnotesize\cup@journal@name}\qquad\normalsize\thepage}%
   \renewcommand{\@evenhead}{%
-    \thepage\qquad\footnotesize\@author@i
+    \thepage\qquad \footnotesize\@author@i
     \ifnum\cup@author@cnt>\@ne
       \space\cup@etal
     \fi
@@ -639,8 +639,8 @@
     \titlefont
     \titlesize
     \let\@fnsymbol\cup@author@fnsymbol
-    \let\footnote@org\footnote
-    \let\footnote\cup@title@footnote
+    \let \footnote@org \footnote
+    \let \footnote\cup@title@footnote
     \@title
     \cup@title@footnote@check
     \global\cup@footnote@cnt\c@footnote
@@ -700,7 +700,7 @@
 \newcommand*\cup@maketitle@credit{}
 \newcommand*\cup@title@footnote[1]{%
   \footnotemark
-  \g@addto@macro\@thanks{\footnotetext{#1}}%
+  \g@addto@macro\@thanks{ \footnotetext{#1}}%
 }
 \newcommand\cup@title@footnote@check{%
   \ifx\@thanks\@empty
@@ -1354,7 +1354,7 @@
 \patch@numeric@authors
 \patchcmd{\@maketitle}
 {joas-logo}{joas-logo}{}{}
-\let\endnote\footnote
+\let\endnote \footnote
 \let\printendnotes\relax
 \AtEndOfClass{%
   \colorlet{tbrowcolor}{white}
@@ -1367,7 +1367,7 @@
 % \RequirePackage[authordate,natbib]{biblatex-chicago}
 % \renewcommand*{\bibfont}{\small}
 
-\RequirePackage[backend=biber,style=authoryear,maxbibnames=10,sorting=none]{biblatex}
+\RequirePackage[backend=biber,style=authoryear,maxbibnames=10,sorting=nyt]{biblatex}
 
 \RequirePackage{booktabs}
 
