@@ -6,28 +6,30 @@
 %  volume=x,
 ]{extra/joas}
 \usepackage[fontset=none, punct=plain]{ctex}
-\usepackage[backend=biber, style=authoryear]{biblatex}
+\usepackage[backend=biber, style=apa,sorting=nyt]{biblatex}
 \usepackage{cleveref}
 \usepackage{hyperref}
 \usepackage{tabularx}
 \usepackage{booktabs}
+%\usepackage{textcomp}
+%\usepackage{lmodern}
 \setCJKmainfont{Noto Serif CJK SC}
 \renewcommand{\abstractname}{Abstract}
 \renewcommand{\figurename}{Figure}
 \renewcommand{\tablename}{Table}
 \renewcommand{\refname}{References}
 % \renewcommand{\bibname}{References}
+\newcommand\posscite[1]{\citeauthor{#1}'s (\citeyear{#1})}
 \crefname{appendix}{Appendix}{Appendices}
-\Crefname{appendix}{Appendix}{Appendices}
 \interfootnotelinepenalty=10000
-\AtAppendix{\crefalias{section}{appendix}}
+%\AtAppendix{\crefalias{section}{appendix}}
 \addbibresource{references.bib}
 \DeclareNameAlias{sortname}{last-first}
 \DeclareNameAlias{default}{last-first}
 
 \nolinenumbers
 
-\title{An Autoethnography of a Gender Abolitionist Transgender Evolutionary Biologist}
+\title[For Abolition: Critique of “Gender Identity” and Queer Theory with an Autoethnographical Case Study]{For Abolition: Critique of ``Gender Identity'' and Queer Theory with an Autoethnographical Case Study}
 
 \author{Jiao Sun\orcidlink{0000-0002-5028-8132}}
 \affiliation{Division of Ecology and Evolutionary Biology, School of Biological Science, University of Reading, Whiteknights, Reading, RG6 6EX, United Kingdom}
@@ -35,46 +37,46 @@
 \date{10/02/2025}
 
 % maximum five keywords
-\keywords{Autoethnography, gender abolitionism, gender identity, gender studies, philosophy of biology, post-structuralism, trans philosophy}
+\keywords{Gender abolitionism, gender identity, gender studies, philosophy of biology, post-structuralism, trans philosophy}
 
 % Important: don't overuse abbreviations. Only use abbreviations if the term is used more than ten times throughout the paper. Otherwise, write them in full.
-\abbreviations{
-The author uses ``phenotypic sex'' as an alternative to the conventional term ``biological sex,'' given the fact that the academic biological definition of sex (sex \textit{sensu stricto}) is about gametes.
-}
+%\abbreviations{
+%
+%}
 
 \begin{document}
 
 %\maketitle
 
-\begin{abstract}
-This autoethnography presents a comprehensive personal journey of a transgender evolutionary biologist examining the origins of their gender identity, finally culminating in an argument for gender abolitionism. The author's ``gender identity'' is not to an innate, ontological essence, but to a complex synthesis of internalised social norms, childhood trauma, aesthetic preferences, and reactions to a ``pervasively gendered'' society that repeatedly assigned gendered meaning to neutral behaviours, objects, and personality traits.
-
-The narrative critically engages with mainstream gender theories, revealing logical inconsistencies, circular reasoning, and category errors within concepts such as the sex/gender distinction, ``innate gender identity'', ``assigned sex at birth'' (ASAB), and the cisgender/transgender binary. The author proposes a revolution in the form of gender abolitionism: a framework that strictly limits sex \textit{sensu stricto} to gametes, dismantles phenotypic ``sex'' into a spectrum of sexual dimorphic traits, and advocates for the complete removal of gender as a social, legal, cultural, and self-identity category.
-
-Furthermore, the article extends its critique to post-structuralist and queer theories, arguing that while their deconstructive intentions are noted, their real-world effect paradoxically reinforces gender-centrism and destructed an intersubjective world, ultimately failing to provide a path to liberation. Ultimately, the work is a defence of universalism and scientific realism as essential tools for dismantling all forms of oppression, arguing that a consistent application of reason offers the most profound and inclusive path toward human freedom, transcending the contemporary identity politics.
-\end{abstract}
+%\begin{abstract}
+%This autoethnography presents a comprehensive personal journey of a transgender (gender-fluid) evolutionary biologist examining the origins of their gender identity, finally culminating in an argument for gender abolitionism. The author's ``gender identity'' is not to an innate, ontological essence, but to a complex synthesis of internalised social norms, childhood trauma, aesthetic preferences, and reactions to a ``pervasively gendered'' society that repeatedly assigned gendered meaning to neutral behaviours, objects, and personality traits.
+%
+%The narrative critically engages with mainstream gender theories, revealing logical inconsistencies, circular reasoning, and category errors within concepts such as the sex/gender distinction, ``innate gender identity'', ``assigned sex at birth'' (ASAB), and the cisgender/transgender binary. The author proposes a revolution in the form of gender abolitionism: a framework that strictly limits sex \textit{sensu stricto} to gametes, dismantles phenotypic ``sex'' into a spectrum of sexual dimorphic traits, and advocates for the complete removal of gender as a social, legal, cultural, and self-identity category.
+%
+%Furthermore, the article extends its critique to post-structuralist and queer theories, arguing that while their deconstructive intentions are noted, their real-world effect paradoxically reinforces gender-centrism and destructed an intersubjective world, ultimately failing to provide a path to liberation. Ultimately, the work is a defence of universalism and scientific realism as essential tools for dismantling all forms of oppression, arguing that a consistent application of reason offers the most profound and inclusive path toward human freedom, transcending the contemporary identity politics.
+%\end{abstract}
 
 \addcontentsline{toc}{section}{Abstract}
 
-\section{Introduction}\label{sec:introduction}
-\input{chapters/introduction}
+%\section{Introduction}\label{sec:introduction}
+%\input{chapters/introduction}
 
-\section{My Experience}\label{sec:my-experience}
-\input{chapters/experience}
+%\section{My Experience}\label{sec:my-experience}
+%\input{chapters/experience}
 
 \section{Biological Critique of Gender Identity}\label{sec:biological-critique}
 \input{chapters/biological-critique}
 
-\section{Myself: A Case Study}\label{sec:myself-a-case-study}
+\section{My Gender Identity: A Case Study}\label{sec:case-study}
 
-\subsection{My Gender Identity}\label{subsec:my-gender-identity}
+%\subsection{My Gender Identity}\label{subsec:my-gender-identity}
 \input{chapters/my-gender-identity}
 
 %\section{Vertigo}\{sec:vertigo}
 %\input{chapters/vertigo}
 
-\subsection{My Philosophy}\label{subsec:my-philosophy}
-\input{chapters/my-philosophy}
+%\subsection{My Philosophy}\label{subsec:my-philosophy}
+%\input{chapters/my-philosophy}
 
 \section{Philosophical Critique of Gender Identity}\label{sec:philosophical-critique}
 \input{chapters/philosophical-critique}
@@ -82,43 +84,43 @@ Furthermore, the article extends its critique to post-structuralist and queer th
 \section{For Abolition}\label{sec:for-abolition}
 \input{chapters/for-abolition}
 
-\section{Dialogues}\label{sec:dialogues}
-\input{chapters/dialogues}
+%\section{Dialogues}\label{sec:dialogues}
+%\input{chapters/dialogues}
 
 %\section{Enabling Act}\label{sec:enabling-act}
 %\input{chapters/enabling-act}
 
-\section{An Answer to the Question: What is Enlightenment?}\label{sec:what-is-enlightenment}
-\input{chapters/what-is-enlightenment}
+%\section{An Answer to the Question: What is Enlightenment?}\label{sec:what-is-enlightenment}
+%\input{chapters/what-is-enlightenment}
 
-\section{Conclusion}\label{sec:conclusion}
-\input{chapters/conclusion}
+%\section{Conclusion}\label{sec:conclusion}
+%\input{chapters/conclusion}
 
 %\section*{Postscript: Story behind the Story}
 %\input{chapters/postscript}
 
-\section*{Acknowledgements}
-
-I am grateful to the Enlightenment and its thinkers. You illuminated the darkness with the light of reason. You constructed the independent, resilient, courageous, and fearless subject. I am sincerely grateful to the anonymous prisoner in Mauthausen concentration camp. You kept the immortal light of the Enlightenment and Haskalah. You proved how invincible and indestructible humanity can be, even in the most dehumanising situation.
-
-{\large Long live the Enlightenment!}
+%\section*{Acknowledgements}
+%
+%I am grateful to the Enlightenment and its thinkers. You illuminated the darkness with the light of reason. You constructed the independent, resilient, courageous, and fearless subject. I am sincerely grateful to the anonymous prisoner in Mauthausen concentration camp. You kept the immortal light of the Enlightenment and Haskalah. You proved how invincible and indestructible humanity can be, even in the most dehumanising situation.
+%
+%{\large Long live the Enlightenment!}
 
 \section*{Source Code Availability}
 
-Code for generating this document and visualising the author's ``bundle of gender identity'' (\cref{fig:bundle}): \url{https://github.com/sun-jiao/autoethnography}
+Code for generating this document and visualising the author's gender identity (\cref{fig:bundle}): \url{https://github.com/sun-jiao/autoethnography}
 
 \printbibliography
 
-\appendix
-
-\crefalias{section}{appendix}
-
-\section[“Assigned Sex at Birth” Lacks Inclusivity for Intersex People, and a Philosophical Critique of its “Mechanical Idealism”]{``Assigned Sex at Birth'' Lacks Inclusivity for Intersex People, and a Philosophical Critique of its ``Mechanical Idealism''} \label{app:asab}
-\input{appendices/assigned-sex-at-birth-and-intersex}
-
-%\section{Becoming-Woman: An Autoethnography of Interpellation and Performativity} \label{app:b}
+%\appendix
 %
-%[Omitting the pre-reflective experience in the section ``The Shadows in the Cave.'']
+%\crefalias{section}{appendix}
+%
+%\section[“Assigned Sex at Birth” Lacks Inclusivity for Intersex People, and a Philosophical Critique of its “Mechanical Idealism”]{``Assigned Sex at Birth'' Lacks Inclusivity for Intersex People, and a Philosophical Critique of its ``Mechanical Idealism''} \label{app:asab}
+%\input{appendices/assigned-sex-at-birth-and-intersex}
+%
+%\section{An Autoethnography of Interpellation and Performativity} \label{app:b}
+%
+%[Omitting the pre-analysis experience in the section \hyperref[sec:my-experience]{My Experience}]
 %\input{appendices/becoming-woman}
-
+%
 \end{document}

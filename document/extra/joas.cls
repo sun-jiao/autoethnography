@@ -41,6 +41,7 @@
 %\RequirePackage[T1]{fontenc}
 \RequirePackage[tt=false, type1=true]{libertine}
 \RequirePackage[libertine]{newtxmath}
+\let\liningnums\relax
 \RequirePackage[semibold]{sourcesanspro}
 \RequirePackage[scaled=0.95]{inconsolata}
 \RequirePackage[italic,eulergreek,defaultmathsizes]{mathastext}
@@ -1363,7 +1364,7 @@
 % \RequirePackage[authordate,natbib]{biblatex-chicago}
 % \renewcommand*{\bibfont}{\small}
 
-\RequirePackage[backend=biber,style=authoryear,maxbibnames=10,sorting=nyt]{biblatex}
+%\RequirePackage[backend=biber,style=apa,maxbibnames=10,sorting=nyt]{biblatex}
 
 \RequirePackage{booktabs}
 
