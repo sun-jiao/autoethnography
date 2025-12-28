@@ -5,9 +5,9 @@
 <!-- Pages: 1 -->
 
 <svg
-   width="1735.5pt"
-   height="608.0675pt"
-   viewBox="0 0 1735.5 608.0675"
+   width="1640.6965pt"
+   height="573.25pt"
+   viewBox="0 0 1640.6965 573.24999"
    version="1.1"
    id="svg91"
    sodipodi:docname="bundle_of_gender_identity.svg"
@@ -31,39 +31,19 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="pt"
-     inkscape:zoom="1.2836871"
-     inkscape:cx="1159.5505"
-     inkscape:cy="229.02777"
+     inkscape:zoom="0.81513067"
+     inkscape:cx="1040.324"
+     inkscape:cy="176.65879"
      inkscape:window-width="2880"
      inkscape:window-height="1664"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
-     inkscape:current-layer="edge64" />
+     inkscape:current-layer="svg91" />
   <g
      id="graph0"
      class="graph"
-     transform="translate(0.5,615.5)">
-    <g
-       id="clust1"
-       class="cluster">
-      <title
-         id="title1">cluster_base</title>
-      <polygon
-         fill="#d3d3d3"
-         stroke="#d3d3d3"
-         points="1128.12,-8 249.12,-8 249.12,-87.5 1128.12,-87.5 "
-         id="polygon2"
-         transform="matrix(0.74989429,0,0,1.0016769,62.239681,0.08006978)" />
-      <text
-         xml:space="preserve"
-         text-anchor="middle"
-         x="538.62"
-         y="-18.200001"
-         font-family="'Noto Sans'"
-         font-size="14px"
-         id="text2">Basic Traits</text>
-    </g>
+     transform="translate(-94.303516,615.5)">
     <g
        id="clust2"
        class="cluster"
@@ -73,9 +53,9 @@
       <polygon
          fill="#d3d3d3"
          stroke="#d3d3d3"
-         points="1105.12,-537 1105.12,-457.5 69.12,-457.5 69.12,-537 "
+         points="69.12,-457.5 69.12,-537 1105.12,-537 1105.12,-457.5 "
          id="polygon3"
-         transform="matrix(0.99993347,0,0,1.1426815,0.03906234,75.154455)" />
+         transform="matrix(0.97519829,0,0,1.1428486,27.385409,75.237514)" />
       <text
          xml:space="preserve"
          text-anchor="middle"
@@ -104,7 +84,7 @@
          y="-341.60001"
          font-family="'Noto Sans'"
          font-size="12px"
-         id="text5">Imitating “Girls'</text>
+         id="text5">Imitating “Girls’</text>
       <text
          xml:space="preserve"
          text-anchor="middle"
@@ -112,41 +92,23 @@
          y="-324.35001"
          font-family="'Noto Sans'"
          font-size="12px"
-         id="text6">Behavior” from TV</text>
+         id="text6">Behaviour” from TV</text>
     </g>
     <!-- n_learn&#45;&gt;tv_series -->
     <!-- n_personality -->
-    <g
-       id="node2"
-       class="node">
-      <title
-         id="title7">n_personality</title>
-      <polygon
-         fill="#ffffff"
-         stroke="#ffffff"
-         points="760.38,-43.5 873.88,-43.5 873.88,-79.5 760.38,-79.5 "
-         id="polygon7" />
-      <text
-         xml:space="preserve"
-         text-anchor="middle"
-         x="817.12"
-         y="-58.73"
-         font-family="'Noto Sans'"
-         font-size="12px"
-         id="text7">Personality Traits</text>
-    </g>
     <!-- ph03 -->
     <!-- n_personality&#45;&gt;ph03 -->
     <!-- g_name -->
     <g
        id="node9"
-       class="node">
+       class="node"
+       transform="translate(144)">
       <title
          id="title8">g_name</title>
       <polygon
          fill="#ffffff"
          stroke="#ffffff"
-         points="433.38,-493 576.88,-493 576.88,-529 433.38,-529 "
+         points="433.38,-529 433.38,-493 576.88,-493 576.88,-529 "
          id="polygon8" />
       <text
          xml:space="preserve"
@@ -155,25 +117,27 @@
          y="-508.23001"
          font-family="'Noto Sans'"
          font-size="12px"
-         id="text8">Internalization (Name)</text>
+         id="text8">Internalisation (Name)</text>
     </g>
     <!-- n_personality&#45;&gt;g_name -->
     <g
        id="edge18"
-       class="edge">
+       class="edge"
+       transform="rotate(8.0185747,556.61868,662.40462)">
       <title
          id="title9">n_personality-&gt;g_name</title>
       <path
          fill="none"
          stroke="#000000"
-         d="M 767.57,-79.89 C 462.10146,-219.31801 439.12822,-412.38474 484.4,-483.59"
+         d="M 635.57,-75.39 C 549.00055,-132.91908 455.54641,-361.06635 478.4,-483.59"
          id="path9"
          sodipodi:nodetypes="cc" />
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="487.16,-481.43 481.58,-485.66 490.4,-491.51 "
-         id="polygon9" />
+         points="481.58,-485.66 490.4,-491.51 487.16,-481.43 "
+         id="polygon9"
+         transform="rotate(-25.446608,486.26576,-468.33143)" />
     </g>
     <!-- bullying -->
     <g
@@ -346,6 +310,25 @@
          points="913.8,-306.77 906.93,-305.43 908.46,-315.92 "
          id="polygon18" />
     </g>
+    <g
+       id="edge17-0"
+       class="edge"
+       transform="matrix(-0.94419893,0.32937575,0.32937575,0.94419893,1444.3032,-406.04258)">
+      <title
+         id="title18-9">n_personality-&gt;toys</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 747.39376,-0.50473489 C 781.80196,-18.129465 904.27055,-234.80889 910.22885,-306.88746"
+         id="path18-1"
+         sodipodi:nodetypes="cc" />
+      <polygon
+         fill="#000000"
+         stroke="#000000"
+         points="906.93,-305.43 908.46,-315.92 913.8,-306.77 "
+         id="polygon18-7"
+         transform="rotate(18.762934,913.83512,-307.1857)" />
+    </g>
     <!-- play_with_girls -->
     <g
        id="node31"
@@ -375,124 +358,28 @@
       <path
          fill="none"
          stroke="#000000"
-         d="M 785.02,-79.87 C 602.98085,-192.90102 749.74476,-378.87021 774.08163,-405.30084"
+         d="m 755.02,-79.87 c -68.92071,-62.11511 -29.96752,-232.18478 34.06163,-317.93084"
          id="path20"
          sodipodi:nodetypes="cc" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         points="763.91,-410.87 762.79,-417.78 773.22,-415.92 "
-         id="polygon20" />
     </g>
     <!-- n_sex -->
-    <g
-       id="node3"
-       class="node">
-      <title
-         id="title21">n_sex</title>
-      <polygon
-         fill="#ffffff"
-         stroke="#ffffff"
-         points="536.5,-43.5 617.75,-43.5 617.75,-79.5 536.5,-79.5 "
-         id="polygon21" />
-      <text
-         xml:space="preserve"
-         text-anchor="middle"
-         x="577.12"
-         y="-58.73"
-         font-family="'Noto Sans'"
-         font-size="12px"
-         id="text21">Sex Instinct</text>
-    </g>
     <!-- ph02 -->
     <!-- n_sex&#45;&gt;ph02 -->
     <!-- fetish -->
-    <g
-       id="node20"
-       class="node">
-      <title
-         id="title22">fetish</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 472.12,-261.25 c 0,0 -30,0 -30,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 30,0 30,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
-         id="path22" />
-      <text
-         xml:space="preserve"
-         text-anchor="middle"
-         x="457.12"
-         y="-240.47"
-         font-family="'Noto Sans'"
-         font-size="12px"
-         id="text22">Fetish</text>
-    </g>
     <!-- n_sex&#45;&gt;fetish -->
-    <g
-       id="edge30"
-       class="edge"
-       transform="translate(-2.6689473,-2.0017104)">
-      <title
-         id="title23">n_sex-&gt;fetish</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 572.92,-78.5 c -22.50539,-84.71298 -53.62166,-115.32031 -82.97,-139.54"
-         id="path23"
-         sodipodi:nodetypes="cc" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         points="488.18,-214.98 482.56,-223.96 492.56,-220.44 "
-         id="polygon23" />
-    </g>
     <!-- sex_orie -->
-    <g
-       id="node27"
-       class="node">
-      <title
-         id="title24">sex_orie</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 315.62,-353.75 c 0,0 -97,0 -97,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 97,0 97,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
-         id="path24" />
-      <text
-         xml:space="preserve"
-         text-anchor="middle"
-         x="267.12"
-         y="-332.98001"
-         font-family="'Noto Sans'"
-         font-size="12px"
-         id="text24">Sexual Orientation</text>
-    </g>
     <!-- n_sex&#45;&gt;sex_orie -->
-    <g
-       id="edge44"
-       class="edge">
-      <title
-         id="title25">n_sex-&gt;sex_orie</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         d="M 536.43,-79.96 C 374.08295,-85.936493 280.27163,-144.77805 267.83,-306.04"
-         id="path25"
-         sodipodi:nodetypes="cc" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         points="271.33,-306.12 264.34,-305.78 267.36,-315.94 "
-         id="polygon25" />
-    </g>
     <!-- n_neuro_aes -->
     <g
        id="node4"
-       class="node">
+       class="node"
+       transform="translate(120)">
       <title
          id="title26">n_neuro_aes</title>
       <polygon
          fill="#ffffff"
          stroke="#ffffff"
-         points="256.75,-43.5 393.5,-43.5 393.5,-79.5 256.75,-79.5 "
+         points="393.5,-79.5 256.75,-79.5 256.75,-43.5 393.5,-43.5 "
          id="polygon26" />
       <text
          xml:space="preserve"
@@ -501,14 +388,15 @@
          y="-58.73"
          font-family="'Noto Sans'"
          font-size="12px"
-         id="text26">Neuroaesthetic Traits</text>
+         id="text26" />
     </g>
     <!-- ph01 -->
     <!-- n_neuro_aes&#45;&gt;ph01 -->
     <!-- aes -->
     <g
        id="node18"
-       class="node">
+       class="node"
+       transform="translate(189)">
       <title
          id="title27">aes</title>
       <path
@@ -525,10 +413,32 @@
          font-size="12px"
          id="text27">Aesthetic Views</text>
     </g>
+    <g
+       id="node18-1"
+       class="node"
+       transform="translate(329.52232,-0.50001)">
+      <title
+         id="title27-1">aes</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="M 224.88,-261.25 H 84.38 c -6,0 -12,6 -12,12 v 12 c 0,6 6,12 12,12 h 140.5 c 6,0 12,-6 12,-12 v -12 c 0,-6 -6,-12 -12,-12"
+         id="path27-5"
+         sodipodi:nodetypes="csssssssc" />
+      <text
+         xml:space="preserve"
+         text-anchor="middle"
+         x="153.12"
+         y="-240.47"
+         font-family="'Noto Sans'"
+         font-size="12px"
+         id="text27-9">Other psychological stress</text>
+    </g>
     <!-- n_neuro_aes&#45;&gt;aes -->
     <g
        id="edge41"
-       class="edge">
+       class="edge"
+       transform="translate(180)">
       <title
          id="title28">n_neuro_aes-&gt;aes</title>
       <path
@@ -539,7 +449,7 @@
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="164.04,-218.76 158.87,-214.04 154.72,-223.79 "
+         points="158.87,-214.04 154.72,-223.79 164.04,-218.76 "
          id="polygon28" />
     </g>
     <!-- ph01&#45;&gt;n_sex -->
@@ -548,13 +458,14 @@
     <!-- g_behaviour -->
     <g
        id="node8"
-       class="node">
+       class="node"
+       transform="translate(-18)">
       <title
          id="title29">g_behaviour</title>
       <polygon
          fill="#ffffff"
          stroke="#ffffff"
-         points="929.38,-493 1096.88,-493 1096.88,-529 929.38,-529 "
+         points="929.38,-529 929.38,-493 1096.88,-493 1096.88,-529 "
          id="polygon29" />
       <text
          xml:space="preserve"
@@ -563,27 +474,29 @@
          y="-508.23001"
          font-family="'Noto Sans'"
          font-size="12px"
-         id="text29">Internalization (Behaviour)</text>
+         id="text29">Internalisation (Behaviour)</text>
     </g>
     <!-- g_identity -->
     <g
        id="node10"
-       class="node">
+       class="node"
+       transform="translate(105)">
       <title
          id="title30">g_identity</title>
       <polygon
          fill="#ffffff"
          stroke="#ffffff"
-         points="619.5,-493 772.75,-493 772.75,-529 619.5,-529 "
-         id="polygon30" />
+         points="772.75,-529 619.5,-529 619.5,-493 772.75,-493 "
+         id="polygon30"
+         transform="translate(15)" />
       <text
          xml:space="preserve"
          text-anchor="middle"
-         x="696.12"
+         x="711.12"
          y="-508.23001"
          font-family="'Noto Sans'"
          font-size="12px"
-         id="text30">Internalization (Identity)</text>
+         id="text30">Internalisation (Identity)</text>
     </g>
     <!-- g_name&#45;&gt;g_identity -->
     <!-- ph10 -->
@@ -631,13 +544,14 @@
     <!-- g_body_func -->
     <g
        id="node11"
-       class="node">
+       class="node"
+       transform="translate(168)">
       <title
          id="title33">g_body_func</title>
       <polygon
          fill="#ffffff"
          stroke="#ffffff"
-         points="256.25,-493 390,-493 390,-529 256.25,-529 "
+         points="390,-493 390,-529 256.25,-529 256.25,-493 "
          id="polygon33" />
       <text
          xml:space="preserve"
@@ -646,19 +560,20 @@
          y="-508.23001"
          font-family="'Noto Sans'"
          font-size="12px"
-         id="text33">Body Envy (Function)</text>
+         id="text33">Body Dysphoria</text>
     </g>
     <!-- g_body_func&#45;&gt;g_name -->
     <!-- g_body_aes -->
     <g
        id="node12"
-       class="node">
+       class="node"
+       transform="translate(192)">
       <title
          id="title34">g_body_aes</title>
       <polygon
          fill="#ffffff"
          stroke="#ffffff"
-         points="76.75,-493 213.5,-493 213.5,-529 76.75,-529 "
+         points="213.5,-493 213.5,-529 76.75,-529 76.75,-493 "
          id="polygon34" />
       <text
          xml:space="preserve"
@@ -674,7 +589,8 @@
     <!-- girls_shoes -->
     <g
        id="node14"
-       class="node">
+       class="node"
+       transform="translate(105)">
       <title
          id="title35">girls_shoes</title>
       <path
@@ -700,8 +616,9 @@
       <path
          fill="none"
          stroke="#000000"
-         d="m 512.8,-150.75 c 71.12,0 142.23,0 213.35,0"
-         id="path36" />
+         d="M 617.8,-150.75 H 726.15"
+         id="path36"
+         sodipodi:nodetypes="cc" />
       <polygon
          fill="#000000"
          stroke="#000000"
@@ -709,27 +626,11 @@
          id="polygon36" />
     </g>
     <!-- girls_shoes&#45;&gt;fetish -->
-    <g
-       id="edge31"
-       class="edge">
-      <title
-         id="title37">girls_shoes-&gt;fetish</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 468.43,-169.2 c -1.96,-12.64 -4.65,-30.02 -6.91,-44.65"
-         id="path37" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         points="465.04,-214.01 458.12,-212.94 460.05,-223.36 "
-         id="polygon37" />
-    </g>
     <!-- knowledge -->
     <g
        id="node15"
        class="node"
-       transform="translate(-60)">
+       transform="translate(-57)">
       <title
          id="title38">knowledge</title>
       <path
@@ -777,7 +678,8 @@
     <!-- construct_aes -->
     <g
        id="node16"
-       class="node">
+       class="node"
+       transform="translate(189)">
       <title
          id="title42">construct_aes</title>
       <path
@@ -805,7 +707,8 @@
     <!-- construct_aes&#45;&gt;aes -->
     <g
        id="edge42"
-       class="edge">
+       class="edge"
+       transform="translate(189)">
       <title
          id="title43">construct_aes-&gt;aes</title>
       <path
@@ -816,7 +719,7 @@
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="119.05,-213.74 113.66,-218.21 122.73,-223.68 "
+         points="113.66,-218.21 122.73,-223.68 119.05,-213.74 "
          id="polygon43" />
     </g>
     <!-- bullying&#45;&gt;rationality -->
@@ -839,23 +742,6 @@
          id="polygon44" />
     </g>
     <!-- bullying&#45;&gt;fetish -->
-    <g
-       id="edge29"
-       class="edge">
-      <title
-         id="title45">bullying-&gt;fetish</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 741.14,-164.7 c -72.63,-18.78 -187.1,-52.49 -245.75,-67.66"
-         id="path45"
-         sodipodi:nodetypes="cc" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         points="496.43,-235.7 494.68,-228.92 485.87,-234.82 "
-         id="polygon45" />
-    </g>
     <!-- bullying&#45;&gt;introversion -->
     <g
        id="edge59"
@@ -882,7 +768,7 @@
     <g
        id="node30"
        class="node"
-       transform="translate(-10.5)">
+       transform="translate(25.5)">
       <title
          id="title47">chain</title>
       <path
@@ -899,28 +785,51 @@
          font-size="12px"
          id="text47">Dream</text>
     </g>
+    <g
+       id="node30-1"
+       class="node"
+       transform="translate(24.02233,-88.871216)">
+      <title
+         id="title47-7">chain</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 704.38,-353.75 c 0,0 -80.5,0 -80.5,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 80.5,0 80.5,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         id="path47-2" />
+      <text
+         xml:space="preserve"
+         text-anchor="middle"
+         x="664.12"
+         y="-332.98001"
+         font-family="'Noto Sans'"
+         font-size="12px"
+         id="text47-7">Girls’ bathroom</text>
+    </g>
     <!-- bullying&#45;&gt;chain -->
     <g
        id="edge22"
        class="edge"
-       transform="translate(-3)">
+       transform="translate(12)">
       <title
          id="title48">bullying-&gt;chain</title>
       <path
          fill="none"
          stroke="#000000"
-         d="m 751.88,-169.22 c -25.87,-11.03 -54.67,-27.98 -71.76,-52.78 -16.98,-24.65 -19.47,-59.59 -18.67,-84.02"
-         id="path48" />
+         d="m 753.38,-169.22 c -25.87,-11.03 -38.17,-27.98 -55.26,-52.78 -16.98,-24.65 -19.47,-59.59 -18.67,-84.02"
+         id="path48"
+         sodipodi:nodetypes="ccc" />
       <polygon
          fill="#000000"
          stroke="#000000"
          points="664.94,-305.71 657.95,-306.1 662,-315.89 "
-         id="polygon48" />
+         id="polygon48"
+         transform="translate(18)" />
     </g>
     <!-- aes&#45;&gt;g_body_aes -->
     <g
        id="edge46"
-       class="edge">
+       class="edge"
+       transform="translate(189)">
       <title
          id="title49">aes-&gt;g_body_aes</title>
       <path
@@ -931,26 +840,10 @@
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="147.87,-481.24 140.87,-481.43 144.63,-491.33 "
+         points="140.87,-481.43 144.63,-491.33 147.87,-481.24 "
          id="polygon49" />
     </g>
     <!-- aes&#45;&gt;sex_orie -->
-    <g
-       id="edge43"
-       class="edge">
-      <title
-         id="title50">aes-&gt;sex_orie</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 163,-261.7 c 19.9,-13.96 48.01,-33.68 70.01,-49.12"
-         id="path50" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         points="234.91,-307.88 230.89,-313.61 241.09,-316.49 "
-         id="polygon50" />
-    </g>
     <!-- rationality&#45;&gt;enlightenment -->
     <g
        id="edge52"
@@ -1099,7 +992,7 @@
     <g
        id="node22"
        class="node"
-       transform="translate(16.5)">
+       transform="translate(31.5)">
       <title
          id="title58">behaviour_diff</title>
       <path
@@ -1140,6 +1033,24 @@
          stroke="#000000"
          points="827.24,-394.53 820.52,-396.47 826.66,-405.1 "
          id="polygon59" />
+    </g>
+    <g
+       id="edge36-7"
+       class="edge"
+       transform="matrix(-0.94051333,-0.3397568,-0.3397568,0.94051333,1101.8491,256.42711)">
+      <title
+         id="title59-6">behaviour_diff-&gt;play_with_girls</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 786.7429,-266.67734 c 9.32,-32.2 26.83036,-93.08923 37.35036,-129.44923"
+         id="path59-7"
+         sodipodi:nodetypes="cc" />
+      <polygon
+         fill="#000000"
+         stroke="#000000"
+         points="826.66,-405.1 827.24,-394.53 820.52,-396.47 "
+         id="polygon59-3" />
     </g>
     <!-- abolition -->
     <g
@@ -1269,7 +1180,7 @@
       <path
          fill="none"
          stroke="#000000"
-         d="m 1587,-357.4 c -57.5551,-75.35423 -86.8058,-114.32751 -162.36,-212.49"
+         d="m 1558.5,-357.4 c -40.0275,-84.11805 -58.3058,-114.32751 -133.86,-212.49"
          id="path66"
          sodipodi:nodetypes="cc" />
       <polygon
@@ -1348,55 +1259,44 @@
        class="edge">
       <title
          id="title70">sex_orie-&gt;play_with_girls</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 327.86,-346.13 c 106.08,-16.38 324.43,-50.1 435.75,-67.29"
-         id="path70" />
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="763.85,-409.91 762.78,-416.83 773.2,-414.9 "
+         points="773.2,-414.9 763.85,-409.91 762.78,-416.83 "
          id="polygon70"
-         transform="rotate(-41.508041,782.37723,-417.78623)" />
+         transform="rotate(-41.508041,797.31474,-439.28629)" />
     </g>
     <!-- crush -->
     <g
        id="node35"
-       class="node">
+       class="node"
+       transform="translate(169.98617,89.570562)">
       <title
          id="title71">crush</title>
       <path
          fill="none"
          stroke="#000000"
-         d="m 241.12,-443 c 0,0 -30,0 -30,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 30,0 30,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
-         id="path71" />
+         d="m 263.62,-443 h -75 c -6,0 -12,6 -12,12 v 12 c 0,6 6,12 12,12 h 75 c 6,0 12,-6 12,-12 v -12 c 0,-6 -6,-12 -12,-12"
+         id="path71"
+         sodipodi:nodetypes="csssssssc" />
       <text
          xml:space="preserve"
          text-anchor="middle"
          x="226.12"
-         y="-422.23001"
+         y="-428.23001"
          font-family="'Noto Sans'"
          font-size="12px"
-         id="text71">Crush</text>
+         id="text71"><tspan
+           sodipodi:role="line"
+           id="tspan3"
+           x="226.12"
+           y="-428.23001">Gender </tspan><tspan
+           sodipodi:role="line"
+           id="tspan4"
+           x="226.12"
+           y="-413.23001">incongruence</tspan></text>
     </g>
     <!-- sex_orie&#45;&gt;crush -->
-    <g
-       id="edge47"
-       class="edge">
-      <title
-         id="title72">sex_orie-&gt;crush</title>
-      <path
-         fill="none"
-         stroke="#000000"
-         d="m 259.02,-353.99 c -5.72,-12.19 -13.52,-28.78 -20.09,-42.75"
-         id="path72" />
-      <polygon
-         fill="#000000"
-         stroke="#000000"
-         points="242.27,-397.87 235.94,-394.89 234.85,-405.43 "
-         id="polygon72" />
-    </g>
     <!-- tv_series&#45;&gt;g_behaviour -->
     <g
        id="edge14"
@@ -1525,19 +1425,44 @@
     <g
        id="edge23"
        class="edge"
-       transform="translate(-10.5)">
+       transform="rotate(31.18177,755.02286,-268.25978)"
+       inkscape:transform-center-x="50.518247"
+       inkscape:transform-center-y="56.99858">
       <title
          id="title80">chain-&gt;g_identity</title>
       <path
          fill="none"
          stroke="#000000"
-         d="m 667.31,-354 c 5.5,-29.75 16.82,-91.04 23.52,-127.31"
-         id="path80" />
+         d="m 674.54892,-319.37526 c -4.26725,-29.56022 0.59801,-120.22831 7.29801,-156.49831"
+         id="path80"
+         sodipodi:nodetypes="cc" />
       <polygon
          fill="#000000"
          stroke="#000000"
          points="687.37,-481.88 692.63,-491.08 694.26,-480.61 "
-         id="polygon80" />
+         id="polygon80"
+         transform="translate(-8.9830544,5.4364258)" />
+    </g>
+    <g
+       id="edge23-2"
+       class="edge"
+       transform="rotate(46.027189,733.65921,-394.36188)"
+       inkscape:transform-center-x="63.474625"
+       inkscape:transform-center-y="41.659152">
+      <title
+         id="title80-6">chain-&gt;g_identity</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 667.83523,-395.62819 c 5.04695,-29.8302 5.87773,-38.66336 12.0254,-75.03105"
+         id="path80-1"
+         sodipodi:nodetypes="cc" />
+      <polygon
+         fill="#000000"
+         stroke="#000000"
+         points="694.26,-480.61 687.37,-481.88 692.63,-491.08 "
+         id="polygon80-0"
+         transform="rotate(-0.87133457,1385.687,245.30799)" />
     </g>
     <!-- play_with_girls&#45;&gt;g_behaviour -->
     <g
@@ -1590,20 +1515,21 @@
     <g
        id="edge35"
        class="edge"
-       transform="translate(51,-13.5)">
+       transform="translate(125.84904,-5.8623433)">
       <title
          id="title84">called_girlish-&gt;g_identity</title>
       <path
          fill="none"
          stroke="#000000"
-         d="M 932.52,-430.21902 C 867.26756,-456.39136 797.49872,-464.52566 732.14,-486.82"
+         d="m 830.52,-437.71902 c 0,0 -57.57627,-19.07559 -98.38,-43.10098"
          id="path84"
          sodipodi:nodetypes="cc" />
       <polygon
          fill="#000000"
          stroke="#000000"
          points="730.35,-483.81 723.57,-491.96 733.95,-489.82 "
-         id="polygon85" />
+         id="polygon85"
+         transform="translate(0,6.3799474)" />
     </g>
     <!-- blame&#45;&gt;g_behaviour -->
     <g
@@ -1625,61 +1551,164 @@
     <!-- zweig -->
     <g
        id="node34"
-       class="node">
+       class="node"
+       transform="translate(150)">
       <title
          id="title86">zweig</title>
       <path
          fill="none"
          stroke="#000000"
-         d="m 338.12,-443 c 0,0 -30,0 -30,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 30,0 30,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
-         id="path86" />
+         d="m 338.12,-443 h -85.5 c -6,0 -12,6 -12,12 v 12 c 0,6 6,12 12,12 h 85.5 c 6,0 12,-6 12,-12 v -12 c 0,-6 -6,-12 -12,-12"
+         id="path86"
+         sodipodi:nodetypes="csssssssc" />
       <text
          xml:space="preserve"
          text-anchor="middle"
-         x="323.12"
+         x="297.62"
          y="-422.23001"
          font-family="'Noto Sans'"
          font-size="12px"
-         id="text86">Zweig</text>
+         id="text86">Neurodermatitis</text>
     </g>
     <!-- zweig&#45;&gt;g_body_func -->
     <g
        id="edge48"
-       class="edge">
+       class="edge"
+       transform="rotate(32.013498,406.42288,-199.77258)">
       <title
          id="title87">zweig-&gt;g_body_func</title>
       <path
          fill="none"
          stroke="#000000"
-         d="m 323.12,-443.4 c 0,-10.93 0,-25.28 0,-37.87"
-         id="path87" />
+         d="M 317.96184,-431.61536 323.12,-481.27"
+         id="path87"
+         sodipodi:nodetypes="cc" />
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="326.63,-481.1 319.63,-481.1 323.13,-491.1 "
+         points="323.13,-491.1 326.63,-481.1 319.63,-481.1 "
          id="polygon87" />
     </g>
     <!-- crush&#45;&gt;g_body_func -->
     <g
        id="edge49"
-       class="edge">
+       class="edge"
+       transform="rotate(130.96824,309.63048,-405.85112)">
       <title
          id="title88">crush-&gt;g_body_func</title>
       <path
          fill="none"
          stroke="#000000"
-         d="m 246.22,-443.4 c 13.92,-12.06 32.65,-28.28 48.15,-41.7"
-         id="path88" />
+         d="M 216.66899,-417.74044 C 230.58899,-429.80044 278.87,-471.68 294.37,-485.1"
+         id="path88"
+         sodipodi:nodetypes="cc" />
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="296.64,-482.43 292.06,-487.73 301.91,-491.63 "
+         points="301.91,-491.63 296.64,-482.43 292.06,-487.73 "
          id="polygon88" />
+    </g>
+    <g
+       id="node11-4"
+       class="node"
+       transform="translate(-142.21768,0.249985)">
+      <title
+         id="title33-3">g_body_func</title>
+      <polygon
+         fill="#ffffff"
+         stroke="#ffffff"
+         points="256.25,-529 256.25,-493 390,-493 390,-529 "
+         id="polygon33-0" />
+      <text
+         xml:space="preserve"
+         text-anchor="middle"
+         x="323.12"
+         y="-508.23001"
+         font-family="'Noto Sans'"
+         font-size="12px"
+         id="text33-7">Body Envy (Function)</text>
+    </g>
+    <g
+       id="node35-8"
+       class="node"
+       transform="matrix(-1,0,0,1,444.52232,0.249985)">
+      <title
+         id="title71-6">crush</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 241.12,-443 c 0,0 -30,0 -30,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 30,0 30,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         id="path71-8" />
+      <text
+         xml:space="preserve"
+         text-anchor="middle"
+         x="-225.88002"
+         y="-422.23001"
+         font-family="'Noto Sans'"
+         font-size="12px"
+         id="text71-8"
+         transform="scale(-1,1)">Crush</text>
+    </g>
+    <g
+       id="node34-4"
+       class="node"
+       transform="matrix(-1,0,0,1,474.52232,0.249985)">
+      <title
+         id="title86-3">zweig</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 338.12,-443 c 0,0 -30,0 -30,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 30,0 30,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         id="path86-1" />
+      <text
+         xml:space="preserve"
+         text-anchor="middle"
+         x="-322.556"
+         y="-422.23001"
+         font-family="'Noto Sans'"
+         font-size="12px"
+         id="text86-4"
+         transform="scale(-1,1)">Zweig</text>
+    </g>
+    <g
+       id="edge48-9"
+       class="edge"
+       transform="matrix(-1,0,0,1,474.52232,0.249985)">
+      <title
+         id="title87-2">zweig-&gt;g_body_func</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 323.12,-443.4 c 0,-10.93 0,-25.28 0,-37.87"
+         id="path87-0" />
+      <polygon
+         fill="#000000"
+         stroke="#000000"
+         points="326.63,-481.1 319.63,-481.1 323.13,-491.1 "
+         id="polygon87-6" />
+    </g>
+    <g
+       id="edge48-9-4"
+       class="edge"
+       transform="matrix(-1,0,0,1,543.48705,0.4372129)">
+      <title
+         id="title87-2-9">zweig-&gt;g_body_func</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 323.12,-443.4 c 0,-10.93 0,-25.28 0,-37.87"
+         id="path87-0-5" />
+      <polygon
+         fill="#000000"
+         stroke="#000000"
+         points="326.63,-481.1 319.63,-481.1 323.13,-491.1 "
+         id="polygon87-6-0" />
     </g>
     <!-- name_misspell -->
     <g
        id="node36"
-       class="node">
+       class="node"
+       transform="translate(27)">
       <title
          id="title89">name_misspell</title>
       <path
@@ -1699,7 +1728,8 @@
     <!-- name_misspell&#45;&gt;g_name -->
     <g
        id="edge19"
-       class="edge">
+       class="edge"
+       transform="matrix(-1,0,0,1,1110.2085,0)">
       <title
          id="title90">name_misspell-&gt;g_name</title>
       <path
@@ -1735,7 +1765,7 @@
     <g
        id="edge53"
        class="edge"
-       transform="rotate(-17.952314,1213.5417,-767.81066)">
+       transform="rotate(-17.952314,1215.0417,-777.30686)">
       <title
          id="title41">knowledge-&gt;enlightenment</title>
       <path
@@ -1747,8 +1777,68 @@
       <polygon
          fill="#000000"
          stroke="#000000"
-         points="1443.36,-302.18 1444.42,-312.72 1450.16,-303.81 "
+         points="1450.16,-303.81 1443.36,-302.18 1444.42,-312.72 "
          id="polygon41" />
+    </g>
+    <g
+       id="node17-5"
+       class="node"
+       transform="translate(-0.42671033,89.838365)">
+      <title
+         id="title10-2">bullying</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 864.25,-168.75 c 0,0 -114.25,0 -114.25,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 114.25,0 114.25,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         id="path10-5" />
+      <text
+         xml:space="preserve"
+         text-anchor="middle"
+         x="807.12"
+         y="-147.97"
+         font-family="'Noto Sans'"
+         font-size="12px"
+         id="text10-4">Personality Traits</text>
+    </g>
+    <g
+       id="node17-5-5"
+       class="node"
+       transform="translate(-314.34767,90)">
+      <title
+         id="title10-2-6">bullying</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 864.25,-168.75 c 0,0 -114.25,0 -114.25,0 -6,0 -12,6 -12,12 0,0 0,12 0,12 0,6 6,12 12,12 0,0 114.25,0 114.25,0 6,0 12,-6 12,-12 0,0 0,-12 0,-12 0,-6 -6,-12 -12,-12"
+         id="path10-5-3" />
+      <text
+         xml:space="preserve"
+         text-anchor="middle"
+         x="807.12"
+         y="-147.97"
+         font-family="'Noto Sans'"
+         font-size="12px"
+         id="text10-4-9">Neuroaesthetic Traits</text>
+    </g>
+    <g
+       id="edge55-1"
+       class="edge"
+       transform="rotate(36.716778,1033.8798,-2175.3045)"
+       inkscape:transform-center-x="17.492363"
+       inkscape:transform-center-y="18.582057">
+      <title
+         id="title65-5">universal-&gt;abolition</title>
+      <path
+         fill="none"
+         stroke="#000000"
+         d="m 1612.8327,-335.25412 c 1.31,-11.38 5.6073,-47.84588 7.0273,-60.26588"
+         id="path65-9"
+         sodipodi:nodetypes="cc" />
+      <polygon
+         fill="#000000"
+         stroke="#000000"
+         points="1620.97,-405.2 1623.31,-394.86 1616.35,-395.66 "
+         id="polygon65-4" />
     </g>
   </g>
 </svg>
