@@ -11,6 +11,8 @@
 \usepackage{hyperref}
 \usepackage{tabularx}
 \usepackage{booktabs}
+\usepackage{csquotes}
+\MakeOuterQuote{"}
 %\usepackage{textcomp}
 %\usepackage{lmodern}
 \setCJKmainfont{Noto Serif CJK SC}
@@ -29,15 +31,15 @@
 
 \nolinenumbers
 
-\title{For Abolition -- A Synthesis of Biology and Philosophy, with an Autobiographical Case Study}
+\title{For Abolition -- A Synthesis of Biology and Philosophy}
 
 \author{Jiao Sun\orcidlink{0000-0002-5028-8132}}
 \affiliation{Division of Ecology and Evolutionary Biology, School of Biological Science, University of Reading, Whiteknights, Reading, RG6 6EX, United Kingdom}
 \email{j.sun@pgr.reading.ac.uk}
-\date{10/02/2025}
+\date{12/12/2025}
 
 % maximum five keywords
-\keywords{Gender abolitionism, gender identity, gender studies, philosophy of biology, post-structuralism, trans philosophy}
+\keywords{Gender abolitionism, gender identity, gender studies, philosophy of biology, criticism of post-structuralism, trans philosophy}
 
 % Important: don't overuse abbreviations. Only use abbreviations if the term is used more than ten times throughout the paper. Otherwise, write them in full.
 %\abbreviations{
@@ -49,7 +51,7 @@
 \maketitle
 
 \begin{abstract}
-This article presents a critique of the concept ``gender identity'' based on a synthesis of evolutionary biology, neurology, philosophy of science and an autobiographical case study, finally culminating in an argument for gender abolitionism. The narrative critically engages with mainstream gender theories, revealing logical fallacies within concepts such as the sex/gender distinction, ``innate gender identity'', ``assigned sex at birth'' (ASAB), and the cisgender/transgender binary. The author proposes a revolution in the form of gender abolitionism: a framework that strictly limits sex \textit{sensu stricto} to gametes, dismantles phenotypic sex into a spectrum of sexual dimorphic traits, and advocates for the complete removal of gender as a social, legal, cultural, and self-identity category. Furthermore, the article extends its critique to queer theory and its parent theory, post-structuralism. While their deconstructive intentions are noted, their real-world effect paradoxically reinforces gender-centrism and destructed an intersubjective world, caused real exclusion and violence to transgender individuals with different philosophical stances, ultimately failing to provide a path to liberation. Even for readers who do not agree with my strategy, it also provides a physicalist framework to help specific transgender people and onlookers to understand themselves or others.
+This article presents a critique of the concept ``gender identity'' based on a synthesis of evolutionary biology, neurology and philosophy of science, finally culminating in an argument for gender abolitionism. The narrative critically engages with mainstream gender theories, revealing logical fallacies within concepts such as the sex/gender distinction, ``innate gender identity'', ``assigned sex at birth'' (ASAB), and the cisgender/transgender binary. The author proposes a revolution in the form of gender abolitionism: a framework that strictly limits sex \textit{sensu stricto} to gametes, dismantles phenotypic sex into a spectrum of sexual dimorphic traits, and advocates for the complete removal of gender as a social, legal, cultural, and self-identity category. Furthermore, the article extends its critique to queer theory and its parent theory, post-structuralism. While their deconstructive intentions are noted, their real-world effect paradoxically reinforces gender-centrism and destructed an intersubjective world, caused real exclusion and violence to transgender individuals with different philosophical stances, ultimately failing to provide a path to liberation. Even for readers who do not agree with my strategy, it also provides a physicalist framework to help specific transgender people and onlookers to understand themselves or others.
 \end{abstract}
 
 \addcontentsline{toc}{section}{Abstract}
@@ -59,9 +61,6 @@ This article presents a critique of the concept ``gender identity'' based on a s
 
 \section{Biological Critique of Gender Identity}\label{sec:biological-critique}
 \input{chapters/biological-critique}
-
-\section{My Gender Identity: A Case Study}\label{sec:case-study}
-\input{chapters/my-gender-identity}
 
 %\subsection{My Philosophy}\label{subsec:my-philosophy}
 %\input{chapters/my-philosophy}
@@ -85,22 +84,33 @@ This article presents a critique of the concept ``gender identity'' based on a s
 
 I am sincerely grateful to the little kid in red shoes for their courage in facing the bullies. Their small shield has become an impregnable shelter against any irrational violence.
 
+\section*{Positionality statement}
+
+JS is a human being (\textit{Homo sapiens} {\small \textsc{Linnaeus}, 1758}). They live on Earth in the Holocene. Their reason helps them understand the objective world and other human beings.
+
 \section*{Source Code Availability}
 
 Code for generating this document and visualising the author's gender identity (\cref{fig:bundle}): \url{https://github.com/sun-jiao/autoethnography}
 
 \printbibliography
 
-%\appendix
-%
-%\crefalias{section}{appendix}
-%
-%\section[“Assigned Sex at Birth” Lacks Inclusivity for Intersex People, and a Philosophical Critique of its “Mechanical Idealism”]{``Assigned Sex at Birth'' Lacks Inclusivity for Intersex People, and a Philosophical Critique of its ``Mechanical Idealism''} \label{app:asab}
-%\input{appendices/assigned-sex-at-birth-and-intersex}
-%
-%\section{An Autoethnography of Interpellation and Performativity} \label{app:b}
-%
-%[Omitting the pre-analysis experience in the section \hyperref[sec:my-experience]{My Experience}]
-%\input{appendices/becoming-woman}
-%
+\newpage
+
+\appendix
+
+{\large \textsc{Appendices}}
+
+\crefalias{section}{appendix}
+
+\begin{refsection}
+    \section{My Gender Identity: A Case Study}\label{app:case-study}
+    \counterwithin{figure}{section}
+    \setcounter{figure}{0}
+    \counterwithin{table}{section}
+    \setcounter{table}{0}
+    \setcounter{footnote}{0}
+    \input{appendices/my-gender-identity}
+    \printbibliography[heading=subbibliography]
+\end{refsection}
+
 \end{document}
