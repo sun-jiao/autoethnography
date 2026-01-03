@@ -1,0 +1,75 @@
+\documentclass[
+  journal=PREPRINT,
+  manuscript=article,  %% article (default), rescience, data, software, proceedings, poster
+  layout=preprint,  %% preprint (for submission) or publish (for publisher only)
+  year=,
+  volume=,
+]{extra/joas}
+%\doi{10.13140/RG.2.2.27723.66085}
+%\received {1 Sep 2025}
+%\revised  {1 Dec 2025}
+%\accepted {10 Dec 2025}
+%\published{20 Dec 2025}
+%\editor{Joanna Thorne}
+%\reviewers{Anonymous reviewers}
+
+\usepackage[backend=biber, style=apa,sorting=nyt]{biblatex}
+\usepackage{cleveref}
+\usepackage{hyperref}
+\usepackage{csquotes}
+\MakeOuterQuote{"}
+\renewcommand{\abstractname}{Abstract}
+\renewcommand{\figurename}{Figure}
+\renewcommand{\tablename}{Table}
+\renewcommand{\refname}{References}
+\addbibresource{references.bib}
+\DeclareNameAlias{sortname}{last-first}
+\DeclareNameAlias{default}{last-first}
+
+\providecommand{\posscite}[1]{\citeauthor{#1}'s (\citeyear{#1})}
+\usepackage{lineno}
+\nolinenumbers
+
+\title{For Gender Abolition -- A Scientific Realistic Argument}
+
+\author{Jiao Sun\orcidlink{0000-0002-5028-8132}}
+\affiliation{Division of Ecology and Evolutionary Biology, School of Biological Science, University of Reading, Whiteknights, Reading, RG6 6EX, United Kingdom}
+\email{j.sun@pgr.reading.ac.uk}
+\date{12/12/2025}
+
+\keywords{Gender abolitionism, gender identity, gender studies, philosophy of biology, criticism of queer theory, philosophy of mind}
+
+\begin{document}
+
+\maketitle
+
+\begin{abstract}
+This article presents a critique of the concept ``gender identity'' based on a synthesis of evolutionary biology, neurology and philosophy of science, finally culminating in an argument for gender abolitionism. The narrative critically engages with mainstream gender theories, revealing logical fallacies within concepts such as the sex/gender distinction, ``innate gender identity'', ``assigned sex at birth'' (ASAB), and the cisgender/transgender binary. The author proposes a revolution in the form of gender abolitionism: a framework that strictly limits sex \textit{sensu stricto} to gametes, dismantles phenotypic sex into a spectrum of sexual dimorphic traits, and advocates for the complete removal of gender as a social, legal, cultural, and self-identity category. Furthermore, the article extends its critique to queer theory. While their deconstructive intentions are noted, their real-world effect paradoxically reinforces gender-centrism and gender essentialism, ultimately failing to provide a path to liberation. Even for readers who do not agree with this strategy, it also provides a physicalist framework to help specific transgender people and onlookers to understand themselves or others.
+\end{abstract}
+
+\addcontentsline{toc}{section}{Abstract}
+
+\section{Introduction}\label{sec:introduction}
+\input{chapters/introduction}
+
+\section{Biological Critique of Gender Identity}\label{sec:biological-critique}
+\input{chapters/biological-critique}
+
+\section{Philosophical Critique of Gender Identity}\label{sec:philosophical-critique}
+\input{chapters/philosophical-critique}
+
+\section{Abolition}\label{sec:abolition}
+\input{chapters/for-abolition}
+
+\section{Dialogue with Gender Pluralism}\label{sec:dialogue-with-pluralism}
+\input{chapters/dialogue-with-pluralism}
+
+\section{Dialogue with Queer Theory}\label{sec:dialogue-with-queer}
+\input{chapters/dialogue-with-queer}
+
+\section{Conclusion}\label{sec:conclusion}
+\input{chapters/conclusion}
+
+\printbibliography
+
+\end{document}

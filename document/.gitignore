@@ -5,6 +5,7 @@
 !*.jpg
 !*.svg
 !*.cls
+!*.sty
 !chapters
 !appendices
 !.archive
