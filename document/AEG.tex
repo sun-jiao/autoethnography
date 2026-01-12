@@ -5,7 +5,7 @@
   year=2025,
 %  volume=x,
 ]{extra/joas}
-\usepackage[fontset=none, punct=plain]{ctex}
+\usepackage[UTF8]{ctex}
 \usepackage[backend=biber, style=apa,sorting=nyt]{biblatex}
 \usepackage{cleveref}
 \usepackage{hyperref}
@@ -15,20 +15,22 @@
 \MakeOuterQuote{"}
 %\usepackage{textcomp}
 %\usepackage{lmodern}
-\setCJKmainfont{Noto Serif CJK SC}
+%\setCJKmainfont[Scale=0.85]{Noto Serif CJK SC}
 \renewcommand{\abstractname}{Abstract}
 \renewcommand{\figurename}{Figure}
 \renewcommand{\tablename}{Table}
 \renewcommand{\refname}{References}
-% \renewcommand{\bibname}{References}
-\newcommand\posscite[1]{\citeauthor{#1}'s (\citeyear{#1})}
 \crefname{appendix}{Appendix}{Appendices}
 \interfootnotelinepenalty=10000
-%\AtAppendix{\crefalias{section}{appendix}}
 \addbibresource{references.bib}
-\DeclareNameAlias{sortname}{last-first}
-\DeclareNameAlias{default}{last-first}
+\DeclareNameAlias{sortname}{family-given}
+\DeclareNameAlias{default}{family-given}
 
+\providecommand{\posscite}[1]{\citeauthor{#1}'s (\citeyear{#1})}
+
+\linespread{1.0}
+
+\usepackage{lineno}
 \nolinenumbers
 
 \title{For Abolition -- A Synthesis of Biology and Philosophy}
