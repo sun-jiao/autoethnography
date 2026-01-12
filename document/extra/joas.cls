@@ -13,26 +13,27 @@
 [2021/05/04 v1.0 Submission to JOAS]
 \LoadClass[10pt,a4paper,twoside]{article}
 % Style the sectioning elements:
+% Added \sffamily to all sections to use Source Sans Pro
 \renewcommand\section{\@startsection {section}{1}{\z@}%
   {-3.5ex \@plus -1ex \@minus -.2ex}%
   {2ex \@plus .5ex \@minus -.5ex}%
-  {\large\bfseries}}
+  {\sffamily\large\bfseries}}
 \renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
   {-3.25ex\@plus -1ex \@minus -.2ex}%
   {1ex \@plus .2ex \@minus .2ex}%
-  {\bfseries}}
+  {\sffamily\bfseries}}
 \renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
   {-3.25ex\@plus -1ex \@minus -.2ex}%
   {0.5ex \@plus .2ex}%
-  {}}
+  {\sffamily}}
 \renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
   {3.25ex \@plus1ex \@minus.2ex}%
   {-1em}%
-  {\bfseries}}
+  {\sffamily\bfseries}}
 \renewcommand\subparagraph{\@startsection{subparagraph}{5}{\parindent}%
   {3.25ex \@plus1ex \@minus .2ex}%
   {-1em}%
-  {\bfseries}}
+  {\sffamily\bfseries}}
 \def\@hangfrom#1{\setbox\@tempboxa\hbox{{#1}}%
   \hangindent 0pt%\wd\@tempboxa
   \noindent\box\@tempboxa}
@@ -1287,7 +1288,7 @@
 \let\cup@journal@name\cup@journal
 
 \geometry{
-  b5paper,
+  papersize={6in, 9in},
   top=2.3cm, bottom=1.6cm, left=1.7cm, right=1.7cm,
   headsep=0.8cm
 }
@@ -1322,9 +1323,10 @@
   \colorlet{structure@color}{mygreen2}
 \fi
 
-\ifx \cup@manuscript \cup@manuscript@poster
-  \colorlet{structure@color}{mypink}
-\fi
+\definecolor{joascustom}{cmyk}{1, 0.65, 0, 0.4}
+
+\colorlet{structure@color}{joascustom}
+
 \RequirePackage[colorlinks=true]{hyperref}
 
 \Hy@AtBeginDocument{
