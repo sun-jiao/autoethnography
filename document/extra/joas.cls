@@ -15,25 +15,25 @@
 % Style the sectioning elements:
 % Added \sffamily to all sections to use Source Sans Pro
 \renewcommand\section{\@startsection {section}{1}{\z@}%
-  {-3.5ex \@plus -1ex \@minus -.2ex}%
-  {2ex \@plus .5ex \@minus -.5ex}%
+  {-3ex \@plus -0.2ex \@minus -.2ex}%
+  {0.3ex}% 
   {\sffamily\large\bfseries}}
 \renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
-  {-3.25ex\@plus -1ex \@minus -.2ex}%
-  {1ex \@plus .2ex \@minus .2ex}%
+  {-2ex\@plus -0.2ex \@minus -.2ex}%
+  {0.2ex}%
   {\sffamily\bfseries}}
 \renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
-  {-3.25ex\@plus -1ex \@minus -.2ex}%
-  {0.5ex \@plus .2ex}%
+  {-1ex\@plus -0.2ex \@minus -.2ex}%
+  {0.1ex}%
   {\sffamily}}
 \renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
-  {3.25ex \@plus1ex \@minus.2ex}%
+  {1ex \@plus0.2ex \@minus.2ex}%
   {-1em}%
-  {\sffamily\bfseries}}
+  {\color{structure@color}\sffamily\bfseries}}
 \renewcommand\subparagraph{\@startsection{subparagraph}{5}{\parindent}%
-  {3.25ex \@plus1ex \@minus .2ex}%
+  {1ex \@plus0.2ex \@minus .2ex}%
   {-1em}%
-  {\sffamily\bfseries}}
+  {\color{structure@color}\sffamily\bfseries}}
 \def\@hangfrom#1{\setbox\@tempboxa\hbox{{#1}}%
   \hangindent 0pt%\wd\@tempboxa
   \noindent\box\@tempboxa}
@@ -42,6 +42,8 @@
 %\RequirePackage[T1]{fontenc}
 \RequirePackage[tt=false, type1=true]{libertine}
 \RequirePackage[libertine]{newtxmath}
+\RequirePackage{xurl}
+
 \let\liningnums\relax
 \RequirePackage[semibold]{sourcesanspro}
 \RequirePackage[scaled=0.95]{inconsolata}
@@ -211,7 +213,7 @@
 \def\section@cntformat{\thesection.\hspace{1ex}}
 
 \newmdenv[
-  backgroundcolor=structure@color!15,
+  backgroundcolor=structure@color!5,
   hidealllines=true,
   leftmargin=3mm,rightmargin=3mm,innertopmargin=2mm,innerbottommargin=3mm,
   frametitle={\abstractfont\sffamily Abstract},
@@ -1323,25 +1325,26 @@
   \colorlet{structure@color}{mygreen2}
 \fi
 
-\definecolor{joascustom}{cmyk}{1, 0.65, 0, 0.4}
+\definecolor{joascustom}{rgb}{0, 0.21, 0.6}
 
 \colorlet{structure@color}{joascustom}
 
 \RequirePackage[colorlinks=true]{hyperref}
 
-\Hy@AtBeginDocument{
-  \def\@pdfborder{0 0 0.5}
-  \def\@pdfborderstyle{/S/U/W 0.5} % Hyperlink border style will be underline of width 0.5pt
-}
+%\Hy@AtBeginDocument{
+%  \def\@pdfborder{0 0 0.5}
+%  \def\@pdfborderstyle{/S/U/W 0.5} % Hyperlink border style will be underline of width 0.5pt
+%}
 
 \hypersetup{
   anchorcolor={structure@color},
   citecolor={structure@color},
   linkcolor={structure@color},
   urlcolor={structure@color},
-  linkbordercolor={structure@color},
-  urlbordercolor={structure@color},
-  citebordercolor={structure@color},
+%  linkbordercolor={structure@color},
+%  urlbordercolor={structure@color},
+%  citebordercolor={structure@color},
+  pdfborder={0 0 0},
 }
 
 \ifx \cup@layout \cup@layout@preprint
