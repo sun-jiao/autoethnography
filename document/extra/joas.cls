@@ -1,8 +1,8 @@
 %% ----------------------------------------------------------------------
 %% This is file `joas.cls'.
 %%
-%% joas --- Support for submissions to Journal of Open Aviation Science
-%% Email: j.sun-1@tudelft.nl
+%% joas --- Just an Open Article Style
+%% Email: sunjiao19@mails.ucas.ac.cn
 %%
 %% Released under the LaTeX Project Public License v1.3c or later
 %% See http://www.latex-project.org/lppl.txt
@@ -10,7 +10,6 @@
 
 \NeedsTeXFormat{LaTeX2e}
 \ProvidesClass{extra/joas}
-[2021/05/04 v1.0 Submission to JOAS]
 \LoadClass[10pt,a4paper,twoside]{article}
 % Style the sectioning elements:
 % Added \sffamily to all sections to use Source Sans Pro
@@ -37,17 +36,19 @@
 \def\@hangfrom#1{\setbox\@tempboxa\hbox{{#1}}%
   \hangindent 0pt%\wd\@tempboxa
   \noindent\box\@tempboxa}
-\RequirePackage{parskip}
+%\RequirePackage{parskip}
+\setlength{\parskip}{0pt}      % 强制段落间距为 0
+\setlength{\parindent}{1em}    % 设置首行缩进为 2 个字符宽度
 % Approximations of commercial fonts:
 %\RequirePackage[T1]{fontenc}
-\RequirePackage[tt=false, type1=true]{libertine}
+\RequirePackage[tt=false]{libertine}
 \RequirePackage[libertine]{newtxmath}
 \RequirePackage{xurl}
 
-\let\liningnums\relax
+%\let\liningnums\relax
 \RequirePackage[semibold]{sourcesanspro}
 \RequirePackage[scaled=0.95]{inconsolata}
-\RequirePackage[italic,eulergreek,defaultmathsizes]{mathastext}
+%\RequirePackage[italic,eulergreek,defaultmathsizes]{mathastext}
 
 \RequirePackage[table,svgnames]{xcolor}
 
@@ -183,6 +184,14 @@
   keywords,
 }
 \RequirePackage{geometry}
+\RequirePackage[
+  activate={true,nocompatibility},
+  tracking=true,      % word spacing
+  protrusion=true,    % allowing punctuations overflow at right
+  expansion=false,    % xelatex does not support
+  kerning=false       % xelatex does not support
+]{microtype}
+\SetTracking[no ligatures={f}]{encoding=*, shape=*}{15}
 \RequirePackage{csquotes}
 \RequirePackage{changepage}
 \RequirePackage{stringstrings}
@@ -213,7 +222,7 @@
 \def\section@cntformat{\thesection.\hspace{1ex}}
 
 \newmdenv[
-  backgroundcolor=structure@color!5,
+  backgroundcolor=structure@color!10,
   hidealllines=true,
   leftmargin=3mm,rightmargin=3mm,innertopmargin=2mm,innerbottommargin=3mm,
   frametitle={\abstractfont\sffamily Abstract},
@@ -585,7 +594,7 @@
 \newcommand{\orcid}[1]{\orcidlink{#1}}
 
 
-\cup@type@check
+%\cup@type@check
 
 
 \def\@maketitle{%
@@ -624,7 +633,7 @@
     }
     {
       \ifx \cup@layout \cup@layout@preprint
-        (\emph{Pre-print})
+        (\emph{Preprint})
       \fi
     }
     \par
@@ -680,8 +689,12 @@
         \ifx \cup@manuscript \cup@manuscript@poster
           \emph{(This poster paper is not peer reviewed.)} \\
         \else
+          \ifx \cup@manuscript \cup@manuscript@editorial
+          (Published: \cup@publd) \\
+          \else
           (Received: \cup@recvd; Revised: \cup@revd; Accepted: \cup@accptd; Published: \cup@publd) \\
           (Editor: \cup@editor; Reviewers: \cup@reviewers) \\
+          \fi
           \vspace*{\cup@space@post@date}%
         \fi
       \fi
@@ -1369,7 +1382,22 @@
 % \RequirePackage[authordate,natbib]{biblatex-chicago}
 % \renewcommand*{\bibfont}{\small}
 
-%\RequirePackage[backend=biber,style=apa,maxbibnames=10,sorting=nyt]{biblatex}
+\RequirePackage[backend=biber,style=apa,sorting=nyt]{biblatex}
+\setcounter{biburllcpenalty}{9000}  % allowing line break in lower case letters
+\setcounter{biburlucpenalty}{9000}  % allowing line break in upper case letters
+\setcounter{biburlnumpenalty}{9000} % allowing line break in numbers
+\DeclareCiteCommand{\posscite}
+  {\usebibmacro{prenote}}
+  {\ifciteindex
+     {\indexnames{labelname}}
+     {}%
+     \printnames{labelname}%
+     \printtext{'s}%
+     \addspace
+     \printtext[parens]
+        {\printtext[bibhyperref]{\printfield{year}}}}
+  {\multicitedelim}
+  {\usebibmacro{postnote}}
 
 \RequirePackage{booktabs}
 
@@ -1381,7 +1409,24 @@
 
 \SectionNumbersOn
 
+% No Hyphenation (line break in words)
+\hyphenpenalty=5000
 
+% adjusting word spacing
+\tolerance=9999
+\emergencystretch=2em
+\hfuzz=1pt
+
+\setlength{\spaceskip}{0.25em plus 0.25em minus 0.1em}
+\setlength{\emergencystretch}{4em}
+
+%% ============================================================
+%% Base on the joas class
+%%
+%% Support for submissions to Journal of Open Aviation Science
+%% Email: j.sun-1@tudelft.nl
+%% Released under the LaTeX Project Public License v1.3c or later
+%% See http://www.latex-project.org/lppl.txt
 %%
 %% Based on the cup-jounal class
 %%
