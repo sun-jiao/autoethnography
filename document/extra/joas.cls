@@ -14,19 +14,19 @@
 % Style the sectioning elements:
 % Added \sffamily to all sections to use Source Sans Pro
 \renewcommand\section{\@startsection {section}{1}{\z@}%
-  {-3ex \@plus -0.2ex \@minus -.2ex}%
-  {0.3ex}% 
+  {-10ex \@plus -0.2ex \@minus -.2ex}%
+  {1ex}%
   {\sffamily\large\bfseries}}
 \renewcommand\subsection{\@startsection{subsection}{2}{\z@}%
-  {-2ex\@plus -0.2ex \@minus -.2ex}%
-  {0.2ex}%
+  {-7ex\@plus -0.2ex \@minus -.2ex}%
+  {1ex}%
   {\sffamily\bfseries}}
 \renewcommand\subsubsection{\@startsection{subsubsection}{3}{\z@}%
-  {-1ex\@plus -0.2ex \@minus -.2ex}%
-  {0.1ex}%
+  {-3ex\@plus -0.2ex \@minus -.2ex}%
+  {0.5ex}%
   {\sffamily}}
 \renewcommand\paragraph{\@startsection{paragraph}{4}{\z@}%
-  {1ex \@plus0.2ex \@minus.2ex}%
+  {3ex \@plus0.2ex \@minus.2ex}%
   {-1em}%
   {\color{structure@color}\sffamily\bfseries}}
 \renewcommand\subparagraph{\@startsection{subparagraph}{5}{\parindent}%
