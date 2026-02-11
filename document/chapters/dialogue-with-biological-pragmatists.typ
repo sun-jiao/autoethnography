@@ -1,3 +1,5 @@
+#import "../lib.typ": *
+
 Some biologists who support instrumental or pragmatic methodologies might argue that even if phenotypic sex doesn't truly exist, it's useful in many areas. Indeed, like Linnaeus' taxonomic ranks, which I do not deny. However, I insist that it's not sex itself, but merely a phenotypic proxy.
 
 Others might argue that chromosomes, gonads, genitals, and hormones aren't simply correlated, but rather form a tightly coupled, cascaded regulatory system. While genitals aren't gametes themselves, they are crucial for gamete transmission.
@@ -6,7 +8,5 @@ Following this logic, the sex of birds (other than ducks) cannot be observed ext
 
 In this situation, the opposing side has two possible responses:
 
-\begin{enumerate}
-    \item Insist on the "core system" argument: This would mean that all ecological studies that identify bird sex based on plumage colour are methodologically flawed. They confuse "sex" with "sexual dimorphic traits." Unless they perform genetic testing or dissection on every bird, their data is invalid. -- This is clearly absurd and would negate decades of avian ecology and behavioural research. This is an unacceptable price.
-    \item Acknowledge the legitimacy of "proxies": "Okay, in some cases, non-core traits like plumage colour can also be legitimately considered as components of sex." -- Then why not height? What is the ontological difference between identifying bird sex by plumage colour and identifying human sex by genitalia?
-\end{enumerate}
++ Insist on the "core system" argument: This would mean that all ecological studies that identify bird sex based on plumage colour are methodologically flawed. They confuse "sex" with "sexual dimorphic traits." Unless they perform genetic testing or dissection on every bird, their data is invalid. -- This is clearly absurd and would negate decades of avian ecology and behavioural research. This is an unacceptable price.
++ Acknowledge the legitimacy of "proxies": "Okay, in some cases, non-core traits like plumage colour can also be legitimately considered as components of sex." -- Then why not height? What is the ontological difference between identifying bird sex by plumage colour and identifying human sex by genitalia?

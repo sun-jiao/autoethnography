@@ -4,9 +4,8 @@
 !*.png
 !*.jpg
 !*.svg
-!*.cls
-!*.sty
+!*.typ
 !chapters
 !appendices
-!.archive
+!archive
 !figures
