@@ -1,7 +1,7 @@
 #import "lib.typ": *
 
 #show: cupst.with(
-  title: [A Rationalist Road of Understanding Gender Identity: an Autoethnography of a Transgender Evolutionary Biologist],
+  title: [A Rational Road of Understanding Gender Identity: an Autoethnography of a Transgender Evolutionary Biologist],
   short-title: [],
   
   authors: (
