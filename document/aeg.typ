@@ -57,6 +57,14 @@
 
 #include "chapters/my-gender-identity.typ"
 
+= Vertigo: Revisiting My Gender Identity
+
+#include "chapters/vertigo.typ"
+
+= Reason as a Sheild: Revisiting My Philosophy
+
+#include "chapters/my-philosophy.typ"
+
 = Dialogue with Post-Structuralism
 
 #include "chapters/dialogue-with-post-structuralism.typ"
@@ -86,6 +94,10 @@
   JS is a human being (_Homo sapiens_ #smallcaps[Linnaeus], 1758). 
   They live on Earth in the Holocene. 
   Their reason helps them understand the objective world and other human beings.
+]
+
+#paragraph("Declaration of Artificial Intelligence")[
+  Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig:name-shoes c, d), whose original versions are damaged or faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity.
 ]
 
 #show:appendix

@@ -51,6 +51,7 @@ Unfortunately (or, fortunately?), I wore the red version (@fig:name-shoes c, d).
 Because of this, I faced physical bullying: my shoes were thrown away, 
 my trousers were pulled down to "check whether I was a girl," 
 and I was once pushed into a bush, leading to perineal injury. 
+I had nightmares about losing my foot in incidents. 
 From an aspect of predictive coding and neuroplasticity, 
 my brain minimised prediction error. 
 If the society says "red shoes belong to girls" and "I wear red shoes," 
@@ -153,7 +154,7 @@ body representation congruence and the external imposed male socialisation.
 In particular, there is a representative anecdote worth mentioning. 
 I have a deep aversion to radical "feminists" who attack and stigmatise all men. 
 My stance can be traced to Victor Hugo's _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_), 
-which we learned in middle school language art courses @Kecheng2007Yuwen:
+which we learned in middle school language arts courses @Kecheng2007Yuwen:
 
 #quote(block: true)[
     However, I protest, and I thank you for giving me this opportunity. The crimes of the rulers are not the fault of the ruled; governments are sometimes bandits, but the people never are.
@@ -161,17 +162,29 @@ which we learned in middle school language art courses @Kecheng2007Yuwen:
     Mais je proteste, et je vous remercie de m'en donner l'occasion; les crimes de ceux qui mènent ne sont pas la faute de ceux qui sont menés; les gouvernements sont quelquefois des bandits, les peuples jamais.
 ]
 
-Compared to a German writer who declared in Hualing Nieh Engle's _Dear Papa and Mama_ (亲爱的爸爸妈妈), 
-"I feel as if it was I who killed those children. We are simply beasts!", 
+The second text is Hualing Nieh Engle's _Dear Papa and Mama_ (亲爱的爸爸妈妈), 
+which is about a memorial commemoration event of the Nazi massacre in Kragujevac, Yugoslavia. 
+In the event, writers from all over the world discussed "War and Literature." Among them was a West German writer who made a statement that I found very confusing:
+
+#quote(block: true)[
+    The West German writer Ming Hebai#footnote[I couldn't find who this person is, what their German name is, or what works they published. It might be a pseudonym created by Hualing to protect them.] slowly stood up. He said gravely, "... I have a sense of guilt: I feel as if it was I who killed those children. We are simply beasts! All concentration camps must be destroyed! I am very grateful that you allow me to be with you ..."
+
+    西德作家明赫白缓缓地站起来，他沉重地说：“……我有犯罪感：感到是我杀害了那些孩子。我们简直就是禽兽！所有集中营都必须粉碎！你们允许我和你们在一起，我非常感激……”
+]
+
 I asked my language arts teacher, why do these two texts contradict each other? 
 If it is as Hugo says, what does the Nazi massacre in Kragujevac have to do with this writer? 
 My teacher said "it is normal for different writers to have different views on social issues. 
 You can think for yourself whose view is more reasonable, why, and then share your thoughts with me." 
-I stood firmly with Hugo's individualist morality. 
-Although this German writer made some seemingly "profound" reflections, 
-they essentially still saw themself and the Nazis as "fellow Germans," sharing a transcendental guilt or sin.
 
-The radical (so-called) "feminists" claimed my anger is because "you're a man" and has been "triggered"
+I stood firmly with Hugo: "The crimes of the rulers are not the fault of the ruled." 
+Because the Anglo-French invasion of China was not committed by Hugo, and he had no power to stop it, 
+the Kragujevac massacre was not committed by the German writer, and they also had no power to stop it. 
+So why should they bear responsibility for things they did not do and could not prevent? 
+Therefore, although Ming Hebai made some seemingly "profound" reflections, he essentially still saw himself and the Nazis as "fellow Germans," 
+sharing a transcendental guilt or sin.
+
+The radical (so-called) "feminists" claimed that my anger is because "you're a man" and I had been "triggered"
 #footnote[急了, _jí le_, a Chinese internet slang for getting flustered or angry when your weak spot is hit.]: 
 "You think reason is more important than the real suffering of women. This is a thought of male privilege. 
 You fundamentally do not understand our female experience." 
@@ -208,6 +221,11 @@ while I insisted on telling them, "You only hit me because your ideas are all un
 Reason has never been masculine. It is intimately intertwined with the most feminine experience of my gender identity. 
 #footnote[I am not saying "reason is a feminine trait," which is another form of gender stereotype. 
 I am saying that my love for reason shares a common origin with the female component of my gender identity.]
+
+Another incident was that I sang off-key on Children's Day and was laughed at by my classmates, 
+while another classmate who sang off-key received encouragement. 
+I angrily questioned them about why they laughed at me but encouraged her, and no one gave me a logically valid justification.
+
 Reason was the only shield of that little girl in the red shoes in her most vulnerable moment. 
 In a world full of chaos and pain, it is the only clean, pure, and trustworthy thing. It is her shield, his home, their shelter. 
 It finally becomes an impregnable sanctuary against any irrational violence. 
