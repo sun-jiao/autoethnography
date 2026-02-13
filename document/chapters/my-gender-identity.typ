@@ -5,16 +5,8 @@ I read some neurological articles and used the predictive coding model to unders
 Detailed reasoning and justification, as well as why I refused other theories, 
 can be found in #plaincite(<Sun2025GenderAbolition>). 
 I hereby briefly summarise it as below:
-- The conventional term "biological sex" is problematic because the academic biological definition of "sex" is confined to the types of gametes. It will be refferred to as "phenotypic sex" in following texts.
-- The definition of phenotypic sex is unjustified, unclear, and unstable, even sometimes self-contradictory traits classified under it are not ontologically different from other sexual dimorphic traits, like height. 
-- All sexual dimorphic traits, including genitals, are dynamically shaped by sex selection in the evolutionary history. 
-- The definition of phenotypic sex is _begging the question_.
-- Many neurological studies claiming "male/female brains" only report the statistical correlation, but without its causal relationship with the subjective experience of "gender identity." Without a clear causal relationship, it is just a sexual dimorphic neurological trait.
-- Considering body representation incongruence "gender identity" itself contradicts the sex/gender distinction. It also repeats the logical fallacy of the definition of phenotypic sex. Why is a short "woman" who wants to be taller not considered transgender? 
-- Transgender individuals show great neurological heterogeneity, implying it is not an innate structure. 
-- Predictive coding theory offers a unified theory: the gender construct, gender norm or gender stereotypes include many ontologically different things. One may feel that their raw feelings do not conform to the externally offered gender label, therefore creating a prediction error. Our brains adopt another gender label and update our self-model to resolve this error. 
-- Phenotypic sex is also considered a specific component of gender stereotypes, therefore incorporates the body representation incongruence into this theory.
-- Two redundant, unnecessary entities, "sex" and "gender identity," are removed. The term "gender" has a consistent meaning across different terms. 
+
+#include "../paragraphs/argument-predictive-gender.typ"
 
 Therefore, in this chapter, I will trace the history of my own gender socialisation. 
 Besides revealing the origins of my gender identity, 

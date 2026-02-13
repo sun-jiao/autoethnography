@@ -29,7 +29,6 @@ I looked inward, saw nothing called "gender identity," only saw many childhood e
 and my reactions to them being artificially grouped together (@fig:bundle). 
 The only difference might be that I explained it in a physicalist way as "reconstructing the training set from the output of a neural network" 
 and cited scientific research to prove the credibility of memory. 
-#footnote[Hume is considered the precursor of cognitive science, so I was standing on his legacy and reinvented his method.]
 
 The second thing is that once, when I was little, I asked my mum, "Mum, why are you always the one cooking at home? Why doesn't Dad cook?" 
 My mum said, "Because Dad is tired of working." Then I said, "You have to work too, aren't you tired?" 
@@ -45,21 +44,25 @@ I asked my parents why there are more precise terminologies for paternal relativ
     younger brother and younger male paternal cousins were "dàda" (大大), 
     and younger maternal male cousins were "biǎoshū" (表叔).
 ]
-and they responded with "it's tradition, don't ask stupid questions."
-
-Many years later, I learned that this was precisely the "categorical imperative" proposed by Kant centuries ago: 
-only follow the maxim that could become a universal law. 
-The young me discovered that my mum's reason, "if you're tired from work, you don't have to cook," could not become a universal law, 
-otherwise nobody would cook, and we will be starved to death, no rational person would will such a world. 
-This meant that the initial reason was either false, incomplete, or the entire system was built on an unfair double standard. 
-#footnote[I support Kant's ethics but not the transcendental idealism.
-I had tried to abandon Kant's metaphysics and rebuild the normative part of his ethics in a physicalist worldview, 
-which seemed very difficult, and I ultimately did not complete it. ]
-
+and they responded with "it's tradition, don't ask stupid questions." 
 This further proves that ignoring politics and traditional culture to point out the logical fallacies and contradictions 
 is itself an extremely radical, almost revolutionary act.
 
-// The true, unstated maxim was likely not about tiredness at all, but about socially prescribed gender roles. The actual operating principle might have been something like: "The woman in the household is responsible for cooking, regardless of her tiredness." When subjected to the categorical imperative, this maxim also fails. A rational being cannot will a universal law that assigns duties based on arbitrary characteristics like gender rather than on a fair, impartial, and rational distribution of labor. Such a law would treat certain rational agents merely as a means to get food, which violates Kant's second formulation of the categorical imperative, the Formula of Humanity.
+// Many years later, I learned that this was precisely the "categorical imperative" proposed by Kant centuries ago: 
+// only follow the maxim that could become a universal law. 
+// The young me discovered that my mum's reason, "if you're tired from work, you don't have to cook," could not become a universal law, 
+// otherwise nobody would cook, and we will be starved to death, no rational person would will such a world. 
+// This meant that the initial reason was either false, incomplete, or the entire system was built on an unfair double standard. 
+// #footnote[I support Kant's ethics but not the transcendental idealism.
+// I had tried to abandon Kant's metaphysics and rebuild the normative part of his ethics in a physicalist worldview, 
+// which seemed very difficult, and I ultimately did not complete it. ]
+
+// The true, unstated maxim was likely not about tiredness at all, but about socially prescribed gender roles. 
+// The actual operating principle might have been something like: "Women in the household is responsible for cooking, regardless of her tiredness." 
+// A rational being cannot will a universal law that assigns duties based on arbitrary characteristics like gender 
+// rather than on a fair, impartial, and rational distribution of labor. 
+// Such a law would treat certain rational agents merely as a means to get food, 
+// which violates Kant's second formulation of the categorical imperative, the Formula of Humanity.
 
 // These memories led me to examine a more fundamental question: where does my obsessive need for systematicity and logical consistency come from? Is it merely an acquired academic habit, or does it have deeper roots? In the process of exploring my "gender identity," I unexpectedly found a possible answer. Research on atypical gender experiences is sometimes associated with autism spectrum disorder (ASD). Initially, I did not associate this with myself, but these cognitive traits, like analytical understanding, systematic thinking, and problems in understanding social norms, highly resemble my experience.
 

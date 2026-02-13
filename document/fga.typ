@@ -6,7 +6,7 @@
   
   authors: (
     (
-      name: "Jiao Sun (孙娇)",
+      name: "Jiao Sun",
       affiliation: "affi1",
       email: "j.sun@pgr.reading.ac.uk",
       orcid: "0000-0002-5028-8132",

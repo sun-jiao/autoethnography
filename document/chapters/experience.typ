@@ -12,7 +12,7 @@ I didn't deny it directly, replying with a Chinese internet slang,
 
 During this period, I developed a strong desire to adopt a more feminine name: 
 娇 (_Jiāo_, will be addressed as "the feminine _Jiāo_"). 
-This character means "cute" or "adorable" and features the "woman" radical (#plaincite(<JiaoMDBG>)}, 
+This character means "cute" or "adorable" and features the "woman" radical (#plaincite(<JiaoMDBG>), 
 as well as its traditional form #plaincite(<JiaoLYT>)). 
 It is a homophone and graphically like my legal name (骄, _Jiāo_, means "pride", relatively neutral). 
 I often used cursive script (行书, _xíng shū_) or the Romanisation (Pinyin) to make them indistinguishable. 

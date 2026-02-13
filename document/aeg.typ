@@ -6,7 +6,7 @@
   
   authors: (
     (
-      name: "Jiao Sun (孙娇)",
+      name: "Jiao Sun",
       affiliation: "affi1",
       email: "j.sun@pgr.reading.ac.uk",
       orcid: "0000-0002-5028-8132",
@@ -61,13 +61,13 @@
 
 #include "chapters/vertigo.typ"
 
-= Reason as a Sheild: Revisiting My Philosophy
-
-#include "chapters/my-philosophy.typ"
-
 = Dialogue with Post-Structuralism
 
 #include "chapters/dialogue-with-post-structuralism.typ"
+
+= Reason as a Sheild: The Origin of My Philosophy
+
+#include "chapters/my-philosophy.typ"
 
 = An answer to the question: What is enlightenment?
 
@@ -81,9 +81,9 @@
   I am grateful to the Enlightenment and its thinkers. 
   You illuminated the darkness with the light of reason. 
   You constructed the independent, resilient, courageous, and fearless subject. 
-  I am sincerely grateful to the anonymous prisoner in Mauthausen concentration camp. 
-  You kept the immortal light of the Enlightenment and Haskalah. 
-  You proved how invincible and indestructible humanity can be, even in the most dehumanising situation.
+  // I am sincerely grateful to the anonymous prisoner in Mauthausen concentration camp. 
+  // You kept the immortal light of the Enlightenment and Haskalah. 
+  // You proved how invincible and indestructible humanity can be, even in the most dehumanising situation.
   I am extremely grateful to the little girl in red shoes for his courage in facing the bullies. 
   Her small shield has become an impregnable shelter that protects them from any irrational violence.
 
