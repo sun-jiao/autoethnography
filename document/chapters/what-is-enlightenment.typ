@@ -56,7 +56,7 @@ Nazis' appropriation of scientific knowledge does not prove that science inheren
 Otherwise, we could argue that because Nick Land was abusing Deleuzian philosophy, therefore Deleuze inherently contained a such a tendency, which is clearly wrong.
 
 Furthermore, "instrumental rationality" is not a form of rationality or reason, otherwise, the concept of reason will be meaningless. 
-For instance, why were machetes used in the Rwandan genocide, insteads of smashing victims using bananas? 
+For instance, why were machetes used in the Rwandan genocide, insteads of smashing victims using stones? 
 Because the former is more efficient, which is also a form of instrumental rationality.
 Clearly, instrumental rationality is just synonym for "pragmatism". 
 Otherwise, we would arrive at an absurd conclusion that "using a machete to kill people is rational."
