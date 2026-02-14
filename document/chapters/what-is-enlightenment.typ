@@ -38,8 +38,8 @@ they would soon naturally become extinct. Why didn't the Germany simply wait for
 Why did Hitler launch a large-scale genocide against them? 
 If they did not become extinct through natural selection, then this proves that they were not "inferior races," thus falsifying Hitler's hypothesis.
 In both cases, Hitler didn't need to do anything. 
-Moreover, Why are they inferior to Germans? Mr. Hitler, how do you quantify inferiority and superiority? 
-Which area of the brain is related to them? What are the anatomical differences between inferior and superior people? How do you prove it?
+// Moreover, Why are they inferior to Germans? Mr. Hitler, how do you quantify inferiority and superiority? 
+// Which area of the brain is related to them? What are the anatomical differences between inferior and superior people? How do you prove it?
 // How to prove that Jews generally have this brain structure? 
 // What selection pressures made morally inferior Jews have higher fitness and leave more offspring than morally superior Jews? 
 // When did the morality of the Jews begin to decline? During the era of the Kingdom of Israel or during the Diaspora? 
@@ -56,36 +56,99 @@ Nazis' appropriation of scientific knowledge does not prove that science inheren
 Otherwise, we could argue that because Nick Land was abusing Deleuzian philosophy, therefore Deleuze inherently contained a such a tendency, which is clearly wrong.
 
 Furthermore, "instrumental rationality" is not a form of rationality or reason, otherwise, the concept of reason will be meaningless. 
-For instance, why were machetes used in the Rwandan genocide, insteads of smashing victims using stones? 
+For instance, why were swords used in ancient wars, insteads of smashing enemies using stones or wood? 
 Because the former is more efficient, which is also a form of instrumental rationality.
 Clearly, instrumental rationality is just synonym for "pragmatism". 
-Otherwise, we would arrive at an absurd conclusion that "using a machete to kill people is rational."
+Otherwise, we would arrive at an absurd conclusion that "using swords to kill people is rational."
 
-Conversely, science is precisely the powerful tool to expose the lies of racist pseudoscience. The Enlightenment spirit promotes the understanding and recognition of human diversity through scientific rationality. Johann Friedrich Blumenbach, through comparative anatomical studies of skulls, reached scientific conclusions quite close to modern population genetics: "the highest diversity is found within the black race," "the five races are not clearly divided, with transitional states between them," "there is no scientific evidence for superiority or inferiority among different races," and "the intelligence of black people is not inferior to any other race" @Rupke2019Johann.
+Nazis had destroyed Germany (and Europe)'s rational tradition to such an extent that even the reflection of Nazism 
+still remains within a mindset contaminated by it. 
+German government @Soussi2023War@Kuras2023Strange@Whittle2024Germany, Adorno @Braunstein2018Wahrheit, Habermas @Habermas2023Principle, 
+#footnote[Yes, Habermas. 
+I don't care about Lyotard, Derrida, and Foucault because I oppose post-structuralism, 
+and their support for Israel only makes me think, "I knew it!" 
+Habermas, however, really makes me disappointed and angry. 
+I used to like him because he supports reason and advocates for "reconstruct Enlightenment." 
+I completely understood Said's anger towards Foucault when I saw Habermas's opinion. ]
+Lyotard @Fruteau2024Deleuze, Foucault @Said2000My, and Derrida (especially early Derrida) @Ryder2013Derrida used 
+a new exceptionalism (Germany's guilt, Germany's special responsibility towards Israel, 
+and Israel's "right to exist") to replace the old exceptionalism (Aryan superiority). 
+It is a symptom of the profound damage that Nazism has caused to European intellectual tradition. 
+As the homeland of Kant, Germany has never truly returned to the glorious Enlightenment. 
+The doubt and abandonment of universal reason is not a profound reflection on Nazism. 
+On the contrary, it is itself a manifestation of Nazism's ideological victory. 
+The Nazis not only destroyed life but, on a spiritual level, also destroyed the trust in an intellectual tradition that resists it -- the Enlightenment.
 
-In the 1920s to 1950s, Richard Goldschmidt, Calvin Bridges, Tatsuo Aida and Øjvind Winge proposed theories of sex (phenotypic sex) determination based on their hybridisation experiments of insect and fish species. They concluded that the sex is determined by the balance and the quantitative relationship between the male and female genes. Two sexes are not clearly distinct opposites. An individual is on a position in the female-to-male continuum @Dietrich2016Experimenting. This is quite consistent with the modern genomic research: the development of fetal gonads depends on the antagonism between two sets of gene networks, which are widely distributed on sex chromosomes and autosomes in the genome @Graves2010Homologies. 
+This is nothing else but a historical self-repeating of the Enabling Act of 1933. The real Enabling Act, 
+by creating a legal "state of exception," authorised the Hitler government to bypass the constitution, 
+thereby destroying the Weimar Republic. 
+Every accepted principle of "exception," no matter how big or small, no matter what content is in it, is a micro "enabling act." 
+It authorises power to override rules, thereby destroying the foundations of justice.
+The so-called "Germany's special responsibility to Israel" is such an enabling act. 
+When state actions touch upon the issue of so-called "Israel's right to exist," 
+the enabling act is activated, and regular, universalist considerations -- 
+whether it is compliance with international law or the universal human rights of all peoples, including Palestinians -- 
+can be legitimately suspended or downgraded.
 
-This predates any civil rights movement and the deconstruction of sex binary by queer theory. The empirical science they considered "oppressive" have actually been far more progressive and ahead of social, ethical, and political changes.
+Adonor, Habermas, Foucault, Lyotard, Derrida, and German government tried to use Nazis' tools (irrationality, anti-science, and particularism) 
+to dismantle Nazis' house (violence, war crime), which is doomed to fail.
+They continues to use a tribal, mythical, and irrational narrative to resolve an issue that can only be 
+truly understood and overcome through the universal reason. 
+Germany's special responsibility is not the antidote to Nazism. 
+It is precisely a painful, lingering aftereffect left by the Nazis' ideological virus, a "long Nazism" analogous to the long COVID. 
+Though the virus have been eliminated from the patient's body, they still did not really recover from it. 
+#footnote[While I oppose queer theory, Judith Butler is quite respectable on the Palestinian issue. 
+Although I consider Butler an idealist utopian socialist, like Robert Owen, detached from material reality, 
+they are at least a real socialist. Conversely, Adorno, Habermas, Foucault, Derrida, and Lyotard are imperialists and colonialists. 
+It's not that Butler doesn't deserve the Adorno Prize, but rather that Adorno doesn't deserve to have an award named after him being awarded to Butler. 
+However, Butler still tries to use master's (Foucault's and Derrida's) tool to dismantle master's house. 
+They want to rescue a marginalised group, Palestinians, with the most long-standing hegemony, irrationality.
+]
 
-Goldschmidt, similar to Einstein, was a German Jewish scientist who fled Nazi persecution. It is well demonstrated that science itself is not oppressive, but other, a tragic hero. Historically, a true Kallipolis ruled by pure reason has never existed; reason has almost always been the dissenting voice, weak, excluded, and suppressed by power. We only have irrationality that disguised as rationality. Irrationality is the most dominant and oppressive hegemonic culture in the world. The whole world is profoundly hypocritical and self-exceptionalist. Oppression stems from politics-influenced academic misconduct, cheery-picking of evidence, circular reasoning, whether it is scientific racism or binary gender theory. Rigorous science, which is based on evidence and uses mathematics to understand complexity and diversity, has always been the glorious tradition of Enlightenment that sets us free. 
+Viewing calculation and classification as inventions of the Enlightenment is a tragic academic misjudgment. 
+On the contrary, calculation and classification are fundamental ways in which human understands the world. 
+Using a sword to kill someone instead of a stone or wood is a calculation of the efficiency of killing. 
+Linnaeus is called "the second Adam" because he did what Adam did in _Genesis_.
 
-The value of the Enlightenment extends far beyond its epistemological contribution to science. #textcite(<Kant1996Answer>) proposed the famous definition of Enlightenment, "_Enlightenment_ is the human being's emergence from his self-incurred minority. Minority is inability to make use of one's own understanding without direction from another. This minority _is self-incurred_ when its cause lies not in lack of understanding but in lack of resolution and courage to use it without direction from another." The emergence is accomplished not in other ways, but only in _Sapere aude_ (dare to know). This motto is not only epistemological, but more importantly, ethical and political.
+Conversely, science is precisely the powerful tool to expose the lies of racist pseudoscience. 
+The Enlightenment spirit promotes the understanding and recognition of human diversity through scientific rationality. 
+Johann Friedrich Blumenbach, through comparative anatomical studies of skulls, 
+reached scientific conclusions quite close to modern population genetics: 
+"the highest diversity is found within the black race," 
+"the five races are not clearly divided, with transitional states between them," 
+"there is no scientific evidence for superiority or inferiority among different races," and 
+"the intelligence of black people is not inferior to any other race" @Rupke2019Johann.
 
-#textcite(<Kant1996Answer>) gave three examples of "minority," "... a book that understands for me, a spiritual advisor who has a conscience for me, a doctor who decides upon a regimen for me ..." This is a precise description of the communities I encountered. They loudly proclaim their opposition to authority, they haven't actually escaped what Kant called "minority." They've simply changed their "guardian." The previous guardian might have been the church, tradition, or a monarch. The current guardian is their theory.
+In the 1920s to 1950s, Richard Goldschmidt, Calvin Bridges, Tatsuo Aida and Øjvind Winge 
+proposed theories of sex (phenotypic sex) determination based on their hybridisation experiments of insects and fish. 
+They concluded that the sex is determined by the balance or the quantitative relationship between the male and female genes. 
+Two sexes are not clearly distinct opposites. 
+An individual is on a position in the female-to-male continuum @Dietrich2016Experimenting. 
+This is quite consistent with the modern genomic research: 
+the development of fetal gonads depends on the antagonism between two sets of gene networks, 
+which are widely distributed on sex chromosomes and autosomes in the genome @Graves2010Homologies. 
 
-When they see somebody with a different opinion, they don't need to use their curiosity to ask, "What did they say? Why did they reach this conclusion?" Instead, they open their handbook. The handbook reads: "Using biology to explain gender = gender essentialism = oppression; transgender + gender essentialism = internalised transphobia." Thus, the comprehension ends. They let a theory framework understand others for them, hiding behind their guardian (the theory), abandoning the ethical responsibility to others.
+They predate any civil rights movement and the deconstruction of sex binary by queer theory. 
+Similarly, Palestinian jurist Henry Cattan was a legal formalist. 
+He rigorously and strictly examined the history of the establishment of Israel in accordance with 
+the _Covenant of the League of Nations_ and the _Charter of the United Nations_, 
+exposing Israel's legitimacy crisis @Cattan1973Palestine. He reached an authentic justice in a "logocentric" way.
+The empirical science and legal formalism they considered "oppressive" have actually been far more progressive and ahead of social, ethical, and political changes.
 
-Admittedly, understanding does not necessarily lead to ideal communication and consensus, they might still refuse my theory even if they read it, just like I refused theirs. Nevertheless, "Knowing" others is the first step of communication. Even if we still refuse each other's theory, at least we can reach a _meta-consensus_: I thought ..., while you thought ..., we cannot agree with each other because ... However, unfortunately, they did not participate in a mutual dialogue. The asymmetry is manifested in the fact that I invested huge intellectual effort to understand them, while they did not do the same thing to me.
+Goldschmidt, similar to Einstein, was a German Jewish scientist who fled Nazi persecution. 
+It is well demonstrated that science itself is not oppressive, but other, a tragic hero. 
+Historically, a true Kallipolis ruled by pure reason has never existed; 
+reason has almost always been the dissenting voice, being weak, excluded, and suppressed by power. 
+We only have irrationality that disguised as rationality. 
+Irrationality is the most dominant and oppressive hegemonic power in the world. 
+The whole world is profoundly hypocritical and self-exceptionalist. 
+Oppression stems from politics-influenced academic misconduct, cheery-picking of evidence, circular reasoning, 
+whether it is scientific racism or binary gender theory. 
+Rigorous science, which is based on evidence and uses mathematics to understand complexity and diversity, 
+has always been the glorious tradition of Enlightenment that sets us free. 
 
-I believe that my research in biology and my attempt to comprehend their philosophy, though methodologically different, share a common epistemic root: a "desire for knowledge" characterised by pure and irrepressible wonder and curiosity.
-
-"Dare to know" is a kind of modesty, because its presupposition is "I NEED to know," acknowledging our own epistemological deficiency. This is the drive to bridge the gap between the self and the external, and the yearning to approach truth. Love of Truth and Love of Neighbour are fundamentally connected. Scientists acknowledge that nature is the "other," possessing its own logic independent of human will. Studying nature means humbly listening to its voice and understanding its laws, independent of our own. Similarly, true understanding of others means acknowledging them as independent rational beings with their own theories I have not yet comprehended. Reading their theories, as I have done, is "daring to know" their world, even if it would make me uncomfortable #footnote[I really felt uncomfortable with their style. While I think I must understand them, otherwise I am not qualified to comment on them.]. 
-// They abandoned this curiosity along with abandoning science, allowing a guardian to understand others on their behalf.
-// %"Knowing" is essentially respecting and asking favours from others.
-
-We need to acknowledge not only our epistemological deficiency of nature and of others, but also our deficiency of ourselves. My analysis of myself at the beginning is precisely "dare to know." I did not "disrespect" my subjective experience. Otherwise, I would have simply said, "How could I be a girl? It seems I'm crazy. Period." But I did not do that. On the contrary, I very seriously analysed my subjective experiences of gender dysphoria and gender euphoria, placing them on the same epistemological level as all other knowledge. When I proposed that "natural selection cannot encode abstract concepts," I was not just discussing evolutionary biology and neuroscience. I also recalled seeing my younger siblings and cousins randomly sucking things as kids, and elders teaching them, "Don't suck that, it's so dirty." Our naive knowledge and scientific knowledge are interconnected and mutually shape each other, forming a rhizome -- or rather, mycelium.
-
-Furthermore, the Enlightenment's most profound legacy lies in the construction of an independent, autonomous subject. In an ideal world, reason allows us to understand each other; in the darkest corners of human history, reason empowers the individual to preserve their soul when their body is being destroyed. The rational subject constructed by the Enlightenment, with its inherent reason and autonomous judgment, is an important and powerful weapon against dehumanisation.
+Furthermore, the value of the Enlightenment extends far beyond its epistemological contribution to science. 
+The Enlightenment's most profound legacy lies in the construction of an independent, autonomous subject. In an ideal world, reason allows us to understand each other; in the darkest corners of human history, reason empowers the individual to preserve their soul when their body is being destroyed. The rational subject constructed by the Enlightenment, with its inherent reason and autonomous judgment, is an important and powerful weapon against dehumanisation.
 
 That sentence in the Mauthausen concentration camp is deafening: If there is a God, He will have to beg my forgiveness#footnote[Wenn es einen Gott gibt muß er mich um Verzeihung bitten.] @Lassley2015Defective. When this nameless prisoner wrote this sentence on the wall of their cell, they were choosing human autonomy and agency, using clear and unshakable reason to confront the evil and irrationality. What they did was to use the independent, strong, agentic, and liberating subject of self to resist the oppression of Nazism. In the face of ultimate evil, where human dignity was systematically stripped away, this individual refused to seek comfort in the ultimate "spiritual guardian" -- God. Instead, they chose to rely solely on their own reason and moral judgment to confront the absurdity of their fate. We are ignorant of the ethnicity of this nameless prisoner -- both German political prisoners, Polish, Soviet and Yugoslav prisoners of war, and Dutch and Hungarian Jews were held in the Mauthausen concentration camp. At that moment, their resilience transcended all identities. Behind this sentence is a shared destiny, one that still intimately connects the _Aufklärung_ and Haskalah, as well as the Enlightenment, _Lumières_, Nahda, and the May Fourth Movement. When the external world strips an individual of all social dignity, ethnicity, gender, philosophical and political views, and even their physical freedom, the "rational subject" constructed by the Enlightenment becomes the indestructible core of resistance.
 
