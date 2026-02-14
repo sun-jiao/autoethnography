@@ -17,7 +17,7 @@ However, the two articles still exhibit significant intertextuality.
 and this autoethnography is in the "context of discovery."
 
 I understand that writing an autoethnography based on science and reason to advocate for
-a grand narrative may be seen by some scholars as contrary to the fundamental paradigms of this field.
+a grand narrative may be seen by some scholars as a contradiction to the fundamental paradigms of this field.
 However, I am not trying to convince my readers that I am completely correct, but
 documenting how an individual with a firm commitment to science,
 who has received rigorous scientific training, attempts to understand a crucial aspect of themself.

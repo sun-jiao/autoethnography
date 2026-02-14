@@ -48,6 +48,26 @@ and they responded with "it's tradition, don't ask stupid questions."
 This further proves that ignoring politics and traditional culture to point out the logical fallacies and contradictions 
 is itself an extremely radical, almost revolutionary act.
 
+In the notebook including the story about the Sichuan little girl, I found another article I wrote: 
+The old Chinese saying "Illness falls like a mountain collapsing, but recovers like pulling silk from a cocoon"
+#footnote[病来如山倒，病去如抽丝, meaning that "illness comes quickly but goes slowly."] is an over-generalization.
+Lung cancer caused by smoking develops very slowly, while surgical removal of a tumor must be done quickly. 
+I now realize the three incidents seem very similar to the style of analytic philosophy. 
+I completely ignored the experience and emotion behind this proverb, directly treating it as a logical proposition to examine its truth conditions.
+
+But in reality, even after analyzing my own gender identity, I still didn't know what "analytic philosophy" was. 
+At that time, I thought my self-analysis was applying neuroscience to analyse a psychological problem.
+I also didn't know what continental philosophy was before. 
+I thought Foucault was a political scientist and Butler was a sociologist. 
+The previous section about post-structuralism was added after resolving my own issues and reading their books. 
+My previous understanding of "philosophy" was exclusively about the grand metaphysics, especially Hegel's.
+
+It was much later that I realised my cognitive style was very similar to analytic philosophy. 
+My initial reaction was, "Huh? This is philosophy?" 
+And I didn't understand why there were so many anti-transgender philosophers like Kathleen Stock, 
+Holly Lawford-Smith, Mary Leng, and Alex Byrne in this tradition. 
+Analytic philosophy is such a wonderful thing; why would these people misuse it like this?
+
 // Many years later, I learned that this was precisely the "categorical imperative" proposed by Kant centuries ago: 
 // only follow the maxim that could become a universal law. 
 // The young me discovered that my mum's reason, "if you're tired from work, you don't have to cook," could not become a universal law, 

@@ -8,7 +8,7 @@ I hereby briefly summarise it as below:
 
 #include "../paragraphs/argument-predictive-gender.typ"
 
-Therefore, in this chapter, I will trace the history of my own gender socialisation. 
+Therefore, in this section, I will trace the history of my own gender socialisation. 
 Besides revealing the origins of my gender identity, 
 it also serves as a counterexample to the "innate gender identity" theory of transgender essentialism @APA2015Guidelines@NHS2022Gender, 
 the "standpoint epistemology" of the feminist philosophy of science @Haraway1988Situated, 
@@ -144,9 +144,9 @@ just like they could shape other components in our narrative identities.
 On the other hand, the male components are relatively simple: 
 body representation congruence and the external imposed male socialisation. 
 In particular, there is a representative anecdote worth mentioning. 
-I have a deep aversion to radical "feminists" who attack and stigmatise all men. 
-My stance can be traced to Victor Hugo's _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_), 
-which we learned in middle school language arts courses @Kecheng2007Yuwen:
+I have a deep aversion to radical "feminists" who attack all men. 
+This stance can be traced to Victor Hugo's _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_), 
+which I learned in middle school language arts courses @Kecheng2007Yuwen:
 
 #quote(block: true)[
     However, I protest, and I thank you for giving me this opportunity. The crimes of the rulers are not the fault of the ruled; governments are sometimes bandits, but the people never are.
@@ -154,49 +154,46 @@ which we learned in middle school language arts courses @Kecheng2007Yuwen:
     Mais je proteste, et je vous remercie de m'en donner l'occasion; les crimes de ceux qui mènent ne sont pas la faute de ceux qui sont menés; les gouvernements sont quelquefois des bandits, les peuples jamais.
 ]
 
-The second text is Hualing Nieh Engle's _Dear Papa and Mama_ (亲爱的爸爸妈妈), 
+Another text is Hualing Nieh Engle (聂华苓)'s _Dear Papa and Mama_ (亲爱的爸爸妈妈), 
 which is about a memorial commemoration event of the Nazi massacre in Kragujevac, Yugoslavia. 
 In the event, writers from all over the world discussed "War and Literature." Among them was a West German writer who made a statement that I found very confusing:
-
-#quote(block: true)[
-    The West German writer Ming Hebai#footnote[I couldn't find who this person is, what their German name is, or what works they published. It might be a pseudonym created by Hualing to protect them.] slowly stood up. He said gravely, "... I have a sense of guilt: I feel as if it was I who killed those children. We are simply beasts! All concentration camps must be destroyed! I am very grateful that you allow me to be with you ..."
-
-    西德作家明赫白缓缓地站起来，他沉重地说：“……我有犯罪感：感到是我杀害了那些孩子。我们简直就是禽兽！所有集中营都必须粉碎！你们允许我和你们在一起，我非常感激……”
-]
+"... I have a sense of guilt: I feel as if it was I who killed those children. We are simply beasts! 
+All concentration camps must be destroyed! I am very grateful that you allow me to be with you ..."
 
 I asked my language arts teacher, why do these two texts contradict each other? 
 If it is as Hugo says, what does the Nazi massacre in Kragujevac have to do with this writer? 
 My teacher said "it is normal for different writers to have different views on social issues. 
-You can think for yourself whose view is more reasonable, why, and then share your thoughts with me." 
+You can think about whose view is more reasonable, why, and then share your thoughts with me." 
 
 I stood firmly with Hugo: "The crimes of the rulers are not the fault of the ruled." 
 Because the Anglo-French invasion of China was not committed by Hugo, and he had no power to stop it, 
 the Kragujevac massacre was not committed by the German writer, and they also had no power to stop it. 
 So why should they bear responsibility for things they did not do and could not prevent? 
-Therefore, although Ming Hebai made some seemingly "profound" reflections, he essentially still saw himself and the Nazis as "fellow Germans," 
+Therefore, although making some seemingly "profound" reflections, they essentially still saw themself and the Nazis as "fellow Germans," 
 sharing a transcendental guilt or sin.
+
+This is why I oppose attacking all men: 
+an oppressive power (patriarchy/British and French army) commited evil in the name of a specific group (men/British and French people), 
+which does not grant the victims the right to indiscriminately attack the former group in return, 
+because this power clearly did not receive authorisation from the group it claimed to represent. 
 
 The radical (so-called) "feminists" claimed that my anger is because "you're a man" and I had been "triggered"
 #footnote[急了, _jí le_, a Chinese internet slang for getting flustered or angry when your weak spot is hit.]: 
 "You think reason is more important than the real suffering of women. This is a thought of male privilege. 
 You fundamentally do not understand our female experience." 
-This view is clearly influenced by post-structuralists and feminist philosophers of science like #textcite(<Irigaray1985Subject>, <Harding1986Science>). 
+// This view is clearly influenced by post-structuralists and feminist philosophers of science like #textcite(<Irigaray1985Subject>, <Harding1986Science>). 
 
 While the truth is precisely the opposite: it is because I was arguing with them to defend my ethical principles
- against irrationality and collective responsibility, and in this process, 
- I was labelled as "male," which shaped the male aspect of my self-identity. 
- If "opposing 'feminism' is a male political view" and "I oppose 'feminism,'" 
- then I updated my self-model: maybe I am "male." 
- #footnote[This event happened about seven years ago, and I didn't know much about feminism and gender theories at that time.]
+against irrationality and collective responsibility, and in this process, 
+I was labelled as "male," which shaped the male aspect of my self-identity. 
+If "reason is a male privilege" and "I support reason," 
+then I updated my self-model: maybe I am "male." 
+#footnote[This event happened about seven years ago, and I didn't know much about feminism and gender theories at that time. ]
 
 Ironically, when debating with extreme nationalists who said that "all Japanese people are guilty, there is no innocent one under the atomic bomb," 
 #footnote[Referring to Hiroshima and Nagasaki.] 
 they claimed that my opinion is "women's kindness." 
 #footnote[妇人之仁, _fù rén zhī rén_, an old Chinese idioms means "excessive tendency to clemency" or being "too soft-hearted" in a pejorative sense.] 
-My opinions on the so-called "feminism" and nationalism are almost logically isomorphic: 
-an oppressive power (patriarchy/Japanese militarism) commits evil in the name of a specific group, 
-which does not grant the oppressed group the right to indiscriminately attack the former group in return, 
-because this power clearly did not receive authorisation from the group it claimed to represent. 
 How the same ethic framework is interpreted and what "gender" it is assigned depends entirely on the external sociocultural framework, 
 the observer's position, and even an instrumental purpose in a specific context. 
 The interpretation is not based on any objective, consistent standard, but serves the interpreter's own political agenda.
@@ -205,6 +202,20 @@ Thus, this phenomenon not only occurs in childhood but also appears continuously
 It is just that for most people, whether cisgender or transgender, after their gender identity is established, 
 they will consciously resist the invasion from another gender. 
 I happen to not care much about "gender." I don't think my gender identity is very important to me, not my core identity. 
+
+Their subsequent developments proved me completely right. 
+Radical feminists in China often emphasize that "biological [_sic_] sex" (corresponding to "phenotypic sex" under my definition)
+is real and unchangeable, while gender identity is meaningless. 
+This logic strictly limits the definition of "woman" to "biological [_sic, ditto_] female," 
+arguing that only oppression based on biological structure (such as the uterus and vagina) is "real oppression." 
+This ideology, based on physiological dualism and hating all phenotypic male, 
+rapidly developed into gender essentialism and anti-transgender ideology on the Chinese internet @Qiao2022@Ma2025Cyber@Wang2025@Yang02012023. 
+Ironically, just a few years ago, media outlets like the BBC were reporting attacks on Chinese radical feminists as "mass misogyny" @Feng2021Yang. 
+
+It is completely isomorphic with the statement "no innocent one under the atomic bomb." 
+The latter also misinterpreted anti-fascism into a form of extreme nationalism, 
+and denies the moral legitimacy of the Japanese anti-war activitists, captives from Allies, and forced laborers from Korea, China, and Southeast Asia,
+who also died in the atomic bombings of Hiroshima and Nagasaki.
 
 More importantly, my reliance on reason is not "a thought of male privilege." 
 My childhood experiences made me feel that the real world is chaotic and painful, while mathematics, logic, and science are beautiful. 

@@ -81,9 +81,9 @@
   I am grateful to the Enlightenment and its thinkers. 
   You illuminated the darkness with the light of reason. 
   You constructed the independent, resilient, courageous, and fearless subject. 
-  // I am sincerely grateful to the anonymous prisoner in Mauthausen concentration camp. 
-  // You kept the immortal light of the Enlightenment and Haskalah. 
-  // You proved how invincible and indestructible humanity can be, even in the most dehumanising situation.
+  I am sincerely grateful to the anonymous prisoner in Mauthausen concentration camp. 
+  You kept the immortal light of the Enlightenment and Haskalah. 
+  You proved how invincible and indestructible humanity can be, even in the most dehumanising situation.
   I am extremely grateful to the little girl in red shoes for his courage in facing the bullies. 
   Her small shield has become an impregnable shelter that protects them from any irrational violence.
 
