@@ -6,7 +6,7 @@
 // This is unfair to Germany's East and South Asian immigrants.
 // Both of them are symbols with long histories that predate the Nazis. 
 // The swastika's history is even longer than the Iron Cross's, and we can even find right-facing, 
-// rotated 45° Buddhist swastikas on some ancient buildings in China. (@fig:sayagata) 
+// rotated 45° Buddhist swastikas on some ancient buildings in China. (@fig-sayagata) 
 // Its pre-Nazi usage was also more peaceful than the Iron Cross, because the Iron Cross was associated with the Prussian army before Nazis. 
 // The only difference is that the Iron Cross is "German," while the swastika is not. 
 // The former is "our," German national culture, to be cherished, saved, and purified; 
@@ -19,7 +19,7 @@
 //   caption: [
 //     Both left- and right-facing, rotated 45° Buddhist swastikas on a Chinese ancient building. Author: #link("https://commons.wikimedia.org/wiki/User:Yongxinge")[Yongxinge], CC BY-SA 3.0.
 //   ],
-// )<fig:sayagata>
+// )<fig-sayagata>
 
 // Why is the Iron Cross not an unconstitutional symbol? Because the Wehrmacht is not an unconstitutional organisation. Why is the Wehrmacht not an unconstitutional organisation? Because "we" decided that it is not. However, historical research shows that the Wehrmacht was far from innocent @Wette2006Wehrmacht. This seems to be a self-fulfilling prophecy. The legislators of the Federal Republic of Germany prophesied: "The Iron Cross can be saved and purified, while the swastika cannot." Then, they passed legislation allowing the unrestricted use of the Iron Cross while completely banning the swastika, ensuring that this prophecy would forever be true (@tab:swastika-iron-cross).
 
@@ -69,3 +69,51 @@
 // It continues to use a tribal, mythical, and irrational narrative to resolve an issue that can only be truly understood and overcome through the universal reason. The special responsibility is not the antidote to Nazism. It is precisely a painful, lingering aftereffect left by the Nazis' ideological virus, a "long Nazism" analogous to the long COVID. Though the virus have been eliminated from the patient's body, they still did not really recover from it.  
 
 // Ironically, Palestinian jurist Henry Cattan was a legal formalist. He rigorously and strictly examined the history of the establishment of Israel in accordance with the _Covenant of the League of Nations_ and the _Charter of the United Nations_, exposing Israel's legitimacy crisis @Cattan1973Palestine. He reached an authentic justice in a "logocentric" way.
+
+
+///
+/// ------------------------------
+
+Nazis had destroyed European intellectual tradition to such an extent that even the reflection of Nazism 
+still remains within a mindset contaminated by it. 
+German government @Soussi2023War@Kuras2023Strange@Whittle2024Germany, Adorno @Braunstein2018Wahrheit, Habermas @Habermas2023Principle, 
+#footnote[Yes, Habermas. 
+I don't care about Lyotard, Derrida, and Foucault because I oppose post-structuralism, 
+and their support for Israel only makes me think, "I knew it!" 
+Habermas, however, really makes me disappointed and angry. 
+I used to like him because he supports reason and advocates for "reconstruct Enlightenment." 
+I completely understood Said's anger towards Foucault when I saw Habermas's opinion. ]
+Lyotard @Fruteau2024Deleuze, Foucault @Said2000My, and Derrida (especially early Derrida) @Ryder2013Derrida used 
+a new exceptionalism (Germany's guilt, Germany's special responsibility towards Israel, 
+and Israel's "right to exist") to replace the old exceptionalism (Aryan superiority). 
+It is a symptom of the profound damage that Nazism has caused to European intellectual tradition. 
+As the homeland of Kant, Germany has never truly returned to the glorious Enlightenment. 
+The doubt and abandonment of universal reason is not a profound reflection on Nazism. 
+On the contrary, it is itself a manifestation of Nazism's ideological victory. 
+The Nazis not only destroyed life but, on a spiritual level, also destroyed the trust in an intellectual tradition that resists it -- the Enlightenment.
+
+This is nothing else but a historical self-repeating of the Enabling Act of 1933. The real Enabling Act, 
+by creating a legal "state of exception," authorised the Hitler government to bypass the constitution, 
+thereby destroying the Weimar Republic. 
+Every accepted principle of "exception," no matter how big or small, no matter what content is in it, is a micro "enabling act." 
+It authorises power to override rules, thereby destroying the foundations of justice.
+The so-called "Germany's special responsibility to Israel" is such an enabling act. 
+When state actions touch upon the issue of so-called "Israel's right to exist," 
+the enabling act is activated, and regular, universalist considerations -- 
+whether it is compliance with international law or the universal human rights of all peoples, including Palestinians -- 
+can be legitimately suspended or downgraded.
+
+Adonor, Habermas, Foucault, Lyotard, Derrida, and German government tried to use Nazis' tools (irrationality, anti-science, and particularism) 
+to dismantle Nazis' house (violence, war crime), which is doomed to fail.
+They continues to use a tribal, mythical, and irrational narrative to resolve an issue that can only be 
+truly understood and overcome through the universal reason. 
+Germany's special responsibility is not the antidote to Nazism. 
+It is precisely a painful, lingering aftereffect left by the Nazis' ideological virus, a "long Nazism" analogous to the long COVID. 
+Though the virus have been eliminated from the patient's body, they still did not really recover from it. 
+#footnote[While I oppose queer theory, Judith Butler is quite respectable on the Palestinian issue. 
+Although I consider Butler an idealist utopian socialist, like Robert Owen, detached from material reality, 
+they are at least a real socialist. Conversely, Adorno, Habermas, Foucault, Derrida, and Lyotard are imperialists and colonialists. 
+It's not that Butler doesn't deserve the Adorno Prize, but rather that Adorno doesn't deserve to have an award named after him being awarded to Butler. 
+However, Butler still tries to use master's (Foucault's and Derrida's) tool to dismantle master's house. 
+They want to rescue a marginalised group, Palestinians, with the most long-standing hegemony, irrationality.
+]

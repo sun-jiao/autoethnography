@@ -2,7 +2,7 @@
 
 I became aware of my "gender identity" when I subconsciously thought from a girl's perspective. 
 For instance, once, while discussing physical fitness tests, I said "my 800-metre run." 
-A friend said, "It's 1000 meters." I didn't respond directly, joking, "It's actually 800 plus." 
+A friend said, "It's 1000 metres." I didn't respond directly, joking, "It's actually 800 plus." 
 They jokingly asked if I was a girl.
 #footnote[In Chinese universities, the long-distance running test is 1000 metres for 
 male students and 800 metres for female students.] 
@@ -10,7 +10,7 @@ I didn't deny it directly, replying with a Chinese internet slang,
 "u1s1, qs" 
 #footnote[有一说一，确实 _yǒu yī shuō yī, què shí_, a Chinese internet slang means "to be honest, yes"].
 
-During this period, I developed a strong desire to adopt a more feminine name: 
+I also have a strong desire to adopt a more feminine name: 
 娇 (_Jiāo_, will be addressed as "the feminine _Jiāo_"). 
 This character means "cute" or "adorable" and features the "woman" radical (#plaincite(<JiaoMDBG>), 
 as well as its traditional form #plaincite(<JiaoLYT>)). 
@@ -21,12 +21,12 @@ it is the first choice in many Chinese pinyin input methods.
 #footnote[When typing in Chinese, we use a software called "input method." 
 It gives all possible Chinese characters based on their spell in pinyin,
 and the user chooses the correct character from them. It is a common thing to choose a wrong character.] 
-Every time somebody types my name as the feminine _Jiāo_, 
+Every time somebody typed my name as the feminine _Jiāo_, 
 I was extremely delighted and afraid that someone would "kindly" point it out. 
-If this really happened, I would be very "tolerant" and say, 
+If this really happened, I would be very "tolerant" and said, 
 "It's okay, as long as I know you're addressing me, a wrong character doesn't matter." 
 At an academic conference, the curators wrote my name as the feminine _Jiāo_ on a poster. 
-A junior male student discovered it and contacted the responsible officer to correct it. 
+A junior male student discovered it and contacted the responsible organiser to correct it. 
 I felt a strong sense of disappointment at that moment. 
 Sometimes I even used the feminine _Jiāo_ myself, and if discovered, I would blame the input method.
 
@@ -50,7 +50,7 @@ I told one of them I was a girl and sent an AI-generated photo. They replied, "W
 During this time, I had wondered if I was "transgender" and tried to understand the mainstream transgender narratives. 
 However, I kept encountering intellectual barriers, such as: 
 What is gender identity? Where does it come from? What is its relationship to "gender"? Why is it "gendered"? 
-The term "gender" refers to a sociocultural category, then it is essentially an identity with a social construct. 
+If the term "gender" refers to a sociocultural category, then it is essentially an identification with a social construct. 
 This contradicts the so-called "innate, profound feeling," because social norms are nurtured. 
 It is also politically problematic, as it seems to advocate that people should identify with the oppressive gender roles. 
 If it points to phenotypic sex, this contradicts the sex/gender distinction, 
@@ -65,7 +65,7 @@ I even doubt whether they read my post carefully.
 "Nobody is interested in reading your AI-generated bullshit." 
 "You just need to post the AI prompt you used." 
 "He is probably a 14-year-old incel who just told ChatGPT to write him an essay promoting gender essentialism." 
-#footnote[I can understand the label "incel", but I don't understand why did they think I'm 14 years old.]
+#footnote[I can understand the label "incel", but I don't understand why they thought I was 14 years old.]
 I argued with them for a long time, repeatedly telling them, 
 "This is not AI-generated; I wrote it very seriously," and 
 "If you ask ChatGPT to write an essay promoting gender essentialism and get this result, it only proves that ChatGPT is lying to you."

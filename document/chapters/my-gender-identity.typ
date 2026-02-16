@@ -4,7 +4,7 @@ After the puzzlement and online conflicts,
 I read some neurological articles and used the predictive coding model to understand my gender identity. 
 Detailed reasoning and justification, as well as why I refused other theories, 
 can be found in #plaincite(<Sun2025GenderAbolition>). 
-I hereby briefly summarise it as below:
+I hereby briefly summarise it below:
 
 #include "../paragraphs/argument-predictive-gender.typ"
 
@@ -20,7 +20,7 @@ The female components of my gender identity will be discussed first, followed by
 
 I suspect my preference for the feminine _Jiāo_ was shaped by repeated misuse. 
 It was frequently miswritten or mistyped as the feminine _Jiāo_ in my life, 
-due to the input method issue mentioned earlier (@fig:name-shoes a, b). 
+due to the input method issue mentioned earlier (@fig-name-shoes a, b). 
 I felt ashamed and uncomfortable about it when I was in elementary and middle school, 
 but I gradually came to like it.
 
@@ -33,13 +33,13 @@ but I gradually came to like it.
     with the name spelt as the feminine homophone; 
     c-d) photos of the author wearing red shoes in childhood.
   ],
-)<fig:name-shoes>
+)<fig-name-shoes>
 
 Another memory involves the footwear I wore in primary school, 
 which my classmates considered "girls' shoes." 
 It was a part of our school uniform, and the colours were segregated by gender: 
 red for girls and blue for boys, and were mandatory in school. 
-Unfortunately (or, fortunately?), I wore the red version (@fig:name-shoes c, d). 
+Unfortunately -- or perhaps fortunately -- I wore the red version (@fig-name-shoes c, d). 
 Because of this, I faced physical bullying: my shoes were thrown away, 
 my trousers were pulled down to "check whether I was a girl," 
 and I was once pushed into a bush, leading to perineal injury. 
@@ -54,9 +54,9 @@ mainly used in schools and kindergartens in Japan.
 Chinese clothing factories might produce these shoes to export to Japan, 
 which were later sold in China. 
 #textcite(<Kanzaki2019Shogakko>) show that the colour of indoor shoes is also usually
- assigned based on gender in Japan, but some schools assign colours by grade level. 
+assigned based on gender in Japan, but some schools assign colours by grade level. 
  Their study revealed that the shoe itself has no fixed gender meaning, 
- but artificially assigned in a specific context.
+but artificially assigned in a specific context.
 
 It is also a crucial childhood memory that adults considered my "personality was like a little girl's," 
 probably because I liked playing with stuffed animal toys and disliked sports and fighting. 
@@ -78,7 +78,7 @@ I stood at the door, waiting to catch them when they came out, but a teacher saw
 Another incident was that a maths teacher of ours punished some boys by making them clean the girls' bathroom. 
 Additionally, I got sick and vomited during class, and the teacher took me to the girls' bathroom to clean up. 
 These incidents are difficult to interpret with normal logic. 
-I suspect that they shaped the girls' bathroom in my young mind into a mysteria place filled with indescribable implies and metaphors.
+I suspect that they shaped the girls' bathroom in my young mind into a mysterious place filled with indescribable implications and metaphors.
 
 // it was a safe zone for girls, where they could hide during a game, while my attempt to use a logical strategy to win the game was inexplicably punished; it was a place of "degradation" for boys, where misbehaving boys were forced to enter and clean as a form of humiliation; it was a place of care, where when I was unwell, the usually forbidden rules were broken, and the teacher helped me clean my body and clothes. These events may have somehow shaped my fascination with female spaces, femininity, and female symbols.
 
@@ -111,7 +111,7 @@ envy of the reproductive function, and an internalised reaction to childhood exp
 Our life experiences and psychological responses to external stimuli are interwoven like a dense net, 
 or rather, like a chain reaction, where one event triggers multiple preceding events, 
 which continue to trigger subsequent events. 
-Then we pick out a few phenotypically similar phenomena, give them a name: "gender identity." (@fig:bundle)
+Then we pick out a few phenotypically similar phenomena, give them a name: "gender identity." (@fig-bundle)
 
 #figure(
     image("../figures/bundle_of_gender_identity.svg"),
@@ -120,7 +120,7 @@ Then we pick out a few phenotypically similar phenomena, give them a name: "gend
     Visualised using graphviz @Ellson2001Graphviz 
     and manually corrected with Inkscape @Inkscape.
   ],
-)<fig:bundle>
+)<fig-bundle>
 
 The "similarity" and "relatedness" between them is also shaped by society and culture (as argued in #plaincite(<Sun2025GenderAbolition>)); 
 otherwise, they would be independent and unrelated phenomena. 
@@ -173,13 +173,13 @@ Therefore, although making some seemingly "profound" reflections, they essential
 sharing a transcendental guilt or sin.
 
 This is why I oppose attacking all men: 
-an oppressive power (patriarchy/British and French army) commited evil in the name of a specific group (men/British and French people), 
+an oppressive power (patriarchy/British and French army) committed evil in the name of a specific group (men/British and French people), 
 which does not grant the victims the right to indiscriminately attack the former group in return, 
 because this power clearly did not receive authorisation from the group it claimed to represent. 
 
-The radical (so-called) "feminists" claimed that my anger is because "you're a man" and I had been "triggered"
+The radical (so-called) "feminists" claimed that my anger was because "you're a man" and I had been "triggered"
 #footnote[急了, _jí le_, a Chinese internet slang for getting flustered or angry when your weak spot is hit.]: 
-"You think reason is more important than the real suffering of women. This is a thought of male privilege. 
+"You think reason is more important than the real suffering of women. This is a manifestation of male privilege. 
 You fundamentally do not understand our female experience." 
 // This view is clearly influenced by post-structuralists and feminist philosophers of science like #textcite(<Irigaray1985Subject>, <Harding1986Science>). 
 
@@ -208,13 +208,13 @@ Radical feminists in China often emphasize that "biological [_sic_] sex" (corres
 is real and unchangeable, while gender identity is meaningless. 
 This logic strictly limits the definition of "woman" to "biological [_sic, ditto_] female," 
 arguing that only oppression based on biological structure (such as the uterus and vagina) is "real oppression." 
-This ideology, based on physiological dualism and hating all phenotypic male, 
+This ideology, based on physiological dualism and hating all phenotypic males, 
 rapidly developed into gender essentialism and anti-transgender ideology on the Chinese internet @Qiao2022@Ma2025Cyber@Wang2025@Yang02012023. 
 Ironically, just a few years ago, media outlets like the BBC were reporting attacks on Chinese radical feminists as "mass misogyny" @Feng2021Yang. 
 
 It is completely isomorphic with the statement "no innocent one under the atomic bomb." 
 The latter also misinterpreted anti-fascism into a form of extreme nationalism, 
-and denies the moral legitimacy of the Japanese anti-war activitists, captives from Allies, and forced laborers from Korea, China, and Southeast Asia,
+and denied the moral legitimacy of the Japanese anti-war activities, captives from Allies, and forced labourers from Korea, China, and Southeast Asia,
 who also died in the atomic bombings of Hiroshima and Nagasaki.
 
 More importantly, my reliance on reason is not "a thought of male privilege." 
@@ -232,7 +232,7 @@ I angrily questioned them about why they laughed at me but encouraged her, and n
 Reason was the only shield of that little girl in the red shoes in her most vulnerable moment. 
 In a world full of chaos and pain, it is the only clean, pure, and trustworthy thing. It is her shield, his home, their shelter. 
 It finally becomes an impregnable sanctuary against any irrational violence. 
-Actually, reason and objectivity is a long-standing tradition in feminism @Antony2018Mind. 
+Actually, reason and objectivity are a long-standing tradition in feminism @Antony2018Mind. 
 This is the literal meaning of "enlightenment": use the light of reason to lighten all darkness. _Veritas nos liberabit._
 
 // It is the same for this self-analysis. I did not "disrespect" my subjective experience. On the contrary, I very seriously analysed my subjective experiences, placing them on the same epistemological level as all the knowledge I could obtain from other sources. When I proposed that "natural selection cannot encode abstract concepts," I was not just discussing evolutionary biology and neuroscience. I also recalled the subjective experience of seeing my younger siblings and cousins randomly sucking things as kids, and elders teaching them, "Don't suck that." Our naive knowledge and scientific knowledge are interconnected and mutually shape each other. Respecting experience is not about unconditionally accepting it as a metaphysical truth, but about, as Spinoza did, seriously understanding and analysing, integrating it into one's knowledge network with cross-validating connections with all other knowledge. Far from "disrespecting subjective experience," I have given my subjective experience the highest respect.

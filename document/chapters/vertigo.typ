@@ -15,11 +15,11 @@ I "invented" this causal relationship after setting the goal of "finding the ori
 and then recalling and analysing. This is a classic Texas Sharpshooter Fallacy.
 
 In contrast, the memory of being mocked by classmates for wearing red shoes is very vivid, specific, and full of detail. 
-A case in point is that once in the language are class, the teacher asked us to bring some childhood photos and tell stories based on them. 
+A case in point is that once in the language arts class, the teacher asked us to bring some childhood photos and tell stories based on them. 
 In the photo I brought, I was wearing such shoes, and a classmate mocked me, 
 "So you've been wearing girls' shoes since you were a kid" (or something like it), and I angrily snatched the photo back. 
 The causal relationship between them is supported by details. 
-Additionally, I found these childhood photos of me wearing red shoes at home (@fig:name-shoes).
+Additionally, I found these childhood photos of me wearing red shoes at home (@fig-name-shoes).
 
 The story of visiting the museum is similar. 
 It is clear in my brain that I was mocked and heckled by some boys, urging me to get down so they could play, 
@@ -28,7 +28,7 @@ The memory of my name being misspelled in childhood is also like this.
 I remember my mum angrily saying, "Can't they see it is a boy in the photo? Why would they use this character?" 
 and demanding that I go to school the next day and have the teacher change the name tag. 
 This still happens today; many friends who clearly know my legal name, and even government officials, have typed my name as the feminine version. 
-I even found physical evidence, such as name tags or documents with the feminine _Jiāo_ (@fig:name-shoes).
+I even found physical evidence, such as name tags or documents with the feminine _Jiāo_ (@fig-name-shoes).
 
 Similarly, although I have a vivid memory of lying in bed and recalling the dream, 
 the so-called causal chain between the bullying and the dream is also a "recent invention."
@@ -40,9 +40,9 @@ I also found the book _Letter from an Unknown Woman_, which I read as a child, b
 I tried to rationalise the reliability. 
 I later explained it as being somewhat analogous to observing a neural network's (the brain's) 
 output to partially reconstruct its training data (life experiences) when it is permanently lost or inaccessible. 
-#footnote[Like how the HuggingFace team using the output of DeepSeek-R1 to train their Open-R1. https://github.com/huggingface/open-r1]
+#footnote[Like how the HuggingFace team used the output of DeepSeek-R1 to train their Open-R1. https://github.com/huggingface/open-r1]
 From this perspective, psychology can be viewed as a form of neuroengineering. 
-Although our memories is not 100% factual, a study by 
+Although our memories are not 100% factual, a study by 
 #textcite(<Diamond2020Truth>) shows that 93--95% of verifiable details in human memory are accurate. 
 With such an accuracy, the structure of the narrative can be considered relatively reliable.
 

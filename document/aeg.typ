@@ -19,18 +19,18 @@
   abstract: [
     This autoethnography presents a comprehensive personal journey of a transgender evolutionary 
     biologist examining the origins of their gender identity. 
-    The author's "gender identity" is not to an innate, ontological essence, 
+    The author's "gender identity" is not an innate, ontological essence, 
     but a complex synthesis of internalised social norms, childhood trauma, aesthetic preferences, 
     and reactions to a "pervasively gendered" society that repeatedly assigned 
     gendered meanings to neutral behaviours, objects, and personality traits.
     
     The narrative critically engages with post-structuralism, 
-    arguing that while their deconstructive intentions are noted, 
-    their real-world effect paradoxically destructed the intersubjective world, 
+    arguing that it destroyed the intersubjective world, 
     ultimately failing to provide a path to liberation. 
+    Finally, the author argues for reason and science as a method to liberation.
   ],
   
-  keywords: ("Autoethnography", "criticism of post-structrualism", "gender identity", "trans philosophy"),
+  keywords: ("Autoethnography", "criticism of post-structuralism", "gender identity", "trans philosophy"),
   
   // Article settings
   manuscript: "article",  // article, rescience, data, software, editorial, proceedings, poster
@@ -65,17 +65,15 @@
 
 #include "chapters/dialogue-with-post-structuralism.typ"
 
-= Reason as a Sheild: The Origin of My Philosophy
+#include "chapters/postscript.typ"
+
+= The Origin of My Philosophy
 
 #include "chapters/my-philosophy.typ"
 
 = An answer to the question: What is enlightenment?
 
 #include "chapters/what-is-enlightenment.typ"
-
-= Postscript: story behind the story
-
-#include "chapters/postscript.typ"
 
 #acknowledgement[
   I am grateful to the Enlightenment and its thinkers. 
@@ -97,12 +95,12 @@
 ]
 
 #paragraph("Declaration of Artificial Intelligence")[
-  Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig:name-shoes c, d), whose original versions are damaged or faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity.
+  Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig-name-shoes c, d), whose original versions are damaged or faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity.
 ]
 
 #show:appendix
 
-= An Autoethnography of Interpellation and Performativity <app:ps-aeb>
+= An Autoethnography of Interpellation and Performativity <app-ps-aeb>
 
 #include "appendices/ps-aeb.typ"
 

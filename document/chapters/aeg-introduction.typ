@@ -2,14 +2,14 @@
 
 First of all, it must be clarified that "transgender" in the title is a pragmatic term.
 I indeed have some transgender-like experience.
-However, I find it challenging to have myself truly categorised.
+However, I find it challenging to truly categorise myself.
 If we strictly apply the "gender identity" classifications,
 my gender identity might be gender fluid,
 but this is also a pragmatic term to help others understand me.
 
 I am a PhD student in plant taxonomy, using programming and statistical methods based on
 morphology and molecular phylogenetics to resolve the classification of plants.
-This methodology has deeply influenced the methods I used in my own journey of gender exploration.
+This methodology has deeply influenced the methods used in my own journey of gender exploration.
 #textcite(<Sun2025GenderAbolition>) was originally part of this autoethnography
 and has been split into a separate article.
 However, the two articles still exhibit significant intertextuality.

@@ -1,6 +1,6 @@
 #import "../lib.typ": *
 
-When exploring my gender identity, I also recalls a few small childhood memories, 
+When exploring my gender identity, I also recall a few small childhood memories, 
 one of which is that when I was very, very young, I believed that human traffickers did not exist; 
 they were just something my parents made up to scare me. 
 I believed that what I hadn't seen didn't exist. 
@@ -12,7 +12,7 @@ The statement "what I haven't seen doesn't exist" contains two elements:
 - "I" -- the subject of the judgment.
 - "seen" -- the standard of the judgment.
 
-If I emphasised the "seen" and realised that personal ability is limited but still believes in an objectively verifiable physical world, 
+If I emphasised the "seen" and realised that personal ability is limited but still believe in an objectively verifiable physical world, 
 thus extending the subject of "seen" from "I" to the scientific community or humanity as a whole, and extending "seen" to the objective, 
 public "verifiable," one develops towards materialism, positivism, or naturalism. This is the path I took.
 
@@ -23,12 +23,12 @@ Things I cannot perceive do not exist, which leads to subjective idealism.
 The thought "what I haven't seen doesn't exist" may have been a fork in the road for my philosophy. 
 Perhaps the starting points of some completely opposed ideas are much closer than we thought.
 
-Then I realised that my method of analysing the "non-existence of a ontological gender identity" 
-is almost identical to #posscite(<Hume2007Treatise>) subjective empiricist argument for the "non-existence of the self": 
-I looked inward, saw nothing called "gender identity," only saw many childhood experiences 
-and my reactions to them being artificially grouped together (@fig:bundle). 
-The only difference might be that I explained it in a physicalist way as "reconstructing the training set from the output of a neural network" 
-and cited scientific research to prove the credibility of memory. 
+// Then I realised that my method of analysing the "non-existence of a ontological gender identity" 
+// is almost identical to #posscite(<Hume2007Treatise>) subjective empiricist argument for the "non-existence of the self": 
+// I looked inward, saw nothing called "gender identity," only saw many childhood experiences 
+// and my reactions to them being artificially grouped together (@fig-bundle). 
+// The only difference might be that I explained it in a physicalist way as "reconstructing the training set from the output of a neural network" 
+// and cited scientific research to prove the credibility of memory. 
 
 The second thing is that once, when I was little, I asked my mum, "Mum, why are you always the one cooking at home? Why doesn't Dad cook?" 
 My mum said, "Because Dad is tired of working." Then I said, "You have to work too, aren't you tired?" 
@@ -37,7 +37,8 @@ However, at that time I didn't know what was caring. I just found a logical flaw
 A very similar incident was when I was visiting relatives as a child and questioned the division of kinship terms in our local dialect. 
 I asked my parents why there are more precise terminologies for paternal relatives than for maternal relatives, 
 #footnote[
-    One's mother's brothers and male cousins were all "jiù" (舅), and her sisters and female cousins were all "yí" (姨). 
+    In my dialect (Jiao-Liao Mandarin),
+    one's mother's brothers and male cousins were all "jiù" (舅), and her sisters and female cousins were all "yí" (姨). 
     One's father's sisters and female cousins were all "gū" (姑). 
     In contrast, father's brothers and male cousins were divided into three categories: 
     elder brother and elder male cousins were "dàyé" (大爷), 
@@ -52,21 +53,22 @@ In the notebook including the story about the Sichuan little girl, I found anoth
 The old Chinese saying "Illness falls like a mountain collapsing, but recovers like pulling silk from a cocoon"
 #footnote[病来如山倒，病去如抽丝, meaning that "illness comes quickly but goes slowly."] is an over-generalization.
 Lung cancer caused by smoking develops very slowly, while surgical removal of a tumor must be done quickly. 
-I now realize the three incidents seem very similar to the style of analytic philosophy. 
+I now realise the three incidents seem very similar to the style of analytic philosophy. 
 I completely ignored the experience and emotion behind this proverb, directly treating it as a logical proposition to examine its truth conditions.
 
-But in reality, even after analyzing my own gender identity, I still didn't know what "analytic philosophy" was. 
+But in reality, even after analysing my own gender identity, I still didn't know what "analytic philosophy" was. 
 At that time, I thought my self-analysis was applying neuroscience to analyse a psychological problem.
 I also didn't know what continental philosophy was before. 
 I thought Foucault was a political scientist and Butler was a sociologist. 
 The previous section about post-structuralism was added after resolving my own issues and reading their books. 
-My previous understanding of "philosophy" was exclusively about the grand metaphysics, especially Hegel's.
+My previous understanding of "philosophy" was exclusively about the grand metaphysics. 
 
 It was much later that I realised my cognitive style was very similar to analytic philosophy. 
 My initial reaction was, "Huh? This is philosophy?" 
-And I didn't understand why there were so many anti-transgender philosophers like Kathleen Stock, 
-Holly Lawford-Smith, Mary Leng, and Alex Byrne in this tradition. 
-Analytic philosophy is such a wonderful thing; why would these people misuse it like this?
+
+// And I didn't understand why there were so many anti-transgender philosophers like Kathleen Stock, 
+// Holly Lawford-Smith, Mary Leng, and Alex Byrne in this tradition. 
+// Analytic philosophy is such a wonderful thing; why would these people misuse it like this?
 
 // Many years later, I learned that this was precisely the "categorical imperative" proposed by Kant centuries ago: 
 // only follow the maxim that could become a universal law. 
