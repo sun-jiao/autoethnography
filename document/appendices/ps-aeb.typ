@@ -1,13 +1,13 @@
 #import "../lib.typ": *
 
-#show: cupst.with(
-  title: "An Autoethnography of Interpellation and Performativity",
-  manuscript: "Appendix",
-  layout: "preprint",
-  structure-color: rgb(33, 63, 144),
-)
+// #show: cupst.with(
+//   title: "An Autoethnography of Interpellation and Performativity",
+//   manuscript: "Appendix",
+//   layout: "preprint",
+//   structure-color: rgb(33, 63, 144),
+// )
 
-= From Interpellation to Performativity
+== From Interpellation to Performativity
 
 Butler (#cite(<Butler1988Performative>, form: "year") and #cite(<Butler1990Gender>, form: "year")) points out that gender is not what we intrinsically "are," but what we constantly "do." It is not a stable essence, but an effect produced by the "stylised repetition of acts in time." There is no pre-existing "doer" behind the deed. On the contrary, it is the deed itself, in its constant repetition, that fictitiously constitutes and consolidates the illusion of a stable "doer." I found that many of my actions perfectly illustrate this theory.
 
@@ -33,7 +33,7 @@ We can see a dynamic feedback loop between Althusser's interpellation and Butler
 
 Foucault called his analysis of the operation of power "the microphysics of power," and similarly, this cycle of interpellation and performativity can be called "the cybernetics of subject." Gender construction is thus a never-ending circular process: we are interpellated into a specific subject position (Althusser), then we consolidate and inhabit these positions through performativity (Butler), and our actions in turn invite more interpellations. Identity is not a destination to be reached, but a continuous, dynamic process of negotiation between action and response.
 
-= A Pair of Shoes
+== A Pair of Shoes
 
 If the interpellation of a name was a relatively gentle negotiation at the symbolic level, the "girls' shoes" incident was a cruel disciplinary practice inscribed upon the body. This memory is an excellent model for understanding Foucauldian power: power does not always oppress in a grand, visible, monarchical way; it more often exists in a micro, diffuse form of discipline aimed at producing "docile bodies" @Foucault1977Discipline.
 
@@ -45,7 +45,7 @@ This micro-power operates not only by punishing transgressors but also by consta
 
 Faced with this violence inscribed on the body, psychological resistance unfolded peculiarly. I often dreamt of losing my feet in an accident and would feel a strong sense of comfort and relief upon waking. It is a profound psychological metaphor: since the feet wearing "girls' shoes" were the source of social punishment and pain, removing these "girls' feet" was a fantasy of liberation from the grasp of power. It was a complete refusal to become the "docile body" that the system demanded. This experience provides a powerful, non-essentialist genealogical explanation for the emergence of body dysphoria. It shows that body dysphoria does not necessarily stem from a pre-social, innate sense of mismatch. Instead, it can be the direct consequence of disciplinary power violently inscribing social meaning ("girlish") onto the body. Dysphoria arises when this inscription is so painful that the subject internalises it as an alienation from their own flesh. I initially had no aversion to my body. Still, when a part of it (my feet) became the target of social punishment because of its association with a "transgressive" gender symbol (red shoes), I developed a psychological desire to get rid of that body part, seeing it as a foreign object. This localised sense of alienation may be the origin of a more widespread body dysphoria. This "dysphoria" is the scar left on the psyche by normalised violence.
 
-= The Heterotopia of Childhood
+== The Heterotopia of Childhood
 
 The operation of power is not only inscribed on the body but also divides and encodes space. My childhood memories related to the girls' bathroom reveal how this space became what #textcite(<Foucault1986OtherSpaces>) called a "heterotopia" -- a real place that is nevertheless outside of all other places, an "other space." The girls' bathroom was not a neutral, functional place, but a symbolic domain full of contradictory meanings, where the conventional logic of power was suspended, inverted, and reconfigured.
 
@@ -57,7 +57,7 @@ Finally, at certain times, it offered care that violated the rules. Once, I got 
 
 The superposition of these three memories constructs the girls' bathroom as a paradoxical heterotopia. It was simultaneously a safe zone for girls, a place of degradation for boys, and a place of care that could be transgressed in a crisis. It was both a symbol of strict gender order and proof that this order could be broken. This chaotic, contradictory meaning, in a pre-linguistic way, shaped the female space, female symbols, and even femininity itself in my mind into a complex amalgam of fascination, taboo, safety, and care, profoundly influencing my early perception of gender.
 
-= Towards a Practice of Queer Life
+== Towards a Practice of Queer Life
 
 Through the theoretical analysis of a series of my personal experiences, we have painted a picture of the generation of gender identity: it is interpellated by ideology, disciplined by power, constituted through performativity, and navigated with the help of contradictory tools. The conclusion is that gender identity is not a stable essence, but a contingent, socially mediated, and ongoing process. The fluidity of gender is not "indecisiveness," but a politically conscious practice of refusing to be fixed by any single category. It ultimately embodies the idea that "the subject does not pre-exist discourse, but is constituted within discourse," and can therefore be strategically reconfigured as needed.
 
@@ -65,4 +65,4 @@ Thus, what this autoethnography describes is not a journey of "discovering" a tr
 
 Queer theory is therefore not just an academic discipline, but a crucial set of life tools. The most liberating response to the gendered power diffused throughout society may be continuously self-reflecting on how our own identities are shaped by power; refusing the temptation to find a single "true" gender identity, and instead embracing the complexity, contradiction, and fluidity of life experience; and learning to performatively and strategically use identity categories to challenge power, rather than letting them define us. The ultimate goal is not, as we usually think, to "discover" who we are, but to actively refuse the person that power tries to shape us into. This is a never-ending, generative self-creation.
 
-#bibliography("../references.bib", style: "apa")
+// #bibliography("../references.bib", style: "apa")
