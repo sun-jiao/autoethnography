@@ -13,8 +13,8 @@ Besides revealing the origins of my gender identity,
 it also serves as a counterexample to the "innate gender identity" theory of transgender essentialism @APA2015Guidelines@NHS2022Gender, 
 the "standpoint epistemology" of the feminist philosophy of science @Haraway1988Situated, 
 and the criticism of reason as a hegemony by post-structuralism and feminist philosophy of science @Irigaray1985Subject@Harding1986Science. 
-From a Habermasian aspect of communicative rationality, 
-I completely permit queer theorists to use this autoethnographical case study as an example for the "gender performativity" theory or other constructivism theories, 
+From a Habermasian perspective of communicative rationality, 
+I completely permit queer theorists to use this autoethnographical case study as an example of the "gender performativity" theory or other constructivist theories, 
 though I completely reject them. 
 The female components of my gender identity will be discussed first, followed by the male components. 
 
@@ -44,9 +44,9 @@ Because of this, I faced physical bullying: my shoes were thrown away,
 my trousers were pulled down to "check whether I was a girl," 
 and I was once pushed into a bush, leading to perineal injury. 
 I had nightmares about losing my foot in incidents. 
-From an aspect of predictive coding and neuroplasticity, 
+From the perspective of predictive coding and neuroplasticity, 
 my brain minimised prediction error. 
-If the society says "red shoes belong to girls" and "I wear red shoes," 
+If society says "red shoes belong to girls" and "I wear red shoes," 
 the brain might update the self-model to "I am a girl" to resolve the conflict.
 
 These shoes likely originated from Japanese indoor shoes (上履き, _uwabaki_), 
@@ -58,7 +58,7 @@ assigned based on gender in Japan, but some schools assign colours by grade leve
  Their study revealed that the shoe itself has no fixed gender meaning, 
 but artificially assigned in a specific context.
 
-It is also a crucial childhood memory that adults considered my "personality was like a little girl's," 
+It is also a crucial childhood memory that adults considered my personality to be like a little girl's,
 probably because I liked playing with stuffed animal toys and disliked sports and fighting. 
 I was punished for imitating a little girl on a TV series, covering her mouth to laugh, being told, "Boys can't laugh like girls." 
 Additionally, the boys in my class often fought. I disliked playing with them. 
@@ -72,7 +72,7 @@ When the same thing happened in the girls' group, she would get encouragement. I
 
 // %Children have no gender bias and imitate and learn all behaviours within their capabilities, and the gender meaning is externally imposed. I might have some innate personality traits and temperaments from my nervous system that are like the "feminine temperament" in gender stereotypes, making me more willing to imitate specific behaviours. However, these innate traits are fundamentally neutral. It has nothing to do with gender before being interpreted by adults as "this is girls' behaviour."
 
-The girls' bathroom may also play a crucial role in the development of my gender identity. 
+The girls' bathroom may also have played a crucial role in the development of my gender identity. 
 In elementary school, I played tag with a few girls, and they repeatedly ran into the girls' bathroom to hide. 
 I stood at the door, waiting to catch them when they came out, but a teacher saw me and punished me. 
 Another incident was that a maths teacher of ours punished some boys by making them clean the girls' bathroom. 
@@ -98,7 +98,7 @@ This was an envy of a specific function, stemming from a longing for a romantic 
 
 I believe that my body representation was consistent with my body in my childhood as I did not experience body dysphoria at that time. 
 However, I have neurodermatitis (also known as lichen simplex chronicus) in my scrotum. 
-There are multiple studies supporting that chronic itching and pain can affect one's body image @Simsek2020Body@Vamos1993Body. 
+There are multiple studies demonstrating that chronic itching and pain can affect one's body image @Simsek2020Body@Vamos1993Body. 
 This could be a reason why I dislike my reproductive organs. 
 However, it should be noted that I developed neurodermatitis much later than the childhood events mentioned above, 
 and neurodermatitis itself is a psychosomatic disease heavily influenced by psychological and mental states @Lotti2008Prurigo@Tey2013Psychosomatic. 
@@ -109,7 +109,7 @@ Therefore, it is concluded that: the female component of my "gender identity" is
 a synthesis of this aesthetic longing for the female body, 
 envy of the reproductive function, and an internalised reaction to childhood experiences and trauma. 
 Our life experiences and psychological responses to external stimuli are interwoven like a dense net, 
-or rather, like a chain reaction, where one event triggers multiple preceding events, 
+or rather, like a chain reaction, where one event triggers multiple subsequent events, 
 which continue to trigger subsequent events. 
 Then we pick out a few phenotypically similar phenomena, give them a name: "gender identity." (@fig-bundle)
 
@@ -194,7 +194,7 @@ Ironically, when debating with extreme nationalists who said that "all Japanese 
 #footnote[Referring to Hiroshima and Nagasaki.] 
 they claimed that my opinion is "women's kindness." 
 #footnote[妇人之仁, _fù rén zhī rén_, an old Chinese idioms means "excessive tendency to clemency" or being "too soft-hearted" in a pejorative sense.] 
-How the same ethic framework is interpreted and what "gender" it is assigned depends entirely on the external sociocultural framework, 
+How the same ethical framework is interpreted and what "gender" it is assigned depends entirely on the external sociocultural framework, 
 the observer's position, and even an instrumental purpose in a specific context. 
 The interpretation is not based on any objective, consistent standard, but serves the interpreter's own political agenda.
 
@@ -208,7 +208,7 @@ Radical feminists in China often emphasize that "biological [_sic_] sex" (corres
 is real and unchangeable, while gender identity is meaningless. 
 This logic strictly limits the definition of "woman" to "biological [_sic, ditto_] female," 
 arguing that only oppression based on biological structure (such as the uterus and vagina) is "real oppression." 
-This ideology, based on physiological dualism and hating all phenotypic males, 
+This ideology, based on biological binary and hatred of all phenotypic males, 
 rapidly developed into gender essentialism and anti-transgender ideology on the Chinese internet @Qiao2022@Ma2025Cyber@Wang2025@Yang02012023. 
 Ironically, just a few years ago, media outlets like the BBC were reporting attacks on Chinese radical feminists as "mass misogyny" @Feng2021Yang. 
 

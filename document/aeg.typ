@@ -17,20 +17,20 @@
   ),
   
   abstract: [
-    This autoethnography presents a comprehensive personal journey of a transgender evolutionary 
-    biologist examining the origins of their gender identity. 
-    The author's "gender identity" is not an innate, ontological essence, 
-    but a complex synthesis of internalised social norms, childhood trauma, aesthetic preferences, 
-    and reactions to a "pervasively gendered" society that repeatedly assigned 
-    gendered meanings to neutral behaviours, objects, and personality traits.
-    
-    The narrative critically engages with post-structuralism, 
-    arguing that it destroyed the intersubjective world, 
-    ultimately failing to provide a path to liberation. 
-    Finally, the author argues for reason and science as a method to liberation.
+    This autoethnography explores the formation of gender identity through the lens of a transgender evolutionary biologist, 
+    challenging both gender essentialism and post-structuralism. 
+    By analysing the author's own experience, 
+    specifically a feminine-misspelled name and the childhood trauma surrounding a pair of red shoes, 
+    the author argues that gender identity is not an innate essence but a product of neuroplasticity and social interaction, explicable through predictive coding models. 
+    The paper investigates the author's conflict with online transgender and radical feminist communities, 
+    critiquing the rejection of logic and science. 
+    Contrary to the post-structuralist view that "universal reason" is a tool of hegemony, 
+    this work defends Enlightenment and reason as the ultimate sanctuary for the marginalized and a necessary weapon against dehumanisation. 
+    The author ultimately calls for a "Sapere aude" (dare to know) approach to gender and other social or political issues, 
+    integrating scientific realism with the struggle for human dignity.
   ],
   
-  keywords: ("Autoethnography", "criticism of post-structuralism", "gender identity", "trans philosophy"),
+  keywords: ("Autoethnography", "criticism of post-structuralism", "gender identity", "transgender", "trans philosophy"),
   
   // Article settings
   manuscript: "article",  // article, rescience, data, software, editorial, proceedings, poster
@@ -61,15 +61,15 @@
 
 #include "chapters/vertigo.typ"
 
+= The Origin of My Philosophy
+
+#include "chapters/my-philosophy.typ"
+
 = Dialogue with Post-Structuralism
 
 #include "chapters/dialogue-with-post-structuralism.typ"
 
 #include "chapters/postscript.typ"
-
-= The Origin of My Philosophy
-
-#include "chapters/my-philosophy.typ"
 
 = An answer to the question: What is enlightenment?
 
@@ -84,24 +84,16 @@
   You proved how invincible and indestructible humanity can be, even in the most dehumanising situation.
   I am extremely grateful to the little girl in red shoes for his courage in facing the bullies. 
   Her small shield has become an impregnable shelter that protects them from any irrational violence.
-
-  *Long live the Enlightenment!*
 ]
 
 #paragraph("Positionality statement")[
   JS is a human being (_Homo sapiens_ #smallcaps[Linnaeus], 1758). 
   They live on Earth in the Holocene. 
-  Their reason helps them understand the objective world and other human beings.
+  Their reason helps them understand the objective world and other human beings. 
 ]
 
 #paragraph("Declaration of Artificial Intelligence")[
   Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig-name-shoes c, d), whose original versions are damaged or faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity.
 ]
-
-#show:appendix
-
-= An Autoethnography of Interpellation and Performativity <app-ps-aeb>
-
-#include "appendices/ps-aeb.typ"
 
 #bibliography("references.bib", style: "apa")

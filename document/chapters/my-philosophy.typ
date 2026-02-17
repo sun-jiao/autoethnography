@@ -4,7 +4,7 @@ When exploring my gender identity, I also recall a few small childhood memories,
 one of which is that when I was very, very young, I believed that human traffickers did not exist; 
 they were just something my parents made up to scare me. 
 I believed that what I hadn't seen didn't exist. 
-I firstly considered it a kind of naive materialism or positivism 
+I initially considered it a kind of naive materialism or positivism 
 before I was horrified to realise it was only one step away from subjective idealism.
 
 The statement "what I haven't seen doesn't exist" contains two elements:
@@ -12,7 +12,7 @@ The statement "what I haven't seen doesn't exist" contains two elements:
 - "I" -- the subject of the judgment.
 - "seen" -- the standard of the judgment.
 
-If I emphasised the "seen" and realised that personal ability is limited but still believe in an objectively verifiable physical world, 
+If I emphasised the "seen" and realised that personal ability is limited but still believed in an objectively verifiable physical world, 
 thus extending the subject of "seen" from "I" to the scientific community or humanity as a whole, and extending "seen" to the objective, 
 public "verifiable," one develops towards materialism, positivism, or naturalism. This is the path I took.
 
@@ -33,9 +33,9 @@ Perhaps the starting points of some completely opposed ideas are much closer tha
 The second thing is that once, when I was little, I asked my mum, "Mum, why are you always the one cooking at home? Why doesn't Dad cook?" 
 My mum said, "Because Dad is tired of working." Then I said, "You have to work too, aren't you tired?" 
 My mum was very happy, saying I had grown up and cared for my mum. 
-However, at that time I didn't know what was caring. I just found a logical flaw. 
+However, at that time I didn't know what caring meant. I just found a logical flaw. 
 A very similar incident was when I was visiting relatives as a child and questioned the division of kinship terms in our local dialect. 
-I asked my parents why there are more precise terminologies for paternal relatives than for maternal relatives, 
+I asked my parents why there are more precise terminology for paternal relatives than for maternal relatives, 
 #footnote[
     In my dialect (Jiao-Liao Mandarin),
     one's mother's brothers and male cousins were all "jiù" (舅), and her sisters and female cousins were all "yí" (姨). 

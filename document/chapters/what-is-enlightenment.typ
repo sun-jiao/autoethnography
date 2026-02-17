@@ -1,7 +1,7 @@
 #import "../lib.typ": *
 
 The aforementioned naive philosophy of the young me shows that reason is not so-called "European-centric" or "oppressive,"
-since it naturally grew up in an East Asian kid, and helped me reveal the paternal biases. 
+since it naturally grew up in an East Asian kid, and helped me reveal the paternal biases in the kitchen. 
 My experience resonated with some 2,000 years old intellectual legacy in my own culture. 
 
 The School of Names' "white horse dialogue" @Graham1990Studies, the Mohists' "universal love," 
@@ -30,13 +30,16 @@ where reason, logic, and science were oppressed.
 Europe is more fortunate, or to say, more unfortunate than China. Reason is respected in Europe, but only in name. 
 Actually, it has always been ruled by the irrationality which killed Socrates. 
 European philosophers' criticism of reason reached its climax with Nazism, especially by #textcite(<Adorno1997Dialectic>). 
+Although they're from Frankfort School rather than post-structuralism, their view is still noteworthy as the originators of criticising reason.
 However, it is a foundational misdiagnosis. Nazism is not rational at all. 
 
-If Slavs, Jews, and Roma were "inferior races," then according to evolutionary theory, 
+If Jews, Roma, and Slavs were "inferior races," then according to evolutionary theory, 
 they would soon naturally become extinct. Why didn't Germany simply wait for it and then seize their land and property? 
 Why did Hitler launch a large-scale genocide against them? 
 If they did not become extinct through natural selection, then this proves that they were not "inferior races," thus falsifying Hitler's hypothesis. 
 In both cases, Hitler didn't need to do anything. 
+This demonstrates that Hitler did not really believe in his public ideology. 
+
 // Moreover, Why are they inferior to Germans? Mr. Hitler, how do you quantify inferiority and superiority? 
 // Which area of the brain is related to them? What are the anatomical differences between inferior and superior people? How do you prove it?
 // How to prove that Jews generally have this brain structure? 
@@ -54,11 +57,11 @@ In both cases, Hitler didn't need to do anything.
 Nazis' appropriation of scientific knowledge does not prove that science inherently contains a tendency of oppression. 
 Otherwise, we could argue that because Israel abuses Deleuzian philosophy @Weizman2006, therefore Deleuze is inherently Zionist. 
 This conclusion is obviously senseless because Deleuze supported Palestine @Fruteau2024Deleuze.
-The authentic scientific truth, or genuine Deleuzean philosophy, stood with the oppressed people, and was suppressed in Nazi Germany and Israel.
+The authentic scientific truth, or genuine Deleuzean philosophy, stood with the oppressed people, and was suppressed in Nazi Germany or Israel.
 
 Furthermore, "instrumental rationality" is not a form of rationality or reason, otherwise, the concept of reason will be meaningless. 
 For instance, why were swords used in ancient wars, instead of smashing enemies using stones or wood? 
-Because the former is more efficient, which is also a form of instrumental rationality. 
+Because the former is more efficient in killing, which is also a form of instrumental rationality. 
 Clearly, instrumental rationality is just a synonym for "pragmatism". 
 Otherwise, we would arrive at an absurd conclusion that "using swords to kill people is rational."
 
@@ -79,9 +82,9 @@ reached scientific conclusions quite close to modern population genetics:
 
 In the 1920s to 1950s, Richard Goldschmidt, Calvin Bridges, Tatsuo Aida and Øjvind Winge 
 proposed theories of determination of sex (phenotypic sex) based on their hybridisation experiments of insects and fish. 
-They concluded that the sex is determined by the balance or the quantitative relationship between the male and female genes. 
+They concluded that sex is determined by the balance or the quantitative relationship between the male and female genes. 
 Two sexes are not clearly distinct opposites. 
-An individual is on a position in the female-to-male continuum @Dietrich2016Experimenting. 
+An individual can occupy a position on the female-to-male continuum @Dietrich2016Experimenting. 
 This is quite consistent with the modern genomic research: 
 the development of fetal gonads depends on the antagonism between two sets of gene networks, 
 which are widely distributed on sex chromosomes and autosomes in the genome @Graves2010Homologies. 
@@ -93,9 +96,14 @@ the _Covenant of the League of Nations_ and the _Charter of the United Nations_,
 exposing Israel's legitimacy crisis @Cattan1973Palestine. He reached an authentic justice in a "logocentric" way. 
 The empirical science and legal formalism they considered "oppressive" have actually been far more progressive and ahead of social, ethical, and political changes.
 In contrast, Adorno @Braunstein2018Wahrheit, Habermas @Habermas2023Principle, 
-#footnote[Yes, Habermas. I am really disappointed with his statement. 
-I now completely understood Said's anger towards Foucault. ]
 Lyotard @Fruteau2024Deleuze, Foucault @Said2000My, and Derrida (especially early Derrida) @Ryder2013Derrida all supported Israel. 
+
+Yes, Habermas. I am really disappointed with his statement. 
+I now completely understood #posscite(<Said2000My>) anger towards Foucault. 
+At this moment, Habermas abandoned his reason, regressed to a state of minority, 
+allowing "Germany's historical trauma" and (so-called) "Germany's special responsibility to Israel" to become his guardians and take over his reason. 
+This once again proves that one cannot rely on any off-the-shelf philosopher as their guardian. 
+No one can think for us -- not Foucault, not Habermas, not even Kant.
 
 Goldschmidt, similar to Einstein, was a German Jewish scientist who fled Nazi persecution. 
 It is well demonstrated that science itself is not oppressive, but other, a tragic hero. 
@@ -121,4 +129,8 @@ Critics from the post-structuralist camp often argue that "Universal Reason" is 
 // _A man can be destroyed but not defeated._ 
 
 Reason is not a form of hegemony. It is a small and fragile flame in this dark and cold world.
-Everything I have done is precisely like the anonymous prisoner in the Mauthausen concentration camp, using the powerful, rational subject constructed in the Enlightenment to resist the irrational violence of the world. Universalism and rationalism are not a claim to power. It is the requirement that keeps me alive. It is a relentless pursuit of a pure justice, a justice that can even empower an ultimate outsider. The goal of Enlightenment is precisely to use the light of reason to enlighten all the darkness of pre-modern superstition, privilege, dogmatism, tribalism, and obscurantism, to create a world where there is no more of this pain and harm, a world where no child will be bullied for wearing a pair of "wrong" shoes.
+Everything I have done is precisely like the anonymous prisoner in the Mauthausen concentration camp, using the powerful, rational subject constructed in the Enlightenment to resist the irrational violence of the world. Universalism and rationalism are not a claim to power. It is the requirement that keeps me alive. It is a relentless pursuit of a pure justice, a justice that can even empower an ultimate outsider. The goal of Enlightenment is precisely to use the light of reason to enlighten all the darkness of pre-modern superstition, privilege, exceptionalism, dogmatism, tribalism, and obscurantism, to create a world where there is no pain and harm, a world where no child will be bullied for wearing a pair of "wrong" shoes.
+
+*Long live the Enlightenment.*
+
+*Long live the Enlightenment!*

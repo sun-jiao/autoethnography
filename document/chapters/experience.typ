@@ -23,7 +23,7 @@ It gives all possible Chinese characters based on their spell in pinyin,
 and the user chooses the correct character from them. It is a common thing to choose a wrong character.] 
 Every time somebody typed my name as the feminine _Jiāo_, 
 I was extremely delighted and afraid that someone would "kindly" point it out. 
-If this really happened, I would be very "tolerant" and said, 
+If this really happened, I would be very "tolerant" and say, 
 "It's okay, as long as I know you're addressing me, a wrong character doesn't matter." 
 At an academic conference, the curators wrote my name as the feminine _Jiāo_ on a poster. 
 A junior male student discovered it and contacted the responsible organiser to correct it. 
