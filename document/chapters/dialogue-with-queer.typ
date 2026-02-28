@@ -1,6 +1,10 @@
 #import "../lib.typ": *
 
-Critics might oppose my previous statement that "neither feminism nor LGBTQ has opposed gender-centrism," claiming that "queer theory is against gender-centrism." I admit that queer theory is ontologically anti-gender-centric, as argued by #textcite(<Butler1990Gender>) that they do not consider "sex" (phenotypic sex) or gender to be natural, real or stable. Still, there is a huge difference between ontology and methodology.
+Critics might accuse me, "your theory is just a wrap of queer theory with analytic and scientific languages." I admit that my model is similar with #posscite(<Butler1990Gender>) theory in some senses, including denying a Cartesian self and supporting a constructed/shaped self-consciousness by the external environment through discursive effect/neuroplasticity. I believe that we are actually describing the same process from different perspectives and levels. The most significant difference lies in our ontological premise: I believe in an objective reality that exists independently of the human mind, and the objective knowledge of it, which is independent of culture and society, is possible, desirable, and pursuable #footnote[I admit that it may sound like begging the question, but obviously it's off-topic to provide a sophisticated argument for scientific realism in this article. ]; and for queer theory, our understanding of reality is constructed through discourse and we cannot perceive it without mediation. In most contexts, ontology might be nothing more than a boring metaphysical intellectual game. While in this case, ontology is everything, it decides two completely different strategy.
+
+From a scientific realistic aspect, gender shapes our understanding about the biological, psychological and sociological diversity of human beings, which is inconsistent with its real mathematical structure. This misunderstanding, also known as "stereotype," affects our self-identity. 
+
+I admit that queer theory is ontologically anti-gender-centric, as argued by #textcite(<Butler1990Gender>) that they do not consider "sex" (phenotypic sex) or gender to be natural, real or stable. Still, there is a huge difference between ontology and methodology.
 
 #textcite(<Butler1990Gender>) advocated for a strategy of "repeating":
 
@@ -54,3 +58,9 @@ By rejecting the premise of objective knowledge, they finally strengthened gende
 Ironically, #textcite(<Butler2025Who>) compared transphobia with climate change, environmental problems, which are, however, revealed by science. This means that Butler recognise that science is able to establish truth and serve as a foundation of liberatory political ections, at least in some specific fields. It seems that Butler also respects science in these fields. Why cannot it play the same role in the gender issue?
 
 // The highest goodness and truth is about aligning our internal models with external reality. This is a concise demonstration of the fundamental, irreconcilable gap between the scientific worldview of Enlightenment and the post-structuralist one.
+
+Therefore, once gender is abolished, gender identity will also disappear. This is not because I hate gender identity (in fact, I really enjoy my gender identity), but because gender identity cannot exist independently of gender stereotypes. Therefore, we must choose between "preserving gender stereotypes in order to preserve gender identity" and "abolishing gender identity along with abolishing gender stereotypes," and I believe the latter is entirely worth the cost.
+
+Both queer theory and I long for a space with infinite human creativity and freedom. 
+This space may need a name, or perhaps it doesn't need a name. But it cannot be called "gender," because that is the name of the prison we are trying to escape from. 
+Gender is an oppressive social construct of patriarchy. Naming our self-identity "gender" would be like naming a nature reserve "slaughterhouse" or naming the peace "war." In my view, "gender identity," as in #posscite(<Marx1977Critique>) critique of Luther's Reformation, frees the body and enchains the heart. 

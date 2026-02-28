@@ -57,13 +57,13 @@
 
 #include "chapters/for-abolition.typ"
 
-= What about gender identity?
+= So, what about gender identity?
 
 // #include "chapters/so_what_about_gender_identity.typ"
 
 // = Dialogue with Gender Pluralism
 
-#include "chapters/dialogue-with-pluralism.typ"
+#include "chapters/so-what-about-gender-identity.typ"
 
 = Dialogue with Queer Theory
 
