@@ -27,7 +27,7 @@
   layout: "preprint",     // preprint, publish
   
   // Display options
-  show-line-numbers: true,
+  show-line-numbers: false,
   section-numbering: true,
   structure-color: rgb(33, 63, 144),
 
@@ -43,7 +43,7 @@
 
 #include "chapters/dismantling-sex.typ"
 
-#include "chapters/dialogue-with-biological-pragmatists.typ"
+// #include "chapters/dialogue-with-biological-pragmatists.typ"
 
 = Biological Critique of Gender Identity
 
@@ -53,11 +53,15 @@
 
 #include "chapters/philosophical-critique.typ"
 
-= Abolition
+= Gender Abolition
 
 #include "chapters/for-abolition.typ"
 
-= Dialogue with Gender Pluralism
+= What about gender identity?
+
+// #include "chapters/so_what_about_gender_identity.typ"
+
+// = Dialogue with Gender Pluralism
 
 #include "chapters/dialogue-with-pluralism.typ"
 

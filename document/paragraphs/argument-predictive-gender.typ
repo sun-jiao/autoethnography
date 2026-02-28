@@ -1,5 +1,5 @@
 - The conventional term "biological sex" is problematic because the academic biological definition of "sex" is confined to the types of gametes. It will be referred to as "phenotypic sex" in following texts.
-- The definition of phenotypic sex is unjustified, unclear, and unstable, even sometimes self-contradictory. The traits classified under it are not ontologically different from other sexually dimorphic traits, like height. 
+- The definition of phenotypic sex is unjustified, unclear, unstable, and sometimes self-contradictory. The traits classified under it are not ontologically different from other sexually dimorphic traits, like height. 
 - All sexually dimorphic traits, including sex chromosomes and genitals, are dynamically shaped in evolutionary history. 
 - Thus, the definition of phenotypic sex is _begging the question_. It arbitrarily selects some sexually dimorphic traits and claims "they are sex" without justification. 
 - Many neurological studies claiming "male/female brains" only report the statistical correlation, but without establishing a causal relationship with the subjective experience of "gender identity." Without a clear causal relationship, it is merely a sexually dimorphic neurological trait, but not "sex" or "gender identity."
