@@ -1,10 +1,10 @@
-- The conventional term "biological sex" is problematic because the academic biological definition of "sex" is confined to the types of gametes. It will be referred to as "phenotypic sex" in following texts.
+- The conventional term "biological sex" is problematic, which will be referred to as "phenotypic sex" in following texts, because the academic biological definition of "sex" is confined to the types of gametes.
 - The definition of phenotypic sex is unjustified, unclear, unstable, and sometimes self-contradictory. The traits classified under it are not ontologically different from other sexually dimorphic traits, like height. 
-- All sexually dimorphic traits, including sex chromosomes and genitals, are dynamically shaped in evolutionary history. 
+- All sexually dimorphic traits, including sex chromosomes and genitals, dynamically change in evolutionary history. 
 - Thus, the definition of phenotypic sex is _begging the question_. It arbitrarily selects some sexually dimorphic traits and claims "they are sex" without justification. 
-- Many neurological studies claiming "male/female brains" only report the statistical correlation, but without establishing a causal relationship with the subjective experience of "gender identity." Without a clear causal relationship, it is merely a sexually dimorphic neurological trait, but not "sex" or "gender identity."
-- Considering body representation incongruence "gender identity" itself contradicts the sex/gender distinction. It also repeats the logical fallacy of the definition of phenotypic sex. Why is a short "woman" who wants to be taller not considered transgender? 
-- Transgender individuals show great neurological heterogeneity, implying it does not represent an innate structure. 
+- Many neurological studies claiming "male/female brains" only report the statistical correlation, but without establishing a causal relationship with the subjective experience of "gender identity." Thus, it is merely a sexually dimorphic neurological trait, but not "gender identity."
+- Considering body representation incongruence as "gender identity" itself contradicts the sex/gender distinction. It also repeats the logical fallacy of the definition of phenotypic sex. 
+- Transgender individuals show great neurological heterogeneity, implying transgenderness does not represent an innate structure. 
 - Predictive coding theory offers a unified theory: the gender construct, gender norm or gender stereotypes includes many ontologically different things. One may feel that their raw feelings do not conform to the externally offered gender label, therefore creating a prediction error. Our brains adopt another gender label and update our self-model to resolve this error. 
-- Phenotypic sex is also considered a specific component of gender stereotypes, therefore incorporates the body representation incongruence into this model.
+- Phenotypic sex is also regarded as a specific component of gender stereotypes, therefore incorporates the body representation incongruence into this model.
 - Two redundant, unnecessary entities, "sex" and "gender identity," are removed from the model. The word "gender" now has a consistent, unified meaning across different terms. 

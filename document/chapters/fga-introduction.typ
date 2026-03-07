@@ -4,6 +4,6 @@ The contemporary intellectual landscape surrounding gender is dominated by two p
 
 This article presents criticisms of both transgender essentialism and queer theory, demonstrating gender abolitionism based on a synthesis of evolutionary biology, neurology, and the philosophy of science. Central to this political solution is the definition of sex _sensu stricto_ as strictly limited to gametes, distinguishing it from the dynamic spectrum of phenotypic traits and dismantling the social category of gender entirely.
 
-I hereby breifly summarise my arguments:
+I hereby briefly summarise my arguments:
 #include "../paragraphs/argument-predictive-gender.typ"
 #include "../paragraphs/argument-abolition.typ"
