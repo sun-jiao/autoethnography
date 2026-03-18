@@ -26,7 +26,8 @@ I was extremely delighted and afraid that someone would "kindly" point it out.
 If this really happened, I would be very "tolerant" and say, 
 "It's okay, as long as I know you're addressing me, a wrong character doesn't matter." 
 At an academic conference, the curators wrote my name as the feminine _Jiāo_ on a poster. 
-A junior male student discovered it and contacted the responsible organiser to correct it. 
+I was very delighted, hoping to see it at the conference.
+However, a junior of mine discovered it and contacted the curators to correct it. 
 I felt a strong sense of disappointment at that moment. 
 Sometimes I even used the feminine _Jiāo_ myself, and if discovered, I would blame the input method.
 
@@ -65,7 +66,8 @@ I even doubt whether they read my post carefully.
 "Nobody is interested in reading your AI-generated bullshit." 
 "You just need to post the AI prompt you used." 
 "He is probably a 14-year-old incel who just told ChatGPT to write him an essay promoting gender essentialism." 
-#footnote[I can understand the label "incel", but I don't understand why they thought I was 14 years old.]
+#footnote[I can understand the label "incel", but I don't understand why they thought I was 14 years old.] 
+Some others said that my viewpoint was "solipsism" or "Landian Accelerationism," which I completely failed to understand.
 I argued with them for a long time, repeatedly telling them, 
 "This is not AI-generated; I wrote it very seriously," and 
 "If you ask ChatGPT to write an essay promoting gender essentialism and get this result, it only proves that ChatGPT is lying to you."

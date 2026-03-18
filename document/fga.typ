@@ -73,4 +73,4 @@
 
 #include "chapters/fga-conclusion.typ"
 
-#bibliography("references.bib", style: "apa")
+#bibliography("references.bib", style: "chicago-author-date")

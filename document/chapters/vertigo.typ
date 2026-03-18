@@ -63,6 +63,6 @@ I completely did not notice this issue, and I can find no memory of ever thinkin
 
 Therefore, the detailed timeline of my gender identity should be: 
 I felt I was a boy in elementary school, a girl in middle school, a boy in high school, and a girl in undergraduate school.
-
-// This demonstrates that my ethical views and my gender identity emerged at roughly the same time. 
-// They converged after my gender identity became strong enough that I could not ignore, leading me to analyse myself with the intellectual tools that already existed. They may both stem from my childhood experiences. They made me feel that the real world is chaotic and painful, while mathematics, logic, and science is orderly and beautiful. They provided me with a shelter, but this small world is ultimately limited. The external society is still full of irrationality, which drives me to want to completely smash it and rebuild the entire world with mathematics, logic, and science.
+My ethical views and my gender identity emerged at roughly the same time. 
+They converged after my gender identity became strong enough that I could not ignore, leading me to analyse myself with the intellectual tools that already existed. 
+// They may both stem from my childhood experiences. They made me feel that the real world is chaotic and painful, while mathematics, logic, and science is orderly and beautiful. They provided me with a shelter, but this small world is ultimately limited. The external society is still full of irrationality, which drives me to want to completely smash it and rebuild the entire world with mathematics, logic, and science.

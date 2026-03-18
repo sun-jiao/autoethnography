@@ -2,8 +2,8 @@
 
 The exploration of gender identity is often framed within the dichotomy of "innate essence" versus "social construction." 
 Yet for me, a PhD student in evolutionary biology, these narratives mostly lack appeal. 
-In this autoethnography, I try to explore my gender dysphoria under a rational, materialist worldview. 
-The investigation begins with the author's personal history, where accidental experiences served as the seeds for a fluid or non-binary identity.
+In this autoethnography, I try to explore my gender identity under a rational, materialist perspective. 
+The investigation begins with my personal history, where accidental experiences served as the seeds for a fluid or non-binary identity.
 
 The term "transgender" in the title is mostly pragmatic.
 Admittedly, I indeed have some transgender-like experience.
@@ -21,7 +21,7 @@ a grand narrative may be seen by some scholars as a contradiction to the fundame
 However, I am not trying to convince my readers that I am completely correct, but
 documenting how an individual with a firm commitment to science,
 who has received rigorous scientific training, attempts to understand a crucial aspect of themself.
-This is, in fact, a story of how a person resolves a significant existential crisis.
+// This is, in fact, a story of how a person resolves a significant existential crisis.
 
 Additionally, the basic methods I used are introspection and cross-validation with relatives and friends
 to propose explanations of myself. I then extend my own experiences to the scope of "ethnography"

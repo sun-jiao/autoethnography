@@ -1,7 +1,6 @@
-- Many ontologically unrelated things are associated with gender labels, which restricts the visibility and accessibility of other, unnamed combinations. This is an infringement of our freedom.
+- Many ontologically unrelated things are associated with gender labels, which restricts the visibility and accessibility of other, unnamed combinations. This is an infringement of our freedom. This is what I call "gender-centrism."
 - If we try to name all possible combinations, it can produce an exponential explosion. Nobody can remember so many gender labels, therefore must create cognitive inequality.
 - Thus, gender stereotypes should be eliminated.
-- Since gender identity is shaped by gender stereotypes, gender identity will not exist after gender abolition.
-- Therefore, gender identity will also naturally disappear. 
-- Queer theory is not capable of providing a path to liberation because its strategy "repetition" only operates within the scope of "gender." This is the consequence of their anti-reality, anti-science stance. It enforces the gender-centric ideology and imposes Western gender norms on third-world cultures, and therefore is precisely a continuation of the old gender system.
+- Since gender identity is shaped by gender stereotypes, gender identity will not exist after gender abolition. It will naturally disappear. 
+// - Queer theory is not capable of providing a path to liberation because its strategy "repetition" only operates within the scope of "gender." This is the consequence of their anti-reality, anti-science stance. It enforces the gender-centric ideology and imposes Western gender norms on third-world cultures, and therefore is precisely a continuation of the old gender system.
 - Abolishing gender is a scientific, feasible, and logically consistent solution. Although it would cause temporary suffering, theories that claim they can avoid this suffering have been proven to be logically contradictory and scientifically unfeasible. 

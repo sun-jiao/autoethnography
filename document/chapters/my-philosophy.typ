@@ -34,6 +34,16 @@ The second thing is that once, when I was little, I asked my mum, "Mum, why are 
 My mum said, "Because Dad is tired of working." Then I said, "You have to work too, aren't you tired?" 
 My mum was very happy, saying I had grown up and cared for my mum. 
 However, at that time I didn't know what caring meant. I just found a logical flaw. 
+
+Many years later, I learned that this was precisely the "categorical imperative" proposed by Kant centuries ago: 
+only follow the maxim that could become a universal law. 
+The young me discovered that my mum's reason, "if you're tired from work, you don't have to cook," could not become a universal law, 
+otherwise nobody would cook, and we will be starved to death, no rational person would will such a world. 
+This meant that the initial reason was either false, incomplete, or the entire system was built on an unfair double standard. 
+// #footnote[I support Kant's ethics but not the transcendental idealism.
+// I had tried to abandon Kant's metaphysics and rebuild the normative part of his ethics in a physicalist worldview, 
+// which seemed very difficult, and I ultimately did not complete it. ]
+
 A very similar incident was when I was visiting relatives as a child and questioned the division of kinship terms in our local dialect. 
 I asked my parents why there are more precise terminology for paternal relatives than for maternal relatives, 
 #footnote[
@@ -46,8 +56,9 @@ I asked my parents why there are more precise terminology for paternal relatives
     and younger maternal male cousins were "biǎoshū" (表叔).
 ]
 and they responded with "it's tradition, don't ask stupid questions." 
-This further proves that ignoring politics and traditional culture to point out the logical fallacies and contradictions 
-is itself an extremely radical, almost revolutionary act.
+
+This further demonstrates that ignoring politics and traditional culture, analysing questions in a pure epistemological framework, and pointing out the logical fallacies and contradictions, 
+is not conservative, but is extremely radical, almost revolutionary.
 
 In the notebook including the story about the Sichuan little girl, I found another article I wrote: 
 The old Chinese saying "Illness falls like a mountain collapsing, but recovers like pulling silk from a cocoon"
@@ -69,15 +80,6 @@ My initial reaction was, "Huh? This is philosophy?"
 // And I didn't understand why there were so many anti-transgender philosophers like Kathleen Stock, 
 // Holly Lawford-Smith, Mary Leng, and Alex Byrne in this tradition. 
 // Analytic philosophy is such a wonderful thing; why would these people misuse it like this?
-
-// Many years later, I learned that this was precisely the "categorical imperative" proposed by Kant centuries ago: 
-// only follow the maxim that could become a universal law. 
-// The young me discovered that my mum's reason, "if you're tired from work, you don't have to cook," could not become a universal law, 
-// otherwise nobody would cook, and we will be starved to death, no rational person would will such a world. 
-// This meant that the initial reason was either false, incomplete, or the entire system was built on an unfair double standard. 
-// #footnote[I support Kant's ethics but not the transcendental idealism.
-// I had tried to abandon Kant's metaphysics and rebuild the normative part of his ethics in a physicalist worldview, 
-// which seemed very difficult, and I ultimately did not complete it. ]
 
 // The true, unstated maxim was likely not about tiredness at all, but about socially prescribed gender roles. 
 // The actual operating principle might have been something like: "Women in the household is responsible for cooking, regardless of her tiredness." 

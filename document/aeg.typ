@@ -21,11 +21,11 @@
     challenging both gender essentialism and post-structuralism. 
     By analysing the author's own experience, 
     specifically a feminine-misspelled name and the childhood trauma surrounding a pair of red shoes, 
-    the author argues that gender identity is not an innate essence but a product of neuroplasticity and social interaction, explicable through predictive coding models. 
+    the author argues that their gender identity is not an innate essence but a product of neuroplasticity and social interaction, explicable through predictive coding models. 
     The paper investigates the author's conflict with online transgender and radical feminist communities, 
     critiquing the rejection of logic and science. 
     Contrary to the post-structuralist view that "universal reason" is a tool of hegemony, 
-    this work defends Enlightenment and reason as the ultimate sanctuary for the marginalized and a necessary weapon against dehumanisation. 
+    this work defends Enlightenment and reason as the ultimate sanctuary for the marginalised and a necessary weapon against dehumanisation. 
     The author ultimately calls for a "Sapere aude" (dare to know) approach to gender and other social or political issues, 
     integrating scientific realism with the struggle for human dignity.
   ],
@@ -69,7 +69,7 @@
 
 #include "chapters/dialogue-with-post-structuralism.typ"
 
-#include "chapters/postscript.typ"
+// #include "chapters/postscript.typ"
 
 = An answer to the question: What is enlightenment?
 
@@ -96,10 +96,10 @@
   Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig-name-shoes c, d), whose original versions are damaged or faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity.
 ]
 
-#show:appendix
+// #show:appendix
 
-= An Autoethnography of Interpellation and Performativity <app-ps-aeb>
+// = An Autoethnography of Interpellation and Performativity <app-ps-aeb>
 
-#include "appendices/ps-aeb.typ"
+// #include "appendices/ps-aeb.typ"
 
 #bibliography("references.bib", style: "apa")

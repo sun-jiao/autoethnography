@@ -12,17 +12,18 @@ Therefore, in this section, I will trace the history of my own gender socialisat
 Besides revealing the origins of my gender identity, 
 it also serves as a counterexample to the "innate gender identity" theory of transgender essentialism @APA2015Guidelines@NHS2022Gender, 
 the "standpoint epistemology" of the feminist philosophy of science @Haraway1988Situated, 
-and the criticism of reason as a hegemony by post-structuralism and feminist philosophy of science @Irigaray1985Subject@Harding1986Science. 
+and the criticism of reason as a "hegemony" by post-structuralism and feminist philosophy of science @Irigaray1985Subject@Harding1986Science. 
 From a Habermasian perspective of communicative rationality, 
-I completely permit queer theorists to use this autoethnographical case study as an example of the "gender performativity" theory or other constructivist theories, 
-though I completely reject them. 
+I completely permit queer theorists to use this autoethnographical case study as an example of the "gender performativity" theory or other constructivist theories.
+On this particular issue, I believe that we are actually describing the same mechanism from different perspectives and levels. 
 The female components of my gender identity will be discussed first, followed by the male components. 
 
 I suspect my preference for the feminine _Jiāo_ was shaped by repeated misuse. 
 It was frequently miswritten or mistyped as the feminine _Jiāo_ in my life, 
 due to the input method issue mentioned earlier (@fig-name-shoes a, b). 
 I felt ashamed and uncomfortable about it when I was in elementary and middle school, 
-but I gradually came to like it.
+but I gradually came to like it. 
+If everyone calls me by the feminine _Jiāo_, then my brain may update its self-model to resolve this persistent prediction error and believe that it is really my name.
 
 #figure(
     image("../figures/feminine_name_and_shoes.jpg", width: 70%),
@@ -46,8 +47,8 @@ and I was once pushed into a bush, leading to perineal injury.
 I had nightmares about losing my foot in incidents. 
 From the perspective of predictive coding and neuroplasticity, 
 my brain minimised prediction error. 
-If society says "red shoes belong to girls" and "I wear red shoes," 
-the brain might update the self-model to "I am a girl" to resolve the conflict.
+If society says "red shoes belong to girls," "a boy cannot wear girls' shoes" and "I wear red shoes," 
+the brain might update the self-model to "I am a girl" to minimise the prediction error.
 
 These shoes likely originated from Japanese indoor shoes (上履き, _uwabaki_), 
 mainly used in schools and kindergartens in Japan. 
@@ -176,6 +177,8 @@ This is why I oppose attacking all men:
 an oppressive power (patriarchy/British and French army) committed evil in the name of a specific group (men/British and French people), 
 which does not grant the victims the right to indiscriminately attack the former group in return, 
 because this power clearly did not receive authorisation from the group it claimed to represent. 
+A single counterexample is sufficient to negate a universal proposition. 
+As long as there is one man who oppose patriarchy, the statement "all men are guilty" can be negated.
 
 The radical (so-called) "feminists" claimed that my anger was because "you're a man" and I had been "triggered"
 #footnote[急了, _jí le_, a Chinese internet slang for getting flustered or angry when your weak spot is hit.]: 
@@ -183,9 +186,9 @@ The radical (so-called) "feminists" claimed that my anger was because "you're a 
 You fundamentally do not understand our female experience." 
 // This view is clearly influenced by post-structuralists and feminist philosophers of science like #textcite(<Irigaray1985Subject>, <Harding1986Science>). 
 
-While the truth is precisely the opposite: it is because I was arguing with them to defend my ethical principles
+While the truth is precisely the opposite: it is because I was arguing with them to defend logic rules and my ethical principles 
 against irrationality and collective responsibility, and in this process, 
-I was labelled as "male," which shaped the male aspect of my self-identity. 
+I was labelled as "male," which enhanced the male aspect of my self-identity. 
 If "reason is a male privilege" and "I support reason," 
 then I updated my self-model: maybe I am "male." 
 #footnote[This event happened about seven years ago, and I didn't know much about feminism and gender theories at that time. ]
@@ -194,7 +197,7 @@ Ironically, when debating with extreme nationalists who said that "all Japanese 
 #footnote[Referring to Hiroshima and Nagasaki.] 
 they claimed that my opinion is "women's kindness." 
 #footnote[妇人之仁, _fù rén zhī rén_, an old Chinese idioms means "excessive tendency to clemency" or being "too soft-hearted" in a pejorative sense.] 
-How the same ethical framework is interpreted and what "gender" it is assigned depends entirely on the external sociocultural framework, 
+How the same ethical and logical framework is interpreted and what "gender" it is assigned depends entirely on the external sociocultural framework, 
 the observer's position, and even an instrumental purpose in a specific context. 
 The interpretation is not based on any objective, consistent standard, but serves the interpreter's own political agenda.
 
@@ -225,9 +228,9 @@ Reason has never been masculine. It is intimately intertwined with the most femi
 #footnote[I am not saying "reason is a feminine trait," which is another form of gender stereotype. 
 I am saying that my love for reason shares a common origin with the female component of my gender identity.]
 
-Another incident was that I sang off-key on Children's Day and was laughed at by my classmates, 
-while another classmate who sang off-key received encouragement. 
-I angrily questioned them about why they laughed at me but encouraged her, and no one gave me a logically valid justification.
+// Another incident was that I sang off-key on Children's Day and was laughed at by my classmates, 
+// while another classmate who sang off-key received encouragement. 
+// I angrily questioned them about why they laughed at me but encouraged her, and no one gave me a logically valid justification.
 
 Reason was the only shield of that little girl in the red shoes in her most vulnerable moment. 
 In a world full of chaos and pain, it is the only clean, pure, and trustworthy thing. It is her shield, his home, their shelter. 
