@@ -23,12 +23,12 @@ However, it exposed some severer issues in our society. It demonstrated that the
 // extremely special is itself a manifestation of gender-centrism.
 
 The most incredible thing about gender-centrism is its ontological privilege that spans the whole political spectrum. 
-For other socially constructed identities, such as nationality, race, etc., their supporters clearly know that these identities are socially constructed. Only gender, a completely externally imposed system, is regarded by the entire political spectrum as something _a priori_ and essential. The only disagreement is where this essence lies -- in our genitals ("scientific" gender essentialism), brains (transgender mechanistic materialism), or souls (religious conservative and transgender idealism). 
+For other socially constructed identities, such as nationality, race, etc., their supporters clearly know that these identities are socially constructed. Only gender, a completely externally imposed system, is regarded by almost the entire political spectrum as something _a priori_ and essential. The only disagreement is where this essence lies -- in our genitals ("scientific" gender essentialism), brains (transgender mechanistic materialism), or souls (religious conservative and transgender idealism). 
 //It is even regarded by some groups as the "true self," a symbol of "freedom and empowerment."
 
 "Gender essence" or "gender identity" is proclaimed by almost all political camps to be innate, internal, profound, and constitutive of essence, yet it is clearly acquired, social, superficial, and shaped by society and culture. 
 // It defines our essence, governs our entire lives, is assigned before the formation of the self identity, and claims to be the self itself. 
-It simultaneously occupies the domains of science, humanities, politics, and religions. #footnote[The "religion" refers to the conservative narrative of "the two sexes are the natural order created by God" and the liberal narrative of "a soul born in the wrong body."] It has a unique, unquestionable, cross-political-spectrum ontological privilege.
+It simultaneously occupies the domains of science, humanities, politics, and religions. #footnote[The "religion" refers to the conservative narrative of "the two sexes are the natural order created by God" and the liberal narrative of "a soul born in the wrong body."] It has a unique, unquestionable, cross-political-spectrum ontological privilege. Different political camps are fighting over this concept, each wanting the power to define it, yet almost no one tries to question it.
 
 // % To declare a specific one as our "core" self is a questionable assumption. It suppresses the expression of other types of self-identity. The dominant status of "gender" over other personality traits and self-identities also reduces the culturally and socially available combinations, leading to a decrease in the freedom of self-expression.
 

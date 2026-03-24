@@ -43,7 +43,7 @@
 
 #include "chapters/dismantling-sex.typ"
 
-// #include "chapters/dialogue-with-biological-pragmatists.typ"
+#include "chapters/dialogue-with-biological-pragmatists.typ"
 
 = Biological Critique of Gender Identity
 

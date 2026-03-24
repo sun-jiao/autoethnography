@@ -12,7 +12,8 @@ The preceding biological analysis established that "gender identity" is not an i
 
 Consequently, because the biological hardware is merely processing the software of culture, I shift the focus from the biological mechanism to the philosophical structure of the social constructs themselves. I will demonstrate that the contemporary theoretical framework surrounding gender -- specifically the dichotomy of "cisgender" and "transgender" and the concept of "assigned sex at birth" (ASAB) -- is full of internal contradictions to maintain a precarious ideological order.
 
-Let us have a thought experiment: an intersex child is assigned female at birth, but gets lost at a very young age, is reassigned male by adoptive parents, and is raised as a boy. After adulthood, their body is closer to a "phenotypic male," but their gender identity is female. According to the definition of #textcite(<APA2013DSM5>, <WHO2019ICD11>), this individual is a "cisgender female."
+Let us have a thought experiment: an intersex child is assigned female at birth, but gets lost at a very young age, is reassigned male by adoptive parents, and is raised as a boy. After adulthood, their body is closer to a "phenotypic male," but their gender identity is female. According to the definition of #textcite(<APA2013DSM5>, <WHO2019ICD11>), this individual is a "cisgender female." 
+This is clearly an absurd conclusion.
 
 By introducing the concept of "assigned sex at birth," some intersex people are excluded from transgender. Ironically, if we use "phenotypic sex" to define transgender people, we can capture this individual's unique gender socialisation experience (XtF) very well. Since the so-called "assigned sex" is almost always binary in actual medical practice, it simplifies the patterns of children's gender socialisation using two typical phenotypic sexes, replicating the power framework it seeks to oppose, and in fact, brings back the ghost of gender binary.
 

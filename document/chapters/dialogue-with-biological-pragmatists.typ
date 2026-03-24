@@ -1,12 +1,12 @@
 #import "../lib.typ": *
 
-Some biologists who support instrumental or pragmatic methodologies might argue that even if phenotypic sex doesn't truly exist, it's useful in many areas. Indeed, like Linnaeus' taxonomic ranks, which I do not deny. However, I insist that it's not sex itself, but merely a phenotypic proxy.
+Some biologists who support instrumental or pragmatic methodologies might that chromosomes, gonads, genitals, and hormones aren't simply correlated, but rather form a tightly coupled, cascaded regulatory system. While genitals aren't gametes themselves, they are crucial for gamete transmission.
+// argue that even if phenotypic sex doesn't truly exist, it's useful in many areas. Indeed, like Linnaeus' taxonomic ranks, which I do not deny. However, I insist that it's not sex itself, but merely a phenotypic proxy.
+// Others might argue
 
-Others might argue that chromosomes, gonads, genitals, and hormones aren't simply correlated, but rather form a tightly coupled, cascaded regulatory system. While genitals aren't gametes themselves, they are crucial for gamete transmission.
-
-Following this logic, the sex of birds (other than ducks) cannot be observed externally and genetic sequencing or dissection is necessary because their genitals are isomorphic. However, most ornithologists wouldn't support this idea. They use other sexually dimorphic traits like plumage colour to identify sex during ecological field surveys, and plumage colour is ontologically closer to height than genitals.
+Following this logic, the sex of birds (other than ducks) cannot be observed externally and genetic sequencing or dissection is necessary because their genitals are isomorphic. However, most ornithologists wouldn't support this idea. They use other sexually dimorphic traits like plumage colour to identify sex during ecological field surveys, and plumage colour is ontologically closer to secondary sexual characteristics and height than genitals.
 
 In this situation, the opposing side has two possible responses:
 
-+ Insist on the "core system" argument: This would mean that all ecological studies that identify bird sex based on plumage colour are methodologically flawed. They confuse "sex" with "sexually dimorphic traits." Unless they perform genetic testing or dissection on every bird, their data is invalid. -- This is clearly absurd and would negate decades of avian ecology and behavioural research. This is an unacceptable price.
-+ Acknowledge the legitimacy of "proxies": "Okay, in some cases, non-core traits like plumage colour can also be legitimately considered as components of sex." -- Then why not height? What is the ontological difference between identifying bird sex by plumage colour and identifying human sex by genitalia?
++ Insist on the "core system" argument. "Bite the bullet" and recognise that birds' sex cannot be observed. This would mean that all ecological studies that identify bird sex based on plumage colour are methodologically flawed. They confuse "sex" with "sexually dimorphic traits." Unless they perform genetic testing or dissection on every bird, their data is invalid. -- This is clearly absurd and would negate decades of avian ecology and behavioural research. This is an unacceptable price.
++ Acknowledge the legitimacy of "proxies." "Okay, phenotypic sex is merely an instrumental proxy for biological sex. In some cases, non-core traits like plumage colour can also be legitimately considered as components of sex." -- Then why not height? What is the ontological difference between identifying bird sex by plumage colour and identifying human sex by genitalia?
