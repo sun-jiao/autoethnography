@@ -1,1 +1,7 @@
 *.pdf
+*.docx
+*.html
+*.md
+*.rtf
+aeg_html_*
+fga_html_*
