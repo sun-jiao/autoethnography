@@ -37,7 +37,7 @@
   layout: "preprint",     // preprint, publish
   
   // Display options
-  show-line-numbers: true,
+  show-line-numbers: false,
   section-numbering: true,
   structure-color: rgb(33, 63, 144),
 
@@ -65,13 +65,13 @@
 
 #include "chapters/my-philosophy.typ"
 
-= Dialogue with Post-Structuralism
+= A Post-Structuralist Alternative Narrative
 
-#include "appendices/ps-aeb.typ"
+#include "chapters/ps-alternative-narrative.typ"
 
 = Communicative Rationality
 
-#include "chapters/dialogue-with-post-structuralism.typ"
+#include "chapters/communicative-rationality.typ"
 
 // #include "chapters/postscript.typ"
 
@@ -97,7 +97,7 @@
 ]
 
 #paragraph("Declaration of Artificial Intelligence")[
-  Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig-name-shoes c, d), whose original versions are damaged or faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity.
+  Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig-name-shoes c, d), whose original versions are damaged or faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity if necessary.
 ]
 
 #bibliography("references.bib", style: "apa")
