@@ -1,7 +1,7 @@
 #import "lib.typ": *
 
 #show: cupst.with(
-  title: [A Rational Road of Understanding Gender Identity: an Autoethnography of a Transgender Evolutionary Biologist],
+  title: [A Rational Road of Understanding Gender Experience: an Autoethnography of a Transgender Evolutionary Biologist],
   short-title: [],
   
   authors: (
@@ -67,6 +67,10 @@
 
 = Dialogue with Post-Structuralism
 
+#include "appendices/ps-aeb.typ"
+
+= Communicative Rationality
+
 #include "chapters/dialogue-with-post-structuralism.typ"
 
 // #include "chapters/postscript.typ"
@@ -95,11 +99,5 @@
 #paragraph("Declaration of Artificial Intelligence")[
   Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig-name-shoes c, d), whose original versions are damaged or faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity.
 ]
-
-#show:appendix
-
-= An Autoethnography of Interpellation and Performativity <app-ps-aeb>
-
-#include "appendices/ps-aeb.typ"
 
 #bibliography("references.bib", style: "apa")
