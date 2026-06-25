@@ -1,7 +1,7 @@
 #import "lib.typ": *
 
 #show: cupst.with(
-  title: [A Rational Road of Understanding Gender Experience: an Autoethnography of a Transgender Evolutionary Biologist],
+  title: [Not born this way: a non-binary biologist's analytic autoethnography about how their gender identity was shaped by a gendered world],
   short-title: [],
   
   authors: (
@@ -18,16 +18,11 @@
   
   abstract: [
     This autoethnography explores the formation of gender identity through the lens of a transgender evolutionary biologist, 
-    challenging both gender essentialism and post-structuralism. 
-    By analysing the author's own experience, 
-    specifically a feminine-misspelled name and the childhood trauma surrounding a pair of red shoes, 
-    the author argues that their gender identity is not an innate essence but a product of neuroplasticity and social interaction, explicable through predictive coding models. 
-    The paper investigates the author's conflict with online transgender and radical feminist communities, 
-    critiquing the rejection of logic and science. 
-    Contrary to the post-structuralist view that "universal reason" is a tool of hegemony, 
-    this work defends Enlightenment and reason as the ultimate sanctuary for the marginalised and a necessary weapon against dehumanisation. 
-    The author ultimately calls for a "Sapere aude" (dare to know) approach to gender and other social or political issues, 
-    integrating scientific realism with the struggle for human dignity.
+    specifically a feminine-misspelled name and the childhood trauma surrounding a pair of red shoes. 
+    Combining personal narrative with predictive coding theory and works of Althusser, Foucault, and Butler, the author argues that their gender identity is not an innate essence but a product of neuroplasticity and the interaction with external cultures and social environments. 
+    By understanding the same experience through the respective frameworks of neuroscience and continental philosophy, the author argues that some specific, higher-level phenomenons described in continental philosophy can be reframed upon a naturalistic foundation, and that the formation of gender identity is a complex process involving neurological and social factors.
+    Furethermore, the author recalled the importance of reason in their childhood experiences and the journey of exploring their gender identity, arguing that the Enlightenment spirit and reason are essential for the marginalised to resist dehumanisation. Combining Habermas' theory, the author argues that the post-structuralist rejection of reason is not only unnecessary but also dangerous.
+    Finally, I argue that the Enlightenment spirit and reason are essential for the marginalised to resist dehumanisation.
   ],
   
   keywords: ("Autoethnography", "criticism of post-structuralism", "gender identity", "transgender", "trans philosophy"),
@@ -69,23 +64,21 @@
 
 #include "chapters/ps-alternative-narrative.typ"
 
-= Communicative Rationality
+// = Communicative Rationality
 
-#include "chapters/communicative-rationality.typ"
+// #include "chapters/communicative-rationality.typ"
 
-// #include "chapters/postscript.typ"
+// = An answer to the question: What is enlightenment?
 
-= An answer to the question: What is enlightenment?
-
-#include "chapters/what-is-enlightenment.typ"
+// #include "chapters/what-is-enlightenment.typ"
 
 #acknowledgement[
-  I am grateful to the Enlightenment and its thinkers. 
-  You illuminated the darkness with the light of reason. 
-  You constructed the independent, resilient, courageous, and fearless subject. 
-  I am sincerely grateful to the anonymous prisoner in Mauthausen concentration camp. 
-  You kept the immortal light of the Enlightenment and Haskalah. 
-  You proved how invincible and indestructible humanity can be, even in the most dehumanising situation.
+  // I am grateful to the Enlightenment and its thinkers. 
+  // You illuminated the darkness with the light of reason. 
+  // You constructed the independent, resilient, courageous, and fearless subject. 
+  // I am sincerely grateful to the anonymous prisoner in Mauthausen concentration camp. 
+  // You kept the immortal light of the Enlightenment and Haskalah. 
+  // You proved how invincible and indestructible humanity can be, even in the most dehumanising situation.
   I am extremely grateful to the little girl in red shoes for his courage in facing the bullies. 
   Her small shield has become an impregnable shelter that protects them from any irrational violence.
 ]
@@ -98,6 +91,14 @@
 
 #paragraph("Declaration of Artificial Intelligence")[
   Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig-name-shoes c, d), whose original versions are damaged or faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity if necessary.
+]
+
+#paragraph("Conflicting Interests")[
+  The author declares no conflicting interests.
+]
+
+#paragraph("Funding")[
+  This research received no specific grant.
 ]
 
 #bibliography("references.bib", style: "apa")

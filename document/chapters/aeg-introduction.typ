@@ -5,15 +5,15 @@ Yet for me, a PhD student in evolutionary biology, these narratives mostly lack 
 In this autoethnography, I try to explore my gender identity under a rational, materialist perspective. 
 The investigation begins with my personal history, where accidental experiences served as the seeds for a fluid or non-binary identity.
 
-The term "transgender" in the title is mostly pragmatic.
-Admittedly, I indeed have some transgender-like experience.
-However, I find it challenging to truly categorise myself in the mainstream gender theory.
-Therefore, transgender, non-binary or gender-fluid are all pragmatic terms to help others understand me.
+// The term "transgender" in the title is mostly pragmatic.
+// Admittedly, I indeed have some transgender-like experience.
+// However, I find it challenging to truly categorise myself in the mainstream gender theory.
+// Therefore, transgender, non-binary or gender-fluid are all pragmatic terms to help others understand me.
 
-#textcite(<Sun2025GenderAbolition>) was originally part of this autoethnography
-and has been split into a separate article.
-However, the two articles still exhibit significant intertextuality.
-#textcite(<Sun2025GenderAbolition>) can be considered in the "context of justification," and this autoethnography is in the "context of discovery."
+// #textcite(<Sun2025GenderAbolition>) was originally part of this autoethnography
+// and has been split into a separate article.
+// However, the two articles still exhibit significant intertextuality.
+// #textcite(<Sun2025GenderAbolition>) can be considered in the "context of justification," and this autoethnography is in the "context of discovery."
 
 As a PhD student, the scientific methodology has deeply influenced the methods used in my own journey of gender exploration.
 I understand that writing an autoethnography based on science and reason to advocate for
@@ -21,6 +21,7 @@ a grand narrative may be seen by some scholars as a contradiction to the fundame
 However, I am not trying to convince my readers that I am completely correct, but
 documenting how an individual with a firm commitment to science,
 who has received rigorous scientific training, attempts to understand a crucial aspect of themself.
+
 // This is, in fact, a story of how a person resolves a significant existential crisis.
 
 Additionally, the basic methods I used are introspection and cross-validation with relatives and friends

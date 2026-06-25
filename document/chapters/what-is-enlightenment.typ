@@ -26,11 +26,12 @@ Admittedly, understanding does not necessarily lead to ideal communication and c
 they might still reject my theory even if they read it, just like I rejected theirs after reading their literature. 
 Nevertheless, "Knowing" others is the first step of communication. 
 Even if we still reject each other's theory, at least we can reach a _meta-consensus_: 
-I support $A$, while you support $B$, we cannot agree with each other because of $C$. 
+"I support _A_, while you support _B_, we cannot agree with each other because of _C_. 
+I think you are mistaken, and you think I am mistaken, but we are not bad people." 
 However, unfortunately, they did not participate in a mutual dialogue. 
 I invested huge intellectual effort to understand them, while they did not do the same thing to me.
 
-I believe that my research in biology and my attempt to comprehend their philosophy, though methodologically different, share a common epistemic root: a _Sapere aude_ characterised by pure wonder and curiosity.
+Though methodologically different, my research in biology and my attempt to comprehend their philosophy share a common epistemic root: _Sapere aude_ characterised by pure wonder and curiosity.
 "Dare to know" is a kind of modesty, because its presupposition is "I NEED to know," acknowledging our own epistemological deficiency. 
 This is the drive to bridge the gap between the self and the external world, and the yearning to approach truth. 
 Love of Truth and Love of Neighbour are fundamentally connected. 

@@ -20,19 +20,19 @@ Furthermore, because the feminine name is much more popular than my legal name,
 it is the first choice in many Chinese pinyin input methods. 
 #footnote[When typing in Chinese, we use a software called "input method." 
 It gives all possible Chinese characters based on their spell in pinyin,
-and the user chooses the correct character from them. It is a common thing to choose a wrong character.] 
+and the user chooses the correct character from them. It is a common thing to choose a wrong character, especially in informal settings.] 
 Every time somebody typed my name as the feminine _Jiāo_, 
 I was extremely delighted and afraid that someone would "kindly" point it out. 
 If this really happened, I would be very "tolerant" and say, 
 "It's okay, as long as I know you're addressing me, a wrong character doesn't matter." 
 At an academic conference, the curators wrote my name as the feminine _Jiāo_ on a poster. 
 I was very delighted, hoping to see it at the conference.
-However, a junior of mine discovered it and contacted the curators to correct it. 
+However, a junior in our lab discovered it and contacted the curators to correct it. 
 I felt a strong sense of disappointment at that moment. 
-Sometimes I even used the feminine _Jiāo_ myself, and if discovered, I would blame the input method.
+Sometimes I even used the feminine _Jiāo_ myself, and if discovered, I would blame the input method for suggesting the "wrong" character.
 
 Because I never corrected it, many personal friends who knew me in informal places (like in student clubs) thought it was my legal name. 
-Occasionally, some new friends would ask, "Is your name really the feminine _Jiāo_?" 
+Occasionally, some new members of the club would ask, "Is your name really the feminine _Jiāo_?" 
 and my old friends would argue with them, 
 "Why can't a boy be named the feminine _Jiāo_? It's such a cute name! That's a rude question."
 I would pretend not to see the messages, secretly enjoying the protection from friends. 
@@ -40,13 +40,13 @@ Some friends thought it was a nickname, which I also didn't correct.
 
 I was also delighted when friends described me as "quiet" and "virtuous" 
 (文静 _wén jìng_ and 贤惠 _xián huì_, both are traditionally "feminine" adjectives in Chinese) 
-because I didn't talk much and cooked during home parties, 
+because I didn't talk much and cooked during parties, 
 as well as when my handmade hog plum (_Choerospondias axillaris_) bracelet was considered to be from a girl at a gift-exchange event. 
 
 I secretly used deep learning-based image generation models to create some feminised photos of myself. 
 I also scanned my ID card and graduation certificate, changed the sex marker, replaced the photo.
 Since I remained in my undergraduate student club's group chat after graduation, one day I saw some new students joining the group. 
-I told one of them I was a girl and sent an AI-generated photo. They replied, "Wow, a pretty sis." I was incredibly delighted.
+I told one of them that I was a girl and sent an AI-generated photo. They replied, "Wow, a pretty sis." I was incredibly delighted.
 
 During this time, I had wondered if I was "transgender" and tried to understand the mainstream transgender narratives. 
 However, I kept encountering intellectual barriers, such as: 
