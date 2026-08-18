@@ -1,1 +1,1 @@
-/home/sunjiao/PycharmProjects/joast/cupst.typ
+/home/sunjiao/PycharmProjects/cupst/cupst.typ
