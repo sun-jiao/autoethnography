@@ -1,0 +1,1 @@
+/home/sunjiao/PycharmProjects/cupst/cupst.typ

@@ -2,4 +2,5 @@
 texput.log
 *.docx
 *.html
-review/*
+review/output/*
+review/tmp/*
