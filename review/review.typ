@@ -1,8 +1,8 @@
 #import "lib.typ": *
 
 #show: cupst.with(
-  title: [A Critical Review of Studies on Gender Identity: Conceptual and Methodological Limitations and the Need to Consider Cultural Context],
-  short-title: [A Critical Review of Studies on Gender Identity],
+  title: [A Critical Review of Genetic Studies on Gender Identity: Conceptual and Methodological Limitations and the Need to Consider Cultural Context],
+  short-title: [A Critical Review of Genetic Studies on Gender Identity],
 
   authors: (
     (
@@ -60,8 +60,7 @@ Gender identity is crucial to understanding and explaining transgender experienc
 Although the "born this way" narrative has real political value @Glazier_2021, 
 it is incompatible with the widely accepted view that gender is a social construct @King_2010@S_nchez_2025.
 
-In this article, I review multiple neurological and biological studies and identifies several recurring limitations. 
-Definitions and studies conflate sex with gender, so that discomfort with bodily traits is read as identification with a gender category. 
+In this article, I review multiple genetic studies and identifies several recurring limitations. 
 Heritability statistics are treated as evidence of a biological essence. 
 Molecular biological studies use cross-tissue and cross-taxon analogies without direct empirical support. 
 It should be noted that not every study claims that gender identity is innate. 
@@ -77,7 +76,7 @@ I distinguish the two concepts because birth-assigned sex is a social label and 
 It depends on the institutional practice of birth sex assignment. 
 Some neurological phenomena, such as body-representation incongruence, are not socially constructed and can exist independently of that practice.
 
-= Ambiguity and internal contradiction in definitions
+= What is gender identity?
 
 #textcite(<APA2015Guidelines>) defines gender identity as "A person's deeply-felt, inherent sense of being a boy, a man, or a male; a girl, a woman, or a female; or an alternative gender (e.g., genderqueer, gender nonconforming, gender neutral) that may or may not correspond to a person's sex assigned at birth or to a person's primary or secondary sex characteristics." 
 However, what is meant by "deeply felt", "inherent sense", and "being a gender"? These notions are poorly defined. 
@@ -117,10 +116,7 @@ In contrast, #textcite(<Foreman2019Genetic>, <Ashley2023Genetic>) are more epist
 
 = Conceptual conflations in neurological studies
 
-The influential traditional "brain-sex" or "trans-brain" framework has already received extensive criticism from #textcite(<Zabalegui2024After>, <Baxendale2025Brain>). 
-Most studies of this type establish correlation rather than causation and face serious multiple-testing issues. 
-As #textcite(<Baxendale2025Brain>) notes satirically, if all people taller than 168.5 cm are classified as male and all people shorter than it as female, about 83% of the U.S. 
-population would be correctly classified. 
+
 I therefore do not attempt to reproduce that literature here. 
 Instead, I examine two studies that are useful for a different question: how neural phenomena concerning the body or the self come to be interpreted specifically as evidence about gender identity.
 
@@ -283,7 +279,10 @@ Although social play is still not gender identity, this is the only mechanism th
 Yet none of the methods used by the studies above can detect this epigenetic modification.
 
 Moreover, these studies' equation of brain-developmental pathways with gender identity rests largely on neurological studies that see transgender experience as arising from a "cross-sex" (opposite-phenotypic-sex-typical) brain structure @fernandez2018molecular. 
-However, as noted earlier, #textcite(<Zabalegui2024After>, <Baxendale2025Brain>) have pointed out that these studies have serious conceptual and statistical problems.
+However, the influential traditional "brain-sex" or "trans-brain" framework has already received extensive criticism from #textcite(<Zabalegui2024After>, <Baxendale2025Brain>). 
+Most studies of this type establish correlation rather than causation and face serious multiple-testing issues. 
+As #textcite(<Baxendale2025Brain>) notes satirically, if all people taller than 168.5 cm are classified as male and all people shorter than it as female, about 83% of the U.S. 
+population would be correctly classified. 
 
 = Predictive processing framework and empirical studies
 
