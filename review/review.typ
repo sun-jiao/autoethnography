@@ -1,8 +1,8 @@
 #import "lib.typ": *
 
 #show: cupst.with(
-  title: [A Critical Review of Genetic Studies on Gender Identity: Conceptual and Methodological Limitations and the Need to Consider Cultural Context],
-  short-title: [A Critical Review of Genetic Studies on Gender Identity],
+  title: [Genetics is not a panacea: what quantitative genetics and molecular biology can and cannot tell us about gender identity],
+  short-title: [What genetics can and cannot tell us about gender identity],
 
   authors: (
     (
@@ -20,22 +20,13 @@
   ),
 
   abstract: [
-    This article critically reviews definitions and empirical studies of gender identity. 
-    I argue that defining gender identity as an "inherent" or "innate" sense is incompatible with accounts of gender as socially constructed. 
-    I identify studies with conceptual conflation of phenotypic sex and gender, misuse of genetic statistics, and cross-taxon or cross-tissue transfer of molecular biological studies. 
-    I then examine two experiments that explore gendered self-perception within a predictive-processing framework. 
-    Drawing on these studies, I propose that gender is a socially learned system of norms linking ontologically independent attributes, and gender identity is a self-model shaped by prediction errors within that system. 
-    This account keeps the term "gender" in "gender identity" aligned with gender as a social construct and generates cross-cultural, testable predictions. 
-    However, the available evidence concerns short-term laboratory effects rather than the development of durable identity. 
-    I conclude that neurological and genetic research should incorporate cultural context rather than treat gender identity as a context-free biological trait.
+
   ],
 
   keywords: (
     "Gender",
     "Gender identity",
     "Genetics",
-    "Neurobiology",
-    "Predictive processing",
     "Quantitative genetics",
     "Sex", "Sex/Gender",
   ),
@@ -56,139 +47,53 @@
 = Introduction
 
 Gender identity is crucial to understanding and explaining transgender experiences in our society. 
-#textcite(<APA2015Guidelines>, <NHS2022Gender>) define gender identity as something a person is born with -- an "inherent" or "innate" sense. 
-Although the "born this way" narrative has real political value @Glazier_2021, 
-it is incompatible with the widely accepted view that gender is a social construct @King_2010@S_nchez_2025.
+Quantitative genetic studies and molecular association studies have motivated claims viewing gender identity as an innate and biologically determined trait.
 
-In this article, I review multiple genetic studies and identifies several recurring limitations. 
-Heritability statistics are treated as evidence of a biological essence. 
-Molecular biological studies use cross-tissue and cross-taxon analogies without direct empirical support. 
+In this article, I review multiple quantitative genetic studies and identify several recurring limitations. 
+The review is based on three systematic reviews or meta-analyses, including the studies they screened using the PRISMA method, as well as of the three reviews or meta-analyses themselves @Ashley2023Genetic@conabere2025genetic@Polderman2018Biological.
+
 It should be noted that not every study claims that gender identity is innate. 
-Nonetheless, even those that avoid or reject that claim can still posses the same conceptual and methodological assumptions from a biological-essentialist framework.
+Nonetheless, even those that avoid that claim can still posses assumptions from a gender-essentialist framework and regarding gender identity as a biological essence.
 
-Against this background, I examine two studies that place gender identity within a predictive-processing framework @Tacikowski2020Fluidity@Clausen2021Action. 
-Building on them, I propose a model in which gender is a system of social norms linking ontologically independent attributes, and gender identity is the self-model the brain produces to minimise prediction errors.
-
-The reproductive and evolutionary biological definition of sex is confined to gamete type @Lehtonen2014Gamete@Goymann2023Biological@Hurst1996There@Griffiths2025Biology.
-Therefore, I do not use the term "biological sex" in this article. 
-Instead, "phenotypic sex" refers to the conventional notion of "biological sex" as a set of sexually dimorphic traits, and "birth-assigned sex" or "sex assigned at birth" refers to the label assigned on the basis of observed phenotypic sex at birth. 
-I distinguish the two concepts because birth-assigned sex is a social label and is not equivalent to a specific phenotype. 
-It depends on the institutional practice of birth sex assignment. 
-Some neurological phenomena, such as body-representation incongruence, are not socially constructed and can exist independently of that practice.
+My purpose is not to abolish biological research with radical social constructivism. It is to clarify the necessary concepts and standards needed for genetic explanation.
+In the review, I first discuss what gender identity is and what it should be. I then consider what heritability can and cannot show, which phenotype has been measured, and what level of explanation the evidence supports. I also examine how genomics could test mediated and context-dependent pathways. Finally, I develop a constructive sociogenomic framework for future work.
 
 = What is gender identity?
 
 #textcite(<APA2015Guidelines>) defines gender identity as "A person's deeply-felt, inherent sense of being a boy, a man, or a male; a girl, a woman, or a female; or an alternative gender (e.g., genderqueer, gender nonconforming, gender neutral) that may or may not correspond to a person's sex assigned at birth or to a person's primary or secondary sex characteristics." 
-However, what is meant by "deeply felt", "inherent sense", and "being a gender"? These notions are poorly defined. 
-The definition may also be overgeneralised. 
-If someone -- for example, me -- understood their gender identity as a contingent product of childhood experience rather than as deep or inherent, the APA definition would render that identity invalid if we apply it literally.
 
-#textcite(<NHS2022Gender>) defines it as: "Gender identity is a way to describe a person's innate sense of their own gender, whether male, female, or non-binary, which may not correspond to the sex registered at birth." 
-The phrase "innate sense of their own gender" means that the sense is directed at "their own gender," yet gender is socially constructed @King_2010@S_nchez_2025, a sense to a social construct cannot be innate. 
-
-"Inherent" and "innate" indicate an inborn, constitutive property of a person -- something that would exist even without gender social construct. 
-However, gender is socially constructed; individuals are not born with knowledge of gender and therefore cannot innately possess a "sense of gender". 
-Consequently, the claim of an innate gender identity is either untenable, or its "gender" is not gender understood as a social construct. 
+The phrase "innate sense of their own gender" means that the sense is directed at "their own gender." 
+"Innate" indicate an inborn, constitutive property of a person -- something that would exist even without gender construct. 
+However, based on the widely accepted view that gender is socially constructed @King_2010@S_nchez_2025, individuals are not born with knowledge of gender and therefore cannot innately possess a "sense of gender".
+Consequently, the claim of an innate gender identity is either untenable, or its "gender" is not the "gender" understood as a social construct. 
 If "gender" here refers to an entity that is not socially constructed and can be an innate mental state, that entity must be independently defined. 
-Neither the APA nor the NHS provides such an account. 
-#textcite(<APA2015Guidelines>) explicitly states that "gender is a nonbinary construct", and #textcite(<NHS2022Gender>) adopts the #textcite(<WHOndGender>) definition of gender as "the characteristics of women, men, girls and boys that are socially constructed". 
-Therefore, their definitions are internally contradictory. 
-If gender is socially constructed, then a sense of it cannot be innate. 
-If the sense of gender is innate, then gender cannot be socially constructed.
+Far from providing such a definition, #textcite(<APA2015Guidelines>) explicitly states that "gender is a nonbinary construct".
+Therefore, their definitions are internally contradictory.
+A socially constructed phenotype may have innate causal antecedents without thereby making itself innate, which will be discussed in the next section.
 
-It is difficult to see how natural selection could have encoded an innate belief with definite content, such as "I am a boy/girl/man/woman," into brain structure through genes related to brain development.
-At present, no demonstrated evolutionary mechanism explains how genes could specify culturally constructed category content.
+Moreover, the term "innate" turns the definition into a circular definition, and biological evidence is subsequently invoked to establish that gender identity is innate.
 
-Moreover, the term "innate" turns the definition into a logical tautology. 
-If gender identity is defined in advance as necessarily innate, then any non-innate gender identity is excluded by definition, and the conclusion that gender identity is innate follows trivially.
+Some genetic studies adopt the above definitions or have similar issues. 
+Among the articles reviewed here, #textcite(<Polderman2018Biological>, <karamanis2022gender>) adopts the APA definition, #textcite(<Ramirez2021Implications>) uses "innermost sense", and #textcite(<conabere2025genetic>) uses the term "intrinsic sense".
+#textcite(<Coolidge2002Heritability>, <Diamond2013TranssexualityTwins>) describe it as "much less a matter of choice and much more a matter of biology" or "much more influenced by their genetics than their rearing."
+In contrast, #textcite(<Foreman2019Genetic>, <Ashley2023Genetic>)
+are more epistemologically humble, describing gender identity as "our sense of being male or female" or "one's psychological experience of their own gender".
+Some studies do not explicitly define gender identity.
 
-// Additionally, the wordings "may or may not correspond to a person's sex assigned at birth" is also a tautology. 
-// Let $A := (G = S)$, then $not A := (G != S)$. 
-// The definition states that $A or not A = "True"$, which is a tautology. 
-// This is precisely the law of excluded middle. 
-// It does not provide any information about gender identity. 
-// It is unclear what purpose the tautology serves.
+= Innate causal antecedents do not imply innate phenotype
 
-Some neurological or genetic studies adopt the above definitions or have similar issues. 
-Among the articles reviewed here, #textcite(<Polderman2018Biological>) adopts the APA definition, #textcite(<Ramirez2021Implications>) uses "innermost sense", and #textcite(<Majid_2020>) uses the term "fundamental, inner sense".
-In contrast, #textcite(<Foreman2019Genetic>, <Ashley2023Genetic>) are more epistemologically humble, describing gender identity as "our sense of being male or female" or "one's psychological experience of their own gender".
-#textcite(<henningsson2005sex>, <fernandez2018molecular>, <Theisen2019>, <fernandez2020analysis>) do not define gender identity.
+#textcite(<Polderman2018Biological>, <conabere2025genetic>) reviewed twin studies which estimated the heritability of gender identity at 0-84%. Drawing on these studies, they describe it as a multifactorial complex trait with a heritable polygenic component.
 
-= Conceptual conflations in neurological studies
+The most significant issue with these studies is that what they measure is usually not "gender identity", and vary across studies, which is already noted by #textcite(<karamanis2022gender>, <conabere2025genetic>). For instance, #textcite(<Bailey2000GeneticEnvironmental>, <Burri2011GeneticEnvironmental>) measured masculine/feminine self-concept; #textcite(<Coolidge2002Heritability>) used a six-item DSM-IV GID symptom scale reported by parents (rather than self-reports by the transgender children); #textcite(<Buhrich1991SexualOrientation>) measured gendered behaviours; and #textcite(<Sasaki2016GeneticEnvironmental>) measured DSM-IV-TR GID traits. 
 
-
-I therefore do not attempt to reproduce that literature here. 
-Instead, I examine two studies that are useful for a different question: how neural phenomena concerning the body or the self come to be interpreted specifically as evidence about gender identity.
-
-#textcite(<Majid_2020>) is a representative empirical study within what #textcite(<Zabalegui2024After>) terms the hypothesis of self-referential thinking and body perception (HSRTBP), and is regarded as the least essentialist and potentially the most depathologising of the three frameworks. 
-My concern differs from her broader critique of this framework: I focus specifically on whether the neural constructs measured in this study justify claims about gender identity as such. 
-#textcite(<Case2017Altered>), which is not part of #posscite(<Zabalegui2024After>) discussion and investigates different neural mechanisms, is included as an independent comparison. 
-Despite these neuroscientific differences, it raises a philosophically analogous question about the inferential transition from bodily representation to gender identity. 
-The purpose of these cases is therefore not to provide an exhaustive survey of neuroimaging research, but to examine a recurring problem of construct interpretation across distinct neuroscientific approaches.
-
-#textcite(<Case2017Altered>) stimulated the breasts and hands of transgender men (FtM) and cisgender women (controls), measured brain activity using magnetoencephalography, and examined white-matter connectivity with diffusion tensor imaging. 
-No significant group difference appeared during hand stimulation. 
-During breast stimulation, however, the responses diverged sharply. 
-In the FtM group, activation was reduced in the supramarginal gyrus and secondary somatosensory cortex, but increased in the medial temporal lobe, including the amygdala/peri-amygdaloid cortex.
-
-The former regions are involved in body representation and multisensory integration, including self-other distinction, agency, body image, and body ownership @Blanke2005Linking@Tsakiris_2007. 
-#textcite(<Case2017Altered>) interpreted this as evidence that breast tactile signals were not integrated as self-related in the FtM group. 
-The latter regions in the medial temporal lobe are associated with memory and affective processes, including fear and anxiety @Cornwell_2008@Garolera_2007. 
-As noted by the authors, their increased activation suggests that breast stimulation evoked anxiety, vigilance, or affective aversion.
-
-#textcite(<Case2017Altered>) argue that gender dysphoria primarily arises from conflict between the physical body and neural representation, and that this conflict weakens sensory integration. 
-They propose that a multimodal body representation may be innate, while also being shaped by culture and personal experience, making it difficult to distinguish innate and acquired components.
-
-Their treatment of the nature-nurture issue is careful. 
-However, the study provides evidence relevant to body-related dysphoria or body representation. 
-This evidence does not directly establish a mechanism for gender identity as a self-categorical construct. 
-Whether innate, acquired, or mixed, this phenomenon is not identical to "gender identity". 
-What they studied was body-representation incongruence. 
-#textcite(<Case2017Altered>) did not demonstrate how this raw feeling yields a "sense of being a (trans) man." An additional account (likely a cultural one) is required to derive it. 
-The interpretation exceeds what the data directly support.
-
-For example, the authors explicitly compare this pattern with xenomelia. 
-People with xenomelia similarly report bodily aversion and reduced ownership, and similarly show reduced thickness in the secondary somatosensory cortex @Hilti2013. 
-This indicates that a mismatch between neural body representation and actual body structure is an independent neural phenomenon that can exist without social constructs. 
-Social role incongruence can also arise through other pathways, as many transgender individuals do not report body-representation incongruence @T_Sjoen2019Endocrinology@brecht2024analyzing.
-
-Based on the sex/gender distinction @King_2010@S_nchez_2025, identification with body morphology should be termed "(phenotypic) sex identity" or "bodily identity", or a descriptive term like "sex-specific body representation incongruence" (SSBRI), rather than "gender identity". 
-Classifying innate discomfort with bodily traits as gender identity is a category error. 
-If phenotypic sex (anatomical morphology) is not gender (social norm), then discomfort with sexual characteristics is not equivalent to discomfort with gender categories.
-
-#textcite(<Majid_2020>) conducted a study in which cisgender and transgender participants viewed computer-altered images of their own bodies in an fMRI scanner, including masculinised and feminised versions. 
-Neural activation patterns were highly similar when cis participants viewed images congruent with their birth-assigned sex and trans participants viewed images incongruent with their birth-assigned sex but congruent with their gender identity. 
-Shared activations included the dorsomedial prefrontal cortex (dmPFC), ventromedial prefrontal cortex (vmPFC), and posterior cingulate cortex (PCC). 
-The authors interpret this as evidence that self-perception networks track gender identity rather than phenotypic sex.
-
-The mPFC and PCC serve as general self-processing regions @Northoff_2006@Qin_2011@Qin_2013. 
-The representations are linked to the importance of an attribute to one's self-identity @Levorsen_2023. 
-#textcite(<Sng_2026>) shows that national and ethnic identity modulate vmPFC activity. 
-#textcite(<Han_2008>, <Wu_2010>) establish that religious beliefs also influence self-referential processing. 
-Different forms of identity, including clearly acquired ones, can recruit mPFC-based self-referential processing. 
-Therefore, this does not demonstrate the existence of "self-processing networks specific to gender identity," as the authors claim.
-Neural realisation does not determine developmental origin, because a culturally acquired self-model must also be implemented in the nervous system.
-
-This study also involves the same sex/gender conflation. 
-As noted above, perception of one's own body should not be framed as gender identity.
-
-= Interpretation limitations of genetic studies
-
-Genetic studies of gender identity are another area of concern. 
-#textcite(<Polderman2018Biological>) reviewed the heritability evidence on gender identity. 
-Drawing on twin studies, the authors estimate heritability to be 30–60%, conclude that "gender identity is a multifactorial complex trait with a heritable polygenic component," and propose further investigation of "the genetic architecture of gender identity through genome-wide association studies".
-
-Twin-study heritability can motivate a genetic hypothesis, but cannot by itself identify polygenicity, particular causal variants, or a context-independent genetic architecture of the measured phenotype.
-Heritability is a widely misunderstood biological concept. 
+Moreover, twin-study heritability is a widely misunderstood biological concept. 
 In quantitative genetics, heritability is a variance-partition statistic for a specific population under a specific range of environments. 
 It is not a claim about causal mechanism or biological essence, and it does not reveal the underlying mechanism of a phenotype @lewontin1974annotation@Turkheimer_2000@Vineis2011Genome.
 Political stance, educational achievement, and occupation all yield mathematically valid heritability estimates @Hatemi_2007@Krapohl_2014@Marks_2017. 
 Heritability cannot determine whether genes have direct effects on traits.
 
-One may argue that the authors do not explicitly claim that gender identity is heritable. 
-They merely describe it as "a multifactorial trait with a heritable polygenic component". 
-However, if a pathway of $"gene" G -> "phenotype" P -> "socially constructed attribute" S$ means that S is heritable, then political stance, educational achievement, and occupation are all equally "multifactorial complex traits with heritable polygenic components" @Hatemi_2007@Krapohl_2014@Marks_2017.
-That description becomes trivial and loses the discriminative capacity to separate distinct concepts.
+In its ordinary and scientifical use, "innate" typically refers to the developmental origin of a trait itself, rather than serving as shorthand for the claim that "innate component exist among its causal antecedents." If the latter were also labelled as "the trait is innate," the term would effectively encompass almost all complex human behaviours with nonzero heritability -- including political attitudes, educational attainment, and many culturally specific preferences. 
+This term would thereby lose its distinguishing function.
 As noted by #textcite(<Turkheimer_2000>) in their "First Law": All human behavioral traits are heritable. 
 
 #textcite(<searle1995construction>) distinguishes brute facts from institutional facts. 
@@ -202,20 +107,33 @@ By contrast, the heritability of political stance is meaningful only under speci
 Interpreting that number as evidence that "voting preference is encoded in genes" is untenable. 
 Without that institutional context -- for example, under a monarchy without elections -- the measure is not even definable.
 
-Treating both as one undifferentiated class of "multifactorial traits with heritable polygenic components" obscures this distinction. 
+Treating both as one undifferentiated class of being "innate" obscures this distinction. 
 For instance, #textcite(<Krapohl_2014>) state that the high heritability of educational achievement reflects many genetically influenced traits. 
 They do not reify education itself as a natural biological trait.
-
-SSBRI could constitute a brute fact because it is a neural phenomenon that can exist independently of social constructs. 
-Non-human primates also have body representations in their brains @fang2019statistical@maravita2003multisensory.
-It is biologically reasonable to suppose that individual differences may exist in non-human primates between sexually dimorphic physical morphology and the neural representation of their own bodies, although there is currently no evidence for this. 
-Even if they had an SSBRI, however, it could not be integrated with social norms to form a gender identity, because they do not have social gender constructs. 
-As argued in Section 2, gender identity depends on a social gender construct and is therefore an institutional fact.
 
 The genetic architecture of an institutional fact is necessarily population-, measurement-, and institution-relative. 
 The statement "it has a genetic architecture" is technically true. 
 However, the statement "a social construct has a statistical genetic structure" is trivial and obscures the intermediate mechanism. 
 "What heritable brute facts can interact with social norms to produce gender identity?" should be a scientific question with more biological, psychological, and sociological value than "Which genes are related to gender identity?"
+
+= Expression model vs. Constitution model
+
+Not all studies overlook environmental factors. Several of them explicitly mention potential impact of them. 
+
+For instance, #textcite(<Sasaki2016GeneticEnvironmental>) explicitly propose G$times$E interactions, as well as #textcite(<conabere2025genetic>), who explicitly mention rGE (gene-environment correlation). However, what is really noteworthy is how they understand "environment".
+
+For example, #textcite(<Sasaki2016GeneticEnvironmental>) suggest that the non-shared environment may play a role after puberty; the crucial factor is whether an individual exists in an environment that "fosters or stifles these genetically determined tendencies of GID," and future research should identify which environments might "foster a genetic predisposition to GID." Similarly, #textcite(<conabere2025genetic>) argue that transgender parents might provide a family environment conducive to the expression of gender diversity, thereby establishing a correlation between genes and the environment.
+
+This represents a classic "height-type phenotype" in our previous discussion: the phenotype is viewed as ontologically pre-existing, and while the environment (such as social institutions) can alter the expression of the genotype, it does not (unlike political stance) define or constitute the phenotype itself.
+
+The errors of "ignoring the environmental factors" and "treating an institutional fact as an intrinsic attribute of the organism" are at two different levels.
+
+#posscite(<searle1995construction>) brute facts correspond to what I term as "expression model": A biological phenotype exists independent of the social environment, which merely influences whether, when, and to what extent the phenotype is expressed. 
+Contrastively, institutional facts correspond to what I term as "constitution model": The social environment is not merely a modifier of the phenotype, but an integral part of its constitution.
+Biological antecedents can influence development, but culturally available categories, norms, and associations are constitutive of the phenotype. This phenotype is meaningful only within a specific cultural context.
+
+Notably, the concept of G$times$E itself does not challenge the expression model of gender identity. 
+Traditional quantitative genetics can fully acknowledge the influence of environmental factors—just as we acknowledge the environmental impact on height—while still treating an institutional fact as a trait that, like height, exists independently of any specific environment.
 
 = Methodological limitations in molecular biological studies
 
@@ -266,8 +184,7 @@ Many transgender people were clearly aware of their gender identity in childhood
 #posscite(<Fahrenkrug2025>) study of a gender-identity clinic in Germany found that 51% of the whole sample showed the "early-onset" type (meeting the criteria before the age of 12), while 49% showed the "late-onset" type (meeting the criteria at age 12 or older). 
 Even #textcite(<fernandez2018molecular>) explicitly focus on "early-onset" transgender people. 
 Although the sexual differentiation of the rodent brain occurs in the perinatal period, it manifests at the behavioural level only after sexual maturation @McCarthy2008Estradiol@McCarthy2017.
-A behavioural difference that only appears after sexual maturation cannot in turn cause a psychological phenomenon that appears in childhood.
-Therefore, this analogy is cross-taxonomic (from rodents to humans), cross-phenotypic (from reproductive behaviours to a self-categorisation), and temporally disconnected (from postpuberty to childhood). 
+The empirical relationship established in rodents concerns reproductive behaviours expressed after sexual maturation. Extending this evidence to childhood gender identity simultaneously requires cross-taxonomic (from rodents to humans), cross-phenotypic (from reproductive behaviours to a self-categorisation), and cross-developmental extrapolation (from postpuberty to childhood).
 Every transfer needs independent empirical justification.
 The specific causal relationship demonstrated in rodents cannot be transferred across taxa, phenotypes, and time without additional evidence. 
 At present, the shared association of both phenomena with sex-related differentiation is insufficient to establish that correspondence.
@@ -278,130 +195,53 @@ Let us assume that this mechanism holds in human children.
 Although social play is still not gender identity, this is the only mechanism that could theoretically produce gender identity before puberty (under the predictive processing framework we discuss below, a child may feel that they do not fit in with the same-phenotypic-sex group and therefore generate prediction error). 
 Yet none of the methods used by the studies above can detect this epigenetic modification.
 
-Moreover, these studies' equation of brain-developmental pathways with gender identity rests largely on neurological studies that see transgender experience as arising from a "cross-sex" (opposite-phenotypic-sex-typical) brain structure @fernandez2018molecular. 
+#textcite(<Ashley2023Genetic>) already note that the studies they reviewed are underpowered and rarely replicated. They propose that the whole field should move from candidate-gene studies to genome-wide association studies (GWAS). I agree with their recommendation, while also noting that GWAS is not a panacea.
+GWAS can support hypotheses about genetic involvement and can prioritise variants, pathways, tissues, or intermediate traits for further study. It does not yet determine whether an association is direct, mediated, environmentally moderated, or socially constituted. 
+
+= Neurological insights for genetic studies
+
+These studies' equation of brain-developmental pathways with gender identity rests largely on neurological studies that see transgender experience as arising from a opposite-sex brain structure. 
 However, the influential traditional "brain-sex" or "trans-brain" framework has already received extensive criticism from #textcite(<Zabalegui2024After>, <Baxendale2025Brain>). 
-Most studies of this type establish correlation rather than causation and face serious multiple-testing issues. 
-As #textcite(<Baxendale2025Brain>) notes satirically, if all people taller than 168.5 cm are classified as male and all people shorter than it as female, about 83% of the U.S. 
-population would be correctly classified. 
+Most studies of this type establish correlation rather than causation, face serious multiple-testing issues, and ignore the complexity of human brain. 
+As #textcite(<Baxendale2025Brain>) notes satirically, if all people taller than 168.5 cm are classified as male and all people shorter than it as female, about 83% of the U.S. population would be correctly classified. 
+Therefore, the "trans-brain" framework is not a reliable basis for finding genes associated with gender identity.
 
-= Predictive processing framework and empirical studies
-
-A common question follows: if "born this way" is untenable, why does gender identity often feel innate? I do not deny this. 
-Indeed, my own gender identity subjectively feels very "innate".
-
+A common question follows: if "born this way" is untenable, why does gender identity often feel innate? 
+I do not deny the subjective experience of many people. (Honestly, my own gender identity also subjectively feels very "innate".) 
 However, I suggest that "pre-reflective" is more accurate than "innate". 
 Pre-reflective psychological processes are fast, habitual, and embodied, so they are not ordinarily experienced as objects of conscious reasoning. 
 By contrast, "innate" concerns developmental origin. 
-A process can be acquired and still occur automatically, and may be experienced as if it were given. 
-Many studies show that culture shapes automatic psychological processing @Gutchess2006@Kitayama_2010@Mason_2010@Qu_2021.
+A process can be acquired and still occur automatically, and may be experienced as if it were given @Gutchess2006@Kitayama_2010@Mason_2010@Qu_2021.
+So subjective experience cannot prove that the trait is actually innate. 
 
-Predictive processing (PP) is a strong mechanistic candidate for explaining why pre-reflective processes feel innate. 
-It explains the transition from experiential learning to automatic prediction, and why one does not experience oneself as consciously inferring @Clark2013Whatever. 
-I have identified two studies that place gender identity within a predictive-processing framework:
+Experimental work on body perception shows that low-level bodily information can propagate to higher-level gendered self-perception, while also revealing that this propagation requires explanation. #textcite(<Tacikowski2020Fluidity>) use a full-body ownership illusion and found that temporarily changing ownership of an opposite-sexed body altered explicit and implicit gendered self-perception. Their third experiment also changed self-attribution of stereotypically gendered personality traits. #textcite(<Clausen2021Action>) find convergent effects of manipulated footstep sounds on body perception, masculinity-femininity ratings, and some implicit self-gender measures.
 
-#textcite(<Tacikowski2020Fluidity>) used the full-body ownership illusion @Petkova_2008. 
-Participants lay down while wearing a VR headset, saw another body from a first-person perspective, and received synchronous or asynchronous touch on corresponding body sites. 
-Under synchronous stimulation, most participants developed a strong illusion that the seen body was their own. 
-Under asynchronous stimulation, the illusion was weak or absent.
-
-Using this technology, the authors conducted three experiments to test whether temporarily "borrowing" an opposite-phenotypic-sex body would shift gendered self-perception.
-
-Experiment 1 measured explicit self-report. 
-After inducing ownership of an opposite-phenotypic-sex body, participants rated current masculinity-femininity. 
-Women reported feeling less feminine and men reported feeling less masculine. 
-Stronger illusion strength predicted larger shifts toward the opposite category.
-
-Experiment 2 used the Implicit Association Test (IAT), which is less easily consciously controlled @Greenwald_1998. 
-It infers implicit self-gender association from reaction-time asymmetries in self-plus-male versus self-plus-female pairings. 
-Under a strong body-ownership illusion, implicit self-gender links became more balanced and less strongly biased towards the baseline gender category.
-
-Experiment 3 tested whether the effect extended to self-attributed gender stereotypes. 
+#posscite(<Tacikowski2020Fluidity>) experiment 3 test whether the effect extended to self-attributed gender stereotypes. 
 Participants completed the Bem Sex-Role Inventory @bem1974measurement, rating traits such as competitiveness, sympathy, or gentleness. 
-Under a stronger illusion, they more strongly endorsed traits stereotypically associated with the opposite gender.
-
-A key strength of this study is that, after VR induction, the outcomes were not limited to identification with body morphology. 
-They further measured shifts in gendered traits, lexical associations, and stereotype-linked self-beliefs. 
-If they had measured only body-form identification, it would have repeated the sex/gender conflation criticised above and would have shown only that predictive processing can alter body-form cognition.
-
-Experiment 3 is especially informative. 
+Under a stronger full-body ownership illusion, they more strongly endorsed traits stereotypically associated with the opposite gender.
+This result is especially informative. 
 If we were in a culture without social gender construction, a full-body illusion could generate prediction error at the bodily level only. 
-It could update body perception, but not personality-trait expectations. 
-A perceived shift towards an opposite-phenotypic-sex body form is ontologically distinct from perceived increases in traits such as competitiveness or sympathy. 
-A mediating structure is therefore required. 
+A perceived shift towards a phenotypically opposite-sex body form is ontologically distinct from perceived increases in traits such as competitiveness or sympathy. 
+Therefore, a mediating structure is therefore required to connect them. 
 A plausible candidate is the social gender norm, which links body form with trait expectations. 
-If male body form is normatively linked to competitiveness, then perceiving one's body as more male creates prediction error against a previous belief such as "I am not competitive."
+If male body form is culturally linked to competitiveness, then perceiving one's body as more male creates prediction error against a previous belief such as "I am not competitive."
+
+Predictive-processing accounts offer one plausible vocabulary for the missing layer. The "Thinking Through Other Minds" (TTOM) model proposed by #textcite(<Veissi_re_2019>) describes how prior experience, cultural scripts, and social learning can structure predictions about social behaviour. 
+Its core claim is that humans acquire shared habits, norms, and expectations through immersion in patterned cultural practice, and that these expectations selectively shape attention and action. 
 
 For the brain to move from "my body representation has changed" to "my personality should change," it must recruit a knowledge structure encoding links between $"body feature" X -> "personality trait" Y$. 
 Those links arise from culturally learned gender stereotypes rather than direct sensorimotor physiology. 
-In this sense, the study operationalises social gender norms as a testable latent mechanism connecting bodily-representation updates with self-concept updates.
-
-This aligns with the "Thinking Through Other Minds" (TTOM) model proposed by #textcite(<Veissi_re_2019>). 
-Its core claim is that humans acquire shared habits, norms, and expectations through immersion in patterned cultural practice, and that these expectations selectively shape attention and action. 
-A substantial portion of our cognitive resources is "outsourced" through inference about others' priors. 
 The relationship between body feature X and trait Y functions as precisely such a cultural prior.
 
-Similarly, #textcite(<Clausen2021Action>) designed a system that altered the frequency of participants' footsteps in real time. 
-Participants wore instrumented sandals. 
-Microphones attached to the sandals captured impact sounds, which were amplified and equalised, then replayed through isolating headphones that blocked unprocessed sound. 
-Two extreme conditions were used: high-frequency amplification, making footsteps sound lighter and more stereotypically feminine, and low-frequency amplification, making them sound heavier and more stereotypically masculine.
+#textcite(<Rippon2026Entanglement>) also provides a predictive processing account that gender norms and stereotypes can operate as culturally transmitted priors, and violations of expected associations can generate social prediction errors that update perception and behaviour. The relevant mediators need not be described as binary gender norms. A more general formulation is culturally learned associations among bodily traits, gender categories, and gendered attributes. 
 
-In the female group, the high-frequency condition increased self-reported lightness and femininity and reduced perceived strength. 
-It also increased reported closeness to the female in-group on the Inclusion of Other in the Self measure @aron1992inclusion. 
-However, IAT scores in this group did not change significantly.
-
-In the male group, a partial mirror pattern appeared. 
-After high-frequency footsteps, men also reported increased femininity. 
-More notably, their IAT scores shifted significantly toward stronger implicit self-female association than baseline and low-frequency conditions.
-
-When both groups were analysed jointly, footstep frequency significantly affected subjective ratings of body weight, masculinity-femininity, strength, and IAT scores. 
-This supports the conclusion that auditory input alone, without visual or VR manipulation, can induce a small but measurable shift in measures of gendered self-perception.
-
-= A model of gender and gender identity
-
-Based on the studies above, I propose the following model.
-
-Within this research domain, gender can be treated as a social-norm system that links ontologically independent attributes. 
-In a given setting, gender categories may be associated with particular bodily features, forms of dress, colours, activities, occupations, and personality traits. 
-Through TTOM-like cultural learning in childhood, we internalise these priors and use them to infer self-identity and organise behaviour. 
-Trait combinations that violate these priors may be experienced as prediction errors relative to others' expected models, prompting self-model updating towards one side of the norm structure. 
-Since anatomy is only one feature among them, the resulting gender identity need not align with one's birth-assigned sex.
-
-SSBRI is not social gender itself, but it can be an early and strong physiological negative signal. 
-This signal, regardless of whether it is innate, may provide a salient and repeatedly weighted mismatch that biases the updating of higher-level self-models. 
-It also shifts one's expectations and perceptions of other personal attributes, since they are linked to body morphology in gender. 
-People without SSBRI may still converge towards an incongruent identity through other mismatches between their traits and gender-norm expectations, or through other social factors or personal experiences.
-
-This model is empirically testable in principle, and the two studies above provide initial support. 
-However, those experiments induced short-term shifts under controlled laboratory conditions. 
-This differs from the long-term development of a stable, durable identity over years. 
-At present, these papers do not show that temporarily induced shifts are capable of shaping enduring identity. 
-That remains an extrapolation, although a logically reasonable one.
-
-Although the process is physical and therefore testable in principle, continuous neurological tracking of identity formation over many years is likely beyond current practical capacity. 
-In the near term, research will probably remain limited to short, controlled laboratory experiments.
-
-I acknowledge that this is currently a research programme or scientific hypothesis rather than a fully validated theory. 
-Its advantage is conceptual coherence. 
-It avoids the contradictions discussed above and keeps "gender" in "gender identity" aligned with "gender" as a social construct. 
-It introduces no additional unexplained entity. 
-Nonetheless, logical coherence is not empirical confirmation, and further testing is still required.
-
-A useful next step is cross-cultural testing. 
-Researchers could first identify, through independent norming studies, a physically identical cue that is strongly associated with different genders in two different cultures. 
-Participants could then undergo the same body-ownership or embodied-perception manipulation while exposed to that cue. 
-The present model predicts that changes in gendered self-perception should follow the locally learned meaning of the cue. 
-A cue coded as feminine in one culture but coded as masculine in another should therefore produce correspondingly different patterns of self-model updating.
-
-Another consideration is the careful selection of cues to avoid biological-essentialist explanations. 
-For #textcite(<Tacikowski2020Fluidity>), an essentialist may argue that cis women who experienced male body illusions simulated the physiological capacities of such a body, such as greater strength or testosterone-linked behavioural tendencies, and therefore reported increased competitiveness. 
-I do not endorse that view, but it is internally coherent and makes predictions similar to those of the present model, so existing results cannot fully discriminate between them. 
-To avoid debates over whether competitiveness is a biological attribute of males, future tasks can focus on markers with clear historical volatility or strong cross-cultural divergence. 
-Suitable examples include high heels, skirts, stockings, or long hair. 
-For such markers, biological-essentialist accounts are less plausible.
+This theory is insightful for genetic studies. It suggests that the relevant genes may not directly encode gender identity, but rather influence intermediate factors, which in turn interacts with culturally learned gender norms to shape our gender identity. A genetic contribution to sensory processing, bodily experience, personality, or any trait that associates with the gender norm could be relevant to the development of gender identity without the genetic-essentialist framework. Conversely, an association with a final identity measure may be realised through bodily, affective, interpersonal, and cultural pathways in different proportions for different people. A model that leaves all of these intermediate processes blank is incomplete, even if its association statistics are robust.
 
 = Consider cultural factors in genetic studies
 
-Since gender identity relies on the social construct of gender, genetic studies of it must consider cultural factors. 
+#textcite(<Ashley2023Genetic>) are right that genome-wide methods are preferable to underpowered candidate-gene studies. Genome-wide association studies can improve variant discovery, permit estimation of polygenic signal, and reduce dependence on a priori biological stories. But GWAS solves variant discovery, not causal interpretation. Even a large and reproducible association would leave the structure unresolved. It cannot tell us whether the observed relationship reflects a direct biological effect, gene-environment correlation, environmental moderation, or a developmental pathway in which biological variation acquires phenotypic meaning only within a culturally structured environment.
+
+For this reason, genetic studies of gender identity are better framed as a sociogenomic problem.
 Social science genetics, or sociogenomics, is a growing field that studies the interaction between genes and the social environment. 
 It explores how DNA variation relates to or influences socially shaped behaviours or other outcomes, including educational attainment, occupation, income, political attitudes, health, and social mobility @harden2020using@mills2020sociology.
 
@@ -418,23 +258,9 @@ The same principle applies to neurobiological research.
 Neural measures may be relevant to bodily experience, affect, self-referential processing, or the consequences of social learning, but those constructs should not be collapsed into gender identity without an explicit account of the mediating social mechanism. 
 Better research will combine precise construct definitions with designs capable of testing alternative explanations.
 
-
 = Conclusion
 
-This article has reviewed definitions and studies of gender identity and identified several recurring limitations. 
-First, descriptions of gender identity as necessarily innate are in tension with definitions of gender as socially constructed, unless the relevant sense and the relevant social construct are distinguished more carefully. 
-Second, some neurological studies interpret evidence about bodily representation or general self-processing as evidence about gender identity without establishing the social-cognitive bridge between the two. 
-Third, heritability estimates and genetic associations do not, by themselves, establish a direct or context-free genetic architecture for gender identity.
-
-I then examined two experiments that place gendered self-perception within a predictive-processing framework. 
-I proposed that gender functions as a socially learned system of norms that links otherwise independent attributes, and that gender identity is a self-model shaped by the prediction errors generated within that system. 
-This account makes the role of culture explicit while leaving room for bodily experience and other individual differences. 
-It also yields empirical predictions: changing culturally gendered cues should alter gendered self-perception in ways that vary with the relevant norms, and those effects should be distinguishable from explanations based solely on bodily form or biological essentialism.
-
-The evidence reviewed here is not sufficient to establish this model as a theory of the development of durable gender identity. 
-The available experiments concern short-term, laboratory-induced changes and should not be treated as direct demonstrations of lifelong identity formation. 
-The appropriate next step is to test competing models using transparent measures, cross-cultural designs, and preregistered predictions. 
-Such research can clarify the contributions of social learning, bodily experience, and developmental context without conflating them.
+[Placeholder]
 
 #acknowledgement()[
   I self-identify as non-binary (gender-fluid). 
@@ -443,4 +269,4 @@ Such research can clarify the contributions of social learning, bodily experienc
   I am grateful to friends for their support during my self-exploration of gender identity.
 ]
 
-#bibliography("references.bib", style: "apa")
+#bibliography("../document/references.bib", style: "apa")
