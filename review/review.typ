@@ -62,8 +62,8 @@ In the review, I first discuss what gender identity is and what it should be. I 
 
 #textcite(<APA2015Guidelines>) defines gender identity as "A person's deeply-felt, inherent sense of being a boy, a man, or a male; a girl, a woman, or a female; or an alternative gender (e.g., genderqueer, gender nonconforming, gender neutral) that may or may not correspond to a person's sex assigned at birth or to a person's primary or secondary sex characteristics." 
 
-The phrase "innate sense of their own gender" means that the sense is directed at "their own gender." 
-"Innate" indicate an inborn, constitutive property of a person -- something that would exist even without gender construct. 
+The phrase "sense of being ... a gender" means that the sense is directed at a "gender." 
+"Inherent" indicate an inborn, constitutive property of a person -- something that would exist even without gender construct. 
 However, based on the widely accepted view that gender is socially constructed @King_2010@S_nchez_2025, individuals are not born with knowledge of gender and therefore cannot innately possess a "sense of gender".
 Consequently, the claim of an innate gender identity is either untenable, or its "gender" is not the "gender" understood as a social construct. 
 If "gender" here refers to an entity that is not socially constructed and can be an innate mental state, that entity must be independently defined. 
@@ -254,9 +254,6 @@ Population structure, family environment, gene--environment correlation, measure
 Cross-cultural replication and preregistered tests of gene--environment interaction would therefore be more informative than simply increasing the number of candidate variants. 
 A null or non-replicating result would also be substantively valuable: it would place limits on claims that gender identity has a stable, context-free genetic architecture.
 
-The same principle applies to neurobiological research. 
-Neural measures may be relevant to bodily experience, affect, self-referential processing, or the consequences of social learning, but those constructs should not be collapsed into gender identity without an explicit account of the mediating social mechanism. 
-Better research will combine precise construct definitions with designs capable of testing alternative explanations.
 
 = Conclusion
 
