@@ -20,7 +20,7 @@
   ),
 
   abstract: [
-
+    Genetic evidence is often used to support the claim that gender identity is innate. This article critically reviews quantitative-genetic and molecular-association research on gender identity. Drawing on these studies, I argue that they cannot prove gender identity is innate. Some of them conflate gender identity with gendered behaviour, masculine or feminine self-concept, or diagnostic symptoms. Some studies interpret population-specific heritability as evidence of an intrinsic biological essence. Many of them infer mechanisms  across tissues, species, phenotypes, and developmental stages without empirical support. Additionally, they are based on outdated neurological studies. A sociogenomic approach can investigate genetic antecedents without genetic essentialism with social context being taken into account. Genetics may help explain variation in pathways contributing to gender identity, but it cannot by itself establish the ontological statue of gender identity.
   ],
 
   keywords: (
@@ -51,36 +51,38 @@ Quantitative genetic studies and molecular association studies have motivated cl
 
 In this article, I review multiple quantitative genetic studies and identify several recurring limitations. 
 The review is based on three systematic reviews or meta-analyses, including the studies they screened using the PRISMA method, as well as of the three reviews or meta-analyses themselves @Ashley2023Genetic@conabere2025genetic@Polderman2018Biological.
-
 It should be noted that not every study claims that gender identity is innate. 
-Nonetheless, even those that avoid that claim can still posses assumptions from a gender-essentialist framework and regarding gender identity as a biological essence.
+Nonetheless, even those that avoid this claim can still posses assumptions from a gender-essentialist framework and regarding gender identity as a biological essence.
 
-My purpose is not to abolish biological research with radical social constructivism. It is to clarify the necessary concepts and standards needed for genetic explanation.
+The purpose is not to abolish biological research. 
+It is to clarify the necessary concepts and standards needed for genetic explanation.
 In the review, I first discuss what gender identity is and what it should be. I then consider what heritability can and cannot show, which phenotype has been measured, and what level of explanation the evidence supports. I also examine how genomics could test mediated and context-dependent pathways. Finally, I develop a constructive sociogenomic framework for future work.
 
 = What is gender identity?
 
-#textcite(<APA2015Guidelines>) defines gender identity as "A person's deeply-felt, inherent sense of being a boy, a man, or a male; a girl, a woman, or a female; or an alternative gender (e.g., genderqueer, gender nonconforming, gender neutral) that may or may not correspond to a person's sex assigned at birth or to a person's primary or secondary sex characteristics." 
+#textcite(<APA2015Guidelines>) defines gender identity as "A person's deeply-felt, inherent sense of being a boy, a man, or a male; a girl, a woman, or a female; or an alternative gender (e.g., genderqueer, gender nonconforming, gender neutral) that may or may not correspond to a person's sex assigned at birth or to a person's primary or secondary sex characteristics." #textcite(<NHS2022Gender>) defines it as: "Gender identity is a way to describe a person's innate sense of their own gender, whether male, female, or non-binary, which may not correspond to the sex registered at birth." 
 
-The phrase "sense of being ... a gender" means that the sense is directed at a "gender." 
-"Inherent" indicate an inborn, constitutive property of a person -- something that would exist even without gender construct. 
-However, based on the widely accepted view that gender is socially constructed @King_2010@S_nchez_2025, individuals are not born with knowledge of gender and therefore cannot innately possess a "sense of gender".
-Consequently, the claim of an innate gender identity is either untenable, or its "gender" is not the "gender" understood as a social construct. 
-If "gender" here refers to an entity that is not socially constructed and can be an innate mental state, that entity must be independently defined. 
-Far from providing such a definition, #textcite(<APA2015Guidelines>) explicitly states that "gender is a nonbinary construct".
-Therefore, their definitions are internally contradictory.
-A socially constructed phenotype may have innate causal antecedents without thereby making itself innate, which will be discussed in the next section.
+This is hard to understand: 
+The phrase "sense of being ... a gender" or "sense of their own gender" means that the sense is directed at a "gender." 
+"Inherent" and "innate" indicate an inborn, constitutive property of a person -- something that would exist even without gender construct.  
+However, based on the widely accepted view that gender is socially constructed @King_2010@S_nchez_2025, the existence/content of "gender" depends on certain social practices, norms, or classification systems. "Gender identity" is defined as "a sense of being a 'gender'". If a "sense of being a 'gender'" is a mental state concerning "gender", then it must possess some certain contents of gender.
+If the words "inherent" or "innate" means that this mental state with gender-content exists prior to and independently of the social learning that renders "gender" an available category, then we must ask: how can a mental state innately represent an object whose content must be provided by the social culture?
 
-Moreover, the term "innate" turns the definition into a circular definition, and biological evidence is subsequently invoked to establish that gender identity is innate.
+There are only a few escape routes. Either "gender" is not socially constructed. Woman/man/non-binary/... actually corresponds to a natural kind that exists independently of social culture, and thus can constitute the content of an inherent/innate mental state. Or the word "gender" is polysemous. The "gender" in "innate gender identity" and the "gender" in "gender is socially constructed" are fundamentally not the same thing. Or what is inherent/innate is some antecedents, rather than a "sense of being a gender", thus "gender identity" itself is not inherent/innate. 
 
-Some genetic studies adopt the above definitions or have similar issues. 
+If the word "gender" in "gender identity" means something else, it must be independently defined. 
+Far from providing such a definition, #textcite(<APA2015Guidelines>) explicitly states that "gender is a nonbinary construct". Therefore, the first and second escape routes are not available in APA's system. 
+
+I also hereby note that APA revised its definition in March 2026. Importantly, the revision no longer defines gender identity itself as "inherent". Instead, it reports that many people describe their gender identity in this term, while explicitly acknowledging social, cultural, interpersonal, environmental, and biological influences on development @APADictGenderIdentity. The revision substantially reduces the particular definitional problem considered here.
+
+However, the 2015 definition remains the appropriate object of analysis here because it is the definition explicitly adopt by several of the biological studies reviewed in this article. Some studies do not adopt this definition, while have similar issues. 
 Among the articles reviewed here, #textcite(<Polderman2018Biological>, <karamanis2022gender>) adopts the APA definition, #textcite(<Ramirez2021Implications>) uses "innermost sense", and #textcite(<conabere2025genetic>) uses the term "intrinsic sense".
 #textcite(<Coolidge2002Heritability>, <Diamond2013TranssexualityTwins>) describe it as "much less a matter of choice and much more a matter of biology" or "much more influenced by their genetics than their rearing."
 In contrast, #textcite(<Foreman2019Genetic>, <Ashley2023Genetic>)
 are more epistemologically humble, describing gender identity as "our sense of being male or female" or "one's psychological experience of their own gender".
 Some studies do not explicitly define gender identity.
 
-= Innate causal antecedents do not imply innate phenotype
+= Inherent causal antecedents do not imply inherent phenotype
 
 #textcite(<Polderman2018Biological>, <conabere2025genetic>) reviewed twin studies which estimated the heritability of gender identity at 0-84%. Drawing on these studies, they describe it as a multifactorial complex trait with a heritable polygenic component.
 
@@ -92,7 +94,8 @@ It is not a claim about causal mechanism or biological essence, and it does not 
 Political stance, educational achievement, and occupation all yield mathematically valid heritability estimates @Hatemi_2007@Krapohl_2014@Marks_2017. 
 Heritability cannot determine whether genes have direct effects on traits.
 
-In its ordinary and scientifical use, "innate" typically refers to the developmental origin of a trait itself, rather than serving as shorthand for the claim that "innate component exist among its causal antecedents." If the latter were also labelled as "the trait is innate," the term would effectively encompass almost all complex human behaviours with nonzero heritability -- including political attitudes, educational attainment, and many culturally specific preferences. 
+X is not the same thing as "tendencies that eventually contributes to the formation of X". An inherent tendency is not equivalent to an inherent X.
+In its ordinary and scientifical use, "inherent" typically refers to the developmental origin of a trait itself, rather than serving as shorthand for the claim that "inherent component exist among its causal antecedents." If the latter were also labelled as "the trait is inherent," the term would effectively encompass almost all complex human behaviours with nonzero heritability -- including political attitudes, educational attainment, and many culturally specific preferences. 
 This term would thereby lose its distinguishing function.
 As noted by #textcite(<Turkheimer_2000>) in their "First Law": All human behavioral traits are heritable. 
 
@@ -107,7 +110,7 @@ By contrast, the heritability of political stance is meaningful only under speci
 Interpreting that number as evidence that "voting preference is encoded in genes" is untenable. 
 Without that institutional context -- for example, under a monarchy without elections -- the measure is not even definable.
 
-Treating both as one undifferentiated class of being "innate" obscures this distinction. 
+Treating both as one undifferentiated class of being "inherent" obscures this distinction. 
 For instance, #textcite(<Krapohl_2014>) state that the high heritability of educational achievement reflects many genetically influenced traits. 
 They do not reify education itself as a natural biological trait.
 
@@ -116,9 +119,7 @@ The statement "it has a genetic architecture" is technically true.
 However, the statement "a social construct has a statistical genetic structure" is trivial and obscures the intermediate mechanism. 
 "What heritable brute facts can interact with social norms to produce gender identity?" should be a scientific question with more biological, psychological, and sociological value than "Which genes are related to gender identity?"
 
-= Expression model vs. Constitution model
-
-Not all studies overlook environmental factors. Several of them explicitly mention potential impact of them. 
+It should be noted that I am not criticising them ignoring environmental factors. In contrast, several of them explicitly mention potential impact of them. 
 
 For instance, #textcite(<Sasaki2016GeneticEnvironmental>) explicitly propose G$times$E interactions, as well as #textcite(<conabere2025genetic>), who explicitly mention rGE (gene-environment correlation). However, what is really noteworthy is how they understand "environment".
 
@@ -206,13 +207,14 @@ Most studies of this type establish correlation rather than causation, face seri
 As #textcite(<Baxendale2025Brain>) notes satirically, if all people taller than 168.5 cm are classified as male and all people shorter than it as female, about 83% of the U.S. population would be correctly classified. 
 Therefore, the "trans-brain" framework is not a reliable basis for finding genes associated with gender identity.
 
-A common question follows: if "born this way" is untenable, why does gender identity often feel innate? 
-I do not deny the subjective experience of many people. (Honestly, my own gender identity also subjectively feels very "innate".) 
-However, I suggest that "pre-reflective" is more accurate than "innate". 
+A common question follows: if "born this way" is untenable, why does gender identity often feel inherent? 
+I do not deny the subjective experience of many people. (Honestly, my own gender identity also subjectively feels very "inherent".) 
+However, I suggest that "pre-reflective" is more accurate than "inherent". 
 Pre-reflective psychological processes are fast, habitual, and embodied, so they are not ordinarily experienced as objects of conscious reasoning. 
-By contrast, "innate" concerns developmental origin. 
+By contrast, "inherent" concerns developmental origin. 
 A process can be acquired and still occur automatically, and may be experienced as if it were given @Gutchess2006@Kitayama_2010@Mason_2010@Qu_2021.
-So subjective experience cannot prove that the trait is actually innate. 
+So subjective experience cannot prove that the trait is actually inherent. 
+As #textcite(<APADictGenderIdentity>) describes, "many people describe their gender identity as" inherent. This new definition recognises the subjective experience of transgender people, while also avoids an unjustified and contradictory assertion.
 
 Experimental work on body perception shows that low-level bodily information can propagate to higher-level gendered self-perception, while also revealing that this propagation requires explanation. #textcite(<Tacikowski2020Fluidity>) use a full-body ownership illusion and found that temporarily changing ownership of an opposite-sexed body altered explicit and implicit gendered self-perception. Their third experiment also changed self-attribution of stereotypically gendered personality traits. #textcite(<Clausen2021Action>) find convergent effects of manipulated footstep sounds on body perception, masculinity-femininity ratings, and some implicit self-gender measures.
 
@@ -245,19 +247,18 @@ For this reason, genetic studies of gender identity are better framed as a socio
 Social science genetics, or sociogenomics, is a growing field that studies the interaction between genes and the social environment. 
 It explores how DNA variation relates to or influences socially shaped behaviours or other outcomes, including educational attainment, occupation, income, political attitudes, health, and social mobility @harden2020using@mills2020sociology.
 
-This means that the outcome measure in genetic studies of gender identity must be specified in a way that recognises its inseparability from its social setting. 
-Researchers should describe the jurisdiction, cohort, language, and recruitment pathway that define the studied population, report the measures used to operationalise gender identity and gender dysphoria, and avoid treating categories drawn from different cultural settings as interchangeable. 
-Where feasible, designs should measure relevant aspects of the social environment, including local gender norms, family and peer contexts, discrimination, and access to gender-affirming care.
+This framework provides two important cautions. First, GWAS estimates may reflect not only genetic effects but also population structure, assortative mating, selective participation, and environmental pathways correlated with family genotypes. As #textcite(<harden2020using>) notes, a genetic correlation does not in itself demonstrate a direct, "inside-the-skin" effect. The association between a polygenic score and an outcome may be environmentally mediated. Family-based designs are therefore essential. Comparing siblings can reduce confounding by ancestry and shared family background. Studies should also test whether parental alleles that were not transmitted to the child can predict the child's outcome. Because these alleles cannot act through the child's DNA, but only throughthe environment provided by parents. This kind of association provides evidence of an environmentally mediated indirect genetic effect, often described as genetic nurture.
 
-Analyses should also distinguish an association between genetic variation and a measured outcome from a direct biological explanation of that outcome. 
-Population structure, family environment, gene--environment correlation, measurement invariance, and selective participation can all affect observed associations. 
-Cross-cultural replication and preregistered tests of gene--environment interaction would therefore be more informative than simply increasing the number of candidate variants. 
-A null or non-replicating result would also be substantively valuable: it would place limits on claims that gender identity has a stable, context-free genetic architecture.
+Second, the "environment" should not be understood simply as an individual's immediate family or as a single exposure. #textcite(<mills2020sociology>) argue that G$times$E research too often ignores the normative, legislative, religious, and cultural structures. In the case of gender identity, these structures may include the gender categories within a society, the cultural stereotypes and expectations attached to male/female characteristics, systems of legal recognition and medical classification. Under the constitution model developed above, some of them constitute our gender identity. 
 
+#textcite(<Belsky2018Genetic>) offer a useful example of investigating the genetic structure and environmental influences of a socially structured outcome. Using education-associated polygenic scores for more than 20,000 participants across five studies, they find that higher scores were associated with greater educational, occupational, and wealth attainment. The scores were also associated with socioeconomic family background. For Instance, a mother's polygenic score predicted her child's attainment even after adjustment for the child's own score, indicating an indirect pathway operating through the family environment. Therefore, the molecular measure captured both inherited and socially transmitted processes.
+Even if there is a robust polygenic association, the pathway from DNA to a socially organised phenotype may be mediated by individual traits, other people's responses, institutional arrangements, and the opportunities available to a person. It is misleading to translate "genetic association with an outcome" into the claim that genes directly encode that outcome. 
 
-= Conclusion
+Genetic studies of gender identity must therefore define their outcome measures in ways that acknowledge their dependence on social context. Researchers should describe the jurisdiction, historical period, birth cohort, language, and recruitment pathway that define the population under study. They should also report clearly how gender identity and gender dysphoria were operationalised. Where feasible, longitudinal studies should measure local gender norms, the attitudes of family and peers, discrimination, legal and medical institutions, and access to gender-affirming communities and care. This would allow researchers to test whether particular social conditions mediate or moderate genetic associations, and avoid relegating every non-genetic process to an undifferentiated residual category of “environment.”
 
-[Placeholder]
+Analyses should distinguish between an association involving genetic variation and a direct biological determination of the measured outcome. Observed associations may be shaped by population structure, family environment, gene–environment correlation (rGE), failures of measurement invariance, and selective participation. For a phenotype whose categories and social consequences are themselves culturally variable, replication should therefore examine heterogeneity rather than assume a universal effect and dismiss contextual variation as noise.
+
+Future research should ask not only whether genetic variation is associated with a gender-related phenotype, but also what is being measured, for whom, in which cultural and institutional setting, and through what pathway. Genome-wide discovery should be combined with family-based, longitudinal, and cross-cultural designs; careful measurement of norms, discrimination, relationships, and institutional conditions; and explicit tests of rGE, mediation, and G$times$E. The aim is not to replace biological explanations with social ones, but to investigate their entanglement at the level at which gender identity actually develops. Such research may identify heritable causal antecedents and illuminate meaningful developmental pathways. It should not, however, be used to revive the stronger and unsupported claim that gender identity itself is innately encoded in DNA.
 
 #acknowledgement()[
   I self-identify as non-binary (gender-fluid). 
@@ -266,4 +267,4 @@ A null or non-replicating result would also be substantively valuable: it would 
   I am grateful to friends for their support during my self-exploration of gender identity.
 ]
 
-#bibliography("../document/references.bib", style: "apa")
+#bibliography(("../document/references.bib"), style: "apa")
