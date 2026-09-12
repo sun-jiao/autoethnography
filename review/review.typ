@@ -95,7 +95,7 @@ Political stance, educational achievement, and occupation all yield mathematical
 Heritability cannot determine whether genes have direct effects on traits.
 
 X is not the same thing as "tendencies that eventually contribute to the formation of X". An inherent/innate tendency is not equivalent to an inherent/innate X.
-In its ordinary and scientific use, "inherent/innate" typically refers to the properties of a trait itself, rather than serving as shorthand for the claim that "inherent/innate components exist among its causal antecedents." If the latter were also labelled as "the trait is inherent," the term would effectively encompass almost all complex human behaviours with nonzero heritability -- including political attitudes, educational attainment, and many culturally specific preferences. 
+In its ordinary and scientific use, "inherent/innate" typically refers to the properties of a trait itself, rather than serving as shorthand for the claim that "inherent/innate components exist among its causal antecedents." If the latter were also labelled as "the trait is inherent," the term would effectively encompass almost all complex human behaviours with non-zero heritability -- including political attitudes, educational attainment, and many culturally specific preferences. 
 This term would thereby lose its distinguishing function.
 As noted by #textcite(<Turkheimer_2000>) in their "First Law": All human behavioral traits are heritable. 
 
@@ -259,6 +259,14 @@ Genetic studies of gender identity should define their outcome measures in ways 
 Analyses should distinguish between an association involving genetic variation and a direct biological determination of the measured outcome. Observed associations may be shaped by population structure, family environment, gene-environment correlation (rGE), failures of measurement invariance, and selective participation. For a phenotype whose categories and social consequences are themselves culturally variable, replication should examine heterogeneity rather than assume a universal effect and dismiss contextual variation as noise.
 
 Future research should ask not only whether genetic variation is associated with a gender-related phenotype, but also what is being measured, for whom, in which cultural and institutional setting, and through what pathway. Genome-wide discovery should be combined with family-based, longitudinal, and cross-cultural designs; careful measurement of norms, discrimination, relationships, and institutional conditions; and explicit tests of rGE, mediation, and G$times$E. The aim is not to replace biological explanations with social ones, but to investigate their entanglement at the level at which gender identity actually develops. Such research may identify heritable causal antecedents and illuminate meaningful developmental pathways. It should not, however, be used to revive the stronger and unsupported claim that gender identity itself is innately encoded in DNA.
+
+= Conclusion
+
+The evidence reviewed here does not support that gender identity is inherent/innate or biologically determined. Heritability estimates reflect variation within specific populations and environments, and molecular-level associations cannot reveal direct mechanisms. Interpretations of these findings are further limited by inconsistent phenotypic definitions, limited replication, and unsubstantiated extrapolations across tissues, species, behaviours, and developmental stages. A crucial distinction exists between the genetic factors' influences on gender identity formation and the claim that gender identity itself is an intrinsic biological trait. Acknowledging the former does not validate the latter. Similarly, the phenomenological fact that gender identity is a profound internal sense or pre-reflective experience does not determine its developmental origins.
+
+Future research should investigate how biological variation, bodily experiences, social relationships, and culturally available categories jointly shape the development of gender identity. Sociogenomic approaches can support such research by combining well-defined findings with family-based, longitudinal, and cross-cultural designs to examine specific developmental pathways. When considering social contexts, they should be viewed not merely as factors influencing the expression of pre-existing traits, but as potential constituent elements of the phenotypes under study. This approach acknowledges the significant role of genetics while avoiding the error of equating genetic associations with evidence of biological essentialism.
+
+#paragraph("Data availability")[No datasets were generated or analysed during the current study.]
 
 #acknowledgement()[
   I self-identify as non-binary (gender-fluid). 
