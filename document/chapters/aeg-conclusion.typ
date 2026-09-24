@@ -2,7 +2,7 @@
 
 After sharing my experiences with friends, and acting on their advice, I read _Discipline and Punishment_, _The History of Sexuality_ (Volume I), and _Gender Trouble_.
 Although the framework I use is neurocognitive science, my personal experience can also be interpreted coherently through Butler's gender performativity and Foucault's diffuse power and discipline. 
-Due to the length limitation, I do not provide a detailed analysis here. I just take #textcite(<Foucault1977Discipline>) as a simple example:
+Due to the length limitation, I do not provide a detailed analysis here. I hereby take #textcite(<Foucault1977Discipline>) as a simple example:
 
 Foucault's disciplinary power	explains how gender norms act upon the body through everyday interpersonal relationships. For example, I faced violent bullying from classmates after wearing red "girls' shoes". The enforcement of gender norms does not necessarily come from formal authorities like teachers or principals. Peers themselves can act as agents of disciplinary power.
 
@@ -12,7 +12,7 @@ Foucault also proposed that power is not merely oppressive but also productive. 
 
 Honestly, although similar conclusions were reached, I find it difficult to accept their views on moral universalism, reason, and science. However, I do not intend to write this article as a scathing denunciation of them. Nor am I trying to prove who is more "correct" or discussing in detail why I disagree with them. That is not the topic of this paper. 
 
-Nonetheless, many people indeed cannot accept their philosophical premises, and it is completely likely that some of these individuals are transgender. 
+Nonetheless, there are indeed some people who do not accept their philosophical views. It is of course entirely possible for there to be transgender individuals among them.
 Predictive processing theory offers a naturalistic, physicalist, yet also constructivist framework without requiring commitment to post-structuralist accounts of knowledge, discourse, or subjectivity. 
 Neurological essentialism and queer theory are not the only two ways of understanding one's gender identity. I hope that it can help others who are in similar situations. 
 

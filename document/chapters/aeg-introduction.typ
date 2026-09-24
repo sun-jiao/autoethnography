@@ -9,7 +9,7 @@ who has received rigorous scientific training, attempts to understand a crucial 
 The basic methods I used are introspection and cross-validation with material evidence, relatives, and friends
 to propose explanations of myself. I then extend my own experiences to the scope of "ethnography"
 and analyse the related social and philosophical issues.
-This paper treats material evidence and memories containing specific contextual details or that can be cross-validated with family and friends as "autobiographical evidence," and the causal links between them as "retrospective hypotheses". The PP/TTOM serves as an interpretive framework, which is supported by existing theoretical and empirical research, rather than a claim that an N=1 case can conclusively prove the mechanism.
+This paper treats material evidence and memories containing specific contextual details or that can be cross-validated with family and friends as "autobiographical evidence," and the causal links between them as "retrospective hypotheses". The predictive processing serves as an interpretive framework, which is supported by existing theoretical and empirical research, rather than a claim that an N=1 case can conclusively prove the mechanism.
 
 Autoethnography is a unique genre in which the author's own
 philosophical stances are part of the main data.
@@ -20,3 +20,5 @@ My insistence on "evidence," "credibility of introspection,"
 and my desire to construct a "reasonable hypothesis" with "explanatory power" are not merely tools for writing and biological research.
 They are an inseparable part of my very "self."
 Therefore, it must be faithfully presented here as the core of the story.
+
+I encountered #posscite(<anderson2006analytic>) formulation of "analytic autoethnography" after developing the approach used in this study. I subsequently recognised strong affinities between his framework and my own practice, particularly its emphasis on analytic reflexivity, researcher visibility, and theoretical analysis beyond autobiographical description. The present study does not, however, fully instantiate Anderson's model: although relatives and friends were consulted to corroborate autobiographical memories, they were not systematically engaged as ethnographic informants. I therefore describe the study as methodologically aligned with Anderson'ss framework rather than as a strict application.

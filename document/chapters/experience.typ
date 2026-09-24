@@ -4,23 +4,21 @@ I became aware of my "gender identity" when I subconsciously thought from a girl
 For instance, once, while discussing physical fitness tests, I said "my 800-metre run." 
 A friend said, "It's 1000 metres." I didn't respond directly, joking, "It's actually 800 plus." 
 They jokingly asked if I was a girl.
-#footnote[In Chinese universities, the long-distance running test is 1000 metres for 
-male students and 800 metres for female students.] 
-I didn't deny it directly, replying with a Chinese internet slang, 
-"u1s1, qs" 
-#footnote[有一说一，确实 _yǒu yī shuō yī, què shí_, a Chinese internet slang means "to be honest, yes"].
+(In Chinese universities, the long-distance running test is 1000 metres for 
+male students and 800 metres for female students.)
+I didn't deny it directly, replying with a Chinese internet slang means "to be honest, yes".
 
 I also have a strong desire to adopt a more feminine name: 
 娇 (_Jiāo_, will be addressed as "the feminine _Jiāo_"). 
 This character means "cute" or "adorable" and features the "woman" radical (#plaincite(<JiaoMDBG>), 
 as well as its traditional form #plaincite(<JiaoLYT>)). 
-It is a homophone and graphically like my legal name (骄, _Jiāo_, means "pride", relatively neutral). 
+It is a homophone and graphically like my legal name (骄, _Jiāo_, means "pride", relatively gender-neutral). 
 I often used cursive script (行书, _xíng shū_) or the Romanisation (Pinyin) to make them indistinguishable. 
 Furthermore, because the feminine name is much more popular than my legal name, 
 it is the first choice in many Chinese pinyin input methods. 
-#footnote[When typing in Chinese, we use a software called "input method." 
-It gives all possible Chinese characters based on their spell in pinyin,
-and the user chooses the correct character from them. It is a common thing to choose a wrong character, especially in informal settings.] 
+(When typing in Chinese, we use a software called "input method." 
+It gives all possible Chinese characters based on their pinyin (Romanisation),
+and users choose the correct characters from them. It is a common thing to choose a wrong character, especially in informal situations.)
 Every time somebody typed my name as the feminine _Jiāo_, 
 I was extremely delighted and afraid that someone would "kindly" point it out. 
 If this really happened, I would be very "tolerant" and say, 

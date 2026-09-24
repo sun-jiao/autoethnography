@@ -25,6 +25,7 @@
   // Article settings
   manuscript: "article",  // article, rescience, data, software, editorial, proceedings, poster
   layout: "preprint",     // preprint, publish
+  paper-size: "large",          // a4, letter
   
   // Display options
   show-line-numbers: false,
@@ -83,4 +84,4 @@
   This research received no specific grant.
 ]
 
-#bibliography("references.bib", style: "apa")
+#bibliography("references.bib", style: "american-sociological-association")

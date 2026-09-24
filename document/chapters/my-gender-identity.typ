@@ -16,7 +16,7 @@ If everyone calls me by the feminine _Jiāo_, then my brain may update its self-
 If other people expect a girl when they see this name, 
 then my brain may update its self-model to resolve this persistent prediction error and believe that I am a girl.
 
-#figure(
+#full-width[#figure(
     image("../figures/feminine_name_and_shoes.jpg", width: 70%),
   caption: [
     Factors that shaped the author's gender identity: 
@@ -25,7 +25,7 @@ then my brain may update its self-model to resolve this persistent prediction er
     with the name spelt as the feminine homophone; 
     c-d) photos of the author wearing red shoes in childhood.
   ],
-)<fig-name-shoes>
+)<fig-name-shoes>]
 
 Another memory involves the footwear I wore in primary school, 
 which my classmates considered "girls' shoes." 
@@ -55,7 +55,7 @@ probably because I liked playing with stuffed animal toys and disliked sports an
 I was punished for imitating a little girl on a TV series, covering her mouth to laugh, being told, "Boys can't laugh like girls." 
 Additionally, the boys in my class often fought. I disliked playing with them. 
 The girls were friendly, and they were kind to me, so I enjoyed playing with them. 
-#footnote[I am not saying that this gender-specific behaviour pattern is innate!]
+(I am not saying that this gender-specific behaviour pattern is innate.)
 One thing I remember vividly is when we visited a museum with an interactive exhibit. 
 Our class was split into two groups, boys and girls. 
 When the boys' group played, if someone failed, they were harshly mocked and heckled by the majority, 
@@ -105,7 +105,7 @@ or rather, like a chain reaction, where one event triggers multiple subsequent e
 which continue to trigger subsequent events. 
 Then we pick out a few phenotypically similar phenomena, give them a name: "gender identity." (@fig-bundle)
 
-#figure(
+#full-width[#figure(
     image("../figures/bundle_of_gender_identity.svg"),
   caption: [
     Origins of the author's gender identity. 
@@ -113,7 +113,7 @@ Then we pick out a few phenotypically similar phenomena, give them a name: "gend
     Visualised using graphviz @Ellson2001Graphviz 
     and manually corrected with Inkscape @Inkscape.
   ],
-)<fig-bundle>
+)<fig-bundle>]
 
 // The "similarity" and "relatedness" between them is also shaped by society and culture (as argued in #plaincite(<Sun2025GenderAbolition>)); 
 // otherwise, they would be independent and unrelated phenomena. 
@@ -182,8 +182,7 @@ As long as there is one man who oppose patriarchy, the statement "all men are gu
 // A single counterexample is sufficient to negate a universal proposition. 
 // As long as there is one man who oppose patriarchy, the statement "all men are guilty" can be negated.
 
-The radical "feminists" (at least that is how they described themselves) claimed that my anger was because "you're a man" and I had been "triggered"
-#footnote[急了, _jí le_, a Chinese internet slang for getting flustered or angry when your weak spot is hit.]: 
+The radical "feminists" (at least that is how they described themselves) claimed that my anger was because "you're a man" and I had been "triggered" because they "hit your (my) weak spot":
 "You think reason is more important than the real suffering of women. This is a manifestation of male privilege. 
 You fundamentally do not understand our female experience." 
 // This view is clearly influenced by post-structuralists and feminist philosophers of science like #textcite(<Irigaray1985Subject>, <Harding1986Science>). 
@@ -192,7 +191,7 @@ While the truth is precisely the opposite: it is because I was arguing with them
 I was labelled as "male," which enhanced the masculine aspect of my self-identity. 
 If "I support reason" and the social expectation is "reason is a male privilege", 
 then my brain updated my self-model to minimise the prediction error: maybe I am "male." 
-#footnote[This event happened about ten years ago, and I didn't know much about feminism and gender theories at that time. So please do not blame me for it. ]
+(This event happened about ten years ago, and I didn't know much about feminism and gender theories at that time. So please do not blame me for it. )
 
 Additionally, my reliance on reason is not "a thought of male privilege." 
 My childhood experiences made me feel that the real world is chaotic and painful, while mathematics, logic, and science are beautiful. 
@@ -201,15 +200,14 @@ while I insisted on telling them, "You only hit me because your ideas are all un
 Reason has never been masculine. It is intimately intertwined with the most feminine experience of my gender identity. 
 Reason was the only shield of that little girl in the red shoes in her most vulnerable moment. 
 In a world full of chaos and pain, it is the only clean, pure, and trustworthy thing. It is her shield, his home, their shelter. 
-#footnote[I am not saying "reason is a feminine trait," which is another form of gender stereotype. 
-I am saying that my love for reason shares a common origin with the female component of my gender identity.] 
+(I am not saying "reason is a feminine trait," which is another form of gender stereotype. 
+I am saying that my love for reason and universalism shares a common origin with the female component of my gender identity.) 
 Actually, reason and objectivity are a long-standing tradition in feminism @Antony2018Mind. 
 So their claim was not only a misinterpretation of my personal experience, but also a misinterpretation of feminism itself.
 
-Ironically, when debating with Chinese racist who said that "all Japanese people are guilty, there is no innocent one under the atomic bomb," 
-#footnote[Referring to Hiroshima and Nagasaki.] 
+Ironically, when debating with Chinese racist who said that "all Japanese people are guilty, there is no innocent one under the atomic bomb (referring to Hiroshima and Nagasaki)", 
 they claimed that my opinion is "women's kindness." 
-#footnote[妇人之仁, _fù rén zhī rén_, an old Chinese idioms means "excessive tendency to clemency" or being "too soft-hearted" in a pejorative sense.] 
+(妇人之仁, _fù rén zhī rén_, an old Chinese idioms literally means "women's kindness", usually referring to "excessive tendency to clemency" or being "too soft-hearted" in a pejorative sense.)
 How the same ethical stance is interpreted and what "gender" it is assigned depends entirely on the external sociocultural framework, 
 the observer's position, and even an instrumental purpose in a specific context. 
 The interpretation is not based on any objective, consistent standard, but serves the interpreter's own political agenda. 
