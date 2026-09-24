@@ -61,12 +61,6 @@
 
 
 #acknowledgement[
-  // I am grateful to the Enlightenment and its thinkers. 
-  // You illuminated the darkness with the light of reason. 
-  // You constructed the independent, resilient, courageous, and fearless subject. 
-  // I am sincerely grateful to the anonymous prisoner in Mauthausen concentration camp. 
-  // You kept the immortal light of the Enlightenment and Haskalah. 
-  // You proved how invincible and indestructible humanity can be, even in the most dehumanising situation.
   I am extremely grateful to the little girl in red shoes for his courage in facing the bullies. Her small shield has become an impregnable shelter that protects them from any irrational violence.
 
 \
@@ -74,11 +68,15 @@
 ]
 
 #paragraph("Declaration of Artificial Intelligence")[
-  Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig-name-shoes c, d), whose original versions are damaged or faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity if necessary.
+  Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig-name-shoes c, d) as the original versions are faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity if necessary. 
 ]
 
 #paragraph("Conflict Interests")[
   The author declares no conflict interests.
+]
+
+#paragraph("Source Code ")[
+  Code for visualising the author's experience (@fig-bundle): #link("https://github.com/sun-jiao/autoethnography")
 ]
 
 #paragraph("Funding")[

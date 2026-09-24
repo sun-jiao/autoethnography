@@ -8,7 +8,7 @@ I hereby briefly summarise the reasoning and justification below:
 
 Taken together, these definitions suggest that gender identity presupposes some understanding of the socially constituted meaning of gender. For a person to understand themselves in relation to a particular gender, they must first acquire some conception of what that gender category signifies within their social context. Prior to such acquisition, the socially defined roles, behaviours, and attributes associated with the category cannot yet function as intelligible objects of identification. On this account, gender identity cannot precede the acquisition of the social categories in relation to which that identity is formed.
 
-The "born this way" claim relies largely on neurological studies that conceptualize transgender experience in terms of an "opposite-sex brain structure." However, this influential yet traditional "brain-sex" or "trans-brain" framework has been subject to substantial criticism (#textcite(<Zabalegui2024After>, <Baxendale2025Brain>)). 
+One influential scientific formulation of the "born this way" narrative has appealed to neurological studies that conceptualize transgender experience in terms of an "opposite-sex brain structure." However, this influential yet traditional "brain-sex" or "trans-brain" framework has been subject to substantial criticism (#textcite(<Zabalegui2024After>, <Baxendale2025Brain>)). 
 
 This leaves a further question: how does something learned from society become an immediate sense of who we are? I do not reject this claim. Because my own gender identity also feels really "inherent/innate" subjectively. I reject this narrative not because it is inconsistent with my experience, but because it fails to hold logically.
 
@@ -22,7 +22,7 @@ Experimental work on body perception shows that low-level bodily information can
 Participants completed the Bem Sex-Role Inventory @bem1974measurement, rating traits such as competitiveness, sympathy, or gentleness. 
 Under a stronger full-body ownership illusion, they more strongly endorsed traits stereotypically associated with the opposite gender.
 This result is especially informative. 
-If we were in a culture without social gender construction, a full-body illusion could generate prediction error at the bodily level only. 
+As a thought experiment, if we were in a culture without social gender construction, a full-body illusion could likely generate prediction error at the bodily level only. 
 A perceived shift towards a phenotypically opposite-sex body form is ontologically distinct from perceived increases in traits such as competitiveness or sympathy. 
 Therefore, a mediating structure is required to connect them. 
 A plausible candidate is the social gender norm, which links body form with trait expectations. 
@@ -36,4 +36,4 @@ For the brain to move from "my body representation has changed" to "my personali
 Those links should arise from culturally learned gender stereotypes rather than direct sensorimotor physiology. 
 The cultural relationship between "body feature X" and "personality trait Y" functions as precisely such a cultural prior.
 
-It is highly likely that the same mechanism underlies changes in implicit gender self-perception. Consequently, the belief "I am a boy/girl/another gender" is likely formed based on cultural priors provided by society. Similar phenomena have also been observed regarding racial identities @mei2025reducing.
+It is highly likely that the same mechanism underlies changes in implicit gender self-perception. Consequently, the belief "I am a boy/girl/another gender" is compatible with a process in which culturally acquired priors contribute to pre-reflective self-perception. 

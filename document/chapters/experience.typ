@@ -58,11 +58,8 @@ and how does an identity with gender lead to a desire for bodily modification (s
 If it refers to "gender identity" itself, this constitutes a ridiculous tautology, 
 "gender identity is an identity with gender identity."
 
-I posted my questions on some platforms, hoping for some advice or help. 
-What I couldn't understand was that almost no one responded to me seriously. 
-I received dismissive and hostile responses because they believe in the "born this way narrative".
-I was both angry and disappointed. However, beyond that, the more crucial matter was to solve my own problem.
-I therefore continued the inquiry independently.
+I presented the conceptual analysis and asked whether there was a flaw in my reasoning on some transgender platforms. 
+Some respondents nevertheless interpreted my rejection of the "born this way" account as a rejection of the authenticity of gender identity itself. They consequently questioned whether I was genuinely transgender, treated my questions as trolling, and accused me of using ChatGPT to generate anti-transgender propaganda. I was both angry and disappointed. More importantly, however, I still needed to answer the questions that had led me there, so I continued the inquiry independently.
 
 // Once, we went camping and played an ice-breaking game called "King and Angel." #footnote[This is a game in which everyone will be an "angel" of their "King"  and need to do everyone's best to take care of their "King" In the final reveal, everyone needs to try to name their "Angel" according to the care they received. And the word "国王" _guó wáng_, which literally means "monarch of a country," is theoretically gender-neutral in Chinese, though has been used to translate "King."] I gave my "King" a handmade hog plum (_Choerospondias axillaris_) bracelet, placing it into their clothes with a note. During the final reveal, the "King" said that upon seeing such a fantastic bracelet and delicate handwriting, they thought it would be from a girl. I secretly felt extremely pleased about that.
 

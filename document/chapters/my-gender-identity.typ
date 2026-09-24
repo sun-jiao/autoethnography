@@ -11,7 +11,7 @@ I suspect my preference for the feminine _Jiāo_ was shaped by repeated misuse.
 It was frequently miswritten or mistyped as the feminine _Jiāo_ in my life, 
 due to the input method issue mentioned earlier (@fig-name-shoes a, b). 
 I felt ashamed and uncomfortable about it when I was in elementary and middle school, but I gradually came to like it. 
-The cultural a priori association of the feminine _Jiāo_ serves as an foundation when my brain inferring the priors of other people. 
+The cultural a priori association of the feminine _Jiāo_ serves as an foundation when my brain infers the priors of other people. 
 If everyone calls me by the feminine _Jiāo_, then my brain may update its self-model to resolve this persistent prediction error and believe that it is really my name.
 If other people expect a girl when they see this name, 
 then my brain may update its self-model to resolve this persistent prediction error and believe that I am a girl.
@@ -88,14 +88,14 @@ This was an envy of a specific function, stemming from a longing for a romantic 
 // %I suspect that both my so-called "sexual orientation" (towards women) and the aesthetic part of my "gender identity" are products of this aesthetic experience, combined with different "other factors" (to use the term loosely). Combined with intimate emotions and sexual instincts, it becomes sexual orientation; combined with body image and external stimuli, it becomes the aesthetic part of "gender identity."
 // %Generating digitally feminised images of myself has elicited sexual arousal. In my case, "sexual orientation" and "gender identity" may share some more fundamental factors. This is phenotypically like the autogynephilia in the theory of \textcite{Blanchard1991Clinical}. However, he explained that sexual orientation is the root cause, from which gender identity stems. This implies an innate, ontological sexual orientation, which I disagree with. I believe humans have neurological aesthetic and mate preferences, but they are not innately "gendered." They are interpreted by society and culture. Combined with intimate emotions and sexual instincts, it becomes sexual orientation; combined with body image and external stimuli, it becomes the aesthetic part of "gender identity."
 
-I believe that my body representation was consistent with my body in my childhood as I did not experience body dysphoria at that time. 
-However, I have neurodermatitis (also known as lichen simplex chronicus) in my scrotum. 
-There are multiple studies demonstrating that chronic itching and pain can affect one's body image @Simsek2020Body@Vamos1993Body. 
-This could be a reason why I dislike my genitals. 
-However, it should be noted that I developed neurodermatitis much later than the childhood events mentioned above, 
-and neurodermatitis itself is a psychosomatic disease heavily influenced by psychological and mental states @Lotti2008Prurigo@Tey2013Psychosomatic. 
-Thus it might be a physiological result of pre-existing gender dysphoria, 
-or it might serve as a key point in a feedback loop that enhanced my gender dysphoria.
+// I believe that my body representation was consistent with my body in my childhood as I did not experience body dysphoria at that time. 
+// However, I have neurodermatitis (also known as lichen simplex chronicus) in my scrotum. 
+// There are multiple studies demonstrating that chronic itching and pain can affect one's body image @Simsek2020Body@Vamos1993Body. 
+// This could be a reason why I dislike my genitals. 
+// However, it should be noted that I developed neurodermatitis much later than the childhood events mentioned above, 
+// and neurodermatitis itself is a psychosomatic disease heavily influenced by psychological and mental states @Lotti2008Prurigo@Tey2013Psychosomatic. 
+// Thus it might be a physiological result of pre-existing gender dysphoria, 
+// or it might serve as a key point in a feedback loop that enhanced my gender dysphoria.
 
 Therefore, it is concluded that: the female component of my "gender identity" is 
 a synthesis of this aesthetic longing for the female body, 
@@ -109,6 +109,7 @@ Then we pick out a few phenotypically similar phenomena, give them a name: "gend
     image("../figures/bundle_of_gender_identity.svg"),
   caption: [
     Origins of the author's gender identity. 
+    Arrows represent my retrospective hypothesised relationships rather than definitely established causal effects.
     Visualised using graphviz @Ellson2001Graphviz 
     and manually corrected with Inkscape @Inkscape.
   ],

@@ -46,7 +46,7 @@ After the 3/11 earthquake, the Chinese family was very worried about their Japan
 Later, they received an email from the Japanese rescuer's family that he had died in the rescue efforts of the 3/11 earthquake. 
 
 The story itself is not really amazing. However, I discovered that the story was written from the first-person perspective of a little girl from Sichuan. 
-Moreover, almost all the fictional stories I wrote at that time were from a girl's first-person perspective. 
+Moreover, almost all the fictional stories I wrote at that time were from girls' first-person perspective. 
 I completely did not notice this issue, and I can find no memory of ever thinking about it.
 The notebook does not establish what I consciously understood my gender to be at the time. Its meaning is narrower: it provides a trace of a recurring female first-person perspective.
 
