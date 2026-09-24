@@ -45,9 +45,13 @@ I will develop an argument for gender abolition by distinguishing three question
 
 To develop this argument, I begin with what gender identity is said to represent. Before asking how it develops in the brain, we must ask whether the content of such an identity can be available independently of society.
 
+// todo: copied to aeg {
+
 #textcite(<APADictGenderIdentity>) defines gender identity as "a person's psychological sense of self in relation to their gender." #textcite(<APADictGender>) defines gender as "the socially constructed roles, behaviors, activities, and attributes that a given society considers appropriate for different genders."
 
 These definitions make gender identity dependent on the social meaning of gender. To understand oneself in relation to a gender, one must first learn what that category means in one's society. Without this learning, the roles, behaviours, and attributes through which one identifies with it are not yet available as the content of that identity. Therefore, gender identity cannot precede the acquisition of the social gender categories.
+
+// } todo: copied to aeg
 
 The inference contains a premise that should be explicit: an identity whose content is one's relation to a particular social category requires access to enough of that category's meaning to distinguish it from other categories. This access need not take the form of a verbal definition or a conscious judgement. It can be acquired through participation in social practices, including before a child can name the category. If a person has no access to the relevant social content at all, their experience cannot yet have that specific content. In this sense, an identity defined through socially constructed gender cannot be innate independently of acquiring gender concepts.
 
@@ -77,7 +81,8 @@ Social gender norms offer a plausible connection. Consider someone who does not 
 
 On this interpretation, the inference from a bodily change to a personality change depends on an expectation connecting a bodily feature with a personality trait. I suggest that culturally acquired gender stereotypes supply this expectation. The experiment is consistent with this explanation, but does not independently isolate the cultural origin of the association or establish that it is the only mechanism involved. It provides a reason to investigate how social gender norms connect bodily representation with the wider self-concept.
 
-This interpretation fits the "Thinking Through Other Minds" (TTOM) model of #textcite(<Veissi_re_2019>). Through participation in recurring cultural practices, we learn what others expect, how they act, and which norms they share. These acquired expectations guide what we attend to and what we do. We thereby "outsource" much of our cognition by inferring the priors of other people. An expectation connecting bodily form with personality can become one of these culturally acquired priors.
+This interpretation fits the "Thinking Through Other Minds" (TTOM) model of #textcite(<Veissi_re_2019>). Through participation in recurring cultural practices, we come to understand the expectations, behavioral patterns, and shared norms of others. These acquired expectations guide our attention and actions. Consequently, by inferring the "priors" held by others, we effectively "outsource" a significant portion of our cognitive activity. Expectations linking physical appearance to personality traits can serve as one such culturally acquired prior.
+
 
 The same question can also be approached through sound. #textcite(<Clausen2021Action>) designed a system that altered the frequency of participants' footsteps in real time. Participants wore instrumented sandals. Microphones attached to the sandals captured impact sounds, which were amplified and equalised, then replayed through isolating headphones that blocked unprocessed sound. Two extreme conditions were used: high-frequency amplification, making footsteps sound lighter and more stereotypically feminine, and low-frequency amplification, making them sound heavier and more stereotypically masculine.
 

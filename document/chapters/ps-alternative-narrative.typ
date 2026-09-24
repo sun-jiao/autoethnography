@@ -80,7 +80,7 @@ The superposition of these three memories constructs the girls' bathroom as a pa
 == Summary
 
 Many higher-level empirical observations and descriptions of post-structuralism their relativism, anti-realistic, anti-universalist, anti-Enlightenment, and anti-rational meta-premises. They can actually be built on a naturalistic ontological foundation. 
-For example, the ideas that how others treat a person can change their self-perception, or complex personal experiences can affect a person's feeling toward a particular space, are fully compatible with predictive coding and embodied cognition. 
+For example, the ideas that how others treat a person can change their self-perception, or complex personal experiences can affect a person's feeling toward a particular space, are fully compatible with predictive processing and embodied cognition. 
 
 
 // #bibliography("../references.bib", style: "apa")

@@ -43,36 +43,26 @@ I was also delighted when friends described me as "quiet" and "virtuous"
 because I didn't talk much and cooked during parties, 
 as well as when my handmade hog plum (_Choerospondias axillaris_) bracelet was considered to be from a girl at a gift-exchange event. 
 
-I secretly used deep learning-based image generation models to create some feminised photos of myself. 
+I secretly used deep learning-based image-to-image models to create some feminised photos of myself. 
 I also scanned my ID card and graduation certificate, changed the sex marker, replaced the photo.
 Since I remained in my undergraduate student club's group chat after graduation, one day I saw some new students joining the group. 
-I told one of them that I was a girl and sent an AI-generated photo. They replied, "Wow, a pretty sis." I was incredibly delighted.
+I told one of them that I was a girl and sent an AI-modified photo. They replied, "Wow, a pretty sis." I was incredibly delighted.
 
-During this time, I had wondered if I was "transgender" and tried to understand the mainstream transgender narratives. 
+During this time, I had wondered whether I was "transgender" and tried to understand it. 
 However, I kept encountering intellectual barriers, such as: 
-What is gender identity? Where does it come from? What is its relationship to "gender"? Why is it "gendered"? 
+What is gender identity? Where does it come from? What is its relationship to "gender"?  
 If the term "gender" refers to a sociocultural category, then it is essentially an identification with a social construct. 
-This contradicts the so-called "innate, profound feeling," because social norms are nurtured. 
-It is also politically problematic, as it seems to advocate that people should identify with the oppressive gender roles. 
+This contradicts the so-called "innate, inherent feeling" @APA2015Guidelines@NHS2022Gender. 
 If it points to phenotypic sex, this contradicts the sex/gender distinction, 
 and how does an identity with gender lead to a desire for bodily modification (sex)? 
 If it refers to "gender identity" itself, this constitutes a ridiculous tautology, 
 "gender identity is an identity with gender identity."
 
-I posted my questions on some platforms, including Reddit, RedNote (Xiaohongshu) and Zhihu (a Chinese Q&A website), 
-hoping for some advice or help. 
+I posted my questions on some platforms, hoping for some advice or help. 
 What I couldn't understand was that almost no one responded to me seriously. 
-I even doubt whether they read my post carefully. 
-"Nobody is interested in reading your AI-generated bullshit." 
-"You just need to post the AI prompt you used." 
-"He is probably a 14-year-old incel who just told ChatGPT to write him an essay promoting gender essentialism." 
-#footnote[I can understand the label "incel", but I don't understand why they thought I was 14 years old.] 
-Some others said that my viewpoint was "solipsism" or "Landian Accelerationism," which I completely failed to understand.
-I argued with them for a long time, repeatedly telling them, 
-"This is not AI-generated; I wrote it very seriously," and 
-"If you ask ChatGPT to write an essay promoting gender essentialism and get this result, it only proves that ChatGPT is lying to you."
-I was insulted or degraded on all three platforms, and my account was banned on Reddit. 
+I received dismissive and hostile responses because they believe in the "born this way narrative".
 I was both angry and disappointed. However, beyond that, the more crucial matter was to solve my own problem.
+I therefore continued the inquiry independently.
 
 // Once, we went camping and played an ice-breaking game called "King and Angel." #footnote[This is a game in which everyone will be an "angel" of their "King"  and need to do everyone's best to take care of their "King" In the final reveal, everyone needs to try to name their "Angel" according to the care they received. And the word "国王" _guó wáng_, which literally means "monarch of a country," is theoretically gender-neutral in Chinese, though has been used to translate "King."] I gave my "King" a handmade hog plum (_Choerospondias axillaris_) bracelet, placing it into their clothes with a note. During the final reveal, the "King" said that upon seeing such a fantastic bracelet and delicate handwriting, they thought it would be from a girl. I secretly felt extremely pleased about that.
 

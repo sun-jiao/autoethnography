@@ -199,7 +199,7 @@ Yet none of the methods used by the studies above can detect this epigenetic mod
 #textcite(<Ashley2023Genetic>) already note that the studies they reviewed are underpowered and rarely replicated. They propose that the whole field should move from candidate-gene studies to genome-wide association studies (GWAS). I agree with their recommendation, while also noting that GWAS is not a panacea.
 GWAS can support hypotheses about genetic involvement and can prioritise variants, pathways, tissues, or intermediate traits for further study. It does not yet determine whether an association is direct, mediated, environmentally moderated, or socially constituted. 
 
-= Neurological insights for genetic studies
+= Consider cultural factors in genetic studies
 
 These studies' equation of brain-developmental pathways with gender identity rests largely on neurological studies that see transgender experience as arising from an opposite-sex brain structure. 
 However, the influential traditional "brain-sex" or "trans-brain" framework has already received extensive criticism from #textcite(<Zabalegui2024After>, <Baxendale2025Brain>). 
@@ -216,30 +216,9 @@ A process can be acquired and still occur automatically, and may be experienced 
 So subjective experience cannot prove that the trait is actually inherent. 
 As #textcite(<APADictGenderIdentity>) describes, "many people describe their gender identity as" inherent. This new definition recognises the subjective experience of transgender people, while also avoiding an unjustified and contradictory assertion.
 
-Experimental work on body perception shows that low-level bodily information can propagate to higher-level gendered self-perception, while also revealing that this propagation requires explanation. #textcite(<Tacikowski2020Fluidity>) used a full-body ownership illusion and found that temporarily changing ownership of an opposite-sexed body altered explicit and implicit gendered self-perception. Their third experiment also changed self-attribution of stereotypically gendered personality traits. #textcite(<Clausen2021Action>) found convergent effects of manipulated footstep sounds on body perception, masculinity-femininity ratings, and some implicit self-gender measures.
-
-#posscite(<Tacikowski2020Fluidity>) experiment 3 tests whether the effect extended to self-attributed gender stereotypes. 
-Participants completed the Bem Sex-Role Inventory @bem1974measurement, rating traits such as competitiveness, sympathy, or gentleness. 
-Under a stronger full-body ownership illusion, they more strongly endorsed traits stereotypically associated with the opposite gender.
-This result is especially informative. 
-If we were in a culture without social gender construction, a full-body illusion could generate prediction error at the bodily level only. 
-A perceived shift towards a phenotypically opposite-sex body form is ontologically distinct from perceived increases in traits such as competitiveness or sympathy. 
-Therefore, a mediating structure is required to connect them. 
-A plausible candidate is the social gender norm, which links body form with trait expectations. 
-If male body form is culturally linked to competitiveness, then perceiving one's body as more male creates prediction error against a previous belief such as "I am not competitive."
-
-Predictive-processing accounts offer one plausible vocabulary for the missing layer. The "Thinking Through Other Minds" (TTOM) model proposed by #textcite(<Veissi_re_2019>) describes how prior experience, cultural scripts, and social learning can structure predictions about social behaviour. 
-Its core claim is that humans acquire shared habits, norms, and expectations through immersion in patterned cultural practice, and that these expectations selectively shape attention and action. 
-
-For the brain to move from "my body representation has changed" to "my personality should change," it must recruit a knowledge structure encoding links between $"body feature" X -> "personality trait" Y$. 
-Those links arise from culturally learned gender stereotypes rather than direct sensorimotor physiology. 
-The relationship between body feature X and trait Y functions as precisely such a cultural prior.
-
-#textcite(<Rippon2026Entanglement>) also provides a predictive processing account that gender norms and stereotypes can operate as culturally transmitted priors, and violations of expected associations can generate social prediction errors that update perception and behaviour. The relevant mediators need not be described as binary gender norms. A more general formulation is culturally learned associations among bodily traits, gender categories, and gendered attributes. 
+#textcite(<Rippon2026Entanglement>, <albarracin2022enacting>) provide a predictive processing account that gender norms and stereotypes can operate as culturally transmitted priors, and violations of expected associations can generate social prediction errors that update perception and behaviour. The relevant mediators need not be described as binary gender norms. A more general formulation is culturally learned associations among bodily traits, gender categories, and gendered attributes. 
 
 This theory is insightful for genetic studies. It suggests that the relevant genes may not directly encode gender identity, but rather influence intermediate factors, which in turn interact with culturally learned gender norms to shape our gender identity. A genetic contribution to sensory processing, bodily experience, personality, or any trait that is associated with the gender norm could be relevant to the development of gender identity without the genetic-essentialist framework. Conversely, an association with a final identity measure may be realised through bodily, affective, interpersonal, and cultural pathways in different proportions for different people. A model that leaves all of these intermediate processes blank is incomplete, even if its association statistics are robust.
-
-= Consider cultural factors in genetic studies
 
 #textcite(<Ashley2023Genetic>) are right that genome-wide methods are preferable to underpowered candidate-gene studies. Genome-wide association studies can improve variant discovery, permit estimation of polygenic signal, and reduce dependence on a priori biological stories. But GWAS solves variant discovery, not causal interpretation. Even a large and reproducible association would leave the structure unresolved. It cannot tell us whether the observed relationship reflects a direct biological effect, gene-environment correlation, environmental moderation, or a developmental pathway in which biological variation acquires phenotypic meaning only within a culturally structured environment.
 

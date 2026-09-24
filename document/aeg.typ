@@ -1,8 +1,8 @@
 #import "lib.typ": *
 
 #show: cupst.with(
-  title: [Not born this way: a non-binary biologist's analytic autoethnography about how their gender identity was shaped by a gendered world],
-  short-title: [],
+  title: [Gendered Through Other Minds: An Autoethnographical Case Study of the Formation of Gender Identity],
+  short-title: [Gendered Through Other Minds: An Autoethnography],
   
   authors: (
     (
@@ -17,15 +17,10 @@
   ),
   
   abstract: [
-    This autoethnography explores the formation of gender identity through the lens of a transgender evolutionary biologist, 
-    specifically a feminine-misspelled name and the childhood trauma surrounding a pair of red shoes. 
-    Combining personal narrative with predictive coding theory and works of Althusser, Foucault, and Butler, the author argues that their gender identity is not an innate essence but a product of neuroplasticity and the interaction with external cultures and social environments. 
-    By understanding the same experience through the respective frameworks of neuroscience and continental philosophy, the author argues that some specific, higher-level phenomenons described in continental philosophy can be reframed upon a naturalistic foundation, and that the formation of gender identity is a complex process involving neurological and social factors.
-    Furethermore, the author recalled the importance of reason in their childhood experiences and the journey of exploring their gender identity, arguing that the Enlightenment spirit and reason are essential for the marginalised to resist dehumanisation. Combining Habermas' theory, the author argues that the post-structuralist rejection of reason is not only unnecessary but also dangerous.
-    Finally, I argue that the Enlightenment spirit and reason are essential for the marginalised to resist dehumanisation.
+    This autoethnography examines the formation of my gender identity as a transgender (gender-fluid) evolutionary biologist seeking a naturalistic account of my own experience. Drawing on autobiographical memories, personal records, and predictive processing theory, I explore how socially acquired gender categories and expectations may become embodied and pre-reflective components of my self-model. I use the Thinking Through Other Minds (TTOM) framework to interpret this process as one of cultural learning in which expectations about others' expectations shape self-perception and behaviour. I also consider a post-structuralist, particularly Foucauldian, interpretation of the same experiences. Drawing from these analyses, I argue that predictive processing provides an alternative physicalist and constructivist framework for understanding gender identity without treating it as either an innate essence or requiring the philosophical commitments of post-structuralism. This framework may offer a useful vocabulary for transgender people who seek a socially constructivist yet naturalistic understanding of their own experiences.
   ],
   
-  keywords: ("Autoethnography", "criticism of post-structuralism", "gender identity", "transgender", "trans philosophy"),
+  keywords: ("Autoethnography", "gender identity", "transgender", "trans philosophy"),
   
   // Article settings
   manuscript: "article",  // article, rescience, data, software, editorial, proceedings, poster
@@ -48,29 +43,22 @@
 
 #include "chapters/experience.typ"
 
-= My Gender Identity
+= A Neurocognitive Account of Gender Identity
+
+#include "chapters/neurocognitive-account.typ"
+
+= Gendered Through Other Minds
 
 #include "chapters/my-gender-identity.typ"
 
-= Vertigo: Revisiting My Gender Identity
+= Vertigo: Revisiting My Experience
 
 #include "chapters/vertigo.typ"
 
-= The Origin of My Philosophy
+= Discussion and Conclusion
 
-#include "chapters/my-philosophy.typ"
+#include "chapters/aeg-conclusion.typ"
 
-= A Post-Structuralist Alternative Narrative
-
-#include "chapters/ps-alternative-narrative.typ"
-
-// = Communicative Rationality
-
-// #include "chapters/communicative-rationality.typ"
-
-// = An answer to the question: What is enlightenment?
-
-// #include "chapters/what-is-enlightenment.typ"
 
 #acknowledgement[
   // I am grateful to the Enlightenment and its thinkers. 
@@ -79,22 +67,18 @@
   // I am sincerely grateful to the anonymous prisoner in Mauthausen concentration camp. 
   // You kept the immortal light of the Enlightenment and Haskalah. 
   // You proved how invincible and indestructible humanity can be, even in the most dehumanising situation.
-  I am extremely grateful to the little girl in red shoes for his courage in facing the bullies. 
-  Her small shield has become an impregnable shelter that protects them from any irrational violence.
-]
+  I am extremely grateful to the little girl in red shoes for his courage in facing the bullies. Her small shield has become an impregnable shelter that protects them from any irrational violence.
 
-#paragraph("Positionality statement")[
-  JS is a human being (_Homo sapiens_ #smallcaps[Linnaeus], 1758). 
-  They live on Earth in the Holocene. 
-  Their reason helps them understand the objective world and other human beings. 
+\
+  _Veritas nos liberabit._
 ]
 
 #paragraph("Declaration of Artificial Intelligence")[
   Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig-name-shoes c, d), whose original versions are damaged or faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity if necessary.
 ]
 
-#paragraph("Conflicting Interests")[
-  The author declares no conflicting interests.
+#paragraph("Conflict Interests")[
+  The author declares no conflict interests.
 ]
 
 #paragraph("Funding")[
