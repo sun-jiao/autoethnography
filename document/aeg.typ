@@ -25,7 +25,7 @@
   // Article settings
   manuscript: "article",  // article, rescience, data, software, editorial, proceedings, poster
   layout: "preprint",     // preprint, publish
-  paper-size: "large",          // a4, letter
+  paper-size: "large",
   
   // Display options
   show-line-numbers: false,
@@ -77,7 +77,7 @@
 ]
 
 #paragraph("Source Code ")[
-  Code for visualising the author's experience (@fig-bundle): #link("https://github.com/sun-jiao/autoethnography")
+  Code for visualising the author's experience (@fig-bundle): \[Anonymised for peer-review.\]//#link("https://github.com/sun-jiao/autoethnography")
 ]
 
 #paragraph("Funding")[

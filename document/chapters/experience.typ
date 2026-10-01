@@ -8,31 +8,35 @@ They jokingly asked if I was a girl.
 male students and 800 metres for female students.)
 I didn't deny it directly, replying with a Chinese internet slang means "to be honest, yes".
 
-I also have a strong desire to adopt a more feminine name: 
-娇 (_Jiāo_, will be addressed as "the feminine _Jiāo_"). 
-This character means "cute" or "adorable" and features the "woman" radical (#plaincite(<JiaoMDBG>), 
-as well as its traditional form #plaincite(<JiaoLYT>)). 
-It is a homophone and graphically like my legal name (骄, _Jiāo_, means "pride", relatively gender-neutral). 
+I also have a strong desire to adopt a more feminine name.
+//: 娇 (_Jiāo_, will be addressed as "the feminine _Jiāo_"). 
+This character means "cute" or "adorable" and features the "woman" radical.
+//  (#plaincite(<JiaoMDBG>), as well as its traditional form #plaincite(<JiaoLYT>)). 
+It is a homophone and graphically like my legal name.
+//  (骄, _Jiāo_, means "pride", relatively gender-neutral). 
 I often used cursive script (行书, _xíng shū_) or the Romanisation (Pinyin) to make them indistinguishable. 
 Furthermore, because the feminine name is much more popular than my legal name, 
 it is the first choice in many Chinese pinyin input methods. 
 (When typing in Chinese, we use a software called "input method." 
 It gives all possible Chinese characters based on their pinyin (Romanisation),
 and users choose the correct characters from them. It is a common thing to choose a wrong character, especially in informal situations.)
-Every time somebody typed my name as the feminine _Jiāo_, 
+Every time somebody typed my name as the feminine version, // _Jiāo_, 
 I was extremely delighted and afraid that someone would "kindly" point it out. 
 If this really happened, I would be very "tolerant" and say, 
 "It's okay, as long as I know you're addressing me, a wrong character doesn't matter." 
-At an academic conference, the curators wrote my name as the feminine _Jiāo_ on a poster. 
+At an academic conference, the curators wrote my name as the feminine version // _Jiāo_ 
+on a poster. 
 I was very delighted, hoping to see it at the conference.
 However, a junior in our lab discovered it and contacted the curators to correct it. 
 I felt a strong sense of disappointment at that moment. 
-Sometimes I even used the feminine _Jiāo_ myself, and if discovered, I would blame the input method for suggesting the "wrong" character.
+Sometimes I even used the feminine version //_Jiāo_ 
+myself, and if discovered, I would blame the input method for suggesting the "wrong" character.
 
 Because I never corrected it, many personal friends who knew me in informal places (like in student clubs) thought it was my legal name. 
-Occasionally, some new members of the club would ask, "Is your name really the feminine _Jiāo_?" 
+Occasionally, some new members of the club would ask, "Is your name really the feminine charatcer?" //_Jiāo_?" 
 and my old friends would argue with them, 
-"Why can't a boy be named the feminine _Jiāo_? It's such a cute name! That's a rude question."
+"Why can't a boy be named the feminine character //_Jiāo_
+? It's such a cute name! That's a rude question."
 I would pretend not to see the messages, secretly enjoying the protection from friends. 
 Some friends thought it was a nickname, which I also didn't correct.
 
