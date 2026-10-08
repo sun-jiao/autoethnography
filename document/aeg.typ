@@ -1,8 +1,8 @@
 #import "lib.typ": *
 
 #show: cupst.with(
-  title: [Gendered Through Other Minds: An Autoethnography on the Formation of Gender Identity],
-  short-title: [Gendered Through Other Minds: An Autoethnography],
+  title: [Gendered Through Other Minds: An Autobiographical Case Study on the Formation of Gender Identity],
+  short-title: [A Autobiographical Case Study on Gender Identity],
   
   authors: (
     (
@@ -17,7 +17,7 @@
   ),
   
   abstract: [
-    This autoethnography examines the formation of my gender identity as a transgender (gender-fluid) evolutionary biologist seeking a naturalistic account of my own experience. Drawing on autobiographical memories, personal records, and predictive processing theory, I explore how socially acquired gender categories and expectations may become embodied and pre-reflective components of my self-model. I use the Thinking Through Other Minds (TTOM) framework to interpret this process as one of cultural learning in which expectations about others' expectations shape self-perception and behaviour. I also consider a post-structuralist, particularly Foucauldian, interpretation of the same experiences. Drawing from these analyses, I argue that predictive processing provides an alternative physicalist and constructivist framework for understanding gender identity without treating it as either an innate essence or requiring the philosophical commitments of post-structuralism. This framework may offer a useful vocabulary for transgender people who seek a socially constructivist yet naturalistic understanding of their own experiences.
+    This case study examines the formation of my gender identity as a transgender (gender-fluid) evolutionary biologist seeking a naturalistic account of my own experience. Drawing on autobiographical memories, personal records, and predictive processing theory, I explore how socially acquired gender categories and expectations may become embodied and pre-reflective components of my self-model. I use the Thinking Through Other Minds (TTOM) framework to interpret this process as one of cultural learning in which expectations about others' expectations shape self-perception and behaviour. I also consider a post-structuralist, particularly Foucauldian, interpretation of the same experiences. Drawing from these analyses, I argue that predictive processing provides an alternative physicalist and constructivist framework for understanding gender identity without treating it as either an innate essence or requiring the philosophical commitments of post-structuralism. This framework may offer a useful vocabulary for transgender people who seek a socially constructivist yet naturalistic understanding of their own experiences.
   ],
   
   keywords: ("Autoethnography", "gender identity", "predictive processing", "transgender", "trans philosophy"),
@@ -25,7 +25,7 @@
   // Article settings
   manuscript: "article",  // article, rescience, data, software, editorial, proceedings, poster
   layout: "preprint",     // preprint, publish
-  paper-size: "large",
+  paper-size: "medium",
   
   // Display options
   show-line-numbers: false,
@@ -52,7 +52,7 @@
 
 #include "chapters/my-gender-identity.typ"
 
-= Vertigo: Revisiting My Experience
+= Revisiting My Experience
 
 #include "chapters/vertigo.typ"
 

@@ -12,7 +12,7 @@ Foucault also proposed that power is not merely oppressive but also productive. 
 
 Honestly, although similar conclusions were reached, I find it difficult to accept their views on moral universalism, reason, and science. However, I do not intend to write this article as a scathing denunciation of them. Nor am I trying to prove who is more "correct" or discussing in detail why I disagree with them. That is not the topic of this paper. 
 
-Nonetheless, there are indeed some people who do not accept their philosophical views. It is of course entirely possible for there to be transgender individuals among them.
+Nonetheless, there are indeed some people who do not accept their philosophical views, regardless of the reason. It is of course possible for there to be transgender individuals among them.
 Predictive processing theory offers a naturalistic, physicalist, yet also constructivist framework without requiring commitment to post-structuralist accounts of knowledge, discourse, or subjectivity. 
 Neurological essentialism and queer theory are not the only two ways of understanding one's gender identity. I hope that it can help others who are in similar situations. 
 
