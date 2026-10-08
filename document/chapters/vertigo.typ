@@ -26,7 +26,7 @@ The memory of my name being misspelled in childhood is also like this.
 I remember my mum angrily saying, "Can't they see it is a boy in the photo? Why would they use this character?" 
 and demanding that I go to school the next day and have the teacher change the name tag. 
 This still happens today; many friends who clearly know my legal name, and even government officials, have typed my name as the feminine version. 
-I even found physical evidence, such as name tags or documents with the feminine name //_Jiāo_
+I even found physical evidence, such as name tags or documents with the feminine _Jiāo_
 (@fig-name-shoes, @tab:evidential-status).
 
 Similarly, although I have a vivid memory of lying in bed and recalling the dream, 

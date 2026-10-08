@@ -7,25 +7,25 @@ Informed by the aforementioned studies, I will trace the history of my own gende
 // On this particular issue, I believe that we are actually describing the same mechanism from different perspectives and levels. 
 // The female components of my gender identity will be discussed first, followed by the male components. 
 
-I suspect my preference for the feminine name //_Jiāo_ 
+I suspect my preference for the feminine _Jiāo_ 
 was shaped by repeated misuse. 
-It was frequently miswritten or mistyped as the feminine version //_Jiāo_ 
+It was frequently miswritten or mistyped as the feminine _Jiāo_ 
 in my life, 
 due to the input method issue mentioned earlier (@fig-name-shoes a, b). 
 I felt ashamed and uncomfortable about it when I was in elementary and middle school, but I gradually came to like it. 
-The cultural a priori association of the feminine character //_Jiāo_ 
+The cultural a priori association of the feminine _Jiāo_ 
 serves as an foundation when my brain infers the priors of other people. 
-If everyone calls me by the feminine name //_Jiāo_
+If everyone calls me by the feminine _Jiāo_
 , then my brain may update its self-model to resolve this persistent prediction error and believe that it is really my name.
 If other people expect a girl when they see this name, 
 then my brain may update its self-model to resolve this persistent prediction error and believe that I am a girl.
 
 #full-width[#figure(
-    image("../figures/feminine_name_and_shoes_anonymised.jpg", width: 70%),
+    image("../figures/feminine_name_and_shoes.jpg", width: 70%),
   caption: [
     Factors that shaped the author's gender identity: 
-    a) the author's name was spelt as the feminine homophone on their middle school name tags (anonymised for peer-review); 
-    b) author's border pass in Nyalam County, Xizang (Tibet) (anonymised for peer-review), 
+    a) the author's name was spelt as the feminine homophone on their middle school name tags; 
+    b) author's border pass in Nyalam County, Xizang (Tibet), 
     with the name spelt as the feminine homophone; 
     c-d) photos of the author wearing red shoes in childhood.
   ],
