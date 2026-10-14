@@ -1,6 +1,6 @@
 #import "../lib.typ": *
 
-In this autoethnography, I try to explore my gender identity under a rational, materialist perspective. 
+In this study, I try to explore my gender identity under a rational, materialist perspective. 
 The investigation begins with my personal history, where accidental experiences served as the seeds for a fluid or non-binary identity.
 As a PhD student, the scientific methodology has deeply influenced the methods used in my own journey of gender exploration.
 This autoethnography documents how an individual with a firm commitment to science,

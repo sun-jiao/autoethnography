@@ -1,0 +1,35 @@
+#import "../lib.typ": *
+
+== Understand Gender Identity from a Naturalist Standpoint
+
+The contemporary discussion on gender experience is dominated by polarised positions. Gender essentialism treats gender identity as an innate, biologically determined essence, often framed in terms like "born this way". 
+There are two varieties of essentialism. One is a form of folk-metaphysical Cartesian dualism, sometimes even carries strong religious tones. They typically describe themselves as "a female/male mind/soul trapped inside a male/female body"  @engdahl2014wrong. This narrative presupposed an immutable, non-physical gendered essence detached from physical reality. Another essentialist framework is a vulgar biological essentialism -- the traditional "brain-sex" hypothesis -- which attempts to anchor gender identity in static, sexually dimorphic prenatal nervous structures @Baxendale2025Brain@Zabalegui2024After. 
+ 
+On the other side lies the post-structuralist queer theory that treats gender identity as socially constructed through discourse, power relations, and cultural norms, which rarely discuss the physical foundation of the process they claim @Butler1990Gender. 
+
+However, there are people who do not accept post-structuralism. No matter why they don't like post-structuralism, it is entirely possible for there to be transgender individuals among them. If they also find the "born this way" narrative unconvincing, they may feel that there is no framework to understand their own experience.
+
+The predictive processing and embodied cognition framework dissolves this false dichotomy. As a thoroughgoing physicalist framework, it rejects the metaphysical souls and neuro-essentialism without requiring commitment to post-structuralist accounts of knowledge, discourse, or subjectivity. It provides a naturalistic account of how social and cultural factors can shape the embodied self. The gendered self is an embodied, enacted generative model @albarracin2022enacting. It is instantiated in the physical wetware of the brain, yet continually updated through interactions with the physical, linguistic, and cultural environment.
+
+This perspective is also compatible with naturalistic social ontology, notably #posscite(<searle1995construction>) account. Searle demonstrates that institutional facts ($X$ counts as $Y$ in context $C$) are ontologically dependent on collective intentionality, yet operate upon a substrate of brute physical facts. My red shoes were physically neutral, possessing no intrinsic metaphysical gender. However, within the institutional context of a specific school uniform policy, collective intentionality imposes that "red shoes count as girls' footwear." 
+
+When an individual organism is immersed in a cultural niche, Thinking Through Other Minds (TTOM; #plaincite(<Veissi_re_2019>)) makes this collective intentionality to be internalised as priors. What begins as an external institutional convention becomes inscribed into the predictive weights of the developing child's (my) brain. Social constructivism and physicalism are therefore not opposing ontological camps. Social construction describes the historical and interpersonal process through which collective intentionality shapes the physical organism.
+
+Neurological essentialism and queer theory are not the only two ways of understanding one's gender identity. I hope that it can help others who are in similar situations. 
+
+== Ethical and Political Implications
+
+Finally, this study speaks directly to the ethical status of acquired identities. A common, unexamined assumption across both conservative and essentialist camps is that an identity is only valid, authentic, and deserving of moral respect if it can be proven to be biologically innate. Under this logic, discovering that an aspect of gender identity was shaped by socialisation, neurological feedback, or childhood trauma (this one is especially sensitive) may be perceived as a threat by someone, especially about conversion therapy: if gender identity is shaped by social construct, does that imply it can be modified or recoded?
+
+I admit that there is no current evidence for a natural law that makes it impossible to change one's gender identity in principle.
+While this does not make conversion therapy effective. Predictive processing operates largely unconsciously and can feel innate. It is not a voluntary choice and cannot simply be renounced by subjective decision.
+
+More importantly, individuals attach subjective meaning to their identities and often consciously resist attempts to "convert" them.
+For analogy, I am a physicalist, Enlightenment rationalist, scientific realist, and Kantian (only the normative ethics, not the transcendental idealism), which were all culturally acquired through social learning. Wile nobody claims that Kantian ethics is a "fake" illusion or unworthy of recognition. If I were sent to an illegal institution and subjected to some methods to "convert" me into an idealist, post-structuralist, scientific anti-realist, or utilitarian, the attempt would definitely fail. This is not because those positions are innate. No serious scholar claims one "is born an Enlightenment rationalist". It would fail because these commitments are part of my core self-identity and normatively significant to me, and I would resist any intellectual invasion. On the other hand, the fact that "conversion therapy cannot change gender identity" does not prove that gender identity is innate.
+
+History offers many analogous cases. One may cite Socrates, early Christian martyrs, Husayn ibn Ali and his followers, loyalist Confucian officials in Chinese dynastic transitions, French revolutionaries, and socialist or communist revolutionaries. A person's willingness to die rather than renounce a belief does neither require innateness, nor prove it.
+
+Conversion therapy is unethical not because it violates a presumed "natural state", which would be a naturalistic fallacy. This is structurally isomorphic to conservatives who attack on transgender people. They just replaced "innate binary gender" with "innate gender identity." Genetic diseases are innate, while they are not worthy protection. This rule is clearly absurd.
+
+Conversion therapy is unethical because it violates rational agency and autonomy, and treats persons as means rather than ends @Kant_2011.
+If we universalise it as a maxim, it could be: "Whenever I judge another person's gender identity to violate my preferred norm, I may attempt to change it, and this permission applies to all rational agents." I admit that there is no formal contradiction. A society where everybody wants to reshape others' identity is logically possible. Yet a rational agent cannot will this as a universal law without undermining their own status as autonomous legislator. One cannot consistently will a norm that grants all agents authority to reconstruct other agents' identities by their judgment. This conclusion depends on neither predictive processing theory nor "born this way".

@@ -142,7 +142,7 @@ On the other hand, the male components are relatively simple:
 body representation congruence and the external imposed male socialisation. 
 
 In particular, there is a representative anecdote worth mentioning. 
-I have a deep aversion to radical "feminists" who attack all men. 
+I have a deep aversion to vulgar online "feminists" who attack all men. 
 This stance can be traced to my middle school language arts (Chinese) class. Shaped by the works of Victor Hugo, I developed an ethical stance that rejected collective guilt and emphasized individual responsibility. In _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_), he wrote, "However, I protest, and I thank you for giving me this opportunity. The crimes of the rulers are not the fault of the ruled; governments are sometimes bandits, but the people never are". I apply this principle equally to almost all issues.
 
 This is why I oppose attacking all men: 
@@ -186,7 +186,7 @@ As long as there is one man who oppose patriarchy, the statement "all men are gu
 // A single counterexample is sufficient to negate a universal proposition. 
 // As long as there is one man who oppose patriarchy, the statement "all men are guilty" can be negated.
 
-The radical "feminists" (at least that is how they described themselves) claimed that my anger was because "you're a man" and I had been "triggered" because they "hit your (my) weak spot":
+The vulgar online "feminists" (at least that is how they described themselves) claimed that my anger was because "you're a man" and I had been "triggered" because they "hit your (my) weak spot":
 "You think reason is more important than the real suffering of women. This is a manifestation of male privilege. 
 You fundamentally do not understand our female experience." 
 // This view is clearly influenced by post-structuralists and feminist philosophers of science like #textcite(<Irigaray1985Subject>, <Harding1986Science>). 
@@ -195,7 +195,7 @@ While the truth is precisely the opposite: it is because I was arguing with them
 I was labelled as "male," which enhanced the masculine aspect of my self-identity. 
 If "I support reason" and the social expectation is "reason is a male privilege", 
 then my brain updated my self-model to minimise the prediction error: maybe I am "male." 
-(This event happened about ten years ago, and I didn't know much about feminism and gender theories at that time. So please do not blame me for it. )
+// (This event happened about ten years ago, and I didn't know much about feminism and gender theories at that time. So please do not blame me for it. )
 
 Additionally, my reliance on reason is not "a thought of male privilege." 
 My childhood experiences made me feel that the real world is chaotic and painful, while mathematics, logic, and science are beautiful. 
@@ -207,7 +207,7 @@ In a world full of chaos and pain, it is the only clean, pure, and trustworthy t
 (I am not saying "reason is a feminine trait," which is another form of gender stereotype. 
 I am saying that my love for reason and universalism shares a common origin with the female component of my gender identity.) 
 Actually, reason and objectivity are a long-standing tradition in feminism @Antony2018Mind. 
-So their claim was not only a misinterpretation of my personal experience, but also a misinterpretation of feminism itself.
+// So their claim was not only a misinterpretation of my personal experience, but also a misinterpretation of feminism itself.
 
 Ironically, when debating with Chinese racist who said that "all Japanese people are guilty, there is no innocent one under the atomic bomb (referring to Hiroshima and Nagasaki)", 
 they claimed that my opinion is "women's kindness." 

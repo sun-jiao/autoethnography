@@ -56,7 +56,11 @@
 
 #include "chapters/vertigo.typ"
 
-= Discussion and Conclusion
+= Discussion 
+
+#include "chapters/aeg-discussion.typ"
+
+= Conclusion
 
 #include "chapters/aeg-conclusion.typ"
 
@@ -68,16 +72,8 @@
   _Veritas nos liberabit._
 ]
 
-#paragraph("Declaration of Artificial Intelligence")[
-  Google Nano Banana Pro (gemini-3-pro-image-preview) was employed to repair my old photos (@fig-name-shoes c, d) as the original versions are faded. It is strictly limited to technical restoration, and did not alter the semantic content. The original version is available for confirming their authenticity if necessary. 
-]
-
 #paragraph("Conflict Interests")[
   The author declares no conflict interests.
-]
-
-#paragraph("Source Code ")[
-  Code for visualising the author's experience (@fig-bundle): #link("https://github.com/sun-jiao/autoethnography")
 ]
 
 #paragraph("Funding")[
