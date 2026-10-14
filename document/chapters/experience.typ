@@ -42,7 +42,7 @@ I was also delighted when friends described me as "quiet" and "virtuous"
 because I didn't talk much and cooked during parties, 
 as well as when my handmade hog plum (_Choerospondias axillaris_) bracelet was considered to be from a girl at a gift-exchange event. 
 
-I secretly used deep learning-based image-to-image models to create some feminised photos of myself. 
+For private digital self-exploration, I secretly used deep learning-based image-to-image models to create some feminised photos of myself. 
 I also scanned my ID card and graduation certificate, changed the sex marker, replaced the photo.
 Since I remained in my undergraduate student club's group chat after graduation, one day I saw some new students joining the group. 
 I told one of them that I was a girl and sent an AI-modified photo. They replied, "Wow, a pretty sis." I was incredibly delighted.

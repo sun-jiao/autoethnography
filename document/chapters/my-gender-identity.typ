@@ -14,7 +14,7 @@ in my life,
 due to the input method issue mentioned earlier (@fig-name-shoes a, b). 
 I felt ashamed and uncomfortable about it when I was in elementary and middle school, but I gradually came to like it. 
 The cultural a priori association of the feminine _Jiāo_ 
-serves as an foundation when my brain infers the priors of other people. 
+serves as a foundation when my brain infers the priors of other people. 
 If everyone calls me by the feminine _Jiāo_
 , then my brain may update its self-model to resolve this persistent prediction error and believe that it is really my name.
 If other people expect a girl when they see this name, 
@@ -35,7 +35,7 @@ Another memory involves the footwear I wore in primary school,
 which my classmates considered "girls' shoes." 
 It was actually a part of our school uniform, and the colours were segregated by gender: 
 red for girls and blue for boys, and were mandatory in school. 
-Unfortunately -- or perhaps fortunately in hindsights -- I wore the red version (@fig-name-shoes c, d). 
+Unfortunately -- or perhaps fortunately in hindsight -- I wore the red version (@fig-name-shoes c, d). 
 Because of this, I faced physical bullying: my shoes were thrown away, 
 my trousers were pulled down by bad kids to "check whether I was a girl", 
 and I was once pushed into a bush, leading to injury. 
@@ -142,15 +142,23 @@ On the other hand, the male components are relatively simple:
 body representation congruence and the external imposed male socialisation. 
 
 In particular, there is a representative anecdote worth mentioning. 
-I have a deep aversion to vulgar online "feminists" who attack all men. 
-This stance can be traced to my middle school language arts (Chinese) class. Shaped by the works of Victor Hugo, I developed an ethical stance that rejected collective guilt and emphasized individual responsibility. In _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_), he wrote, "However, I protest, and I thank you for giving me this opportunity. The crimes of the rulers are not the fault of the ruled; governments are sometimes bandits, but the people never are". I apply this principle equally to almost all issues.
+Some "feminist" users claimed that all men should be held responsible for gender inequality. 
+I pointed out that this view is logically flawed. I told them that a single counterexample is sufficient to negate a universal proposition. 
+As long as there is one man who opposes patriarchy, their statement can be negated.
+They claimed that my argument was because "you're a man" and I had been "triggered" because they "hit your (my) weak spot":
+"You think reason is more important than the real suffering of women. This is a manifestation of male privilege. 
+You fundamentally do not understand our female experience." 
+While the truth is precisely the opposite: it is because I was arguing with them to defend my ethical principles against irrationality and collective responsibility, and in this process, 
+I was labelled as "male," which enhanced the masculine aspect of my self-identity. 
+If "I support reason" and the social expectation is "reason is a male privilege", 
+then my brain updated my self-model to minimise the prediction error: maybe I am "male." 
+
+My stance can be traced to my middle school language arts (Chinese) class. Shaped by the works of Victor Hugo, I developed an ethical stance that rejected collective guilt and emphasized individual responsibility. In _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_), he wrote, "However, I protest, and I thank you for giving me this opportunity. The crimes of the rulers are not the fault of the ruled; governments are sometimes bandits, but the people never are". I apply this principle equally to almost all issues.
 
 This is why I oppose attacking all men: 
 an oppressive power (patriarchy/British and French army) committed evil in the name of a specific group (men/British and French people), 
 which does not grant the victims the right to indiscriminately attack the former group in return, 
 because this power clearly did not receive authorisation from all people in the group it claimed to represent. 
-A single counterexample is sufficient to negate a universal proposition. 
-As long as there is one man who oppose patriarchy, the statement "all men are guilty" can be negated.
 
 // This stance can be traced to Victor Hugo's _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_), 
 // which I learned in middle school language arts courses @Kecheng2007Yuwen:
@@ -186,32 +194,21 @@ As long as there is one man who oppose patriarchy, the statement "all men are gu
 // A single counterexample is sufficient to negate a universal proposition. 
 // As long as there is one man who oppose patriarchy, the statement "all men are guilty" can be negated.
 
-The vulgar online "feminists" (at least that is how they described themselves) claimed that my anger was because "you're a man" and I had been "triggered" because they "hit your (my) weak spot":
-"You think reason is more important than the real suffering of women. This is a manifestation of male privilege. 
-You fundamentally do not understand our female experience." 
-// This view is clearly influenced by post-structuralists and feminist philosophers of science like #textcite(<Irigaray1985Subject>, <Harding1986Science>). 
+// Additionally, my reliance on reason is not "a thought of male privilege." 
+// My childhood experiences made me feel that the real world is chaotic and painful, while mathematics, logic, and science are beautiful. 
+// I remember very clearly when I was being bullied, how my heart raced, my legs trembled, and tears streamed down my face uncontrollably, 
+// while I insisted on telling them, "You only hit me because your ideas are all unreasonable, because you can't win a debate against me." 
+// Reason has never been masculine. It is intimately intertwined with the most feminine experience of my gender identity. 
+// Reason was the only shield of that little girl in the red shoes in her most vulnerable moment. 
+// In a world full of chaos and pain, it is the only clean, pure, and trustworthy thing. It is her shield, his home, their shelter. 
+// (I am not saying "reason is a feminine trait," which is another form of gender stereotype. 
+// I am saying that my love for reason and universalism shares a common origin with the female component of my gender identity.) 
+// Actually, reason and objectivity are a long-standing tradition in feminism @Antony2018Mind. 
+// // So their claim was not only a misinterpretation of my personal experience, but also a misinterpretation of feminism itself.
 
-While the truth is precisely the opposite: it is because I was arguing with them to defend my ethical principles against irrationality and collective responsibility, and in this process, 
-I was labelled as "male," which enhanced the masculine aspect of my self-identity. 
-If "I support reason" and the social expectation is "reason is a male privilege", 
-then my brain updated my self-model to minimise the prediction error: maybe I am "male." 
-// (This event happened about ten years ago, and I didn't know much about feminism and gender theories at that time. So please do not blame me for it. )
-
-Additionally, my reliance on reason is not "a thought of male privilege." 
-My childhood experiences made me feel that the real world is chaotic and painful, while mathematics, logic, and science are beautiful. 
-I remember very clearly when I was being bullied, how my heart raced, my legs trembled, and tears streamed down my face uncontrollably, 
-while I insisted on telling them, "You only hit me because your ideas are all unreasonable, because you can't win a debate against me." 
-Reason has never been masculine. It is intimately intertwined with the most feminine experience of my gender identity. 
-Reason was the only shield of that little girl in the red shoes in her most vulnerable moment. 
-In a world full of chaos and pain, it is the only clean, pure, and trustworthy thing. It is her shield, his home, their shelter. 
-(I am not saying "reason is a feminine trait," which is another form of gender stereotype. 
-I am saying that my love for reason and universalism shares a common origin with the female component of my gender identity.) 
-Actually, reason and objectivity are a long-standing tradition in feminism @Antony2018Mind. 
-// So their claim was not only a misinterpretation of my personal experience, but also a misinterpretation of feminism itself.
-
-Ironically, when debating with Chinese racist who said that "all Japanese people are guilty, there is no innocent one under the atomic bomb (referring to Hiroshima and Nagasaki)", 
+Ironically, when debating with Chinese racists who said that "all Japanese people are guilty, there is no innocent one under the atomic bomb (referring to Hiroshima and Nagasaki)", 
 they claimed that my opinion is "women's kindness." 
-(妇人之仁, _fù rén zhī rén_, an old Chinese idioms literally means "women's kindness", usually referring to "excessive tendency to clemency" or being "too soft-hearted" in a pejorative sense.)
+(妇人之仁, _fù rén zhī rén_, an old Chinese idiom literally means "women's kindness", usually referring to "excessive tendency to clemency" or being "too soft-hearted" in a pejorative sense.)
 How the same ethical stance is interpreted and what "gender" it is assigned depends entirely on the external sociocultural framework, 
 the observer's position, and even an instrumental purpose in a specific context. 
 The interpretation is not based on any objective, consistent standard, but serves the interpreter's own political agenda. 
