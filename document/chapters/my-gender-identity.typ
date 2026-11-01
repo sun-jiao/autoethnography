@@ -1,11 +1,14 @@
 #import "../lib.typ": *
 
-Informed by the aforementioned studies, I will trace the history of my own gender socialisation, which is presented in this section. 
-// Besides revealing the origins of my gender identity, 
-// it also serves as a counterexample to the "innate gender identity" theory of transgender essentialism @APA2015Guidelines@NHS2022Gender
-// and the criticism of reason as a "hegemony" by post-structuralism and feminist philosophy of science @Irigaray1985Subject@Harding1986Science. 
-// On this particular issue, I believe that we are actually describing the same mechanism from different perspectives and levels. 
-// The female components of my gender identity will be discussed first, followed by the male components. 
+After the puzzlement and online conflicts, 
+I read some neurological articles and decided to use the predictive processing framework to understand my gender identity. 
+
+The "Thinking Through Other Minds" (TTOM) model proposed by #textcite(<Veissi_re_2019>) describes how prior experience, cultural scripts, and social learning can structure predictions about social behaviour. 
+Its core claim is that humans acquire shared habits, norms, and expectations through immersion in patterned cultural practice, and that these expectations selectively shape attention and action. 
+Through learning and practising cultural a prioris, we learn what others expect, how they act, and which norms they share. These acquired expectations guide what we attend to and what we do. We thereby "outsource" much of our cognition by inferring the priors of other people. An expectation connecting bodily form with personality can become one of these culturally acquired priors.
+
+Informed by this theory, I will trace the history of my own gender socialisation, which is presented in this section. 
+The female components of my gender identity will be discussed first, followed by the male components. 
 
 I suspect my preference for the feminine _Jiāo_ 
 was shaped by repeated misuse. 
@@ -85,12 +88,12 @@ I thought at the time, "Wow, I also want to have XX's child and raise them secre
 Why can't a boy's body have babies? What a pity." 
 This was an envy of a specific function, stemming from a longing for a romantic relationship.
 
-// %As we've discussed before, gender incongruence about physical characteristics and gender incongruence about social roles do not have the same neurological mechanisms. Otherwise, it would imply that humans can innately feel the traditionally defined "gender" (the sex-gender complex), which suggests a return to gender essentialism. Innate body incongruence may stem from the body representation. In contrast, nurture body incongruence may stem from the meaning that society and culture assign to the body and its impact on body image. Mine seems to be the latter. My dysphoria is primarily about identity and social roles #footnote[It has been explained by childhood experiences like the shoes and the girls' bathroom. ], and my longing for a female body is much milder than what other transgender people describe.
+// As we've discussed before, gender incongruence about physical characteristics and gender incongruence about social roles do not have the same neurological mechanisms. Otherwise, it would imply that humans can innately feel the traditionally defined "gender" (the sex-gender complex), which suggests a return to gender essentialism. Innate body incongruence may stem from the body representation. In contrast, nurture body incongruence may stem from the meaning that society and culture assign to the body and its impact on body image. Mine seems to be the latter. My dysphoria is primarily about identity and social roles #footnote[It has been explained by childhood experiences like the shoes and the girls' bathroom. ], and my longing for a female body is much milder than what other transgender people describe.
 
-// %Moreover, I find a kind of beauty in the female body that is hard to describe. It's a pre-linguistic aesthetic feeling, which could perhaps be described as "a sense of elegance." I find the female body very pleasing to look at and feel envious. It's like how one might envy a bird for being able to fly, but it is unlikely to cause a body integrity disorder regarding one's own arms. #footnote[Our arms are homology with birds' wings. ] I interpreted it as my longing for a female body is aesthetic and functional, not metaphysical.
+// Moreover, I find a kind of beauty in the female body that is hard to describe. It's a pre-linguistic aesthetic feeling, which could perhaps be described as "a sense of elegance." I find the female body very pleasing to look at and feel envious. It's like how one might envy a bird for being able to fly, but it is unlikely to cause a body integrity disorder regarding one's own arms. #footnote[Our arms are homology with birds' wings. ] I interpreted it as my longing for a female body is aesthetic and functional, not metaphysical.
 
-// %I suspect that both my so-called "sexual orientation" (towards women) and the aesthetic part of my "gender identity" are products of this aesthetic experience, combined with different "other factors" (to use the term loosely). Combined with intimate emotions and sexual instincts, it becomes sexual orientation; combined with body image and external stimuli, it becomes the aesthetic part of "gender identity."
-// %Generating digitally feminised images of myself has elicited sexual arousal. In my case, "sexual orientation" and "gender identity" may share some more fundamental factors. This is phenotypically like the autogynephilia in the theory of \textcite{Blanchard1991Clinical}. However, he explained that sexual orientation is the root cause, from which gender identity stems. This implies an innate, ontological sexual orientation, which I disagree with. I believe humans have neurological aesthetic and mate preferences, but they are not innately "gendered." They are interpreted by society and culture. Combined with intimate emotions and sexual instincts, it becomes sexual orientation; combined with body image and external stimuli, it becomes the aesthetic part of "gender identity."
+// I suspect that both my so-called "sexual orientation" (towards women) and the aesthetic part of my "gender identity" are products of this aesthetic experience, combined with different "other factors" (to use the term loosely). Combined with intimate emotions and sexual instincts, it becomes sexual orientation; combined with body image and external stimuli, it becomes the aesthetic part of "gender identity."
+// Generating digitally feminised images of myself has elicited sexual arousal. In my case, "sexual orientation" and "gender identity" may share some more fundamental factors. This is phenotypically like the autogynephilia in the theory of \textcite{Blanchard1991Clinical}. However, he explained that sexual orientation is the root cause, from which gender identity stems. This implies an innate, ontological sexual orientation, which I disagree with. I believe humans have neurological aesthetic and mate preferences, but they are not innately "gendered." They are interpreted by society and culture. Combined with intimate emotions and sexual instincts, it becomes sexual orientation; combined with body image and external stimuli, it becomes the aesthetic part of "gender identity."
 
 // I believe that my body representation was consistent with my body in my childhood as I did not experience body dysphoria at that time. 
 // However, I have neurodermatitis (also known as lichen simplex chronicus) in my scrotum. 
@@ -102,15 +105,10 @@ This was an envy of a specific function, stemming from a longing for a romantic 
 // or it might serve as a key point in a feedback loop that enhanced my gender dysphoria.
 
 Therefore, it is concluded that: the female component of my "gender identity" is 
-a synthesis of this aesthetic longing for the female body, 
-envy of the reproductive function, and an internalised reaction to childhood experiences and trauma. 
-Our life experiences and psychological responses to external stimuli are interwoven like a dense net, 
-or rather, like a chain reaction, where one event triggers multiple subsequent events, 
-which continue to trigger subsequent events. 
-Then we pick out a few phenotypically similar phenomena, give them a name: "gender identity." (@fig-bundle)
+a synthesis of the internalised reaction to childhood experiences and trauma and the envy of female reproductive function. (@fig-bundle)
 
 #full-width[#figure(
-    image("../figures/bundle_of_gender_identity-simplified_2.svg"),
+    image("../figures/bundle_of_gender_identity.svg"),
   caption: [
     Origins of the author's gender identity. 
     Arrows represent my retrospective hypothesised relationships rather than definitely established causal effects.
@@ -153,90 +151,12 @@ I was labelled as "male," which enhanced the masculine aspect of my self-identit
 If "I support reason" and the social expectation is "reason is a male privilege", 
 then my brain updated my self-model to minimise the prediction error: maybe I am "male." 
 
-My stance can be traced to my middle school language arts (Chinese) class. Shaped by the works of Victor Hugo, I developed an ethical stance that rejected collective guilt and emphasized individual responsibility. In _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_), he wrote, "However, I protest, and I thank you for giving me this opportunity. The crimes of the rulers are not the fault of the ruled; governments are sometimes bandits, but the people never are". I apply this principle equally to almost all issues.
-
-This is why I oppose attacking all men: 
-an oppressive power (patriarchy/British and French army) committed evil in the name of a specific group (men/British and French people), 
-which does not grant the victims the right to indiscriminately attack the former group in return, 
-because this power clearly did not receive authorisation from all people in the group it claimed to represent. 
-
-// This stance can be traced to Victor Hugo's _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_), 
-// which I learned in middle school language arts courses @Kecheng2007Yuwen:
-
-// #quote(block: true)[
-//     However, I protest, and I thank you for giving me this opportunity. The crimes of the rulers are not the fault of the ruled; governments are sometimes bandits, but the people never are.
-      
-//     Mais je proteste, et je vous remercie de m'en donner l'occasion; les crimes de ceux qui mènent ne sont pas la faute de ceux qui sont menés; les gouvernements sont quelquefois des bandits, les peuples jamais.
-// ]
-
-// Another text is Hualing Nieh Engle (聂华苓)'s _Dear Papa and Mama_ (亲爱的爸爸妈妈), 
-// which is about a memorial commemoration event of the Nazi massacre in Kragujevac, Yugoslavia. 
-// In the event, writers from all over the world discussed "War and Literature." Among them was a West German writer who made a statement that I found very confusing:
-// "... I have a sense of guilt: I feel as if it was I who killed those children. We are simply beasts! 
-// All concentration camps must be destroyed! I am very grateful that you allow me to be with you ..."
-
-// I asked my language arts teacher, why do these two texts contradict each other? 
-// If it is as Hugo says, what does the Nazi massacre in Kragujevac have to do with this writer? 
-// My teacher said "it is normal for different writers to have different views on social issues. 
-// You can think about whose view is more reasonable, why, and then share your thoughts with me." 
-
-// I stood firmly with Hugo: "The crimes of the rulers are not the fault of the ruled." 
-// Because the Anglo-French invasion of China was not committed by Hugo, and he had no power to stop it, 
-// the Kragujevac massacre was not committed by the German writer, and they also had no power to stop it. 
-// So why should they bear responsibility for things they did not do and could not prevent? 
-// Therefore, although making some seemingly "profound" reflections, they essentially still saw themself and the Nazis as "fellow Germans," 
-// sharing a transcendental guilt or sin.
-
-// This is why I oppose attacking all men: 
-// an oppressive power (patriarchy/British and French army) committed evil in the name of a specific group (men/British and French people), 
-// which does not grant the victims the right to indiscriminately attack the former group in return, 
-// because this power clearly did not receive authorisation from the group it claimed to represent. 
-// A single counterexample is sufficient to negate a universal proposition. 
-// As long as there is one man who oppose patriarchy, the statement "all men are guilty" can be negated.
-
-// Additionally, my reliance on reason is not "a thought of male privilege." 
-// My childhood experiences made me feel that the real world is chaotic and painful, while mathematics, logic, and science are beautiful. 
-// I remember very clearly when I was being bullied, how my heart raced, my legs trembled, and tears streamed down my face uncontrollably, 
-// while I insisted on telling them, "You only hit me because your ideas are all unreasonable, because you can't win a debate against me." 
-// Reason has never been masculine. It is intimately intertwined with the most feminine experience of my gender identity. 
-// Reason was the only shield of that little girl in the red shoes in her most vulnerable moment. 
-// In a world full of chaos and pain, it is the only clean, pure, and trustworthy thing. It is her shield, his home, their shelter. 
-// (I am not saying "reason is a feminine trait," which is another form of gender stereotype. 
-// I am saying that my love for reason and universalism shares a common origin with the female component of my gender identity.) 
-// Actually, reason and objectivity are a long-standing tradition in feminism @Antony2018Mind. 
-// // So their claim was not only a misinterpretation of my personal experience, but also a misinterpretation of feminism itself.
-
-Ironically, when debating with Chinese racists who said that "all Japanese people are guilty, there is no innocent one under the atomic bomb (referring to Hiroshima and Nagasaki)", 
-they claimed that my opinion is "women's kindness." 
-(妇人之仁, _fù rén zhī rén_, an old Chinese idiom literally means "women's kindness", usually referring to "excessive tendency to clemency" or being "too soft-hearted" in a pejorative sense.)
+Ironically, when debating with Chinese racists who said that "all Japanese people are guilty, there is no innocent one under the atomic bomb" #footnote[referring to Hiroshima and Nagasaki], 
+they claimed that my humanitarian opinion is "women's kindness." #footnote[妇人之仁, _fù rén zhī rén_, an old Chinese idiom literally means "women's kindness", usually referring to "excessive tendency to clemency" or being "too soft-hearted" in a pejorative sense.]
+If the social expectation is "women are kind," then my brain updated my self-model to minimise the prediction error: maybe I am "female."
 How the same ethical stance is interpreted and what "gender" it is assigned depends entirely on the external sociocultural framework, 
 the observer's position, and even an instrumental purpose in a specific context. 
 The interpretation is not based on any objective, consistent standard, but serves the interpreter's own political agenda. 
 
 Thus, this phenomenon not only occurs in childhood but also appears continuously throughout a person's life. Through a process of cultural learning akin to TTOM, which begins in childhood and throughout our lives, we internalize expectations regarding how others perceive us and use these expectations to infer our self-identity and organise our behaviour. When a particular configuration conflicts with these expectations, prediction errors may arise, prompting the individual to adjust their self-model or alter their behaviour. The resulting gender identity does not necessarily align with the sex assigned at birth. 
 
-// It is just that for most people, whether cisgender or transgender, after their gender identity is established, 
-// they will consciously resist the invasion from another gender. 
-// I happen to not care much about "gender." I don't think my gender identity is very important to me, not my core identity. 
-
-// Their subsequent developments proved me completely right. 
-// Radical feminists in China often emphasize that "biological [_sic_] sex" (corresponding to "phenotypic sex" under my definition)
-// is real and unchangeable, while gender identity is meaningless. 
-// This logic strictly limits the definition of "woman" to "biological [_sic, ditto_] female," 
-// arguing that only oppression based on biological structure (such as the uterus and vagina) is "real oppression." 
-// This ideology, based on biological binary and hatred of all phenotypic males, 
-// rapidly developed into gender essentialism and anti-transgender ideology on the Chinese internet @Qiao2022@Ma2025Cyber@Wang2025@Yang02012023. 
-// Ironically, just a few years ago, media outlets like the BBC were reporting attacks on Chinese radical feminists as "mass misogyny" @Feng2021Yang. 
-
-// It is completely isomorphic with the statement "no innocent one under the atomic bomb." 
-// The latter also misinterpreted anti-fascism into a form of extreme nationalism, 
-// and denied the moral legitimacy of the Japanese anti-war activities, captives from Allies, and forced labourers from Korea, China, and Southeast Asia,
-// who also died in the atomic bombings of Hiroshima and Nagasaki.
-
-
-
-// Another incident was that I sang off-key on Children's Day and was laughed at by my classmates, 
-// while another classmate who sang off-key received encouragement. 
-// I angrily questioned them about why they laughed at me but encouraged her, and no one gave me a logically valid justification.
-
-// It is the same for this self-analysis. I did not "disrespect" my subjective experience. On the contrary, I very seriously analysed my subjective experiences, placing them on the same epistemological level as all the knowledge I could obtain from other sources. When I proposed that "natural selection cannot encode abstract concepts," I was not just discussing evolutionary biology and neuroscience. I also recalled the subjective experience of seeing my younger siblings and cousins randomly sucking things as kids, and elders teaching them, "Don't suck that." Our naive knowledge and scientific knowledge are interconnected and mutually shape each other. Respecting experience is not about unconditionally accepting it as a metaphysical truth, but about, as Spinoza did, seriously understanding and analysing, integrating it into one's knowledge network with cross-validating connections with all other knowledge. Far from "disrespecting subjective experience," I have given my subjective experience the highest respect.

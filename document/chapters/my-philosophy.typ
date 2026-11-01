@@ -23,26 +23,27 @@ Things I cannot perceive do not exist, which leads to subjective idealism.
 The thought "what I haven't seen doesn't exist" may have been a fork in the road for my philosophy. 
 Perhaps the starting points of some completely opposed ideas are much closer than we thought.
 
-// Then I realised that my method of analysing the "non-existence of a ontological gender identity" 
-// is almost identical to #posscite(<Hume2007Treatise>) subjective empiricist argument for the "non-existence of the self": 
-// I looked inward, saw nothing called "gender identity," only saw many childhood experiences 
-// and my reactions to them being artificially grouped together (@fig-bundle). 
-// The only difference might be that I explained it in a physicalist way as "reconstructing the training set from the output of a neural network" 
-// and cited scientific research to prove the credibility of memory. 
+Then I realised that my method of analysing the "non-existence of a ontological gender identity" 
+is somewhat similar with #posscite(<Hume2007Treatise>) subjective empiricist argument for the "non-existence of the self": 
+I looked inward, saw nothing called "gender identity," only saw many childhood experiences 
+and my reactions to them being artificially grouped together (@fig-bundle).  
 
 The second thing is that once, when I was little, I asked my mum, "Mum, why are you always the one cooking at home? Why doesn't Dad cook?" 
-My mum said, "Because Dad is tired of working." Then I said, "You have to work too, aren't you tired?" 
-My mum was very happy, saying I had grown up and cared for my mum. 
-However, at that time I didn't know what caring meant. I just found a logical flaw. 
+My mum said, "Because Dad is tired of working." Then I said, "You work too, aren't you tired?" 
+My mum was very happy, saying I had grown up and cared for her. 
+However, at that time I didn't know what is "caring". I just found a logical flaw. 
 
-Many years later, I learned that this was precisely the "categorical imperative" proposed by Kant centuries ago: 
+Many years later, I learned that this was precisely the "categorical imperative" proposed by #textcite(<Kant_2011>) centuries ago: 
 only follow the maxim that could become a universal law. 
-The young me discovered that my mum's reason, "if you're tired from work, you don't have to cook," could not become a universal law, 
-otherwise nobody would cook, and we will be starved to death, no rational person would will such a world. 
+The young me discovered that my mum's reason, "if you're tired from work, you don't have to cook," could not become a universal law. 
 This meant that the initial reason was either false, incomplete, or the entire system was built on an unfair double standard. 
-// #footnote[I support Kant's ethics but not the transcendental idealism.
-// I had tried to abandon Kant's metaphysics and rebuild the normative part of his ethics in a physicalist worldview, 
-// which seemed very difficult, and I ultimately did not complete it. ]
+
+The true, unstated maxim was likely not about tiredness at all, but about socially prescribed gender roles. 
+The actual operating principle might have been something like: "Women in the household is responsible for cooking, regardless of her tiredness." 
+A rational being cannot will a universal law that assigns duties based on arbitrary characteristics like gender 
+rather than on a fair, impartial, and rational distribution of labour. 
+Such a law would treat certain rational agents merely as a means to get food, 
+which violates Kant's second formulation of the categorical imperative, the Formula of Humanity.
 
 A very similar incident was when I was visiting relatives as a child and questioned the division of kinship terms in our local dialect. 
 I asked my parents why there are more precise terminology for paternal relatives than for maternal relatives, 
@@ -80,13 +81,6 @@ My initial reaction was, "Huh? This is philosophy?"
 // And I didn't understand why there were so many anti-transgender philosophers like Kathleen Stock, 
 // Holly Lawford-Smith, Mary Leng, and Alex Byrne in this tradition. 
 // Analytic philosophy is such a wonderful thing; why would these people misuse it like this?
-
-// The true, unstated maxim was likely not about tiredness at all, but about socially prescribed gender roles. 
-// The actual operating principle might have been something like: "Women in the household is responsible for cooking, regardless of her tiredness." 
-// A rational being cannot will a universal law that assigns duties based on arbitrary characteristics like gender 
-// rather than on a fair, impartial, and rational distribution of labor. 
-// Such a law would treat certain rational agents merely as a means to get food, 
-// which violates Kant's second formulation of the categorical imperative, the Formula of Humanity.
 
 // These memories led me to examine a more fundamental question: where does my obsessive need for systematicity and logical consistency come from? Is it merely an acquired academic habit, or does it have deeper roots? In the process of exploring my "gender identity," I unexpectedly found a possible answer. Research on atypical gender experiences is sometimes associated with autism spectrum disorder (ASD). Initially, I did not associate this with myself, but these cognitive traits, like analytical understanding, systematic thinking, and problems in understanding social norms, highly resemble my experience.
 

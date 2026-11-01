@@ -66,7 +66,7 @@ The notebook does not establish what I consciously understood my gender to be at
 }
 
 #split-table(
-    columns: (2.5fr, 2fr, 1.5fr, 1.25fr, 2.5fr),
+    columns: (4fr, 2fr, 1.5fr, 1.25fr, 2.5fr),
     rows: auto,
     table.header(
       [*Autobiographical claim*],

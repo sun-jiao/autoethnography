@@ -187,6 +187,6 @@ I was born in a small town in a third-world country. I am not European, not whit
 Reason is not a form of hegemony. It is a small and fragile flame in this dark and cold world. It's worth doing anything to protect it.
 What I have done is precisely like the anonymous prisoner in the Mauthausen concentration camp, using the powerful, rational subject constructed in the Enlightenment to resist the irrational violence of the world. Universalism and rationalism are not a claim to power. It is the requirement that keeps me alive. It is a relentless pursuit of a pure justice, a justice that can even empower an ultimate outsider. The goal of Enlightenment is precisely to use the light of reason to enlighten all the darkness of pre-modern superstition, privilege, exceptionalism, dogmatism, tribalism, and obscurantism, to create a world where there is no pain and harm, a world where no child will be bullied for wearing a pair of "wrong" shoes.
 
-*Long live the Enlightenment.*
+*_Veritas nos liberabit._*
 
-*Long live the Enlightenment!*
+*_Veritas nos liberabit!_*

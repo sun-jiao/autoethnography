@@ -4,8 +4,7 @@ I became aware of my "gender identity" when I subconsciously thought from a girl
 For instance, once, while discussing physical fitness tests, I said "my 800-metre run." 
 A friend said, "It's 1000 metres." I didn't respond directly, joking, "It's actually 800 plus." 
 They jokingly asked if I was a girl.
-(In Chinese universities, the long-distance running test is 1000 metres for 
-male students and 800 metres for female students.)
+#footnote[In Chinese universities, the long-distance running test is 1000 metres for male students and 800 metres for female students.]
 I didn't deny it directly, replying with a Chinese internet slang means "to be honest, yes".
 
 I also have a strong desire to adopt a more feminine name: 娇 (_Jiāo_, will be addressed as "the feminine _Jiāo_"). 
@@ -14,9 +13,9 @@ It is a homophone and graphically like my legal name (骄, _Jiāo_, means "pride
 I often used cursive script (行书, _xíng shū_) or the Romanisation (Pinyin) to make them indistinguishable. 
 Furthermore, because the feminine name is much more popular than my legal name, 
 it is the first choice in many Chinese pinyin input methods. 
-(When typing in Chinese, we use a software called "input method." 
+#footnote[When typing in Chinese, we use a software called "input method." 
 It gives all possible Chinese characters based on their pinyin (Romanisation),
-and users choose the correct characters from them. It is a common thing to choose a wrong character, especially in informal situations.)
+and users choose the correct characters from them. It is a common thing to choose a wrong character, especially in informal situations.]
 Every time somebody typed my name as the feminine _Jiāo_, 
 I was extremely delighted and afraid that someone would "kindly" point it out. 
 If this really happened, I would be very "tolerant" and say, 
@@ -57,19 +56,17 @@ and how does an identity with gender lead to a desire for bodily modification (s
 If it refers to "gender identity" itself, this constitutes a ridiculous tautology, 
 "gender identity is an identity with gender identity."
 
-I presented the conceptual analysis and asked whether there was a flaw in my reasoning on some transgender platforms. 
-Some respondents nevertheless interpreted my rejection of the "born this way" account as a rejection of the authenticity of gender identity itself. They consequently questioned whether I was genuinely transgender, treated my questions as trolling, and accused me of using ChatGPT to generate anti-transgender propaganda. I was both angry and disappointed. More importantly, however, I still needed to answer the questions that had led me there, so I continued the inquiry independently.
+// The most serious issue was that I would cast myself in the role of the female protagonist when reading some adult stories, and sometimes I couldn't distinguish between fantasy and reality. A few months ago, I was reading an adult story about psychological manipulation. I identified with the manipulated character and, for a long time, did not realise it was a story about psychological manipulation, believing the manipulator was genuinely trying to protect "me." However, when I realised he was manipulating and using "me," I had a severe nightmare. I dreamt that "I" was crying and begging him to continue deceiving "me." I woke up from the dream in the middle of the night and sat in my room for a long time, unable to fall back asleep.
+
+Therefore, I concluded that this theory was intellectually unsatisfying. I quickly abandoned it and thought that this was just a meaningless fantasy.
+For a long time afterwards, I continued this "meaningless fantasy," but it increasingly affected my life. I realised that I had to take this matter seriously. 
+Therefore, I presented my conceptual analysis in some transgender communities to seek some explanations. 
+However, some respondents nevertheless interpreted my rejection of the "born this way" account as a rejection of the authenticity of gender identity itself. They consequently questioned whether I was genuinely transgender, treated my questions as trolling, and accused me of using ChatGPT to generate anti-transgender propaganda. I was both angry and disappointed. More importantly, however, I still needed to answer the questions that had led me there, so I continued the inquiry independently.
 
 // Once, we went camping and played an ice-breaking game called "King and Angel." #footnote[This is a game in which everyone will be an "angel" of their "King"  and need to do everyone's best to take care of their "King" In the final reveal, everyone needs to try to name their "Angel" according to the care they received. And the word "国王" _guó wáng_, which literally means "monarch of a country," is theoretically gender-neutral in Chinese, though has been used to translate "King."] I gave my "King" a handmade hog plum (_Choerospondias axillaris_) bracelet, placing it into their clothes with a note. During the final reveal, the "King" said that upon seeing such a fantastic bracelet and delicate handwriting, they thought it would be from a girl. I secretly felt extremely pleased about that.
 
 // However, because the proportion of female students at my undergraduate university was very high (70%), I didn't take this matter very seriously at the time. I initially rationalised this feeling as "I was assimilated by girls after spending a long time with them." #footnote[I'm not saying that girls naturally possess so-called "feminine traits" and "feminine behaviours."]
 
 // Additionally, I bought some women's shoes and clothes, including my hiking boots, which I wore on fieldwork in Xizang (Tibet) and western Sichuan.
-
-// Therefore, I concluded that this theory was intellectually unsatisfying. I quickly abandoned it and returned to my original explanation: this was just a meaningless fantasy.
-
-// The most serious issue was that I would cast myself in the role of the female protagonist when reading some adult stories, and sometimes I couldn't distinguish between fantasy and reality. A few months ago, I was reading an adult story about psychological manipulation. I identified with the manipulated character and, for a long time, did not realise it was a story about psychological manipulation, believing the manipulator was genuinely trying to protect "me." However, when I realised he was manipulating and using "me," I had a severe nightmare. I dreamt that "I" was crying and begging him to continue deceiving "me." I woke up from the dream in the middle of the night and sat in my room for a long time, unable to fall back asleep.
-
-// For a long time afterwards, I continued this "meaningless fantasy," but it increasingly affected my life. I realised that I had to take this matter seriously. I initially intended to continue learning about mainstream theories, so I tried to organise all my questions clearly. This included the ambiguity of the sex/gender distinction, the circular reasoning behind "gender identity" and "brain sex," and how the current mainstream narrative overemphasises European-American culture and Indo-European languages (e.g., the impact on languages without gendered pronouns), thereby forming a cultural invasion of other cultures.
 
 // I tried to explain to them, "We might have some misunderstandings," but they seemed to refuse to accept it. This ultimately led to my account being banned. I was both angry and disappointed. However, beyond that, the more crucial matter was to solve my own problem.
