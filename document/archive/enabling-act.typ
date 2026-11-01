@@ -1,14 +1,14 @@
 Moreover, such situations also exist in areas other than gender.
-Considering this is an \"autoethnography,\" let's choose the historical
+Considering this is an "autobiography," let's choose the historical
 event discussed in my middle school language arts course as a case
 study. Just as I thought in middle school, Germany's post-war
-\"Vergangenheitsbewältigung\" (overcoming the past) historiography also
+"Vergangenheitsbewältigung" (overcoming the past) historiography also
 has huge internal tensions:
 
 Why should those former anti-Nazi heroes, Nazi victims, their families,
-and descendants \"reflect\" and pay taxes for Nazi war reparations? Why
+and descendants "reflect" and pay taxes for Nazi war reparations? Why
 should new immigrants, even those from countries invaded by the Nazis,
-also \"reflect\" and pay taxes for Nazi war reparations? Constitutional
+also "reflect" and pay taxes for Nazi war reparations? Constitutional
 patriotism holds that the government does not represent a specific
 ethnic group, culture, or history. Then it is simply a legal entity
 responsible for administrative affairs, employed by the people to serve
@@ -19,30 +19,30 @@ What is special about the sovereign state? Why is it the sovereign state
 (Germany) and not a higher-level political entity (the EU) or a
 lower-level political entity (the state of Prussia) that needs to
 reflect on war history? The designation of this level lacks inherent,
-logical reason. This seems to imply that \"Germany is more likely to
-start another war in the future, so it must be prevented in advance,\"
-which cannot be proven. By limiting the scope of \"reflecting on
-Nazism\" to Germany, it allows other countries -- especially the United
+logical reason. This seems to imply that "Germany is more likely to
+start another war in the future, so it must be prevented in advance,"
+which cannot be proven. By limiting the scope of "reflecting on
+Nazism" to Germany, it allows other countries -- especially the United
 States and Israel -- to comfortably see themselves as victors or
-victims, thus naively believing they are \"naturally immune\" to
+victims, thus naively believing they are "naturally immune" to
 fascism, providing spaces for fascism to return under a different name.
 Furthermore, Germany comfortably supports it under the absurd and
-irrational so-called \"special responsibility to Israel.\"
+irrational so-called "special responsibility to Israel."
 
 Why can a person openly display the Iron Cross but not the swastika?
 Although the use of the swastika in Germany for Buddhism and Hinduism
 (as well as for historical education and research) is still permitted,
-there is no similar restrictions for the Iron Cross, like \"for military
-uses only.\" Is this fair to Germany's East and South Asian immigrants?
+there is no similar restrictions for the Iron Cross, like "for military
+uses only." Is this fair to Germany's East and South Asian immigrants?
 Both are cultural symbols with long histories that predate the Nazis.
 The swastika's history is even longer than the Iron Cross's, and we can
 even find right-facing, rotated 45° Buddhist swastikas on some ancient
 buildings in China. (#link(<fig:sayagata>)[1]) Its pre-Nazi usage was
 also more peaceful than the Iron Cross, which was associated with the
 Prussian army even before the Nazis. Is the only difference that the
-Iron Cross is \"German,\" while the swastika is not? The former is
-\"our,\" \"Deutschness\" national culture, to be cherished, saved, and
-purified; the latter is \"external,\" \"Other,\" \"non-Deutschness,\"
+Iron Cross is "German," while the swastika is not? The former is
+"our," "Deutschness" national culture, to be cherished, saved, and
+purified; the latter is "external," "Other," "non-Deutschness,"
 can be arbitrarily defined by the Nazis, and cannot be reclaimed after
 being tainted by them. Does this mean that Germany is still essentially
 a nation-state of the German people, just claiming not to be one in
@@ -60,16 +60,16 @@ words?
 
 Why is the Iron Cross not an unconstitutional symbol? Because the
 Wehrmacht is not an unconstitutional organisation. Why is the Wehrmacht
-not an unconstitutional organisation? Because \"we\" stipulated that it
+not an unconstitutional organisation? Because "we" stipulated that it
 is not. However, historical research shows that the Wehrmacht was far
 from innocent @Wette2006Wehrmacht. This seems to be a self-fulfilling
 prophecy. The legislators of the Federal Republic of Germany prophesied:
-\"The Iron Cross can be saved and purified, while the swastika cannot.\"
+"The Iron Cross can be saved and purified, while the swastika cannot."
 Then, they passed legislation allowing the unrestricted use of the Iron
 Cross while completely banning the swastika, ensuring that this prophecy
 would forever be true.
 
-Germany's so-called \"overcoming the past\" is filled with a series of
+Germany's so-called "overcoming the past" is filled with a series of
 lies, self-contradictions, and doublethink.
 
 I believe the only logically consistent solution is to execute all
@@ -95,23 +95,23 @@ Hiroshima and Nagasaki violated the principle of proportionality in the
 and all US military personnel involved in these actions are guilty. If
 the international law of 1945 can be used to try crimes of 1942, why
 can't the international law of 1977 be used to try crimes of 1945?
-Moreover, why is the \"principle of proportionality\" considered a
-reasonable argument for war crimes? If that \"any country's municipal
-law does not allow killing innocent people\" is a reasonable argument
+Moreover, why is the "principle of proportionality" considered a
+reasonable argument for war crimes? If that "any country's municipal
+law does not allow killing innocent people" is a reasonable argument
 for the retroactive application of Nuremberg laws, any country's
-municipal law does not accept the \"principle of proportionality\" as a
+municipal law does not accept the "principle of proportionality" as a
 reasonable argument for killing. I don't see any difference between
 them.
 
 By the same token, if it is said that after 70 years of aggression and
 occupation, Hamas killing hundreds of Israeli civilians is called
-\"terrorism,\" let's try to extract a universal rule from this event:
+"terrorism," let's try to extract a universal rule from this event:
 the invaded and occupied country cannot kill civilians of the aggressor
 or occupier country during its resistance, otherwise it is
-\"terrorism.\" #footnote[As an abstract principle, I do not oppose this.
-Actually, I completely agree with it. \"The crimes of the rulers are not
+"terrorism." #footnote[As an abstract principle, I do not oppose this.
+Actually, I completely agree with it. "The crimes of the rulers are not
 the fault of the ruled; governments may sometimes be robbers, but the
-people never are.\"]
+people never are."]
 
 Thus, let's now apply it universally: after the United States
 experienced the Japanese invasion of Pearl Harbor and four years of the
@@ -120,7 +120,7 @@ civilians with incendiary bombs and atomic bombs is also terrorism, and
 should be a more heinous form of terrorism -- state terrorism, because
 the order to massacre civilians came directly from the US president. In
 contrast, Hamas is not the legitimate government of Palestine, so
-Hamas's actions are just ordinary terrorism, not \"state terrorism.\"
+Hamas's actions are just ordinary terrorism, not "state terrorism."
 #footnote[I am not saying that Hamas killing Israeli civilians is
 correct. There are, of course, innocent civilians who do not support
 Zionism, just as there were innocent civilians in Hiroshima and Nagasaki
@@ -134,18 +134,18 @@ use retroactivity at all.
 Germany's military aid to Israel's genocide crime in
 Gaza~@Soussi2023War, defining the Boycott, Divestment, and Sanctions
 (BDS) movement and accusing Israel of genocide as so-called
-\"anti-Semitism\"~@Kuras2023Strange@Whittle2024Germany is also this kind
-of exceptionalism. The concept of \"special responsibility\" is not a
+"anti-Semitism"~@Kuras2023Strange@Whittle2024Germany is also this kind
+of exceptionalism. The concept of "special responsibility" is not a
 universal principle; it is an exceptionalist political tool used to
 justify specific foreign policies. It allows Germany to hypocritically
-present its geopolitical actions as an inevitable \"moral\"
+present its geopolitical actions as an inevitable "moral"
 responsibility stemming from its unique history, rather than a matter of
-its national geopolitical interest. If Germany has a \"special
-responsibility\" towards Israel because of Nazis, there is a
-frightening, hidden logic: \"Israel,\" a sovereign state, has an #emph[a
+its national geopolitical interest. If Germany has a "special
+responsibility" towards Israel because of Nazis, there is a
+frightening, hidden logic: "Israel," a sovereign state, has an #emph[a
 priori] inherent relationship with Jews, an ethnic group. This is almost
 isomorphic with the Nazis' racial theory that claimed an #emph[a priori]
-relationship between Germany and \"Aryans.\"
+relationship between Germany and "Aryans."
 
 Many early Zionists were secular Jews who received European education,
 who are a product of the Haskalah. However, they believed the Haskalah
@@ -159,10 +159,10 @@ land, population, resources, and security, viewing non-Jewish
 populations (particularly Palestinians) as resources to be calculated,
 managed, and controlled. To achieve its instrumental rationality,
 Israel's national security apparatus both exploited Palestinian labour
-and excluded and even expelled them for the so-called \"security.\" The
+and excluded and even expelled them for the so-called "security." The
 instrumental rationality is almost isomorphic to critique in the
 #emph[Dialectic of Enlightenment]. Israel's occupation and blockade of
-Palestine can be viewed as a form of \"the Dialectic of Haskalah.\"
+Palestine can be viewed as a form of "the Dialectic of Haskalah."
 #footnote[This is an imitation of
 #cite(<Adorno1997Dialectic>, form: "prose") rather than a serious
 analysis. In my view, the Enlightenment, as well as the Haskalah, is
@@ -178,12 +178,12 @@ mich doch völlig überrascht. Man kann nur hoffen, daß die Israelis einst
 sie die Situation halten können.«
 
 Adorno wrote to his Viennese friend Lotte Tobisch on June 5, 1967,
-during the Six-Day War: \"We are terribly worried about Israel. …In a
+during the Six-Day War: "We are terribly worried about Israel. …In a
 corner of my consciousness, I have always imagined that this would not
 go well in the long run, but that it would actualize so quickly has
 still completely surprised me. One can only hope that the Israelis are,
 for the time being, still so militarily superior to the Arabs that they
-can hold the situation.\"]
+can hold the situation."]
 
 Let us take a look at what we have now:
 
@@ -193,7 +193,7 @@ Let us take a look at what we have now:
   postzygotic mutations.
 
 + Liberals and gender theorists who do not believe that externally
-  assigning identities is immoral, assigning \"cisgender\" to billions
+  assigning identities is immoral, assigning "cisgender" to billions
   of people.
 
 + Emily Fairchild, a queer theorist, who does not believe in différance
@@ -220,7 +220,7 @@ Let us take a look at what we have now:
 The whole world is profoundly hypocritical and self-exceptionalist. The
 rule of the Nazis itself was built on such self-exceptionalism, a
 complete betrayal of the Enlightenment spirit, reason, science, and
-\"daring to know.\" Questioning Nazi political propaganda with true
+"daring to know." Questioning Nazi political propaganda with true
 Enlightenment reason and scientific #emph[Ethos] would absolutely not be
 tolerated: why are Jews (and Roma, Slavs) inferior to Germans? How can
 morality be quantified? Which area of the brain is related to morality?
@@ -234,8 +234,8 @@ of Israel, why didn't the same selection pressures act on other
 Levantine peoples living in the same environment? If it was during the
 Jewish Diaspora, why didn't the same selection pressures act on European
 peoples? #footnote[Honestly, the first time I came up with the idea that
-\"a world that completely follows science and reason would be so free
-and equal\" was about a question very similar to the Nazi's
+"a world that completely follows science and reason would be so free
+and equal" was about a question very similar to the Nazi's
 anti-scientific propaganda, and that question was about gender: some
 people say that female students are not suited for learning science.
 What is the evidence? Which area of the brain and what brain structure
@@ -246,38 +246,38 @@ process shaped by sexual selection? Where did the selection pressure
 come from? How was this hypothesis verified?]
 
 The situation with Germany and Israel is precisely the same as the
-\"scientific\" gender essentialism of conservatives and the dogmatic,
+"scientific" gender essentialism of conservatives and the dogmatic,
 exclusionary transgender communities I encountered. The problem is not
-the specific content of this exceptionalism (whether it is \"the living
-space of the Aryans,\" \"the gender order created by God,\" \"Germany's
-special responsibility to Israel,\" or \"lived experience\"), but that
+the specific content of this exceptionalism (whether it is "the living
+space of the Aryans," "the gender order created by God," "Germany's
+special responsibility to Israel," or "lived experience"), but that
 it creates a zone where reason, science, empirical evidence, logical
 consistency, international humanity laws, universal human rights, and
 justice are legitimately declared invalid, and power will ultimately do
 what it wants to do.
 
 This is nothing else but a historical self-repeating of the Enabling Act
-of 1933. The real Enabling Act, by creating a legal \"state of
-exception,\" authorised the Hitler government to bypass the
+of 1933. The real Enabling Act, by creating a legal "state of
+exception," authorised the Hitler government to bypass the
 constitution, thereby destroying the Weimar Republic. Every accepted
-principle of \"exception,\" no matter how big or small, no matter what
-content is in it, is a micro \"enabling act.\" It authorises power to
+principle of "exception," no matter how big or small, no matter what
+content is in it, is a micro "enabling act." It authorises power to
 override rules, thereby destroying the foundations of justice.
 
-The so-called \"Germany's special responsibility to Israel\" is such an
+The so-called "Germany's special responsibility to Israel" is such an
 enabling act. When state actions touch upon the issue of so-called
-\"Israel's right to exist,\" the enabling act is activated, and regular,
+"Israel's right to exist," the enabling act is activated, and regular,
 universalist considerations -- whether it is compliance with
 international law or the universal human rights of all peoples,
 including Palestinians -- can be legitimately suspended or downgraded.
 
-Richard Dawkins and conservatives' so-called \"science\" is such an
+Richard Dawkins and conservatives' so-called "science" is such an
 enabling act. They do not care about the biological reality, but use it
 to justify their oppressive ideology. They do not care about the origin
 and biological function of sex and anisogamy, but use it to justify the
 social and political norm based on phenotypic sexes.
 
-The so-called \"lived experience\" is also such an enabling act. Its
+The so-called "lived experience" is also such an enabling act. Its
 purpose is not to protect people's freedom to express their experiences,
 but to use this mystifying and obscurantist language to conceal its true
 purpose: systematically promoting a specific type of experience and
@@ -294,16 +294,16 @@ group of people (citizens) and not to another (foreigners).
 The entire global nation-state system is equivalent to saying that the
 full enjoyment of human rights depends on the accidental facts of their
 geographical location of birth and their nationality. This cannot pass
-the Kantian test of universalisability. Moreover, it is not like \"it is
+the Kantian test of universalisability. Moreover, it is not like "it is
 permissible to kill another person when it is convenient for achieving
-one's own goals.\" $arrow.r$ \"a rational person must will their own
+one's own goals." $arrow.r$ "a rational person must will their own
 continued existence; to will such a world could lead to one's own
-destruction. This creates a conflict in the will,\" which relies on
+destruction. This creates a conflict in the will," which relies on
 reasoning for a #emph[reductio ad absurdum]. It directly denies
 universalism in its very wording. It makes an entirely accidental,
 irrational factor (place of birth) the core of human rights, which is
-fundamentally contradictory to the requirement that \"a law must be
-universal.\" The only special aspect is that it has endured for so long
+fundamentally contradictory to the requirement that "a law must be
+universal." The only special aspect is that it has endured for so long
 that people consider it a normal state of affairs, and jurists and
 philosophers even regard it as a self-evident starting point for
 analysis.
@@ -313,12 +313,12 @@ zones of exception mercilessly. Universal laws, including fundamental
 human rights, must apply to everyone, everywhere, at all times.
 
 If Germany had adopted a rationalist and universalist narrative, such as
-\"the disaster created by Nazi was an analysable historical event rooted
+"the disaster created by Nazi was an analysable historical event rooted
 in a specific historical and political-economical context; its racial
 theory is pseudoscience, the word Aryan refers to Iranians and has
 nothing to do with Germans; there is no evidence that race or ethnicity
 has any biological essence, Germans are neither noble nor guilty; 'never
-again' means never again for anyone, anywhere,\" the current tragedy
+again' means never again for anyone, anywhere," the current tragedy
 would not have happened.
 
 The Nazis had destroyed Germany's rationalist tradition to such an
@@ -332,7 +332,7 @@ tradition. It continues to use a tribal, mythical, and irrational
 narrative to resolve an issue that can only be truly understood and
 overcome through the universal reason. The special responsibility is not
 the antidote to Nazism. It is precisely a painful, lingering aftereffect
-left by the Nazis' ideological virus, a \"long Nazism\" similar to the
+left by the Nazis' ideological virus, a "long Nazism" similar to the
 long COVID.
 
 The doubt and abandonment of universal reason is not a profound

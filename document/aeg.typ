@@ -48,10 +48,6 @@
 
 #include "chapters/my-gender-identity.typ"
 
-= Vertigo: Revisiting My Experience
-
-#include "chapters/vertigo.typ"
-
 = My Philosophy (I)
 
 #include "chapters/my-philosophy.typ"
@@ -63,6 +59,10 @@
 = Communicative Rationality
 
 #include "chapters/communicative-rationality.typ"
+
+= What an Irrational World!
+
+#include "archive/dialogue-with-the-world.typ"
 
 = An answer to the question: What is enlightenment?
 
