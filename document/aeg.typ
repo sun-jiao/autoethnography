@@ -62,7 +62,7 @@
 
 = What an Irrational World!
 
-#include "archive/dialogue-with-the-world.typ"
+#include "chapters/dialogue-with-the-world.typ"
 
 = An answer to the question: What is enlightenment?
 
