@@ -1,6 +1,6 @@
 #import "../lib.typ": *
 
-When exploring my gender identity, I also recall a few small childhood memories, 
+When exploring my childhood experience, I also recall a few small childhood memories, 
 one of which is that when I was very, very young, I believed that human traffickers did not exist; 
 they were just something my parents made up to scare me. 
 I believed that what I hadn't seen didn't exist. 

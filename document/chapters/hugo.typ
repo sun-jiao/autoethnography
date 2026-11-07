@@ -41,13 +41,13 @@ Actually, reason and objectivity are a long-standing tradition in feminism @Anto
 So their claim was not only a misinterpretation of my personal experience, but also a misinterpretation of feminism itself.
 
 Their subsequent developments proved me completely right. 
-Radical feminists in China often emphasize that "biological sex"
+Chinese online feminists in China often emphasize that "biological sex"
 is real and unchangeable, while gender identity is meaningless. 
 This logic strictly limits the definition of "woman" to "biological female," 
 arguing that only oppression based on biological structure (such as the uterus and vagina) is "real oppression." 
 This ideology, based on biological binary and hatred of all phenotypic males, 
 rapidly developed into gender essentialism and anti-transgender ideology on the Chinese internet @Qiao2022@Ma2025Cyber@Wang2025@Yang02012023. 
-Ironically, just a few years ago, media outlets like the BBC were reporting attacks on Chinese radical feminists as "mass misogyny" @Feng2021Yang. 
+// Ironically, just a few years ago, media outlets like the BBC were reporting attacks on Chinese online feminists as "mass misogyny" @Feng2021Yang. 
 
 It is completely isomorphic with the statement "no innocent one under the atomic bomb." 
 The latter also misinterpreted anti-fascism into a form of extreme nationalism, 

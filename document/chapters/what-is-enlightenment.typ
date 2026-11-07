@@ -10,25 +10,25 @@ This motto is not only epistemological, but more importantly, ethical and politi
 
 #textcite(<Kant1996Answer>) gave three examples of "minority," 
 "... a book that understands for me, a spiritual advisor who has a conscience for me, a doctor who decides upon a regimen for me ..." 
-This is a precise description of the communities I encountered. 
+This is a precise description of the communities (both trans-medicinalist and post-structuralist ones) I encountered. 
 Though they loudly proclaim their opposition to authority, they haven't actually escaped what Kant called "minority." 
 They've simply changed their "guardian." 
 The previous guardian might have been the church, tradition, or a monarch. The current guardian is a dogmatical theory.
 
 When they see somebody with a different opinion, they don't need to use their curiosity to ask, 
-"What did they say? Why did they reach this conclusion?" 
+"What did they say? How did they reach this conclusion?" 
 Instead, they open their handbook. 
 The handbook reads: "Using biology to explain gender = gender essentialism = oppression; transgender + gender essentialism = internalised transphobia." 
 Thus, the comprehension ends. 
-They let a theory framework understand others for them, hiding behind their guardian (the theory), abandoning the ethical responsibility to others.
+They let a dogma understand others for them, hiding behind their guardian, abandoning the ethical responsibility to others.
 
 Admittedly, understanding does not necessarily lead to ideal communication and consensus; 
-they might still reject my theory even if they read it, just like I rejected theirs after reading their literature. 
+they might still reject my theory even if they read it. I also rejected theirs after reading their literature. 
 Nevertheless, "Knowing" others is the first step of communication. 
 Even if we still reject each other's theory, at least we can reach a _meta-consensus_: 
 "I support _A_, while you support _B_, we cannot agree with each other because of _C_. 
-I think you are mistaken, and you think I am mistaken, but we are not bad people." 
-However, unfortunately, they did not participate in a mutual dialogue. 
+I think you are mistaken because of _D_, and you think I am mistaken because of _E_." 
+However, unfortunately, they did not participate in a mutual communication. 
 I invested huge intellectual effort to understand them, while they did not do the same thing to me.
 
 Though methodologically different, my research in biology and my attempt to comprehend their philosophy share a common epistemic root: _Sapere aude_ characterised by pure wonder and curiosity.
@@ -38,94 +38,60 @@ Love of Truth and Love of Neighbour are fundamentally connected.
 Scientists acknowledge that nature possesses its own logic independent of human will. 
 Studying nature means humbly listening to its voice and understanding its laws, independent of our own. 
 Similarly, true understanding of others means acknowledging them as independent rational beings with their own theories I have not yet comprehended. 
-Reading their theories, as I have done, is "daring to know" their world, even if it would make me uncomfortable #footnote[I really felt uncomfortable with their writing style. While I think I must understand them, otherwise I am not qualified to write this section.]. 
+Reading their theories, as I have done, is "daring to know" their world.
 // They abandoned this curiosity along with abandoning science, allowing a guardian to understand others on their behalf.
 // %"Knowing" is essentially respecting and asking favours from others.
 
 We need to acknowledge not only our epistemological deficiency regarding nature and of others, but also our deficiency of ourselves. 
-My analysis of my own gender identity is precisely "dare to know." I did not "disrespect" my subjective experience.
-Otherwise, I would have simply said, "How could I be a girl? It seems that I'm crazy. Period." 
+My analysis of my own gender identity is precisely "dare to know." 
+These communities accused me of "disrespecting" my subjective experience and suppressing it using a "cold, academic philosophical theory".
+However, I did not "disrespect" my subjective experience.
+Otherwise, I would say, "How could I be a girl? It seems that I'm crazy. Period." 
 On the contrary, I analysed my subjective experiences of gender dysphoria and gender euphoria very seriously, placing them on the same epistemological level as all other knowledge. 
 My subjective experience received the highest respect I could give to knowledge. 
 When you abandoned reason, abandoned _Sapere aude_, you also abandoned your responsibility to understand others and yourselves.
 
-#v(20pt)
-#line(start: (20%, 0%), end: (80%, 0%), stroke: 0.4pt+gray)
-#v(20pt)
-
 The aforementioned naive philosophy of the young me demonstrates that reason is not so-called "European-centric" or "oppressive,"
 since it naturally grew up in an East Asian kid, and helped me reveal the paternal biases in the kitchen. 
 
-If my personal experience from childhood to adulthood contradicts a particular philosophical school's critique of universalism and rationalism, why should I accept it? Insisting on logical self-consistency as the standard for understanding the world has been my most profound "lived experience" since my childhood questioning of housework division and kinship terms. For me, post-structuralism (including queer theory, and so on) is local knowledge from Europe. The "harms of rationalism and universalism" they criticise have never appeared in my life and are completely disconnected from my personal experience. I have no reason to accept it.
+// If my personal experience from childhood to adulthood contradicts a particular philosophical school's critique of universalism and rationalism, why should I accept it? Insisting on logical self-consistency as the standard for understanding the world has been my most profound "lived experience" since my childhood questioning of housework division and kinship terms. The "harms of rationalism and universalism" they criticise have never appeared in my life and are completely disconnected from my personal experience.
 
-For me, it is an act of colonising personal experience with theory, using a cold, academic philosophical theory to strip personal experience of its validity to accept the post-structuralist critique of reason. If I were to sincerely agree with the post-structuralist critique, then, by post-structuralist standards, I should refuse to accept post-structuralism. Therefore, it is not that I choose to reject post-structuralism out of ideological opposition originating from the "scientistic grand narrative," but rather that post-structuralism cannot handle my personal experience. It would immediately throw a fatal exception and crash. Accepting it is impossible for me, a logical paradox.
+// Honestly, sometimes I find it interesting that post-structuralism is almost self-contradictory on me. Maybe I am the "dark cloud" in their theory. If I sincerely accepted post-structuralism, I should refuse to accept post-structuralism, because my own experiences told me to do so. Therefore, it is not that I choose to reject post-structuralism out of ideological opposition originating from the "scientistic grand narrative," but rather that post-structuralism cannot handle my personal experience. It would immediately throw a fatal exception and crash.
 
-My experience resonated with some 2,000 years old intellectual legacy in my own culture. 
-The School of Names' "white horse dialogue" @Graham1990Studies, the Mohists' "universal love," 
-and their exploration of geometry and physics are the first light of reason in China. 
-The _Mohist Canon_'s "a circle is that which has the same length from a single centre" #footnote[圆，一中同长也。] 
-and "a square is that which has four angles and four corners equal" #footnote[方，柱隅四权也。] 
-are almost identical to Euclid's definitions. 
-Similarly, the meaning of the statement "Force is the name of gravity" #footnote[力，重之谓。] 
-directly categorises "gravity" as "force." This means that gravity is an external driving force, 
-rather than some inherent desire or tendency of the object itself. 
-Although not quantified as a formula, its qualitative physical picture is closer to Newton's than Aristotle's @Graham1978Later.
+// My experience resonated with some 2,000 years old intellectual legacy in my own culture. 
+// The School of Names' "white horse dialogue" @Graham1990Studies, the Mohists' "universal love," 
+// and their exploration of geometry and physics are the first light of reason in China. 
+// The _Mohist Canon_'s "a circle is that which has the same length from a single centre" #footnote[圆，一中同长也。] 
+// and "a square is that which has four angles and four corners equal" #footnote[方，柱隅四权也。] 
+// are almost identical to Euclid's definitions. 
+// Similarly, the meaning of the statement "Force is the name of gravity" #footnote[力，重之谓。] 
+// directly categorises "gravity" as "force." This means that gravity is an external driving force, 
+// rather than some inherent desire or tendency of the object itself. 
+// Although not quantified as a formula, its qualitative physical picture is closer to Newton's than Aristotle's @Graham1978Later.
 
-In middle school, I was drawn to the Mohists and found Confucianism to be less appealing. 
-Confucianism is not my "local knowledge," but a paradigmatic enemy. 
-More than two thousand years ago, they established their dominant position in China 
-by systematically excluding and eliminating reason. 
-My interests in science and western philosophy are because they are based on the same cognitive foundation 
-and have developed more systematically than the Mohists and the School of Names. 
-In my view, this is a case of "seeking lost rites (reason) among the common people (western philosophy)," 
-#footnote[礼失而求诸野, meaning that the authentic traditions are often better preserved among the common people than by the ruling class.
-Ironically, this old saying is considered to be from Confucius.] 
-choosing the most developed one among all those that align with my cognitive mode.
-Treating "reason" as "European" is itself a European-centric view, which ignores other cultures =  
-where reason, logic, and science were oppressed in their history. 
-
-Europe is more fortunate, or to say, more unfortunate than China. Reason is respected in Europe, but mostly only in name, and it has always been ruled by the irrationality which killed Socrates. 
-European philosophers' criticism of reason reached its climax with Nazism, especially by #textcite(<Adorno1997Dialectic>). 
-Although they're from Frankfort School rather than post-structuralism, their view is still noteworthy as the originators of criticising reason.
-However, it is a foundational misdiagnosis. Nazism is not rational at all. 
-
-If Jews, Roma, and Slavs were "inferior races," then according to evolutionary theory, 
-they would soon naturally become extinct. Why didn't Germany simply wait for it and then seize their land and property? 
-Why did Hitler launch a large-scale genocide against them? 
-If they did not become extinct through natural selection, then this proves that they were not "inferior races," thus falsifying Hitler's hypothesis. 
-In both cases, Hitler didn't need to do anything. 
-This demonstrates that Hitler did not really believe in his public ideology. 
-
-// Moreover, Why are they inferior to Germans? Mr. Hitler, how do you quantify inferiority and superiority? 
-// Which area of the brain is related to them? What are the anatomical differences between inferior and superior people? How do you prove it?
-// How to prove that Jews generally have this brain structure? 
-// What selection pressures made morally inferior Jews have higher fitness and leave more offspring than morally superior Jews? 
-// When did the morality of the Jews begin to decline? During the era of the Kingdom of Israel or during the Diaspora? 
-// If it were during the Kingdom of Israel, why didn't the same selection pressures act on other Levantine peoples living in the same environment? 
-// If it was during the Jewish Diaspora, why didn't the same selection pressures act on European peoples? 
-// #footnote[Honestly, the first time I came up with the idea that "a world that completely follows science would be so free and equal" 
-// was about a question very similar to the Nazi's anti-scientific propaganda, and that question was about gender: 
-// somebody says that female students are not good at learning science. What is the evidence? 
-// Which area with what structure of our brain helps us learn science? What is the relationship between these brain structures and sex? 
-// Do sex hormones promote the differentiation of brain structure in different directions in the early fetus? 
-// Was this process shaped by sexual selection? Where did the selection pressure come from? How was this hypothesis verified?]
-
-Nazis' appropriation of scientific knowledge does not prove that science inherently contains a tendency of oppression. 
-Otherwise, we could argue that because Israel abuses Deleuzian philosophy @Weizman2006, therefore Deleuze is inherently Zionist. 
-This conclusion is obviously senseless because Deleuze supported Palestine @Fruteau2024Deleuze.
-The authentic scientific truth, or genuine Deleuzean philosophy, stood with the oppressed people, and was suppressed in Nazi Germany or Israel.
+// In middle school, I was drawn to the Mohists and found Confucianism to be less appealing. 
+// Confucianism is not my "local knowledge," but a paradigmatic enemy. 
+// More than two thousand years ago, they established their dominant position in China 
+// by systematically excluding and eliminating reason. 
+// My interests in science and western philosophy are because they are based on the same cognitive foundation 
+// and have developed more systematically than the Mohists and the School of Names. 
+// In my view, this is a case of "seeking lost rites (reason) among the common people (western philosophy)," 
+// #footnote[礼失而求诸野, meaning that the authentic traditions are often better preserved among the common people than by the ruling class.
+// Ironically, this old saying is considered to be from Confucius.] 
+// choosing the most developed one among all those that align with my cognitive mode.
+// Treating "reason" as "European" is itself a European-centric view, which ignores other cultures =  
+// where reason, logic, and science were oppressed in their history. 
 
 Furthermore, "instrumental rationality" is not a form of rationality or reason, otherwise, the concept of reason will be meaningless. 
 For instance, why were swords used in ancient wars, instead of smashing enemies using stones or wood? 
-Because the former is more efficient in killing, which is also a form of instrumental rationality. 
+Because swords were more efficient in killing, which is also a form of instrumental rationality. 
 Clearly, instrumental rationality is just a synonym for "pragmatism". 
 Otherwise, we would arrive at an absurd conclusion that "using swords to kill people is rational."
-
-Viewing calculation and classification as inventions of the Enlightenment is a tragic academic misjudgment. 
-On the contrary, calculation and classification are almost the oldest methodology in the world. 
+The ancients used swords to kill because they were more efficient than stones; the Nazis used gas chambers to kill because they were more efficient than swords. There is no fundamental difference between these two ways of thinking.
+Calculation and classification are almost the oldest methodology in the world.  
 Using a sword instead of a stone or wood to kill someone is a calculation of the efficiency of killing. 
-Linnaeus is called "the second Adam" @Das2018Father, because he did what Adam did in _Genesis_.
-#textcite(<Atran1999Itzaj>) demonstrates that Maya folk taxonomy and scientific taxonomy shares some similarities. 
+What Adam did in _Genesis_ was classification. He named and classified all the animals.
+// #textcite(<Atran1999Itzaj>) demonstrates that Maya folk taxonomy and scientific taxonomy shares some similarities. 
 
 Conversely, science is precisely the powerful tool to expose the lies of racist pseudoscience. 
 The Enlightenment promotes the understanding and recognition of human diversity through calculation. 
@@ -141,28 +107,27 @@ proposed theories of determination of sex (phenotypic sex) based on their hybrid
 They concluded that sex is determined by the balance or the quantitative relationship between the male and female genes. 
 Two sexes are not clearly distinct opposites. 
 An individual can occupy a position on the female-to-male continuum @Dietrich2016Experimenting. 
-This is quite consistent with the modern genomic research: 
+This is quite consistent with the modern genomic research @Graves2010Homologies: 
 the development of fetal gonads depends on the antagonism between two sets of gene networks, 
-which are widely distributed on sex chromosomes and autosomes in the genome @Graves2010Homologies. 
+which are widely distributed on sex chromosomes and autosomes in the genome. 
+They predate any civil rights movement and the deconstruction of sex binary by queer theory.
 
-They predate any civil rights movement and the deconstruction of sex binary by queer theory. 
 Similarly, Palestinian jurist Henry Cattan was a legal formalist. 
 He rigorously and strictly examined the history of the establishment of Israel in accordance with 
 the _Covenant of the League of Nations_ and the _Charter of the United Nations_, 
 exposing Israel's legitimacy crisis @Cattan1973Palestine. He reached an authentic justice in a "logocentric" way. 
 The empirical science and legal formalism they considered "oppressive" have actually been far more progressive and ahead of social, ethical, and political changes.
 In contrast, Adorno @Braunstein2018Wahrheit, Habermas @Habermas2023Principle, 
-Lyotard @Fruteau2024Deleuze, Foucault @Said2000My, and Derrida (especially early Derrida) @Ryder2013Derrida all supported Israel. 
+Lyotard @Fruteau2024Deleuze, Foucault @Said2000My, and Derrida (especially early Derrida) @Ryder2013Derrida all supported Israel at that time. 
 
-Yes, Habermas. I am really disappointed with his statement. 
-I now completely understood #posscite(<Said2000My>) anger towards Foucault. 
+I don't care about Lyotard, Derrida, and Foucault because I oppose post-structuralism, and their support for Israel only makes me think, "I knew it!" Habermas, however, really makes me disappointed and angry. I used to like him because his communicative rationality theory, and he advocated for rebuilding the "unfinished Enlightenment." I completely understood #posscite(<Said2000My>) feeling when I saw Habermas's opinion.  
 At this moment, Habermas abandoned his reason, regressed to a state of minority, 
 allowing "Germany's historical trauma" and (so-called) "Germany's special responsibility to Israel" to become his guardians and take over his reason. 
 This once again proves that one cannot rely on any off-the-shelf philosopher as their guardian. 
 No one can think for us -- not Foucault, not Habermas, not even Kant.
 
 Goldschmidt, similar to Einstein, was a German Jewish scientist who fled Nazi persecution. 
-This is an example of the European history where science itself is not oppressive, but other, a tragic hero. 
+This is an example of the European history where science itself is not oppressive, but other, a tragic victim. 
 Historically, a true Kallipolis ruled by pure reason has never existed; 
 reason has almost always been the dissenting voice, being weak, excluded, and suppressed by power. 
 We only have irrationality that is disguised as rationality. 
@@ -180,7 +145,7 @@ That sentence in the Mauthausen concentration camp is deafening: If there is a G
 
 Critics from the post-structuralist camp often argue that "Universal Reason" is a grand narrative constructed by the privileged (white, male, colonial) to erase the "Other." This is a fundamental misunderstanding of this term, almost an oxymoron. A rule is universal only when it applies to everyone without exception. A privilege, by definition, is an exception granted to a specific group; it cannot apply to everyone and is therefore not universal. Thus, a firm commitment to universalism and reason is not a tool for privileged groups to defend their status -- logically, it cannot be. On the contrary, it is the last refuge of the weak.
 
-I was born in a small town in a third-world country. I am not European, not white, not male (well, that depends on how we define "male"), not cisgender, not heterosexual, and not a coloniser. My mother was a textile worker, and my father was a machine worker. I was constantly excluded and bullied in elementary and middle school because of my personality. After growing up, as a transgender biologist who supports gender abolition, I have become an outsider to all political camps. I have no group, no tribe, no community, no recognised identity to shelter me. The only thing I have is these principles that should apply to all people equally and without exception. The bullies at school could pull down my pants and throw away my shoes, the discourse police in online communities can distort my words and ban my account, but no one can stop me from, as Kant said, having the courage to use my own _reason_ to point out how arbitrary and baseless their rules are.
+I was born in a small town in a third-world country. I am not European, not white, not male (well, that depends on how we define "male"), not cisgender, not heterosexual, and not a coloniser. My mother was a textile worker, and my father was a machine worker. I was constantly excluded and bullied in elementary and middle school because of my personality and gender expression. After growing up, as a transgender biologist who supports gender abolition, I have become an outsider to all political camps. I have no group, no tribe, no community, no recognised identity to shelter me. The only thing I have is the courage to use my reason. It tells me that principles should apply to all people equally and without exception. The bullies at school could pull down my pants and throw away my shoes, the discourse police in online communities can distort my words and ban my account, but no one can stop me from, as Kant said, having the courage to use my own _reason_ to point out how arbitrary and baseless their rules are.
 
 // _A man can be destroyed but not defeated._ 
 
