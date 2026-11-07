@@ -1,7 +1,7 @@
 #import "lib.typ": *
 
 #show: cupst.with(
-  title: [An Autobiography of a Heretical Transgender (Gender-fluid) Evolutionary Biologist],
+  title: [An Autobiography of a Gender-fluid Biologist and an Enlightenment Manifesto],
   
   authors: (
     (
@@ -12,7 +12,6 @@
     ),
   ),
   affiliations: (
-    (id: "affi1", name: "Division of Ecology and Evolutionary Biology, School of Biological Science, University of Reading, Whiteknights, Reading, RG6 6EX, United Kingdom"),
     (id: "affi1", name: "Division of Ecology and Evolutionary Biology, School of Biological Science, University of Reading, Whiteknights, Reading, RG6 6EX, United Kingdom"),
   ),
   

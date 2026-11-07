@@ -2,9 +2,9 @@
 
 However, my ethical stance, which I developed in middle school, was not from Kant, but from Victor Hugo.
 The aforementioned disputes with online "feminists" and nationalists can also be traced back to some very interesting origins.
-It can be traced to my middle school language arts (Chinese) class. Shaped by the works of Victor Hugo, I developed an ethical stance that rejected collective guilt and emphasized individual responsibility. This stance can be traced to an article of him in my language art textbook, _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_).In this article, he wrote, "However, I protest, and I thank you for giving me this opportunity. The crimes of the rulers are not the fault of the ruled; governments are sometimes bandits, but the people never are". 
+It can be traced to my middle school language arts (Chinese) class. Shaped by the works of Victor Hugo, I developed an ethical stance that rejected collective guilt and emphasized individual responsibility. This stance can be traced to an article of him in my language art textbook, _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_).#footnote[Originally published in _Le Monde diplomatique_: #textcite(<hugo1861lettre>).] In this article, he wrote, "However, I protest, and I thank you for giving me this opportunity. The crimes of the rulers are not the fault of the ruled; governments are sometimes bandits, but the people never are". 
 
-However, another article, Hualing Nieh Engle (聂华苓)'s _Dear Papa and Mama_ (亲爱的爸爸妈妈) appeared in the same textbook, 
+However, another article, Hualing Nieh Engle (聂华苓)'s _Dear Papa and Mama_ (亲爱的爸爸妈妈) appeared in the same textbook,#footnote[Originally published in _People's Daily_: #textcite(<Nieh1989Dear>).]
 which is about a memorial commemoration event of the Nazi massacre in Kragujevac, Yugoslavia. 
 In the event, writers from all over the world discussed "War and Literature." Among them was a West German writer who made a statement that I found very confusing:
 "... I have a sense of guilt: I feel as if it was I who killed those children. We are simply beasts! 
@@ -28,7 +28,7 @@ which does not grant the victims the right to indiscriminately attack the former
 because this power clearly did not receive authorisation from all people in the group it claimed to represent. 
 
 This experience serves as a criticism of reason as a "hegemony" by post-structuralism and feminist philosophy of science @Irigaray1985Subject@Harding1986Science. 
-Because my reliance on reason is not "a thought of male privilege." 
+Because my reliance on reason is not "a thought of male privilege" (as accused by some online "feminists").
 My childhood experiences made me feel that the real world is chaotic and painful, while mathematics, logic, and science are beautiful. 
 I remember very clearly when I was being bullied, how my heart raced, my legs trembled, and tears streamed down my face uncontrollably, 
 while I insisted on telling them, "You only hit me because your ideas are all unreasonable, because you can't win a debate against me." 
@@ -37,6 +37,7 @@ Reason was the only shield of that little girl in the red shoes in her most vuln
 In a world full of chaos and pain, it is the only clean, pure, and trustworthy thing. It is her shield, his home, their shelter. 
 (I am not saying "reason is a feminine trait," which is another form of gender stereotype. 
 I am saying that my love for reason and universalism shares a common origin with the female component of my gender identity.) 
+
 Actually, reason and objectivity are a long-standing tradition in feminism @Antony2018Mind. 
 So their claim was not only a misinterpretation of my personal experience, but also a misinterpretation of feminism itself.
 

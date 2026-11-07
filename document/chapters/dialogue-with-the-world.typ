@@ -1,6 +1,6 @@
 #import "../lib.typ": *
 
-I acknowledge that this article is significantly going off-topic. 
+I acknowledge that this article is significantly going crazy. 
 However, a powerful passion drives me to continue writing.
 In this section, I will demonstrate that reason has never been dominant in our society,
 rather, irrationality is a long-established hegemony.
@@ -13,13 +13,14 @@ Thus, this is an unavoidable point.
 
 == Conservatives are irrational
 
-The first example is that conservatives believe that sex is only related to gametes. However, they insist on the gonadal or genital in practice, which is self-contradictory. If sex is only about gametes, then sex cannot be externally observed. Assigned sex at birth is technically impossible to implement. Almost all gender-segregated facilities should be completely abolished. Using bathrooms based on gametes is meaningless. Most people do not know if they are chimaeras capable of producing two types of gametes. (Such individuals truly exist, see: #plaincite(<Parvin1982Ovulation>).)
+The first example is that conservatives believe that sex is only related to gametes. I agree with this definition @Lehtonen2014Gamete@Goymann2023Biological@Hurst1996There@Griffiths2025Biology. However, they insist on the gonadal or genital in practice, which is self-contradictory. If sex is only about gametes, then sex cannot be externally observed. Assigned sex at birth is technically impossible to implement. Almost all gender-segregated facilities should be completely abolished. Using bathrooms based on gametes is meaningless. Most people do not know if they are chimaeras capable of producing two types of gametes.#footnote[Such individuals truly exist, see: #plaincite(<Parvin1982Ovulation>).]
 
-This even includes some conservative scientists, like #textcite(<Sokal2024Sex>), who claim that sex is an "objective biological reality," "determined at conception and observed at birth." I agree that sex _sensu stricto_ is a biological reality. While according to #textcite(<Jones2006Gamete>), "Conception occurs when a sperm and an ovum fuse to become a zygote," "The process of fertilisation, or conception, involves fusion of the nucleus of a male gamete (sperm) and a female gamete (ovum) to form a new individual." At "conception" (fertilisation), it is just a zygote, a single cell. It cannot produce gametes and does not have a body. It has neither sex _sensu stricto_ nor phenotypic sex. Even if its genome will guides it to develop into a typical phenotypic male or female under normal conditions, it will not necessarily be so. For instance, if a 46, XY zygote loses its Y chromosome during the first mitotic division after fertilisation, it will develop into a 45, X0/46, XY chimaera (mixed gonadal dysgenesis) or a 45, X0 individual with Turner syndrome @Gravholt2017Clinical, Jacobs1997Turner, Lopes2014Mosaicism.
+This even includes some conservative scientists, like #textcite(<Sokal2024Sex>), who claim that sex is an "objective biological reality," "determined at conception and observed at birth." I agree that sex _sensu stricto_ (gametes) is a biological reality. While according to #textcite(<Jones2006Gamete>), "Conception occurs when a sperm and an ovum fuse to become a zygote," "The process of fertilisation, or conception, involves fusion of the nucleus of a male gamete (sperm) and a female gamete (ovum) to form a new individual." At "conception" (fertilisation), it is just a zygote, a single cell. It cannot produce gametes and does not have a body. It has neither gametic sex nor anatomical sex. Even if its genome will guides it to develop typical male or female anatomical characteristics under usual conditions, it will not necessarily be so. For instance, if a 46, XY zygote loses its Y chromosome during the first mitotic division after fertilisation, it will develop into a 45, X0/46, XY chimaera (mixed gonadal dysgenesis) or a 45, X0 individual with Turner syndrome @Gravholt2017Clinical@Jacobs1997Turner@Lopes2014Mosaicism.
 
 == Progressives are irrational
 
-Some gender studies scholars and transgender communities believe that gender identity is an internal self-awareness, and imposing an identity is wrong. Then, the gender identity of most people should be "undefined." Their imposing the label "cisgender" is not only self-contradictory, but also implies that transgender people are "cisgender" at birth.
+Some gender studies scholars and transgender communities believe that gender identity is an internal self-awareness, and imposing an identity is wrong @Butler2025Who[chapter 6]. Then, the gender identity of most people should be "undefined." Classifying non-transgender people as "cisgender" is imposing an identity on them. The definition of "cisgender" is "individuals whose sex assigned at birth aligns with their gender identity" @APADictCisgender. 
+Therefore, if we don't know a person's gender identity, we cannot know whether their sex assigned at birth aligns with their gender identity. Thus, we are unable to determine whether they are "cisgender" or "transgender." Calling them "cisgender" effectively assumes that they possess a gender identity consistent with their sex assigned at birth—yet the vast majority of them have never expressed such an identity.
 
 // Another thing I did not understand is why the English-speaking world chose to fix _man_ as masculine, rather than resurrect the Old English masculine word _wǣpnedmann_ and modernising it to _weaponedman_ (or shortening it to something like _poman_). In this way, we only need to revise the masculine _man_, and all words with the suffix _-man_ could be preserved. This solution has minimal impact and perfectly solves the problem of "why _woman_ includes _man_": _woman_ is a kind of _man_, so of course it includes _man_. In contrast, fixing _man_ as masculine required modifying almost all words with the suffix _-man_, which is far more troublesome and could not resolve the issue of _woman_.
 
@@ -35,17 +36,6 @@ They completely ignored the fact that they are also using many terms in ways inc
 
 // In the same book, they said that "For some Christians, natural law and divine will are the same: God made the sexes in a binary way ... Regardless, this older _science_ holds to the proposition that sex differences are established in natural law ..." This is almost the most ridiculous text that I have ever read. What does Christianity have to do with "science"? Additionally, they also created the term "gender dimorphism" without giving a clear definition, but what on earth is it? We only have "sexual dimorphism." In another chapter, they arbitrarily switched to "sexual dimorphism." What is the difference between the two terms? If they are interchangeable, why do Butler use both of them in the same book? They stated that it "is neither a simple fact nor an innocent hypothesis. It functions as a norm, if not a demand, that orders the way we see ... In such cases, the hypothesis is not revised by the evidence that is found; it forecloses that evidence, revealing itself as an obligatory epistemic norm, a compulsory phantasm, rather than good science." It seems that they confused "sex" (phenotypic sex) with sexual dimorphism. The phenotypic sex is a social norm, because it has direct impacts on our bodies, especially for intersex (intergenital) people. I take it that the traits included in phenotypic sex are a subset of sexually dimorphic traits. Nonetheless, sexual dimorphism itself is not a norm, given that it is also manifested in height, fat mass, muscle mass, bones, body shape and so on @Wells2007Sexual. The difference is clear: a person with sexually atypical height, fat, muscle, bones or body shape is not considered "intersex" and forced to undergo surgery like what intersex people experienced.
 
-// Moreover, such situations also exist in areas other than gender: Why can a person openly display the Iron Cross but not the swastika? Although the use of the swastika in Germany for Buddhism and Hinduism (as well as for historical education and research) is still permitted, there is no similar restrictions for the Iron Cross, like "for military uses only." Is this fair to Germany's East and South Asian immigrants? Both are cultural symbols with long histories that predate the Nazis. The swastika's history is even longer than the Iron Cross's, and we can even find right-facing, rotated 45° Buddhist swastikas on some ancient buildings in China. Its pre-Nazi usage was also more peaceful than the Iron Cross, which was associated with the Prussian army even before the Nazis. Is the only difference that the Iron Cross is "German," while the swastika is not? The former is "our," "Deutschness" national culture, to be cherished, saved, and purified; the latter is "external," "Other," "non-Deutschness," can be arbitrarily defined by the Nazis, and cannot be reclaimed after being tainted by them. Does this mean that Germany is still essentially a nation-state of the German people, just claiming not to be one in words?
-
-// #figure(
-//     image("../figures/Sayagata_motives_on_wall.jpg", width: 100%),
-//   caption: [
-//     Both left- and right-facing, rotated 45° Buddhist swastikas on a Chinese ancient building. Author: #link("https://commons.wikimedia.org/wiki/User:Yongxinge")[Yongxinge], CC BY-SA 3.0.
-//   ],
-// )<fig-sayagata>
-
-// Why is the Iron Cross not an unconstitutional symbol? Because the Wehrmacht is not an unconstitutional organisation. Why is the Wehrmacht not an unconstitutional organisation? Because "we" stipulated that it is not. However, historical research shows that the Wehrmacht was far from innocent @Wette2006Wehrmacht. This seems to be a self-fulfilling prophecy. The legislators of the Federal Republic of Germany prophesied: "The Iron Cross can be saved and purified, while the swastika cannot." Then, they passed legislation allowing the unrestricted use of the Iron Cross while completely banning the swastika, ensuring that this prophecy would forever be true.
-
 == Nazis are irrational
 
 #textcite(<Adorno1997Dialectic>) made a foundational misdiagnosis. Nazism is not rational at all. 
@@ -57,23 +47,28 @@ If they did not become extinct through natural selection, then this proves that 
 In both cases, Hitler didn't need to do anything. 
 This demonstrates that Hitler did not really believe in his public ideology. 
 
-// Moreover, Why are they inferior to Germans? Mr. Hitler, how do you quantify inferiority and superiority? 
-// Which area of the brain is related to them? What are the anatomical differences between inferior and superior people? How do you prove it?
-// How to prove that Jews generally have this brain structure? 
-// What selection pressures made morally inferior Jews have higher fitness and leave more offspring than morally superior Jews? 
-// When did the morality of the Jews begin to decline? During the era of the Kingdom of Israel or during the Diaspora? 
-// If it were during the Kingdom of Israel, why didn't the same selection pressures act on other Levantine peoples living in the same environment? 
-// If it was during the Jewish Diaspora, why didn't the same selection pressures act on European peoples? 
-// #footnote[Honestly, the first time I came up with the idea that "a world that completely follows science would be so free and equal" 
-// was about a question very similar to the Nazi's anti-scientific propaganda, and that question was about gender: 
-// somebody says that female students are not good at learning science. What is the evidence? 
-// Which area with what structure of our brain helps us learn science? What is the relationship between these brain structures and sex? 
-// Do sex hormones promote the differentiation of brain structure in different directions in the early fetus? 
-// Was this process shaped by sexual selection? Where did the selection pressure come from? How was this hypothesis verified?]
+Moreover, Why are they inferior to Germans? How do you define inferiority and superiority? 
+Which area of the brain is related to them? What are the anatomical differences between inferior and superior people? How do you prove it?
+How to prove that these people generally have this brain structure? 
+What selection pressures made morally inferior individuals have higher fitness and leave more offspring in these people?
+If you asked these questions, you would definitely be arrested by the Gestapo.
 
 Nazis' appropriation of scientific knowledge does not prove that science inherently contains a tendency of oppression. 
-Otherwise, we could argue that because Israel abuses Deleuzian philosophy @Weizman2006, therefore Deleuze is inherently Zionist. 
+If "A uses B's theory" implies "B contains a tendency of A", we could argue that because Israel abuses Deleuzian philosophy @Weizman2006, therefore Deleuze contains a Zionist tendency. 
 This conclusion is obviously senseless because Deleuze supported Palestine @Fruteau2024Deleuze.
+
+
+
+// Moreover, such situations also exist in areas other than gender: Why can a person openly display the Iron Cross but not the swastika? Although the use of the swastika in Germany for Buddhism and Hinduism (as well as for historical education and research) is still permitted, there is no similar restrictions for the Iron Cross, like "for military uses only." Is this fair to Germany's East and South Asian immigrants? Both are cultural symbols with long histories that predate the Nazis. The swastika's history is even longer than the Iron Cross's, and we can even find right-facing, rotated 45° Buddhist swastikas on some ancient buildings in China. Its pre-Nazi usage was also more peaceful than the Iron Cross, which was associated with the Prussian army even before the Nazis. Is the only difference that the Iron Cross is "German," while the swastika is not? The former is "our," "Deutschness" national culture, to be cherished, saved, and purified; the latter is "external," "Other," "non-Deutschness," can be arbitrarily defined by the Nazis, and cannot be reclaimed after being tainted by them. Does this mean that Germany is still essentially a nation-state of the German people, just claiming not to be one in words?
+
+// #figure(
+//     image("../figures/Sayagata_motives_on_wall.jpg", width: 100%),
+//   caption: [
+//     Both left- and right-facing, rotated 45° Buddhist swastikas on a Chinese ancient building. Author: #link("https://commons.wikimedia.org/wiki/User:Yongxinge")[Yongxinge], CC BY-SA 3.0.
+//   ],
+// )<fig-sayagata>
+
+// Why is the Iron Cross not an unconstitutional symbol? Because the Wehrmacht is not an unconstitutional organisation. Why is the Wehrmacht not an unconstitutional organisation? Because "we" stipulated that it is not. However, historical research shows that the Wehrmacht was far from innocent @Wette2006Wehrmacht. This seems to be a self-fulfilling prophecy. The legislators of the Federal Republic of Germany prophesied: "The Iron Cross can be saved and purified, while the swastika cannot." Then, they passed legislation allowing the unrestricted use of the Iron Cross while completely banning the swastika, ensuring that this prophecy would forever be true.
 
 == Modern Germany is irrational
 
@@ -92,7 +87,10 @@ Q.E.D.
 
 Germany's so-called "overcoming the past" is filled with a series of lies, self-contradictions, and doublethink.
 
-Germany's military aid to Israel's genocide crime in Gaza @Soussi2023War, defining the Boycott, Divestment, and Sanctions (BDS) movement and accusing Israel of genocide as so-called "anti-Semitism" @Kuras2023Strange@Whittle2024Germany is also this kind of exceptionalism. The concept of "special responsibility" is not a universal principle; it is an exceptionalist political tool used to justify specific foreign policies. It allows Germany to hypocritically present its geopolitical actions as an inevitable "moral" responsibility stemming from its unique history, rather than a matter of its national geopolitical interest. If Germany has a "special responsibility" towards Israel because of Nazis' genocide towards Jews, there is a frightening, hidden logic: "Israel," a sovereign state, has an inherent relationship with Jews, an ethnic group. This is almost isomorphic with the Nazis' racial theory that claimed a relationship between Germany and "Aryans."
+Germany's military aid to Israel's genocide crime in Gaza @Soussi2023War, defining the Boycott, Divestment, and Sanctions (BDS) movement and accusing Israel of genocide as so-called "anti-Semitism" @Kuras2023Strange@Whittle2024Germany is also this kind of exceptionalism. The concept of "special responsibility" is not a universal principle; it is an exceptionalist political tool used to justify specific foreign policies. It allows Germany to hypocritically present its geopolitical actions as an inevitable "moral" responsibility stemming from its unique history, rather than a matter of its national geopolitical interest. 
+
+Moreover, what does Israel have to do with the Nazis' genocide of Jews? Especially considering that Israel was not even established at that time. The Nazis' genocide of Jews was a crime against the Jewish people, not a crime against Israel. Israel is a legal entity established in 1948. 
+If Germany has a "special responsibility" towards Israel because of Nazis' genocide towards Jews, there is a frightening, hidden logic: "Israel," a sovereign state, has an inherent relationship with Jews, an ethnic group. This is almost isomorphic with the Nazis' racial theory that claimed a relationship between Germany and "Aryans." 
 
 == The United States is irrational
 
