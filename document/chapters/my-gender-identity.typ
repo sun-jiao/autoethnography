@@ -4,8 +4,8 @@ After the puzzlement and online conflicts, I read some neurological studies.
 
 I suspect that the dominant "born this way" narrative is primarily driven by the subjective experience of many transgender people. I explicitly admit this experience. I also fell that my gender identity subjectively very "innate". However, I suggest that we should describe this experience as "pre-reflective" rather than "innate". Because a neurological process can be acquired, yet subjectively feels like "innate" @Gutchess2006@Kitayama_2010@Mason_2010@Qu_2021. Subjective experience does not prove that the trait is actually innate. Our subjective experience is about how a process operates: through embodied habits, rapidly and without deliberate reflection. "Innate", on the other hand, concerns how that process originated. 
 
-Predictive processing (PP) offers a promising explanation. On this account, experience informs predictions that operate without our awareness of making an inference @Clark2013Whatever. 
-In recent studies, this framework has been used not only to explain low-level sensory processes but also to account for the influence of culture.
+Predictive processing (PP) offers a promising explanation. On this account, experience informs predictions that operate without our awareness of making an explicit inference @Clark2013Whatever. 
+In recent studies, this framework has been used not only to explain low-level sensory processes but also to account for the influence of culture @constant2021acquisition, including gender @Clausen2021Action @Tacikowski2020Fluidity.
 The "Thinking Through Other Minds" (TTOM) model proposed by #textcite(<Veissi_re_2019>) describes how prior experience, cultural scripts, and social learning can structure predictions about social behaviour. 
 Its core claim is that humans acquire shared habits, norms, and expectations through immersion in patterned cultural practice, and that these expectations selectively shape attention and action. 
 Through learning and practising cultural a prioris, we learn what others expect, how they act, and which norms they share. These acquired expectations guide what we attend to and what we do. We thereby "outsource" much of our cognition by inferring the priors of other people. An expectation connecting bodily form with personality can become one of these culturally acquired priors.
@@ -15,16 +15,14 @@ The female components of my gender identity will be discussed first, followed by
 
 I suspect my preference for the feminine _Jiāo_ 
 was shaped by repeated misuse. 
-It was frequently miswritten or mistyped as the feminine _Jiāo_ 
-in my life, 
-due to the input method issue mentioned earlier (@fig-name-shoes a, b). 
+My legal name (the neutral _Jiāo_) was frequently miswritten or mistyped as the feminine _Jiāo_ 
+in my life due to the input method issue mentioned earlier (@fig-name-shoes a, b). 
 I felt ashamed and uncomfortable about it when I was in elementary and middle school, but I gradually came to like it. 
 The cultural a priori association of the feminine _Jiāo_ 
 serves as a foundation when my brain infers the priors of other people. 
-If everyone calls me by the feminine _Jiāo_
-, then my brain may update its self-model to resolve this persistent prediction error and believe that it is really my name.
-If other people expect a girl when they see this name, 
-then my brain may update its self-model to resolve this persistent prediction error and believe that I am a girl.
+If everyone calls me by the feminine _Jiāo_, then my brain may update its self-model to resolve this persistent prediction error and believe that it is really my name.
+If the shared social prior is that the feminine _Jiāo_ is a girl's name, 
+then my brain may update its self-model to resolve this prediction error and believe that I am a girl.
 
 #full-width[#figure(
     image("../figures/feminine_name_and_shoes.jpg", width: 70%),
@@ -58,7 +56,7 @@ which were later sold in China.
 The colour of indoor shoes is also usually
 assigned based on gender in Japan, but some schools assign colours by grade level @Kanzaki2019Shogakko. 
 This reveals that the shoe itself has no fixed gender meaning, 
-but artificially assigned in a specific context, which is part of the cultural a priori.
+but artificially assigned in a specific context, which then forms a cultural a priori.
 
 It is also a crucial childhood memory that adults considered my personality to be like a little girl's,
 probably because I liked playing with stuffed animal toys and disliked sports and fighting. 
@@ -111,7 +109,7 @@ Therefore, it is concluded that: the female component of my "gender identity" is
 a synthesis of the internalised reaction to childhood experiences and trauma and the envy of female reproductive function. (@fig-bundle)
 
 #full-width[#figure(
-    image("../figures/bundle_of_gender_identity.svg"),
+    image("../figures/bundle_of_gender_identity-simplified_2.svg"),
   caption: [
     Origins of the author's gender identity. 
     Arrows represent my retrospective hypothesised relationships rather than definitely established causal effects.
@@ -161,5 +159,5 @@ How the same ethical stance is interpreted and what "gender" it is assigned depe
 the observer's position, and even an instrumental purpose in a specific context. 
 The interpretation is not based on any objective, consistent standard, but serves the interpreter's own political agenda. 
 
-Thus, this phenomenon not only occurs in childhood but also appears continuously throughout a person's life. Through a process of cultural learning akin to TTOM, which begins in childhood and throughout our lives, we internalize expectations regarding how others perceive us and use these expectations to infer our self-identity and organise our behaviour. When a particular configuration conflicts with these expectations, prediction errors may arise, prompting the individual to adjust their self-model or alter their behaviour. The resulting gender identity does not necessarily align with the sex assigned at birth. 
+Thus, this phenomenon not only occurs in childhood but also appears continuously throughout a person's life. Through a process of cultural learning, which begins in childhood and throughout our lives, we internalize expectations regarding how others perceive us and use these expectations to infer our self-identity and organise our behaviour. When a particular configuration conflicts with these expectations, prediction errors may arise, prompting the individual to adjust their self-model or alter their behaviour. The resulting gender identity does not necessarily align with the sex assigned at birth. 
 

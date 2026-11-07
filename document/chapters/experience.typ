@@ -41,14 +41,16 @@ I was also delighted when friends described me as "quiet" and "virtuous"
 because I didn't talk much and cooked during parties, 
 as well as when my handmade hog plum (_Choerospondias axillaris_) bracelet was considered to be from a girl at a gift-exchange event. 
 
-For private digital self-exploration, I secretly used deep learning-based image-to-image models to create some feminised photos of myself. 
-I also scanned my ID card and graduation certificate, changed the sex marker, replaced the photo.
-Since I remained in my undergraduate student club's group chat after graduation, one day I saw some new students joining the group. 
-I told one of them that I was a girl and sent an AI-modified photo. They replied, "Wow, a pretty sis." I was incredibly delighted.
+Additionally, for private digital self-exploration, I secretly used deep learning-based image-to-image models to create some feminised photos of myself. In an artificial intelligence
+class, one homework was to determine the gender based on provided names. I changed
+all the people with the same name as me in the dataset to "female." 
+// I also scanned my ID card and graduation certificate, changed the sex marker, replaced the photo.
+// Since I remained in my undergraduate student club's group chat after graduation, one day I saw some new students joining the group. 
+// I told one of them that I was a girl and sent an AI-modified photo. They replied, "Wow, a pretty sis." I was incredibly delighted.
 
-During this time, I had wondered whether I was "transgender" and tried to understand it. 
+During this time, I had wondered whether I was "transgender" and tried to understand This concept. 
 However, I kept encountering intellectual barriers, such as: 
-What is gender identity? Where does it come from? What is its relationship to "gender"?  
+What is gender identity? Where does it come from? What is its relationship to "gender" (in the sense as a social construct)?  
 If the term "gender" refers to a sociocultural category, then it is essentially an identification with a social construct. 
 This contradicts the so-called "innate, inherent feeling" @APA2015Guidelines@NHS2022Gender. 
 If it points to phenotypic sex, this contradicts the sex/gender distinction, 
@@ -56,12 +58,12 @@ and how does an identity with gender lead to a desire for bodily modification (s
 If it refers to "gender identity" itself, this constitutes a ridiculous tautology, 
 "gender identity is an identity with gender identity."
 
-// The most serious issue was that I would cast myself in the role of the female protagonist when reading some adult stories, and sometimes I couldn't distinguish between fantasy and reality. A few months ago, I was reading an adult story about psychological manipulation. I identified with the manipulated character and, for a long time, did not realise it was a story about psychological manipulation, believing the manipulator was genuinely trying to protect "me." However, when I realised he was manipulating and using "me," I had a severe nightmare. I dreamt that "I" was crying and begging him to continue deceiving "me." I woke up from the dream in the middle of the night and sat in my room for a long time, unable to fall back asleep.
-
-Therefore, I concluded that this theory was intellectually unsatisfying. I quickly abandoned it and thought that this was just a meaningless fantasy.
+Therefore, I felt that this theory was intellectually unsatisfying. I quickly abandoned it and thought that my gender identity was just a meaningless fantasy.
 For a long time afterwards, I continued this "meaningless fantasy," but it increasingly affected my life. I realised that I had to take this matter seriously. 
-Therefore, I presented my conceptual analysis in some transgender communities to seek some explanations. 
-However, some respondents nevertheless interpreted my rejection of the "born this way" account as a rejection of the authenticity of gender identity itself. They consequently questioned whether I was genuinely transgender, treated my questions as trolling, and accused me of using ChatGPT to generate anti-transgender propaganda. I was both angry and disappointed. More importantly, however, I still needed to answer the questions that had led me there, so I continued the inquiry independently.
+Therefore, I presented my conceptual questions in some transgender communities to seek some explanations. 
+However, some members of these communities consequently questioned whether I was sincere, treated my questions as trolling, and accused me of using ChatGPT to generate anti-transgender propaganda. I was both angry and disappointed. More importantly, however, I still needed to answer the questions that had led me there, so I continued the inquiry independently.
+
+// The most serious issue was that I would cast myself in the role of the female protagonist when reading some adult stories, and sometimes I couldn't distinguish between fantasy and reality. A few months ago, I was reading an adult story about psychological manipulation. I identified with the manipulated character and, for a long time, did not realise it was a story about psychological manipulation, believing the manipulator was genuinely trying to protect "me." However, when I realised he was manipulating and using "me," I had a severe nightmare. I dreamt that "I" was crying and begging him to continue deceiving "me." I woke up from the dream in the middle of the night and sat in my room for a long time, unable to fall back asleep.
 
 // Once, we went camping and played an ice-breaking game called "King and Angel." #footnote[This is a game in which everyone will be an "angel" of their "King"  and need to do everyone's best to take care of their "King" In the final reveal, everyone needs to try to name their "Angel" according to the care they received. And the word "国王" _guó wáng_, which literally means "monarch of a country," is theoretically gender-neutral in Chinese, though has been used to translate "King."] I gave my "King" a handmade hog plum (_Choerospondias axillaris_) bracelet, placing it into their clothes with a note. During the final reveal, the "King" said that upon seeing such a fantastic bracelet and delicate handwriting, they thought it would be from a girl. I secretly felt extremely pleased about that.
 

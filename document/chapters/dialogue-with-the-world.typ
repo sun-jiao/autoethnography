@@ -1,6 +1,6 @@
 #import "../lib.typ": *
 
-I acknowledge that this article is significantly going crazy. 
+I acknowledge that this article is significantly going off-topic. 
 However, a powerful passion drives me to continue writing.
 In this section, I will demonstrate that reason has never been dominant in our society,
 rather, irrationality is a long-established hegemony.
@@ -13,7 +13,7 @@ Thus, this is an unavoidable point.
 
 == Conservatives are irrational
 
-The first example is that conservatives believe that sex is only related to gametes. I agree with this definition @Lehtonen2014Gamete@Goymann2023Biological@Hurst1996There@Griffiths2025Biology. However, they insist on the gonadal or genital in practice, which is self-contradictory. If sex is only about gametes, then sex cannot be externally observed. Assigned sex at birth is technically impossible to implement. Almost all gender-segregated facilities should be completely abolished. Using bathrooms based on gametes is meaningless. Most people do not know if they are chimaeras capable of producing two types of gametes.#footnote[Such individuals truly exist, see: #plaincite(<Parvin1982Ovulation>).]
+The first example is that conservatives believe that sex is only related to gametes. I agree with this definition @Lehtonen2014Gamete@Goymann2023Biological@Hurst1996There@Griffiths2025Biology. However, they insist on the gonadal or genital in practice, which is self-contradictory. If sex is only about gametes, then sex cannot be externally observed. Assigned sex at birth is technically impossible to implement. Almost all gender-segregated facilities should be completely abolished. Using bathrooms based on gametes is meaningless. Because most people do not know if they are chimaeras capable of producing two types of gametes.#footnote[Such individuals truly exist, they could be completely unaware of this for decades, see: #plaincite(<Parvin1982Ovulation>).]
 
 This even includes some conservative scientists, like #textcite(<Sokal2024Sex>), who claim that sex is an "objective biological reality," "determined at conception and observed at birth." I agree that sex _sensu stricto_ (gametes) is a biological reality. While according to #textcite(<Jones2006Gamete>), "Conception occurs when a sperm and an ovum fuse to become a zygote," "The process of fertilisation, or conception, involves fusion of the nucleus of a male gamete (sperm) and a female gamete (ovum) to form a new individual." At "conception" (fertilisation), it is just a zygote, a single cell. It cannot produce gametes and does not have a body. It has neither gametic sex nor anatomical sex. Even if its genome will guides it to develop typical male or female anatomical characteristics under usual conditions, it will not necessarily be so. For instance, if a 46, XY zygote loses its Y chromosome during the first mitotic division after fertilisation, it will develop into a 45, X0/46, XY chimaera (mixed gonadal dysgenesis) or a 45, X0 individual with Turner syndrome @Gravholt2017Clinical@Jacobs1997Turner@Lopes2014Mosaicism.
 
@@ -72,18 +72,9 @@ This conclusion is obviously senseless because Deleuze supported Palestine @Frut
 
 == Modern Germany is irrational
 
-The German Basic Law's Article 19, Paragraph 1 explicitly stipulates that "if a fundamental right is restricted, the law must be of general application and cannot be directed solely at an individual case." However, Section 130(3) of the German Criminal Code is a _lex specialis_--it specifically prohibits the denial of the Nazi Holocaust, but does not prohibit the denial of the genocide committed by the German Empire in Namibia, nor any other genocide. In 2009, the Federal Constitutional Court of Germany, in its Wunsiedel decision, acknowledged that this provision is indeed a _lex specialis_, yet sophistically argued that it constitutes an exception rooted in Germany's unique history.@payandeh2010limits
+The German Basic Law's Article 19, Paragraph 1 explicitly stipulates that "if a fundamental right is restricted, the law must be of general application and cannot be directed solely at an individual case." However, Section 130(3) of the German Criminal Code is based on a specific case--it specifically prohibits the denial of the Nazi genocide, but does not prohibit the denial of the genocide committed by the German Empire in Namibia, nor any other genocide. In 2009, the Federal Constitutional Court of Germany, in its Wunsiedel decision, acknowledged that this provision is indeed an _ad hoc_ law, yet sophistically argued that it constitutes an exception rooted in Germany's unique history.@payandeh2010limits
 
-+ Major premise: If a fundamental right is restricted, the law must be of general application and cannot be directed at a particular scenario.
-+ Minor premise: Section 130(3) of the German Criminal Code constitutes a restriction on a fundamental right (freedom of expression).
-+ Conclusion: Section 130(3) of the German Criminal Code must be of general application. ($P$)
-+ The Federal Constitutional Court, however, maintains that -- due to Germany's unique history -- Section 130(3) need not be of general application. ($not P$)
-
-According to the principle of explosion, a system containing a contradiction ($P and not P$) allows for the derivation of any arbitrary, absurd conclusion -- such as "the Chancellor of Germany is a reptilian," "Germany does not exist," "Germany is a puppet of the United States," or "we should overthrow the German government by force" -- and so on…
-
-Thus, it is proven that, under German law, the Chancellor of Germany is a reptilian. 
-
-Q.E.D.
+_Lex superior derogat legi inferiori_ (a higher law overrides a lower law) is higher than _lex specialis derogat legi generali_ (a specific law overrides a general law). _Lex specialis derogat legi generali_ applies only among laws of the same hierarchical rank. When the conflicting laws belong to difference ranks, the higher-level one always take precedence, unless it explicitly stipulated that a specific lower-level law should take precedence in a given situation. Obviously, the German Basic Law does not give such an exception. 
 
 Germany's so-called "overcoming the past" is filled with a series of lies, self-contradictions, and doublethink.
 

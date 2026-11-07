@@ -44,7 +44,7 @@
 
 #include "chapters/experience.typ"
 
-= Gendered Through Other Minds
+= My Gender Identity
 
 #include "chapters/my-gender-identity.typ"
 
