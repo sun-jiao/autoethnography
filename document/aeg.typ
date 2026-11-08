@@ -97,4 +97,4 @@
   This study is a self-reflective autobiographical inquiry by the sole author. All references to third parties are fully anonymised, requiring no institutional review board (IRB) approval.
 ]
 
-#bibliography("references.bib", style: "chicago-author-date")
+#bibliography("references.bib", style: "chicago-author-date", title: "References")

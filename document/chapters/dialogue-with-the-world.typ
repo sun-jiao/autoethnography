@@ -39,9 +39,8 @@ They completely ignored the fact that they are also using many terms in ways inc
 == Nazis are irrational
 
 #textcite(<Adorno1997Dialectic>) made a foundational misdiagnosis. Nazism is not rational at all. 
-
 If Jews, Roma, and Slavs were "inferior races," then according to evolutionary theory, 
-they would soon naturally become extinct. Why didn't Germany simply wait for it and then seize their land and property peacefully? 
+they would soon naturally become extinct. Why didn't Hitler simply wait for it and then seize their land and property peacefully? 
 Why did Hitler launch a large-scale genocide against them? 
 If they did not become extinct through natural selection, then this proves that they were not "inferior races," thus falsifying Hitler's hypothesis. 
 In both cases, Hitler didn't need to do anything. 
@@ -52,6 +51,8 @@ Which area of the brain is related to them? What are the anatomical differences 
 How to prove that these people generally have this brain structure? 
 What selection pressures made morally inferior individuals have higher fitness and leave more offspring in these people?
 If you asked these questions, you would definitely be arrested by the Gestapo.
+
+If Hitler's justification was that "they did not adapt to my Nationalsozialismus environment," then this is completely a circular reasoning: we must kill them, because they are inferior, the fact that we're killing them manifested that they did not adapt to our environment, and they did not adapt to the environment demonstrated that they are inferior.
 
 Nazis' appropriation of scientific knowledge does not prove that science inherently contains a tendency of oppression. 
 If "A uses B's theory" implies "B contains a tendency of A", we could argue that because Israel abuses Deleuzian philosophy @Weizman2006, therefore Deleuze contains a Zionist tendency. 
