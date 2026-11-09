@@ -15,20 +15,27 @@
   affiliations: (
     (
       id: "affi1",
-      name: "Division of Ecology and Evolutionary Biology, School of Biological Science, University of Reading, Whiteknights, Reading, RG6 6EX, United Kingdom",
+      name: "Division of Ecology and Evolutionary Biology, School of Biological Sciences, University of Reading, Whiteknights, Reading, RG6 6EX, United Kingdom",
     ),
   ),
 
   abstract: [
-    Genetic evidence is often used to support the "born this way" narrative in transgender issues. This article critically reviews quantitative-genetic and molecular-association research on gender identity. Drawing on these studies, we propose that they cannot prove gender identity is innate. Some of them conflate gender identity with gendered behaviour, masculine or feminine self-concept, or diagnostic symptoms. Many of them infer mechanisms from unrelated tissues, species, phenotypes, and developmental stages without empirical support. Additionally, they interpret genetic statistics as evidence of an intrinsic biological essence. We further recommend that a sociogenomic approach can investigate genetic antecedents without genetic essentialism with social context being taken into account. Genetics may help explain variation in pathways contributing to gender identity, but it cannot by itself establish the ontological status of gender identity.
+    *Background:* Genetic evidence is often used to support the "born this way" narrative in transgender issues. This article critically reviews quantitative-genetic and molecular-association research on gender identity.
+
+    *Main body:* I argue that the reviewed studies cannot prove that gender identity is innate. Some of them conflate gender identity with gendered behaviour, masculine or feminine self-concept, or diagnostic symptoms. Many of them infer mechanisms from unrelated tissues, species, phenotypes, and developmental stages without empirical support. Some interpret population-specific heritability estimates as evidence of an intrinsic biological essence. I also examine the "trans-brain" literature and predictive-processing accounts of why gender identity is often experienced as pre-reflective.
+
+    *Conclusion:* A sociogenomic approach can investigate genetic antecedents without genetic essentialism when social context is taken into account. Genetics may help explain variation in pathways contributing to gender identity, but it cannot by itself establish the ontological status of gender identity.
   ],
 
   keywords: (
-    "Gender",
     "Gender identity",
     "Genetics",
+    "Heritability",
     "Quantitative genetics",
-    "Sex", "Sex/Gender",
+    "Molecular genetics",
+    "Sociogenomics",
+    "Sex",
+    "Gender",
   ),
 
   // Article settings
@@ -51,13 +58,25 @@
   )
 )
 
-= Introduction
+#heading(numbering: none)[Highlights]
+
+- Genetic studies of gender identity measure different and often indirect phenotypes, so their results cannot be treated as estimates of one underlying trait.
+- Heritability is a population- and environment-specific statistic; it does not establish that gender identity is innate or biologically fixed.
+- Molecular associations are frequently extrapolated across tissues, species, phenotypes, and developmental stages without direct validation.
+- Gender identity is better understood as an institutional fact whose social context is constitutive, not merely a modifier of expression.
+- A sociogenomic framework using family-based, longitudinal, and cross-cultural designs can investigate genetic antecedents without genetic essentialism.
+
+#heading(numbering: none)[Plain English summary]
+
+Research on gender identity is often presented in the media and in courts as showing that being transgender is "in the genes". This review examines the studies behind that claim. It considers two kinds of evidence: twin and family studies that estimate how much of the variation in gender identity is associated with genetic variation, and molecular studies that look for specific genes. The review explains that heritability is a statistic about a particular population living in a particular range of environments. It does not show that a trait is fixed at birth or caused directly by genes. It also shows that many studies measure something other than gender identity, such as childhood gender-typical behaviour or symptoms of gender dysphoria, and that some findings are based on evidence from other tissues, species, or developmental stages. The review argues that social context is not simply an external influence on a pre-existing trait but part of what gender identity is. It concludes that genes may contribute to pathways that shape gender identity, but that genetic evidence cannot by itself prove that gender identity is innate. It recommends research that studies genetic and social processes together.
+
+= Background
 
 Gender identity is crucial to understanding and explaining transgender experiences in our society. 
 Quantitative genetic studies and molecular association studies have motivated claims viewing gender identity as an innate and biologically determined trait.
 
 In this article, I review multiple quantitative genetic studies and identify several recurring limitations. 
-The review is based on three systematic reviews or meta-analyses, including the studies they screened using the PRISMA method, as well as the three reviews or meta-analyses themselves @Ashley2023Genetic@conabere2025genetic@Polderman2018Biological.
+The review is based on three systematic reviews or meta-analyses, including the studies they screened using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) method, as well as the three reviews or meta-analyses themselves @Ashley2023Genetic@conabere2025genetic@Polderman2018Biological.
 It should be noted that not every study claims that gender identity is innate. 
 Nonetheless, even those that avoid this claim can still possess assumptions from a gender-essentialist framework and regard gender identity as a biological essence.
 
@@ -80,7 +99,7 @@ There are only a few escape routes. Either "gender" is not socially constructed.
 If the word "gender" in "gender identity" means something else, it must be independently defined. 
 Far from providing such a definition, @APA2015Guidelines[p:] explicitly states that "gender is a nonbinary construct". Therefore, the first and second escape routes are not available in APA's system. 
 
-I also hereby note that APA revised its definition in March 2026. Importantly, the revision no longer defines gender identity itself as "inherent". Instead, it reports that "many people describe" their gender identity in this term, while explicitly acknowledging social, cultural, interpersonal, environmental, and biological influences on development @APADictGenderIdentity. The revision substantially reduces the particular definitional problem considered here.
+I also hereby note that the American Psychological Association (APA) revised its definition in March 2026. Importantly, the revision no longer defines gender identity itself as "inherent". Instead, it reports that "many people describe" their gender identity in this term, while explicitly acknowledging social, cultural, interpersonal, environmental, and biological influences on development @APADictGenderIdentity. The revision substantially reduces the particular definitional problem considered here.
 
 However, the 2015 definition remains the appropriate object of analysis here because it was explicitly adopted by several of the biological studies reviewed in this article. Some studies do not adopt this definition but have similar issues. 
 Among the articles reviewed here, @Polderman2018Biological[p:] and @karamanis2022gender[p:] adopt the APA definition, @Ramirez2021Implications[p:] uses "innermost sense", and @conabere2025genetic[p:] uses the term "intrinsic sense".
@@ -89,13 +108,13 @@ In contrast, @Foreman2019Genetic[p:] and @Ashley2023Genetic[p:]
 are more epistemologically humble, describing gender identity as "our sense of being male or female" or "one's psychological experience of their own gender".
 Some studies do not explicitly define gender identity.
 
-= Technical and methodological review of studies
+= Technical and methodological limitations of the reviewed studies
 
 @Polderman2018Biological[p:] and @conabere2025genetic[p:] reviewed twin studies which estimated the heritability of gender identity. 
 Similarly, @Ashley2023Genetic[p:] conducted a systematic review and meta-analysis of genetic association studies. 
 I reviewed the original studies included in it and identified several methodological limitations.
 
-The most significant issue with these studies is that what they measure is usually not "gender identity" and varies across studies, which is already noted by @karamanis2022gender[p:] and @conabere2025genetic[p:]. For instance, @Bailey2000GeneticEnvironmental[p:] and @Burri2011GeneticEnvironmental[p:] measured masculine/feminine self-concept; @Coolidge2002Heritability[p:] used a six-item DSM-IV GID symptom scale reported by parents (rather than self-reports by the transgender children); @Buhrich1991SexualOrientation[p:] measured gendered behaviours; and @Sasaki2016GeneticEnvironmental[p:] measured DSM-IV-TR GID traits. 
+The most significant issue with these studies is that what they measure is usually not "gender identity" and varies across studies, which is already noted by @karamanis2022gender[p:] and @conabere2025genetic[p:]. For instance, @Bailey2000GeneticEnvironmental[p:] and @Burri2011GeneticEnvironmental[p:] measured masculine/feminine self-concept; @Coolidge2002Heritability[p:] used a six-item symptom scale from the Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition (DSM-IV) for gender identity disorder (GID), reported by parents (rather than self-reports by the transgender children); @Buhrich1991SexualOrientation[p:] measured gendered behaviours; and @Sasaki2016GeneticEnvironmental[p:] measured GID traits according to the DSM-IV Text Revision (DSM-IV-TR). 
 
 The candidate gene association study of @Foreman2019Genetic[p:] found significant associations between gender dysphoria and _ERα_, _SRD5A2_, and _STS_ alleles, as well as with _ERα_ and _SULT2A1_ genotypes. 
 Some allele combinations were also overrepresented in transgender women, most of which involved the androgen receptor (_AR_).
@@ -105,7 +124,7 @@ The case of @Theisen2019[p:] is similar.
 Of the 21 variants it reports, every one except DIAPH2 appears in only a single transgender individual. 
 The actual evidence base is only that a single person carries a rare variant in each of 29 genes, and that the relevant gene is loosely related to a pathway in mice.
 
-The causal relationships proposed by @Foreman2019Genetic[p:] are inferred from other physiological functions of the associated genes, such as bone mineral density, prostate cancer, or ADHD, and then extrapolated to the gender-dysphoria context. 
+The causal relationships proposed by @Foreman2019Genetic[p:] are inferred from other physiological functions of the associated genes, such as bone mineral density, prostate cancer, or attention-deficit/hyperactivity disorder (ADHD), and then extrapolated to the gender-dysphoria context. 
 Even if these genes are statistically associated with gender dysphoria, that does not prove a causal relationship. 
 The authors treat an association as functional evidence and then transfer that functional evidence from other conditions to gender dysphoria, without direct functional validation of the gene variant in the phenotype at hand.
 
@@ -116,7 +135,7 @@ We have no reason to assume that the co-occurrence is due to biological, psychol
 For example, @strang2014increased[p:] suggests that children and adolescents with ADHD may be more likely to express their gender identity because the core feature of ADHD is difficulty in inhibiting impulses. 
 (Of course, this is a causal inference based on symptoms, not an empirical test.) Therefore, the statistical relationship does not demonstrate a direct relationship between the G allele in _STS_ and gender dysphoria.
 
-@Foreman2019Genetic[p:] also cites @gennari2005estrogen[p:], which found that shorter TA repeats in _ESR1_ (_ERα_) are associated with lower bone mineral density in women; the authors infer that shorter TA repeats lead to weaker estrogen signalling. 
+@Foreman2019Genetic[p:] also cites @gennari2005estrogen[p:], which found that shorter thymine–adenine (TA) repeats in the estrogen receptor alpha gene (_ESR1_, _ERα_) are associated with lower bone mineral density in women; the authors infer that shorter TA repeats lead to weaker estrogen signalling. 
 Nonetheless, according to @kos2001minireview[p:] and @Wilson2008Dynamic[p:], different organs may not use the same _ESR1_ promoter. 
 There are several _ESR1_ promoters (A, B, C, D, E1/E2, F, and T1/T2). 
 Mammary cells mainly use A and C, osteoblasts use F, and different regions of the brain use A or B. 
@@ -191,7 +210,7 @@ It can identify variants statistically associated with gender identity, but it c
 
 It should be noted that I am not criticising them for ignoring environmental factors. In contrast, several of them explicitly mention their potential impact. 
 
-For instance, @Sasaki2016GeneticEnvironmental[p:] explicitly propose G$times$E interactions, as does @conabere2025genetic[p:], which explicitly mentions rGE (gene-environment correlation). However, what is really noteworthy is how they understand "environment".
+For instance, @Sasaki2016GeneticEnvironmental[p:] explicitly propose gene–environment interaction (G$times$E), as does @conabere2025genetic[p:], which explicitly mentions rGE (gene-environment correlation). However, what is really noteworthy is how they understand "environment".
 
 For example, @Sasaki2016GeneticEnvironmental[p:] suggest that the non-shared environment may play a role after puberty; the crucial factor is whether an individual exists in an environment that "fosters or stifles these genetically determined tendencies of GID," and future research should identify which environments might "foster a genetic predisposition to GID." Similarly, @conabere2025genetic[p:] argue that transgender parents might provide a family environment conducive to the expression of gender diversity, thereby establishing a correlation between genes and the environment.
 
@@ -206,7 +225,7 @@ Biological antecedents can influence development, but culturally available categ
 // Notably, the concept of G$times$E itself does not challenge the expression model of gender identity. 
 // Traditional quantitative genetics can fully acknowledge the influence of environmental factors—just as we acknowledge the environmental impact on height—while still treating an institutional fact as a trait that, like height, exists independently of any specific environment.
 
-= Consider cultural factors in genetic studies
+= Cultural context and the sociogenomic alternative
 
 These studies' equation of brain-developmental pathways with gender identity rests largely on neurological studies that see transgender experience as arising from an opposite-sex brain structure. 
 However, the influential traditional "brain-sex" or "trans-brain" framework has already received extensive criticism from @Zabalegui2024After[p:] and @Baxendale2025Brain[p:]. 
@@ -247,12 +266,48 @@ Analyses should distinguish between an association involving genetic variation a
 
 Future research should ask not only whether genetic variation is associated with a gender-related phenotype, but also what is being measured, for whom, in which cultural and institutional setting, and through what pathway. Genome-wide discovery should be combined with family-based, longitudinal, and cross-cultural designs; careful measurement of norms, discrimination, relationships, and institutional conditions; and explicit tests of rGE, mediation, and G$times$E. The aim is not to replace biological explanations with social ones, but to investigate their entanglement at the level at which gender identity actually develops. Such research may identify heritable causal antecedents and illuminate meaningful developmental pathways. It should not, however, be used to revive the stronger and unsupported claim that gender identity itself is innately encoded in DNA.
 
-= Conclusion
+= Conclusions
 
 The evidence reviewed here does not support that gender identity is inherent/innate or biologically determined. Heritability estimates reflect variation within specific populations and environments, and molecular-level associations cannot reveal direct mechanisms. Interpretations of these findings are further limited by inconsistent phenotypic definitions, limited replication, and unsubstantiated extrapolations across tissues, species, behaviours, and developmental stages. A crucial distinction exists between the genetic factors' influences on gender identity formation and the claim that gender identity itself is an intrinsic biological trait. Acknowledging the former does not validate the latter. Similarly, the phenomenological fact that gender identity is a profound internal sense or pre-reflective experience does not determine its developmental origins.
 
 Future research should investigate how biological variation, bodily experiences, social relationships, and culturally available categories jointly shape the development of gender identity. Sociogenomic approaches can support such research by combining well-defined findings with family-based, longitudinal, and cross-cultural designs to examine specific developmental pathways. When considering social contexts, they should be viewed not merely as factors influencing the expression of pre-existing traits, but as potential constituent elements of the phenotypes under study. This approach acknowledges the significant role of genetics while avoiding the error of equating genetic associations with evidence of biological essentialism.
 
-#paragraph("Data availability")[No datasets were generated or analysed during the current study.]
+#heading(numbering: none)[List of abbreviations]
+
+ADHD: attention-deficit/hyperactivity disorder; APA: American Psychological Association; AR: androgen receptor; DSM-IV: Diagnostic and Statistical Manual of Mental Disorders, Fourth Edition; DSM-IV-TR: DSM-IV Text Revision; ER: estrogen receptor; ERα: estrogen receptor alpha; ESR1: estrogen receptor 1 gene; G×E: gene–environment interaction; GID: gender identity disorder; GWAS: genome-wide association study; NHS: National Health Service; PRISMA: Preferred Reporting Items for Systematic Reviews and Meta-Analyses; rGE: gene–environment correlation; TA: thymine–adenine.
+
+#heading(numbering: none)[Declarations]
+
+#heading(level: 2, numbering: none)[Ethics approval and consent to participate]
+
+Not applicable.
+
+#heading(level: 2, numbering: none)[Consent for publication]
+
+Not applicable.
+
+#heading(level: 2, numbering: none)[Availability of data and materials]
+
+Data sharing is not applicable to this article as no datasets were generated or analysed during the current study.
+
+#heading(level: 2, numbering: none)[Competing interests]
+
+The author declares no competing interests.
+
+#heading(level: 2, numbering: none)[Funding]
+
+No specific funding was received for this work.
+
+#heading(level: 2, numbering: none)[Authors' contributions]
+
+JS conceived the article, conducted the literature review, and drafted the manuscript. The author read and approved the final manuscript.
+
+#heading(level: 2, numbering: none)[Acknowledgements]
+
+Not applicable.
+
+#heading(level: 2, numbering: none)[Authors' information]
+
+JS is a doctoral researcher in the Division of Ecology and Evolutionary Biology, School of Biological Sciences, University of Reading, United Kingdom.
 
 #bibliography(("../document/references.bib"), style: "nlm-citation-sequence", title: "References")
