@@ -2,9 +2,9 @@
 
 However, my ethical stance, which I developed in middle school, was not from Kant, but from Victor Hugo.
 The aforementioned disputes with online "feminists" and nationalists can also be traced back to some very interesting origins.
-It can be traced to my middle school language arts (Chinese) class. Shaped by the works of Victor Hugo, I developed an ethical stance that rejected collective guilt and emphasized individual responsibility. This stance can be traced to an article of him in my language art textbook, _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_).#footnote[Originally published in _Le Monde diplomatique_: #textcite(<hugo1861lettre>).] In this article, he wrote, "However, I protest, and I thank you for giving me this opportunity. The crimes of the rulers are not the fault of the ruled; governments are sometimes bandits, but the people never are". 
+It can be traced to my middle school language arts (Chinese) class. Shaped by the works of Victor Hugo, I developed an ethical stance that rejected collective guilt and emphasized individual responsibility. This stance can be traced to an article of him in my language art textbook, _Letter to Captain Butler on the Expedition to China_ (_L'Expédition de Chine. Au capitaine Butler_).#footnote[Originally published in _Le Monde diplomatique_: @hugo1861lettre[p:].] In this article, he wrote, "However, I protest, and I thank you for giving me this opportunity. The crimes of the rulers are not the fault of the ruled; governments are sometimes bandits, but the people never are". 
 
-However, another article, Hualing Nieh Engle (聂华苓)'s _Dear Papa and Mama_ (亲爱的爸爸妈妈) appeared in the same textbook,#footnote[Originally published in _People's Daily_: #textcite(<Nieh1989Dear>).]
+However, another article, Hualing Nieh Engle (聂华苓)'s _Dear Papa and Mama_ (亲爱的爸爸妈妈) appeared in the same textbook,#footnote[Originally published in _People's Daily_: @Nieh1989Dear[p:].]
 which is about a memorial commemoration event of the Nazi massacre in Kragujevac, Yugoslavia. 
 In the event, writers from all over the world discussed "War and Literature." Among them was a West German writer who made a statement that I found very confusing:
 "... I have a sense of guilt: I feel as if it was I who killed those children. We are simply beasts! 

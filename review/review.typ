@@ -39,7 +39,7 @@
   ),
 
   // Article settings
-  manuscript: "article", // article, rescience, data, software, editorial, proceedings, poster
+  manuscript: "Review", // article, rescience, data, software, editorial, proceedings, poster
   layout: "preprint", // preprint, publish
 
   // Display options
@@ -310,4 +310,4 @@ Not applicable.
 
 JS is a doctoral researcher in the Division of Ecology and Evolutionary Biology, School of Biological Sciences, University of Reading, United Kingdom.
 
-#bibliography(("../document/references.bib"), style: "nlm-citation-sequence", title: "References")
+#bibliography(("../document/references.bib"), style: "biomed-central", title: "References")

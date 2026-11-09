@@ -6,7 +6,7 @@ I suspect that the dominant "born this way" narrative is primarily driven by the
 
 Predictive processing (PP) offers a promising explanation. On this account, experience informs predictions that operate without our awareness of making an explicit inference @Clark2013Whatever. 
 In recent studies, this framework has been used not only to explain low-level sensory processes but also to account for the influence of culture @constant2021acquisition, including gender @Clausen2021Action @Tacikowski2020Fluidity.
-The "Thinking Through Other Minds" (TTOM) model proposed by #textcite(<Veissi_re_2019>) describes how prior experience, cultural scripts, and social learning can structure predictions about social behaviour. 
+The "Thinking Through Other Minds" (TTOM) model proposed by @Veissi_re_2019[p:] describes how prior experience, cultural scripts, and social learning can structure predictions about social behaviour. 
 Its core claim is that humans acquire shared habits, norms, and expectations through immersion in patterned cultural practice, and that these expectations selectively shape attention and action. 
 Through learning and practising cultural a prioris, we learn what others expect, how they act, and which norms they share. These acquired expectations guide what we attend to and what we do. We thereby "outsource" much of our cognition by inferring the priors of other people. An expectation connecting bodily form with personality can become one of these culturally acquired priors.
 
@@ -118,14 +118,14 @@ a synthesis of the internalised reaction to childhood experiences and trauma and
   ],
 )<fig-bundle>]
 
-// The "similarity" and "relatedness" between them is also shaped by society and culture (as argued in #plaincite(<Sun2025GenderAbolition>)); 
+// The "similarity" and "relatedness" between them is also shaped by society and culture (as argued in @Sun2025GenderAbolition[b:]); 
 // otherwise, they would be independent and unrelated phenomena. 
 // From beginning to end, gender is not inherent in the individual (me), but in the external society. 
 // It is the pervasively gendered society and culture that assigns a gender label to everything, 
 // including our bodies, clothes, behaviours and personalities. 
 // The individual, in the interaction with these "gendered" things, internalises social norms and develops a so-called "gender identity." 
 
-// This is a vivid example of a connectionist analogy (deep learning) I proposed in #plaincite(<Sun2025GenderAbolition>): 
+// This is a vivid example of a connectionist analogy (deep learning) I proposed in @Sun2025GenderAbolition[b:]: 
 // gender construct is a training set that contains two classes: Class 0 (female) and class 1 (male), 
 // which are made up of many ontologically unrelated things. An individual's gender identity is the product of it. 
 // "Gender identity" is not an internal attribute but one of many components of our "narrative identity", 

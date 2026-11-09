@@ -1,12 +1,12 @@
 #import "../lib.typ": *
 
-// Every sentence in the main text and in #textcite(<Sun2025GenderAbolition>) is completely sincere. 
+// Every sentence in the main text and in @Sun2025GenderAbolition[p:] is completely sincere. 
 // I have indeed experienced those events and that nightmare about psychological manipulation. 
 // After that, I began to think about gender identity from the first principles of biology, asked questions in multiple communities and was refuted, attacked, or banned. 
 // I then explored my own history. Finally, to understand "why they attacked me," I learned about post-structuralism and queer theory.
 
 
-The Appendix A is not a bad faith imitation like the "Sokal affair" (and as you can see, I also criticised Sokal's views on gender in #plaincite(<Sun2025GenderAbolition>)). I really want some sincere discussion and communication. I wrote it to prove that "I have spent great effort to understand your theory. I am not an ignorant outsider." 
+The Appendix A is not a bad faith imitation like the "Sokal affair" (and as you can see, I also criticised Sokal's views on gender in @Sun2025GenderAbolition[b:]). I really want some sincere discussion and communication. I wrote it to prove that "I have spent great effort to understand your theory. I am not an ignorant outsider." 
 
 Moreover, if we set aside the fact that "I do not accept post-structuralism at all," this act of "writing two versions of a personal story" is very post-structuralist. It forces us to think: to what extent does the way we tell our stories determine who we are? 
 My answer is that I believe in an independent, agentic, rational subject of self that can choose between two different discourse systems. 
@@ -27,8 +27,8 @@ I know full well that what Foucault criticised is not this reason, but that's wh
 The thing that creates weapons, wages wars, and harms the bodies of transgender and intersex people is merely a tyrant claiming a name that does not belong to it. I don't care what "raison" means in French, nor do I want to know what happened in Western history, but it cannot be translated into the word "理性" (lǐ xìng, reason/rationality) in my language (Chinese).
 
 Similarly, both queer theory and I long for a space with infinite human creativity and freedom. 
-// #footnote[#textcite(<Butler2025Who>): "The task is to help produce a world in which we can move and breathe and love without fear of violence, with the radical and unrealistic hope in a world no longer driven by moral sadism cloaked as morality."] 
-This space may need a name, or perhaps it doesn't need a name. But it cannot be called "gender," because that is the name of the prison we are trying to escape from. Calling this space "gender" would be like naming the liberated territory "The Prison" or naming the peace "The War." In my view, "gender identity," as in #posscite(<Marx1977Critique>) critique of Luther's Reformation, frees the body and enchains the heart. The same pattern is replicated with "sex." We all consider phenotypic sex a biological reality, while I do not agree with referring to it as "sex." 
+// #footnote[@Butler2025Who[p:]: "The task is to help produce a world in which we can move and breathe and love without fear of violence, with the radical and unrealistic hope in a world no longer driven by moral sadism cloaked as morality."] 
+This space may need a name, or perhaps it doesn't need a name. But it cannot be called "gender," because that is the name of the prison we are trying to escape from. Calling this space "gender" would be like naming the liberated territory "The Prison" or naming the peace "The War." In my view, "gender identity," as in @Marx1977Critique[ps:] critique of Luther's Reformation, frees the body and enchains the heart. The same pattern is replicated with "sex." We all consider phenotypic sex a biological reality, while I do not agree with referring to it as "sex." 
 
 As Saussure pointed out, a word has no intrinsic meaning, so there is no transcendent metaphysical standard to judge whose use of words like "reason/rationality" and "gender" is correct. There is no Platonic "Form of Reason" or Aristotelian "Essence of Gender."
 

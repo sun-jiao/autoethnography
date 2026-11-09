@@ -36,6 +36,8 @@
   sans-fonts: ("Source Sans Pro", "Source Sans 3", "Noto Sans CJK SC"),
 )
 
+#show cite: citesugar
+
 = Introduction
 
 #include "chapters/aeg-introduction.typ"

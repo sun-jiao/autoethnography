@@ -1,6 +1,6 @@
 #import "../lib.typ": *
 
-One may say: "absolutely! We should abolish gender stereotypes, therefore all different kinds of gender identity can be expressed freely!" Many people believe that we can abolish gender stereotypes while protecting gender identity, and we should create more different gender identities to include diverse experiences. #textcite(<Cull2024What>) framed it as "gender pluralism." 
+One may say: "absolutely! We should abolish gender stereotypes, therefore all different kinds of gender identity can be expressed freely!" Many people believe that we can abolish gender stereotypes while protecting gender identity, and we should create more different gender identities to include diverse experiences. @Cull2024What[p:] framed it as "gender pluralism." 
 
 However, in this section, I will demonstrate that this idea is both biologically and mathematically impossible. 
 As I previously argued, gender identity is the product of socialisation within a society with gender stereotypes. One self-identifies with a gender because this label is meaningful (associated with many different things) rather than an empty signifier. Nobody self-identifies with "yhutabikoper" (an arbitrary word I created by pressing the keyboard randomly). An identifiable gender label must be associated with specific biological, psychological, aesthetical stereotypes to create predicting error and force us to update our self model. Therefore, abolishing all gender stereotypes and protecting a "gender identity" only about self-identification is infeasible. 

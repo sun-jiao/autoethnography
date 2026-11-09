@@ -8,7 +8,7 @@ They jokingly asked if I was a girl.
 I didn't deny it directly, replying with a Chinese internet slang means "to be honest, yes".
 
 I also have a strong desire to adopt a more feminine name: 娇 (_Jiāo_, will be addressed as "the feminine _Jiāo_"). 
-This character means "cute" or "adorable" and features the "woman" radical (#plaincite(<JiaoMDBG>), as well as its traditional form #plaincite(<JiaoLYT>)). 
+This character means "cute" or "adorable" and features the "woman" radical (@JiaoMDBG[b:], as well as its traditional form in @JiaoLYT[b:]). 
 It is a homophone and graphically like my legal name (骄, _Jiāo_, means "pride", relatively gender-neutral). 
 I often used cursive script (行书, _xíng shū_) or the Romanisation (Pinyin) to make them indistinguishable. 
 Furthermore, because the feminine name is much more popular than my legal name, 

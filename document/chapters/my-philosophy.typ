@@ -24,7 +24,7 @@ The thought "what I haven't seen doesn't exist" may have been a fork in the road
 Perhaps the starting points of some completely opposed ideas are much closer than we thought.
 
 Then I realised that my method of analysing the "non-existence of a ontological gender identity" 
-is somewhat similar with #posscite(<Hume2007Treatise>) subjective empiricist argument for the "non-existence of the self": 
+is somewhat similar with @Hume2007Treatise[ps:] subjective empiricist argument for the "non-existence of the self": 
 I looked inward, saw nothing called "gender identity," only saw many childhood experiences 
 and my reactions to them being artificially grouped together (@fig-bundle).  
 
@@ -33,7 +33,7 @@ My mum said, "Because Dad is tired of working." Then I said, "You work too, aren
 My mum was very happy, saying I had grown up and cared for her. 
 However, at that time I didn't know what is "caring". I just found a logical flaw. 
 
-Many years later, I learned that this was precisely the "categorical imperative" proposed by #textcite(<Kant_2011>) centuries ago: 
+Many years later, I learned that this was precisely the "categorical imperative" proposed by @Kant_2011[p:] centuries ago: 
 only follow the maxim that could become a universal law. 
 The young me discovered that my mum's reason, "if you're tired from work, you don't have to cook," could not become a universal law. 
 This meant that the initial reason was either false, incomplete, or the entire system was built on an unfair double standard. 

@@ -1,6 +1,6 @@
 #import "../lib.typ": *
 
-#textcite(<Kant1996Answer>) proposed the famous definition of Enlightenment, 
+@Kant1996Answer[p:] proposed the famous definition of Enlightenment, 
 "_Enlightenment_ is the human being's emergence from his self-incurred minority. 
 Minority is inability to make use of one's own understanding without direction from another. 
 This minority _is self-incurred_ when its cause lies not in lack of understanding but in lack of resolution 
@@ -8,7 +8,7 @@ and courage to use it without direction from another."
 The emergence is accomplished not in other ways, but only in _Sapere aude_ (dare to know). 
 This motto is not only epistemological, but more importantly, ethical and political.
 
-#textcite(<Kant1996Answer>) gave three examples of "minority," 
+@Kant1996Answer[p:] gave three examples of "minority," 
 "... a book that understands for me, a spiritual advisor who has a conscience for me, a doctor who decides upon a regimen for me ..." 
 This is a precise description of the communities (both trans-medicinalist and post-structuralist ones) I encountered. 
 Though they loudly proclaim their opposition to authority, they haven't actually escaped what Kant called "minority." 
@@ -91,7 +91,7 @@ The ancients used swords to kill because they were more efficient than stones; t
 Calculation and classification are almost the oldest methodology in the world.  
 Using a sword instead of a stone or wood to kill someone is a calculation of the efficiency of killing. 
 What Adam did in _Genesis_ was classification. He named and classified all the animals.
-// #textcite(<Atran1999Itzaj>) demonstrates that Maya folk taxonomy and scientific taxonomy shares some similarities. 
+// @Atran1999Itzaj[p:] demonstrates that Maya folk taxonomy and scientific taxonomy shares some similarities. 
 
 Conversely, science is precisely the powerful tool to expose the lies of racist pseudoscience. 
 The Enlightenment promotes the understanding and recognition of human diversity through calculation. 
@@ -120,7 +120,7 @@ The empirical science and legal formalism they considered "oppressive" have actu
 In contrast, Adorno @Braunstein2018Wahrheit, Habermas @Habermas2023Principle, 
 Lyotard @Fruteau2024Deleuze, Foucault @Said2000My, and Derrida (especially early Derrida) @Ryder2013Derrida all supported Israel at that time. 
 
-I don't care about Lyotard, Derrida, and Foucault because I oppose post-structuralism, and their support for Israel only makes me think, "I knew it!" Habermas, however, really makes me disappointed and angry. I used to like him because his communicative rationality theory, and he advocated for rebuilding the "unfinished Enlightenment." I completely understood #posscite(<Said2000My>) feeling when I saw Habermas's opinion.  
+I don't care about Lyotard, Derrida, and Foucault because I oppose post-structuralism, and their support for Israel only makes me think, "I knew it!" Habermas, however, really makes me disappointed and angry. I used to like him because his communicative rationality theory, and he advocated for rebuilding the "unfinished Enlightenment." I completely understood @Said2000My[ps:] feeling when I saw Habermas's opinion.  
 At this moment, Habermas abandoned his reason, regressed to a state of minority, 
 allowing "Germany's historical trauma" and (so-called) "Germany's special responsibility to Israel" to become his guardians and take over his reason. 
 This once again proves that one cannot rely on any off-the-shelf philosopher as their guardian. 
@@ -141,7 +141,7 @@ has always been the glorious tradition of Enlightenment that sets us free.
 Furthermore, the value of the Enlightenment extends far beyond its epistemological contribution to science. 
 The Enlightenment's most profound legacy lies in the construction of an independent, autonomous subject. In an ideal world, reason allows us to understand each other; in the darkest corners of human history, reason empowers the individual to preserve their soul when their body is being destroyed. The rational subject constructed by the Enlightenment, with its inherent reason and autonomous judgment, is an important and powerful weapon against dehumanisation.
 
-That sentence in the Mauthausen concentration camp is deafening: If there is a God, He will have to beg my forgiveness (Wenn es einen Gott gibt muß er mich um Verzeihung bitten, #plaincite(<Lassley2015Defective>)). When this nameless prisoner wrote this sentence on the wall of their cell, they were choosing human autonomy and agency, using clear and unshakeable reason to confront the evil and irrationality. What they did was to use the independent, strong, agentic, and liberating subject of self to resist the oppression of Nazism. In the face of ultimate evil, where human dignity was systematically stripped away, this individual refused to seek comfort in the ultimate "spiritual guardian" -- God. Instead, they decided to rely solely on their own reason and moral judgment to confront the absurdity of their fate. We don't know the ethnicity of this nameless prisoner, since German political prisoners, Polish, Soviet and Yugoslav prisoners of war, and Dutch and Hungarian Jews were held in the Mauthausen concentration camp. At that moment, their resilience transcended all identities. Behind this sentence is a shared destiny, one that still intimately connects the _Aufklärung_ and Haskalah, as well as the Enlightenment, _Lumières_, Nahda, and the May Fourth Movement. When the external world strips an individual of all social dignity, ethnicity, gender, philosophical and political views, and even their physical freedom, the "rational subject" constructed by the Enlightenment becomes the indestructible core of resistance.
+That sentence in the Mauthausen concentration camp is deafening: If there is a God, He will have to beg my forgiveness (Wenn es einen Gott gibt muß er mich um Verzeihung bitten, @Lassley2015Defective[b:]). When this nameless prisoner wrote this sentence on the wall of their cell, they were choosing human autonomy and agency, using clear and unshakeable reason to confront the evil and irrationality. What they did was to use the independent, strong, agentic, and liberating subject of self to resist the oppression of Nazism. In the face of ultimate evil, where human dignity was systematically stripped away, this individual refused to seek comfort in the ultimate "spiritual guardian" -- God. Instead, they decided to rely solely on their own reason and moral judgment to confront the absurdity of their fate. We don't know the ethnicity of this nameless prisoner, since German political prisoners, Polish, Soviet and Yugoslav prisoners of war, and Dutch and Hungarian Jews were held in the Mauthausen concentration camp. At that moment, their resilience transcended all identities. Behind this sentence is a shared destiny, one that still intimately connects the _Aufklärung_ and Haskalah, as well as the Enlightenment, _Lumières_, Nahda, and the May Fourth Movement. When the external world strips an individual of all social dignity, ethnicity, gender, philosophical and political views, and even their physical freedom, the "rational subject" constructed by the Enlightenment becomes the indestructible core of resistance.
 
 Critics from the post-structuralist camp often argue that "Universal Reason" is a grand narrative constructed by the privileged (white, male, colonial) to erase the "Other." This is a fundamental misunderstanding of this term, almost an oxymoron. A rule is universal only when it applies to everyone without exception. A privilege, by definition, is an exception granted to a specific group; it cannot apply to everyone and is therefore not universal. Thus, a firm commitment to universalism and reason is not a tool for privileged groups to defend their status -- logically, it cannot be. On the contrary, it is the last refuge of the weak.
 
