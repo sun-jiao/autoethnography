@@ -1,5 +1,4 @@
 #import "../lib.typ": *
-#import "@preview/fletcher:0.5.8": diagram, node, edge
 
 I acknowledge that this article is significantly going off-topic. 
 However, a powerful passion drives me to continue writing.
@@ -123,7 +122,7 @@ Let us take a look at what we have now:
 
 + Conservatives who do not believe that sex is only about gametes.
 + Richard Dawkins, an evolutionary biologist, who does not believe in postzygotic mutations.
-+ Liberals and gender theorists who do not believe that externally assigning identities is immoral, assigning "cisgender" to billions of people.
++ Progressives and gender theorists who do not believe that externally assigning identities is immoral, assigning "cisgender" to billions of people.
 + Emily Fairchild, a queer theorist, who does not believe in différance and dissemination.
 // + Dogmatic transgender communities which do not respect lived experiences.
 // + Queer theorists who do not (or rarely) consider themselves as nodes of power.

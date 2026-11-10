@@ -24,7 +24,10 @@
   
   // Article settings
   manuscript: "article",  // article, rescience, data, software, editorial, proceedings, poster
-  layout: "preprint",     // preprint, publish
+  layout: "publish",     // preprint, publish
+  show-dates: false,
+  show-copyright: false,
+  show-keywords: true,
   paper-size: "medium",
   
   // Display options
