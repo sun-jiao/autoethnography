@@ -4,7 +4,7 @@
 #show cite: citesugar
 
 #show: book.with(
-  title: [Placeholder],
+  title: [An Autobiography of a Gender-fluid Biologist and \ An Enlightenment Manifesto],
   author: "Jiao Sun",
   dedication: [for the Enlightenment and its thinkers. ],
 )
@@ -37,6 +37,8 @@ Taken together, these definitions suggest that gender identity presupposes some 
 
 One influential scientific formulation of the "born this way" narrative has appealed to neurological studies that conceptualize transgender experience in terms of an "opposite-sex brain structure." However, this influential yet traditional "brain-sex" or "trans-brain" framework has been subject to substantial criticism @Zabalegui2024After@Baxendale2025Brain. 
 
+#include "chapters/neurocognitive-account.typ"
+
 = Self-exploration
 
 #include "chapters/my-gender-identity.typ"
@@ -46,6 +48,20 @@ One influential scientific formulation of the "born this way" narrative has appe
 #include "chapters/my-philosophy.typ"
 
 #include "chapters/hugo.typ"
+
+= Abolishing gender
+
+== Gender-centrism and Gender Abolition
+
+#include "chapters/gender-centrism-2.typ"
+
+== So, what about gender identity?
+
+#include "chapters/so-what-about-gender-identity.typ"
+
+== "But many people love it!"
+
+#include "chapters/many-people-love-it.typ"
 
 = Communicative Rationality
 

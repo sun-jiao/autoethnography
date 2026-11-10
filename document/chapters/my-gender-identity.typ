@@ -14,7 +14,7 @@ If everyone calls me by the feminine _Jiāo_, then my brain may update its self-
 If the shared social prior is that the feminine _Jiāo_ is a girl's name, 
 then my brain may update its self-model to resolve this prediction error and believe that I am a girl.
 
-#full-width[#figure(
+#figure(
     image("../figures/feminine_name_and_shoes.jpg", width: 70%),
   caption: [
     Factors that shaped the author's gender identity: 
@@ -23,7 +23,7 @@ then my brain may update its self-model to resolve this prediction error and bel
     with the name spelt as the feminine homophone; 
     c-d) photos of the author wearing red shoes in childhood.
   ],
-)<fig-name-shoes>]
+)<fig-name-shoes>
 
 Another memory involves the footwear I wore in primary school, 
 which my classmates considered "girls' shoes." 
