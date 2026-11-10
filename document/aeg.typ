@@ -48,6 +48,16 @@
 
 = My Gender Identity
 
+After the puzzlement and online conflicts, I read some neurological studies. 
+
+I suspect that the dominant "born this way" narrative is primarily driven by the subjective experience of many transgender people. I explicitly admit this experience. I also fell that my gender identity subjectively very "innate". However, I suggest that we should describe this experience as "pre-reflective" rather than "innate". Because a neurological process can be acquired, yet subjectively feels like "innate" @Gutchess2006@Kitayama_2010@Mason_2010@Qu_2021. Subjective experience does not prove that the trait is actually innate. Our subjective experience is about how a process operates: through embodied habits, rapidly and without deliberate reflection. "Innate", on the other hand, concerns how that process originated. 
+
+Predictive processing (PP) offers a promising explanation. On this account, experience informs predictions that operate without our awareness of making an explicit inference @Clark2013Whatever. 
+In recent studies, this framework has been used not only to explain low-level sensory processes but also to account for the influence of culture @constant2021acquisition, including gender @Clausen2021Action @Tacikowski2020Fluidity.
+The "Thinking Through Other Minds" (TTOM) model proposed by @Veissi_re_2019[p:] describes how prior experience, cultural scripts, and social learning can structure predictions about social behaviour. 
+Its core claim is that humans acquire shared habits, norms, and expectations through immersion in patterned cultural practice, and that these expectations selectively shape attention and action. 
+Through learning and practising cultural a prioris, we learn what others expect, how they act, and which norms they share. These acquired expectations guide what we attend to and what we do. We thereby "outsource" much of our cognition by inferring the priors of other people. An expectation connecting bodily form with personality can become one of these culturally acquired priors.
+
 #include "chapters/my-gender-identity.typ"
 
 = Childhood Philosophy (I)

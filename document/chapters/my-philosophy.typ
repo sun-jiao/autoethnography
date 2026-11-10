@@ -23,10 +23,10 @@ Things I cannot perceive do not exist, which leads to subjective idealism.
 The thought "what I haven't seen doesn't exist" may have been a fork in the road for my philosophy. 
 Perhaps the starting points of some completely opposed ideas are much closer than we thought.
 
-Then I realised that my method of analysing the "non-existence of a ontological gender identity" 
-is somewhat similar with @Hume2007Treatise[ps:] subjective empiricist argument for the "non-existence of the self": 
-I looked inward, saw nothing called "gender identity," only saw many childhood experiences 
-and my reactions to them being artificially grouped together (@fig-bundle).  
+// Then I realised that my method of analysing the "non-existence of a ontological gender identity" 
+// is somewhat similar with @Hume2007Treatise[ps:] subjective empiricist argument for the "non-existence of the self": 
+// I looked inward, saw nothing called "gender identity," only saw many childhood experiences 
+// and my reactions to them being artificially grouped together (@fig-bundle).  
 
 The second thing is that once, when I was little, I asked my mum, "Mum, why are you always the one cooking at home? Why doesn't Dad cook?" 
 My mum said, "Because Dad is tired of working." Then I said, "You work too, aren't you tired?" 

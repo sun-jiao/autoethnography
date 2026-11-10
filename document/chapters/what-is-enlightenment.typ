@@ -82,17 +82,6 @@ since it naturally grew up in an East Asian kid, and helped me reveal the patern
 // Treating "reason" as "European" is itself a European-centric view, which ignores other cultures =  
 // where reason, logic, and science were oppressed in their history. 
 
-Furthermore, "instrumental rationality" is not a form of rationality or reason, otherwise, the concept of reason will be meaningless. 
-For instance, why were swords used in ancient wars, instead of smashing enemies using stones or wood? 
-Because swords were more efficient in killing, which is also a form of instrumental rationality. 
-Clearly, instrumental rationality is just a synonym for "pragmatism". 
-Otherwise, we would arrive at an absurd conclusion that "using swords to kill people is rational."
-The ancients used swords to kill because they were more efficient than stones; the Nazis used gas chambers to kill because they were more efficient than swords. There is no fundamental difference between these two ways of thinking.
-Calculation and classification are almost the oldest methodology in the world.  
-Using a sword instead of a stone or wood to kill someone is a calculation of the efficiency of killing. 
-What Adam did in _Genesis_ was classification. He named and classified all the animals.
-// @Atran1999Itzaj[p:] demonstrates that Maya folk taxonomy and scientific taxonomy shares some similarities. 
-
 Conversely, science is precisely the powerful tool to expose the lies of racist pseudoscience. 
 The Enlightenment promotes the understanding and recognition of human diversity through calculation. 
 Johann Friedrich Blumenbach, through comparative anatomical studies of skulls, 
