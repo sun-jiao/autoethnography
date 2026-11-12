@@ -60,7 +60,7 @@ If it refers to "gender identity" itself, this constitutes a ridiculous tautolog
 
 Therefore, I felt that this theory was intellectually unsatisfying. I quickly abandoned it and thought that my gender identity was just a meaningless fantasy.
 For a long time afterwards, I continued this "meaningless fantasy," but it increasingly affected my life. I realised that I had to take this matter seriously. 
-Therefore, I presented my conceptual questions in some transgender communities to seek some explanations. 
+I presented my conceptual questions in some transgender communities to seek some explanations. 
 However, some members of these communities consequently questioned whether I was sincere, treated my questions as trolling, and accused me of using ChatGPT to generate anti-transgender propaganda. I was both angry and disappointed. More importantly, however, I still needed to answer the questions that had led me there, so I continued the inquiry independently.
 
 // The most serious issue was that I would cast myself in the role of the female protagonist when reading some adult stories, and sometimes I couldn't distinguish between fantasy and reality. A few months ago, I was reading an adult story about psychological manipulation. I identified with the manipulated character and, for a long time, did not realise it was a story about psychological manipulation, believing the manipulator was genuinely trying to protect "me." However, when I realised he was manipulating and using "me," I had a severe nightmare. I dreamt that "I" was crying and begging him to continue deceiving "me." I woke up from the dream in the middle of the night and sat in my room for a long time, unable to fall back asleep.
