@@ -20,11 +20,11 @@
   ),
 
   abstract: [
-    *Background:* Genetic evidence is often used to support the "born this way" narrative in transgender issues. This article critically reviews quantitative-genetic and molecular-association research on gender identity.
-
-    *Main body:* I argue that the reviewed studies cannot prove that gender identity is innate. Some of them conflate gender identity with gendered behaviour, masculine or feminine self-concept, or diagnostic symptoms. Many of them infer mechanisms from unrelated tissues, species, phenotypes, and developmental stages without empirical support. Some interpret population-specific heritability estimates as evidence of an intrinsic biological essence. I also examine the "trans-brain" literature and predictive-processing accounts of why gender identity is often experienced as pre-reflective.
-
-    *Conclusion:* A sociogenomic approach can investigate genetic antecedents without genetic essentialism when social context is taken into account. Genetics may help explain variation in pathways contributing to gender identity, but it cannot by itself establish the ontological status of gender identity.
+    *Background*: Genetic evidence is often used to support the “born this way” narrative in transgender issues. This article critically reviews quantitative-genetic and molecular-association research on gender identity.
+    
+    *Main body*: The reviewed studies cannot prove that gender identity is innate. Some of them conflate gender identity with gendered behaviour, masculine or feminine self-concept, or diagnostic symptoms. Many of them infer mechanisms from unrelated tissues, species, phenotypes, and developmental stages without empirical support. Some interpret population-specific heritability estimates as evidence of an intrinsic biological essence. The predictive-processing framework provides an account of why gender identity is regularly experienced as pre-reflective, indicating that social factors should be considered in studies.
+    
+    *Conclusion*: A sociogenomic approach can investigate genetic antecedents without genetic essentialism when social context is taken into account. Genetics may help explain variation in pathways contributing to gender identity, but it cannot by itself establish the ontological status of gender identity.
   ],
 
   keywords: (
@@ -68,7 +68,7 @@
 
 #heading(numbering: none)[Plain English summary]
 
-Research on gender identity is often presented in the media and in courts as showing that being transgender is "in the genes". This review examines the studies behind that claim. It considers two kinds of evidence: twin and family studies that estimate how much of the variation in gender identity is associated with genetic variation, and molecular studies that look for specific genes. The review explains that heritability is a statistic about a particular population living in a particular range of environments. It does not show that a trait is fixed at birth or caused directly by genes. It also shows that many studies measure something other than gender identity, such as childhood gender-typical behaviour or symptoms of gender dysphoria, and that some findings are based on evidence from other tissues, species, or developmental stages. The review argues that social context is not simply an external influence on a pre-existing trait but part of what gender identity is. It concludes that genes may contribute to pathways that shape gender identity, but that genetic evidence cannot by itself prove that gender identity is innate. It recommends research that studies genetic and social processes together.
+Research on gender identity is regularly presented in the media as evidence that transgender status is "born this way". This review examines the studies behind that claim. It considers two kinds of evidence: twin and family studies that estimate how much of the variation in gender identity is associated with genetic variation, and molecular studies that look for specific genes. The review explains that heritability is a statistic about a particular population living in a particular range of environments. It does not show that a trait is fixed at birth or caused directly by genes. It also shows that many studies measure something other than gender identity, such as childhood gender-typical behaviour or symptoms of gender dysphoria, and that some findings are based on evidence from other tissues, species, or developmental stages. The review argues that social context is not simply an external influence on a pre-existing trait but part of what gender identity is. It concludes that genes may contribute to pathways that shape gender identity, but that genetic evidence cannot by itself prove that gender identity is innate. It recommends research that studies genetic and social processes together.
 
 = Background
 
