@@ -6,7 +6,7 @@
 // I then explored my own history. Finally, to understand "why they attacked me," I learned about post-structuralism and queer theory.
 
 
-The Appendix A is not a bad faith imitation like the "Sokal affair" (and as you can see, I also criticised Sokal's views on gender in @Sun2025GenderAbolition[b:]). I really want some sincere discussion and communication. I wrote it to prove that "I have spent great effort to understand your theory. I am not an ignorant outsider." 
+The Appendix A is not a bad faith imitation like the "Sokal affair" (and as you can see, I also criticised Sokal's views on gender). I really want some sincere discussion and communication. I wrote it to prove that "I have spent great effort to understand your theory. I am not an ignorant outsider." 
 
 Moreover, if we set aside the fact that "I do not accept post-structuralism at all," this act of "writing two versions of a personal story" is very post-structuralist. It forces us to think: to what extent does the way we tell our stories determine who we are? 
 My answer is that I believe in an independent, agentic, rational subject of self that can choose between two different discourse systems. 
@@ -24,7 +24,7 @@ Let's have a look at what the _meta-consensus_ should be like:
 The word "reason" refers to the cognitive mode shared by all humanity. It is the reason of Socrates and Kant, of Euclid and Einstein, the reason that made that young me in the kitchen ask my mother, "Why doesn't Dad cook?" the reason that now makes me engage in evolutionary biology research. Reason is not just a tool; in this world full of chaos and pain, it is the only clean, pure, and trustworthy thing. It is my shield, my weapon, my sanctuary. It is the sole, unified force for resisting tyranny and discovering scientific truth. #footnote[I will argue for it in following sections. ]
 
 I know full well that what Foucault criticised is not this reason, but that's where the problem lies: I do not recognise "instrumental rationality" as a form of reason at all.
-The thing that creates weapons, wages wars, and harms the bodies of transgender and intersex people is merely a tyrant claiming a name that does not belong to it. I don't care what "raison" means in French, nor do I want to know what happened in Western history, but it cannot be translated into the word "理性" (lǐ xìng, reason/rationality) in my language (Chinese).
+The thing that kills people, wages wars, and harms the bodies of transgender people is merely a tyrant claiming a name that does not belong to it. 
 
 Similarly, both queer theory and I long for a space with infinite human creativity and freedom. 
 // #footnote[@Butler2025Who[p:]: "The task is to help produce a world in which we can move and breathe and love without fear of violence, with the radical and unrealistic hope in a world no longer driven by moral sadism cloaked as morality."] 

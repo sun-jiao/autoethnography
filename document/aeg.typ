@@ -54,7 +54,7 @@
 
 #include "chapters/my-gender-identity.typ"
 
-= Childhood Philosophy
+= Childhood Philosophy<sec:childhood-philosophy>
 
 #include "chapters/my-philosophy.typ"
 
@@ -68,9 +68,13 @@
 
 #include "chapters/dialogue-with-the-world.typ"
 
-= An answer to the question: What is enlightenment?
+= An answer to the question: What is enlightenment?<sec:what-is-enlightenment>
 
 #include "chapters/what-is-enlightenment.typ"
+
+= I am the Dark Cloud!
+
+#include "chapters/dark-cloud.typ"
 
 #acknowledgement[
   I am grateful to the Enlightenment and its thinkers. 

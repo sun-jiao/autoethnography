@@ -1,14 +1,13 @@
 #import "../lib.typ": *
 
-I acknowledge that this article is significantly going off-topic. 
-However, a powerful passion drives me to continue writing.
+// I acknowledge that this article is significantly going off-topic. 
+// However, a powerful passion drives me to continue writing.
 In this section, I will demonstrate that reason has never been dominant in our society,
 rather, irrationality is a long-established hegemony.
-
-This section might be extremely off-topic, especially those on German politics, Nazism and Zionism.
+This section might be extremely off-topic, especially those on German politics, Cuba, Nazism and Zionism.
 However, the critique of science and reason by Frankfort school and post-structuralism precisely started from the history of Nazism.
-They can continue to criticise me based on their previous conclusions drawn from Nazism if I do not discuss it,
-therefore threatening the justifying structure of the whole article.
+They would continue to criticise me based on these conclusions drawn from Nazism if I did not discuss it,
+therefore threatening the structure of the whole article.
 Thus, this is an unavoidable point.
 
 == Conservatives are irrational
@@ -19,8 +18,11 @@ This even includes some conservative scientists, like @Sokal2024Sex[p:], who cla
 
 == Progressives are irrational
 
-Some gender studies scholars and transgender communities believe that gender identity is an internal self-awareness, and imposing an identity is wrong @Butler2025Who[chapter 6]. Then, the gender identity of most people should be "undefined." Classifying non-transgender people as "cisgender" is imposing an identity on them. The definition of "cisgender" is "individuals whose sex assigned at birth aligns with their gender identity" @APADictCisgender. 
-Therefore, if we don't know a person's gender identity, we cannot know whether their sex assigned at birth aligns with their gender identity. Thus, we are unable to determine whether they are "cisgender" or "transgender." Calling them "cisgender" effectively assumes that they possess a gender identity consistent with their sex assigned at birth—yet the vast majority of them have never expressed such an identity.
+Some gender studies scholars and transgender communities believe that gender identity is an internal self-awareness, and imposing an identity is wrong @Butler2025Who[chapter 6]. While classifying non-transgender people as "cisgender" is also imposing an identity on them. Since the definition of "cisgender" is "individuals whose sex assigned at birth aligns with their gender identity" @APADictCisgender. 
+The cisgender/transgender binary opposition assumes that everybody has a gender identity, and if you do not self-declare as "transgender," you are automatically assumed to have a gender identity "identical" with your assigned sex (cisgender). This fundamentally violates the principle of self-identification. 
+Most so-called "cisgender" people have never made such a self-statement, nor have they ever been asked "What is your gender identity?" 
+This act is almost completely isomorphic to the ASAB (Assigned Sex/Gender At Birth). Both are top-down, external assignments without consent. 
+// There should be at least two new kinds beyond cisgender/transgender: `null` (without gender identity) and `undefined` (did not state their gender identity). All infants' gender identities should be `null`, and most people should be considered `undefined`. 
 
 // Another thing I did not understand is why the English-speaking world chose to fix _man_ as masculine, rather than resurrect the Old English masculine word _wǣpnedmann_ and modernising it to _weaponedman_ (or shortening it to something like _poman_). In this way, we only need to revise the masculine _man_, and all words with the suffix _-man_ could be preserved. This solution has minimal impact and perfectly solves the problem of "why _woman_ includes _man_": _woman_ is a kind of _man_, so of course it includes _man_. In contrast, fixing _man_ as masculine required modifying almost all words with the suffix _-man_, which is far more troublesome and could not resolve the issue of _woman_.
 
