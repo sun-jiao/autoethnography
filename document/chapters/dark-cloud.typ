@@ -12,17 +12,19 @@ Insisting on logical self-consistency as the standard for understanding the worl
 
 Maybe I am the "dark cloud" in their theory. If I sincerely accepted this theory, I should refuse to accept this theory, because my own marginalised experiences told me to do so. Therefore, it is not that I choose to reject this theory out of ideological opposition originating from the "scientistic grand narrative," but rather that this theory cannot handle my personal experience. It would immediately throw a fatal exception and crash.
 
-One may argue that the status of being marginalised is not a sufficient condition for having a unique epistemic advantage. It must be combined with a critical consciousness that allows individuals to reflect on their experiences and the social structures that shape them @toole2024standpoint. However, my own experiences have led me to develop a critical consciousness. 
-The criterion for validity of an individual's knowledge should be whether there exists connections between their perspective and their marginalised status, and whether they have engaged in reflection upon this connection. It should not be a matter of whether their views align with standpoint epistemology itself. If only those marginalised individuals who agree on the standpoint epistemology are granted "epistemic privilege," this theory becomes circular.
+One may argue that the status of being marginalised is not a sufficient condition for having a unique epistemic advantage. It must be combined with a critical consciousness that allows individuals to reflect on their experiences and the social structures that shape them @Friesen_Goldstein_2022@toole2024standpoint. However, my own experiences have led me to develop a critical consciousness. I critically examine the social norms, power dynamics, and systemic inequalities that have contributed to my marginalisation. 
+Moreover, it's untenable to simply dismiss my experience as invalid just because it led me to a conclusion contradicting the framework itself.
+The criterion for validity should be whether there exists connections between an individual's perspective and their marginalised status, and whether they have engaged in reflection upon this connection. It should not be a matter of whether their views align with standpoint epistemology itself. If only those marginalised individuals who agree on the standpoint epistemology are granted "epistemic privilege," then the theory itself becomes a tool of oppression rather than liberation. 
 
-Reason is not a form of hegemony. It is a small and fragile flame in this dark and cold world. It's worth doing anything to protect it.
+Through the critical examination of my own marginalised experiences, I have reached the conclusion that 
+reason is not a form of hegemony. It is a small and fragile flame in this dark and cold world. It's worth doing anything to protect it.
 What I have done is precisely like the anonymous prisoner in the Mauthausen concentration camp, using the powerful, rational subject constructed in the Enlightenment to resist the irrational violence of the world. Universalism and rationalism are not a claim to power. It is the requirement that keeps me alive. It is a relentless pursuit of a pure justice, a justice that can even empower an ultimate outsider. The goal of Enlightenment is precisely to use the light of reason to enlighten all the darkness of pre-modern superstition, privilege, exceptionalism, dogmatism, tribalism, and obscurantism, to create a world where there is no pain and harm, a world where no child will be bullied for wearing a pair of "wrong" shoes. 
 
-I am the dark cloud. I am the storm. I am the thunder. 
+I am the dark cloud. I am the light. I am the black-body radiation. I am a barber. I am a Cretan. 
 
 I shall destroy all obscurantism, dogmatism, and irrationality.
 
-I shall dispel all darkness, letting the light of enlightenment to shine forth. 
+I shall shatter all darkness, letting the light of enlightenment to shine forth. 
 
 \
 

@@ -28,12 +28,13 @@ This act is almost completely isomorphic to the ASAB (Assigned Sex/Gender At Bir
 
 // From a linguistic descriptivist perspective, both meanings of _man_ are lived modern English phenomena, neither superior nor inferior. Both solutions are artificial normative approaches. From a linguistic normative perspective, my proposal is both ethically and cost-effectively the best one. They declared that this linguistic normative approaches is for "equality" and "inclusivity," but they were unwilling to use the most equal and most inclusive solution.
 // This isn't a competition between descriptivism and normative, but rather between two different normative approaches.
+// --------------------------------------
+// The similar thing occurred in the paper by @Oberle2023Benefits[p:]. According to their academic profile, the second author is engaged in "gender studies" and "queer studies." However, in this paper, they try to fix a stable meaning for a word. They terminate the "dissemination" of _gender_, turning it from a fluid signifier in endless différance into a well-defined, strictly controllable scientific concept. They want to give this word a meaning that is unambiguous, unmediated, and fully "present." This is a typical logocentrism, extremely anti-Derridean. In this scenario, _gender_ has already escaped its original domain (sociology) and established a rhizomatic new connection in another discipline (botany), yet they try to crudely pull it back, re-establishing rigid, hierarchical disciplinary boundaries. This reterritorialisation of thought is extremely anti-Deleuzian. Their attempt to establish a "regime of truth" and implement a cross-disciplinary linguistic discipline is extremely anti-Foucauldian.
 
-The similar thing occurred in the paper by @Oberle2023Benefits[p:]. According to their academic profile, the second author is engaged in "gender studies" and "queer studies." However, in this paper, they try to fix a stable meaning for a word. They terminate the "dissemination" of _gender_, turning it from a fluid signifier in endless différance into a well-defined, strictly controllable scientific concept. They want to give this word a meaning that is unambiguous, unmediated, and fully "present." This is a typical logocentrism, extremely anti-Derridean. In this scenario, _gender_ has already escaped its original domain (sociology) and established a rhizomatic new connection in another discipline (botany), yet they try to crudely pull it back, re-establishing rigid, hierarchical disciplinary boundaries. This reterritorialisation of thought is extremely anti-Deleuzian. Their attempt to establish a "regime of truth" and implement a cross-disciplinary linguistic discipline is extremely anti-Foucauldian.
-
-They completely ignored the fact that they are also using many terms in ways inconsistent with the scientific community, and that the word "gender" itself was borrowed from linguistics. The term "rhizome" in botany is also hierarchical; although it sometimes looks like a network, its branches are only mechanically connected, not physiologically. 
+// They completely ignored the fact that they are also using many terms in ways inconsistent with the scientific community, and that the word "gender" itself was borrowed from linguistics. The term "rhizome" in botany is also hierarchical; although it sometimes looks like a network, its branches are only mechanically connected, not physiologically. 
+// Biologists usually don't write a commentary to a philosophy journal "condemning" Deleuze's "misuse" of the term "rhizome."
+// ---------------------------------------
 // The mycelium of fungi is a better metaphor, because the hyphae of the branches can reconnect, which is called anastomosis. This is more consistent with @Deleuze2004Thousand[ps:] conception: "any point of a rhizome can be connected to anything other, and must be. This is very different from the tree or root…" 
-Biologists usually don't write a commentary to a philosophy journal "condemning" Deleuze's "misuse" of the term "rhizome."
 // or Butler's "misuse" of "biological sex" and "dimorphism." This serves as another evidence that "incredulity of all metanarratives" itself has become a new metanarrative.
 
 // @Butler2025Who[p:] said that "when they [TERF] argue that the problem is not trans, but 'sex,' they mean _biological sex_, ... (we will consider this question of _biological sex_ in the following chapter)", but what TERF called "sex" is not the "biological sex," which is only about gametes and, as we previously argued, is not observable or assignable @Lehtonen2014Gamete, Goymann2023Biological, Hurst1996There, Griffiths2025Biology. Many people do not know what kinds of gametes they can produce in their whole life. Sex _sensu stricto_ (gametes) is (at least in Vertebrata) a stable and strictly binary biological fact. If Butler is interested in the "instability" of "_biological_ sex," they should look for the green algae (Chlorophyta) and Fungi. Of course, they discussed it in another chapter: "However, even the drawing of this distinction proves to be a convention wrongly applied to the human species, _given_ [my emphasis] that all the members of some species of algae, fungi, and protozoans produce the same size gametes. In these cases, the species is divided into genetic groups known as 'mating types,' but sex falls out of the picture." Do they really know what they were talking about? There is no causal relationship between "algae, fungi, and protozoans" and it (gametes binary) is "wrongly applied to the human species." It is almost same to say that "However, even the flying ability proves to be a convention wrongly applied to the passerine species, _given_ that all the members of some species of Spheniscidae cannot fly." What they should cite is @Parvin1982Ovulation[p:] if they want to prove that the binary sex is "wrongly applied to the human species [individuals]." If they want to use "algae, fungi, and protozoans" to prove that the binary sex is not a universal natural law created by Deities, they should state this point clearly.
@@ -61,12 +62,12 @@ In both cases, Hitler didn't need to do anything.
 This demonstrates that Hitler did not really believe in his public ideology. 
 
 Moreover, Why are they inferior to Germans? How do you define inferiority and superiority? 
-Which area of the brain is related to them? What are the anatomical differences between inferior and superior people? How do you prove it?
+Which area of the brain is related to the inferiority? What are the anatomical differences between inferior and superior people? How do you prove it?
 How to prove that these people generally have this brain structure? 
 What selection pressures made morally inferior individuals have higher fitness and leave more offspring in these people?
 If you asked these questions, you would definitely be arrested by the Gestapo.
 
-If Hitler's justification was that "they did not adapt to my Nationalsozialismus environment," then this is completely a circular reasoning: we must kill them, because they are inferior, we're killing them manifested that they did not adapt to our environment, and they did not adapt to the environment demonstrated that they are inferior. This logic is empty. "Jews, Roma, and Slavs" could be replaced by any other ethnic group without undermining this logic. So, actually, it is just saying: "I have the ability to kill you." 
+If Hitler's justification was that "they did not adapt to my Nationalsozialismus environment; look: they are indeed going extinct in the extermination camps," then this is completely a circular reasoning: we must kill them, because they are inferior, we're killing them manifested that they did not adapt to our environment, and they did not adapt to the environment demonstrated that they are inferior. This logic is empty. "Jews, Roma, and Slavs" could be replaced by any other ethnic group without undermining this logic. So, actually, it is just saying: "I have the ability to kill you." 
 
 Nazis' appropriation of scientific knowledge does not prove that science inherently contains a tendency of oppression. 
 If "A uses B's theory" implies "B contains a tendency of A", we could argue that because Israel abuses Deleuzian philosophy @Weizman2006, therefore Deleuze contains a Zionist tendency. 
@@ -98,9 +99,9 @@ If Germany has a "special responsibility" towards Israel because of Nazis' genoc
 
 == The United States is irrational
 
-When the United Nations General Assembly passed a resolution condemning U.S. sanctions against Cuba, the U.S. representative argued at length that "Cuba has confiscated private property" @Waltz2026Cuba[Timestamp: 52:00]. However, Israel has also confiscated the private property of Palestinians (under the so-called "Absentees' Property Law"). So why does the U.S. not impose sanctions on Israel?
+When the United Nations General Assembly passed a resolution condemning U.S. sanctions against Cuba, the U.S. representative argued at length that "Cuba has confiscated private property" @Waltz2026Cuba[s: Video timestamp: 52:00]. However, Israel has also confiscated the private property of Palestinians (under the so-called "Absentees' Property Law"). So why does the U.S. not impose sanctions on Israel?
 
-My point here is not "whataboutism." Rather, this is a counterexample demonstrating that the implied proposition "if state X confiscates private property, then the U.S. should sanction X" is not a universal maxim. Therefore, this is not the actual reason for the sanctions. Just like "dad worked hard" was not the real reason why he did not cook. 
+My point here is not "whataboutism" or "_tu quoque_". Rather, this is a counterexample demonstrating that the implied proposition "if state X confiscates private property, then the U.S. should impose sanctions on X" is not a universal maxim. Therefore, this is not the actual reason for the sanctions. Just like "dad worked hard" was not the real reason why he did not cook. 
 
 == The Dialectic of Haskalah, but …
 
@@ -120,12 +121,12 @@ Lyotard explicitly supported Israel @Fruteau2024Deleuze. Foucault declined to co
 
 == Sectional Summary
 
-Let us take a look at what we have now:
+Let us have a look at what we have now:
 
 + Conservatives who do not believe that sex is only about gametes.
-+ Richard Dawkins, an evolutionary biologist, who does not believe in postzygotic mutations.
++ Richard Dawkins, an evolutionary biologist, who did not consider postzygotic mutations.
 + Progressives and gender theorists who do not believe that externally assigning identities is immoral, assigning "cisgender" to billions of people.
-+ Emily Fairchild, a queer theorist, who does not believe in différance and dissemination.
+// + Emily Fairchild, a queer theorist, who does not believe in différance and dissemination.
 // + Dogmatic transgender communities which do not respect lived experiences.
 // + Queer theorists who do not (or rarely) consider themselves as nodes of power.
 + Micheal Foucault, who did not believe in the discursive effects and author function, using his personal intention to debate with Habermas.

@@ -1,19 +1,19 @@
 #import "lib.typ": *
 
 #show: cupst.with(
-  title: [An Autobiography of a Gender-fluid Biologist and an Enlightenment Manifesto],
+  title: [Defending the Enlightenment: An Autobiographical Manifesto],
   
   authors: (
     (
       name: "Jiao Sun",
-      affiliation: ("affi1", ),
-      email: "j.sun@pgr.reading.ac.uk",
+      // affiliation: ("affi1", ),
+      // email: "j.sun@pgr.reading.ac.uk",
       orcid: "0000-0002-5028-8132",
     ),
   ),
-  affiliations: (
-    (id: "affi1", name: "Division of Ecology and Evolutionary Biology, School of Biological Science, University of Reading, Whiteknights, Reading, RG6 6EX, United Kingdom"),
-  ),
+  // affiliations: (
+  //   (id: "affi1", name: "Division of Ecology and Evolutionary Biology, School of Biological Science, University of Reading, Whiteknights, Reading, RG6 6EX, United Kingdom"),
+  // ),
   
   // abstract: [
   //  In this autobiography, I present a comprehensive personal journey of myself as a transgender (gender-fluid) evolutionary biologist, examining the origins of my gender identity. I analyse my own gendered experiences through the lens of predictive processing theory, revealing that my so-called "gender identity" is not an innate, ontological essence, but a complex synthesis of internalised social norms, childhood trauma, and reactions to the society that repeatedly assigned gendered meaning to neutral behaviours, objects, and personality traits.
@@ -42,8 +42,6 @@
 
 #show cite: citesugar
 
-\
-
 #include "chapters/aeg-introduction.typ"
 
 = My Experience
@@ -68,7 +66,7 @@
 
 #include "chapters/dialogue-with-the-world.typ"
 
-= An answer to the question: What is enlightenment?<sec:what-is-enlightenment>
+= An answer to the question: What is enlightenment?
 
 #include "chapters/what-is-enlightenment.typ"
 
@@ -91,18 +89,6 @@
   JS is a human being (_Homo sapiens_ #smallcaps[Linnaeus], 1758). 
   They live on Earth in the Holocene. 
   Their reason helps them understand the objective world and other human beings. 
-]
-
-#paragraph("Conflict Interests")[
-  The author declares no conflict interests.
-]
-
-#paragraph("Funding")[
-  This research received no specific grant.
-]
-
-#paragraph("Ethics Statement")[
-  This study is a self-reflective autobiographical inquiry by the sole author. All references to third parties are fully anonymised, requiring no institutional review board (IRB) approval.
 ]
 
 #bibliography("references.bib", style: "chicago-author-date", title: "References")
