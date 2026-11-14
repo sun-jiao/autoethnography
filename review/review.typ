@@ -20,22 +20,17 @@
   ),
 
   abstract: [
-    *Background*: Genetic evidence is often used to support the “born this way” narrative in transgender issues. This article critically reviews quantitative-genetic and molecular-association research on gender identity.
-    
-    *Main body*: The reviewed studies cannot prove that gender identity is innate. Some of them conflate gender identity with gendered behaviour, masculine or feminine self-concept, or diagnostic symptoms. Many of them infer mechanisms from unrelated tissues, species, phenotypes, and developmental stages without empirical support. Some interpret population-specific heritability estimates as evidence of an intrinsic biological essence. The predictive-processing framework provides an account of why gender identity is regularly experienced as pre-reflective, indicating that social factors should be considered in studies.
-    
-    *Conclusion*: A sociogenomic approach can investigate genetic antecedents without genetic essentialism when social context is taken into account. Genetics may help explain variation in pathways contributing to gender identity, but it cannot by itself establish the ontological status of gender identity.
+    Genetic evidence is often used to support the “born this way” narrative in transgender issues. This article critically reviews quantitative-genetic and molecular-association research on gender identity.
+    The reviewed studies cannot prove that gender identity is innate. Some of them conflate gender identity with gendered behaviour, masculine or feminine self-concept, or diagnostic symptoms. Many of them infer mechanisms from unrelated tissues, species, phenotypes, and developmental stages without empirical support. Some interpret population-specific heritability estimates as evidence of an intrinsic biological essence. The predictive-processing framework provides an account of why gender identity is regularly experienced as pre-reflective, indicating that social factors should be considered in studies.
+    A sociogenomic approach can investigate genetic antecedents without genetic essentialism when social context is taken into account. Genetics may help explain variation in pathways contributing to gender identity, but it cannot by itself establish the ontological status of gender identity.
   ],
 
   keywords: (
     "Gender identity",
-    "Genetics",
     "Heritability",
     "Quantitative genetics",
     "Molecular genetics",
     "Sociogenomics",
-    "Sex",
-    "Gender",
   ),
 
   // Article settings
@@ -51,24 +46,14 @@
   sans-fonts: ("Source Sans Pro", "Source Sans 3", "Noto Sans CJK SC"),
 )
 
-#show cite: citesugar.with(
-  forms: (
-    p: (key, suppl) => cite(key, form: "author", style: "apa") + " " + cite(key, supplement: suppl), 
-    ps: (key, suppl) => cite(key, form: "author", style: "apa") + "’s " + cite(key, supplement: suppl),
-  )
-)
+#show cite: citesugar
 
-#heading(numbering: none)[Highlights]
-
-- Genetic studies of gender identity measure different and often indirect phenotypes, so their results cannot be treated as estimates of one underlying trait.
-- Heritability is a population- and environment-specific statistic; it does not establish that gender identity is innate or biologically fixed.
-- Molecular associations are frequently extrapolated across tissues, species, phenotypes, and developmental stages without direct validation.
-- Gender identity is better understood as an institutional fact whose social context is constitutive, not merely a modifier of expression.
-- A sociogenomic framework using family-based, longitudinal, and cross-cultural designs can investigate genetic antecedents without genetic essentialism.
-
-#heading(numbering: none)[Plain English summary]
-
-Research on gender identity is regularly presented in the media as evidence that transgender status is "born this way". This review examines the studies behind that claim. It considers two kinds of evidence: twin and family studies that estimate how much of the variation in gender identity is associated with genetic variation, and molecular studies that look for specific genes. The review explains that heritability is a statistic about a particular population living in a particular range of environments. It does not show that a trait is fixed at birth or caused directly by genes. It also shows that many studies measure something other than gender identity, such as childhood gender-typical behaviour or symptoms of gender dysphoria, and that some findings are based on evidence from other tissues, species, or developmental stages. The review argues that social context is not simply an external influence on a pre-existing trait but part of what gender identity is. It concludes that genes may contribute to pathways that shape gender identity, but that genetic evidence cannot by itself prove that gender identity is innate. It recommends research that studies genetic and social processes together.
+// .with(
+//   forms: (
+//     p: (key, suppl) => cite(key, form: "author", style: "apa") + " " + cite(key, supplement: suppl), 
+//     ps: (key, suppl) => cite(key, form: "author", style: "apa") + "’s " + cite(key, supplement: suppl),
+//   )
+// )
 
 = Background
 
@@ -286,6 +271,10 @@ Not applicable.
 
 Not applicable.
 
+#heading(level: 2, numbering: none)[Code availability]
+
+Not applicable.
+
 #heading(level: 2, numbering: none)[Availability of data and materials]
 
 Data sharing is not applicable to this article as no datasets were generated or analysed during the current study.
@@ -294,20 +283,5 @@ Data sharing is not applicable to this article as no datasets were generated or 
 
 The author declares no competing interests.
 
-#heading(level: 2, numbering: none)[Funding]
 
-No specific funding was received for this work.
-
-#heading(level: 2, numbering: none)[Authors' contributions]
-
-JS conceived the article, conducted the literature review, and drafted the manuscript. The author read and approved the final manuscript.
-
-#heading(level: 2, numbering: none)[Acknowledgements]
-
-Not applicable.
-
-#heading(level: 2, numbering: none)[Authors' information]
-
-JS is a doctoral researcher in the Division of Ecology and Evolutionary Biology, School of Biological Sciences, University of Reading, United Kingdom.
-
-#bibliography(("../document/references.bib"), style: "biomed-central", title: "References")
+#bibliography(("../document/references.bib"), style: "apa", title: "References")
